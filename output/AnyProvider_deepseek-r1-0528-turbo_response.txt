@@ -1,0 +1,3 @@
+<think>
+Hmm, the user greeted and asked if I'm working - seems like they're checking functionality or connection status.  
+This feels like a basic system check rather than substantive content, so a simple affirmative works best. They specifically

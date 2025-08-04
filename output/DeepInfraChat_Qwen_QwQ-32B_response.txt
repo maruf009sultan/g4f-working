@@ -1,0 +1,3 @@
+Okay, the user sent a greeting and is asking if I'm working. They want me to respond with just "Yes" if I can. Let me check the instructions again.
+
+The user's message is: "Hello, are you working? Reply

@@ -1,0 +1,25 @@
+<think>
+The user is asking me if I'm working and to reply with 'Yes' if I can respond. This is a simple query to test if I'm functioning. The search results provided are about AI assistants, email etiquette, and how to respond to "how are you?" - none of which are directly relevant to this query.
+
+According to the restrictions, I should not say "According to the search results" or similar phrases. Since the search results don't contain information relevant to answering whether I'm working, I should answer based on my existing knowledge as instructed in guideline 3.
+
+The user specifically requested that I reply with 'Yes' if I can respond, so I should follow that instruction directly. This is a simple response that doesn't require complex formatting or citations.
+
+Looking at the query type rules, this doesn't fall into any of the specific categories listed (Academic Research, Coding, People, Weather, etc.), so I should provide a straightforward answer.
+
+The user asked me to reply with 'Yes' if I can respond, so I should do exactly that.
+</think>
+
+Yes
+
+
+
+> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
+>
+> [1] [indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter](https://www.indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter)
+>
+> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+>
+> [3] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+>
+> [4] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)

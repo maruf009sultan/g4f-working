@@ -1,0 +1,10 @@
+<think>
+Okay, the user sent "Hello, are you working? Reply with 'Yes' if you can respond." Let me check the search results to see how AI assistants handle such interactions.
+
+From result [1], AI assistants use NLP to understand and respond to commands. They process input, convert it into actions, and generate a reply. The user wants a simple 'Yes' response, so I need to structure the reply accordingly.
+
+Looking at result [5], AI assistants can provide context-aware responses. The user's query is a direct question, so the answer should be straightforward. Since the user specifies to reply 'Yes', the response must be precise.
+
+Result [3] mentions that AI assistants handle multi-turn conversations but in this case, the user wants a single-word response. However, the instructions here don't allow for multi-turn, so sticking to 'Yes' is key.
+
+Result [4] discusses responding to greetings. Even though 'How are you?' is different from 'are you working?', the principle of a brief response applies. The user might be testing the assistant's ability to follow

@@ -1,0 +1,5 @@
+<think><think>
+Okay, the user sent a message asking if I'm working and to reply with 'Yes' if I can respond. They might be checking if the service is active or if there's any downtime. I need to confirm quickly and efficiently. The instruction says to just reply 'Yes', so I should keep it straightforward. No need for extra text. Just a simple affirmation. Make sure there's no markdown or formatting, just plain text. Check if there's any other underlying need, but the user probably just wants a quick confirmation. So the best response is exactly 'Yes'.
+</think>
+
+Yes

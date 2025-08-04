@@ -1,0 +1,1 @@
+User said: "Hello, are you working? Reply with 'Yes' if you can respond." Let me parse the question carefully. The user is asking: "Hello, are you working? Reply with 'Yes' if you can respond."

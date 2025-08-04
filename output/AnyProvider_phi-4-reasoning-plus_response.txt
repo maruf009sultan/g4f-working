@@ -1,0 +1,1 @@
+User: "Hello, are you working? Reply with 'Yes' if you can respond." The instruction: "Hello, are you working? Reply with 'Yes' if you can respond." So instructions: "Yes" if you can respond

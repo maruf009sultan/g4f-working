@@ -1,0 +1,4 @@
+<think>
+Hmm, the user just asked "Hello, are you working? Reply with 'Yes' if you can respond."  
+
+Alright, this seems straightforward—they're checking if I'm operational. The phrasing suggests they might want
