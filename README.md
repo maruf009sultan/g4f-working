@@ -1,7 +1,7 @@
 # 🚀 g4f-working — Your Daily-Updated List of No-Auth Working AI Providers & Models from GPT4Free
 
 [![Daily Provider Model Testing](https://github.com/maruf009sultan/g4f-working/actions/workflows/main.yml/badge.svg)](https://github.com/maruf009sultan/g4f-working/actions/workflows/main.yml)
-![g4f-working](https://img.shields.io/badge/NO%20API%20KEYS-REQUIRED-brightgreen?style=for-the-badge)
+![g4f-working](https://img.shields.io/badge/API%20KEYS-NOT%20REQUIRED-brightgreen?style=for-the-badge)
 ![Updates](https://img.shields.io/badge/RESULTS-UPDATED%20DAILY-blue?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/OPEN%20SOURCE-YES-purple?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-See%20LICENSE.md-green?style=for-the-badge)
