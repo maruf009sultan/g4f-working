@@ -1,0 +1,5 @@
+g4f[all]
+aiohttp
+requests
+ffmpeg
+nodriver
