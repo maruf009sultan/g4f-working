@@ -1,0 +1,66 @@
+name: Daily Provider Model Testing  
+  
+on:  
+  schedule:  
+    - cron: '0 6 * * *'  # Run daily at 6 AM UTC  
+  workflow_dispatch:  # Allow manual triggering  
+  
+jobs:  
+  test-providers:  
+    runs-on: ubuntu-latest  
+      
+    steps:  
+    - name: Checkout repository  
+      uses: actions/checkout@v4  
+      with:  
+        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  
+          
+    - name: Set up Python  
+      uses: actions/setup-python@v4  
+      with:  
+        python-version: "3.12"  
+        cache: 'pip'  
+          
+    - name: Install system dependencies  
+      run: |  
+        sudo apt-get update  
+        sudo apt-get install -y ffmpeg flac  
+          
+    - name: Install Python dependencies  
+      run: |  
+        pip install --upgrade pip  
+        pip install g4f[all] aiohttp requests nodriver ffmpeg  
+  
+    - name: Monitor resources before testing  
+      run: |  
+        echo "Memory usage:"  
+        free -m  
+        echo "Disk usage:"  
+        df -h  
+  
+    - name: Clean filesystem before work  
+      run: |  
+        # Remove old directories from filesystem only  
+        rm -rf provider/ working/ output/ || true  
+          
+    - name: Run provider testing with embedded API  
+      run: python provider_tester.py  
+        
+    - name: Clean git and commit new results  
+      run: |  
+        git config --local user.email "${{ github.actor }}@users.noreply.github.com"  
+        git config --local user.name "${{ github.actor }}"  
+          
+        # Remove old tracked files from git index  
+        for dir in provider working output; do  
+          git rm -r --ignore-unmatch "$dir" 2>/dev/null || true  
+        done  
+          
+        # Add new files and commit  
+        if [ -n "$(git status --porcelain)" ]; then  
+          git add .  
+          git commit -m "Daily provider test results - $(date '+%Y-%m-%d')"  
+          git push  
+        else  
+          echo "No changes to commit"  
+        fi
