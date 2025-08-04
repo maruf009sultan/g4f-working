@@ -11,10 +11,8 @@ from datetime import datetime
 import logging
 import signal
 import atexit
-
 # Import g4f API components
 import g4f.api
-
 # Detect if running in GitHub Actions
 IS_GITHUB_ACTIONS = os.getenv('GITHUB_ACTIONS') == 'true'
 
@@ -28,7 +26,6 @@ class TestResultWithTypes:
     response_content: str = None
     media_type: str = None
     response_types: List[str] = None
-
     def __post_init__(self):
         if self.response_types is None:
             self.response_types = ['text']
@@ -52,7 +49,6 @@ def start_g4f_api_server(port: int = 8081, api_key: str = None):
             g4f.api.run_api(port=port, debug=True)
         except Exception as e:
             print(f"Error starting g4f API server: {e}")
-
     server_thread = threading.Thread(target=run_server, daemon=True)
     server_thread.start()
     wait_time = 15 if IS_GITHUB_ACTIONS else 5
@@ -68,7 +64,6 @@ def cleanup_browsers():
             has_nodriver = True
         except ImportError:
             has_nodriver = False
-
         if has_nodriver:
             for browser in util.get_registered_instances():
                 try:
@@ -77,7 +72,6 @@ def cleanup_browsers():
                         print(f"Stopped browser instance: {browser}")
                 except Exception as e:
                     print(f"Error stopping browser: {e}")
-
             try:
                 from g4f.cookies import get_cookies_dir
                 lock_file = os.path.join(get_cookies_dir(), ".nodriver_is_open")
@@ -186,50 +180,7 @@ class ProviderModelFetcherAndTester:
                     timeout=aiohttp.ClientTimeout(total=self.timeout)
                 ) as response:
                     response_time = time.time() - start_time
-                    if response.status == 200:
-                        content_parts = []
-                        media_responses = []
-                        async for line in response.content:
-                            if line:
-                                line_str = line.decode('utf-8').strip()
-                                if line_str.startswith("data: "):
-                                    data_str = line_str[6:]
-                                    if data_str == "[DONE]":
-                                        break
-                                    try:
-                                        chunk_data = json.loads(data_str)
-                                        if "choices" in chunk_data and chunk_data["choices"]:
-                                            choice = chunk_data["choices"][0]
-                                            if "delta" in choice and "content" in choice["delta"]:
-                                                content = choice["delta"]["content"]
-                                                if content:
-                                                    content_parts.append(content)
-                                            if "message" in choice:
-                                                message = choice["message"]
-                                                if "audio" in message and message["audio"]:
-                                                    await self.save_audio_response(provider, model, message["audio"])
-                                                    media_responses.append("audio")
-                                                if "images" in message and message["images"]:
-                                                    await self.save_image_responses(provider, model, message["images"])
-                                                    media_responses.append("images")
-                                                if "video" in message and message["video"]:
-                                                    await self.save_video_response(provider, model, message["video"])
-                                                    media_responses.append("video")
-                                    except json.JSONDecodeError:
-                                        continue
-                        full_content = "".join(content_parts)
-                        if full_content:
-                            await self.save_text_response(provider, model, full_content)
-                        return TestResultWithTypes(
-                            provider=provider,
-                            model=model,
-                            working=True,
-                            response_time=response_time,
-                            response_content=full_content[:100] if full_content else f"Media: {', '.join(media_responses)}",
-                            media_type="text" if full_content else (media_responses[0] if media_responses else None),
-                            response_types=response_types
-                        )
-                    else:
+                    if response.status != 200:
                         error_text = await response.text()
                         return TestResultWithTypes(
                             provider=provider,
@@ -239,6 +190,67 @@ class ProviderModelFetcherAndTester:
                             error=f"HTTP {response.status}: {error_text[:200]}",
                             response_types=response_types
                         )
+
+                    # Check for error in response body
+                    content_parts = []
+                    media_responses = []
+                    error_message = None
+                    async for line in response.content:
+                        if line:
+                            line_str = line.decode('utf-8').strip()
+                            if line_str.startswith("data: "):
+                                data_str = line_str[6:]
+                                if data_str == "[DONE]":
+                                    break
+                                try:
+                                    chunk_data = json.loads(data_str)
+                                    # Check for error field
+                                    if "error" in chunk_data:
+                                        error_message = chunk_data["error"].get("message", "Unknown error in response")
+                                        break
+                                    if "choices" in chunk_data and chunk_data["choices"]:
+                                        choice = chunk_data["choices"][0]
+                                        if "delta" in choice and "content" in choice["delta"]:
+                                            content = choice["delta"]["content"]
+                                            if content:
+                                                content_parts.append(content)
+                                        if "message" in choice:
+                                            message = choice["message"]
+                                            if "audio" in message and message["audio"]:
+                                                await self.save_audio_response(provider, model, message["audio"])
+                                                media_responses.append("audio")
+                                            if "images" in message and message["images"]:
+                                                await self.save_image_responses(provider, model, message["images"])
+                                                media_responses.append("images")
+                                            if "video" in message and message["video"]:
+                                                await self.save_video_response(provider, model, message["video"])
+                                                media_responses.append("video")
+                                except json.JSONDecodeError:
+                                    continue
+
+                    if error_message:
+                        return TestResultWithTypes(
+                            provider=provider,
+                            model=model,
+                            working=False,
+                            response_time=response_time,
+                            error=f"API Error: {error_message[:200]}",
+                            response_types=response_types
+                        )
+
+                    full_content = "".join(content_parts)
+                    if full_content:
+                        await self.save_text_response(provider, model, full_content)
+
+                    return TestResultWithTypes(
+                        provider=provider,
+                        model=model,
+                        working=bool(full_content or media_responses),
+                        response_time=response_time,
+                        response_content=full_content[:100] if full_content else f"Media: {', '.join(media_responses)}",
+                        media_type="text" if full_content else (media_responses[0] if media_responses else None),
+                        response_types=response_types
+                    )
             except asyncio.TimeoutError:
                 return TestResultWithTypes(
                     provider=provider,
@@ -280,28 +292,51 @@ class ProviderModelFetcherAndTester:
                     timeout=aiohttp.ClientTimeout(total=self.timeout)
                 ) as response:
                     response_time = time.time() - start_time
-                    if response.status == 200:
-                        response_data = await response.json()
-                        if "data" in response_data and response_data["data"]:
-                            image_url = response_data["data"][0].get("url", "")
-                            if image_url:
-                                await self.save_image_from_url(provider, model, image_url, 0)
-                                return TestResultWithTypes(
-                                    provider=provider,
-                                    model=model,
-                                    working=True,
-                                    response_time=response_time,
-                                    response_content=f"Image generated: {image_url[:50]}...",
-                                    media_type="image",
-                                    response_types=response_types
-                                )
-                    error_text = await response.text()
+                    if response.status != 200:
+                        error_text = await response.text()
+                        return TestResultWithTypes(
+                            provider=provider,
+                            model=model,
+                            working=False,
+                            response_time=response_time,
+                            error=f"HTTP {response.status}: {error_text[:200]}",
+                            media_type="image",
+                            response_types=response_types
+                        )
+
+                    response_data = await response.json()
+                    # Check for error in response body
+                    if "error" in response_data:
+                        error_message = response_data["error"].get("message", "Unknown error in response")
+                        return TestResultWithTypes(
+                            provider=provider,
+                            model=model,
+                            working=False,
+                            response_time=response_time,
+                            error=f"API Error: {error_message[:200]}",
+                            media_type="image",
+                            response_types=response_types
+                        )
+
+                    if "data" in response_data and response_data["data"]:
+                        image_url = response_data["data"][0].get("url", "")
+                        if image_url:
+                            await self.save_image_from_url(provider, model, image_url, 0)
+                            return TestResultWithTypes(
+                                provider=provider,
+                                model=model,
+                                working=True,
+                                response_time=response_time,
+                                response_content=f"Image generated: {image_url[:50]}...",
+                                media_type="image",
+                                response_types=response_types
+                            )
                     return TestResultWithTypes(
                         provider=provider,
                         model=model,
                         working=False,
                         response_time=response_time,
-                        error=f"Image generation failed: {error_text[:200]}",
+                        error="No valid image data in response",
                         media_type="image",
                         response_types=response_types
                     )
@@ -351,48 +386,86 @@ class ProviderModelFetcherAndTester:
                             timeout=aiohttp.ClientTimeout(total=self.timeout)
                         ) as response:
                             response_time = time.time() - start_time
-                            if response.status == 200:
-                                if "video/generate" in endpoint:
-                                    response_data = await response.json()
-                                    if "data" in response_data and response_data["data"]:
-                                        video_url = response_data["data"][0].get("url", "")
-                                        if video_url:
-                                            await self.save_video_from_url(provider, model, video_url)
-                                            return TestResultWithTypes(
-                                                provider=provider,
-                                                model=model,
-                                                working=True,
-                                                response_time=response_time,
-                                                response_content=f"Video generated: {video_url[:50]}...",
-                                                media_type="video",
-                                                response_types=response_types
-                                            )
-                                else:
-                                    video_found = False
-                                    async for line in response.content:
-                                        if line:
-                                            line_str = line.decode('utf-8').strip()
-                                            if line_str.startswith("data: "):
-                                                data_str = line_str[6:]
-                                                if data_str == "[DONE]":
-                                                    break
-                                                try:
-                                                    chunk_data = json.loads(data_str)
-                                                    if "video" in str(chunk_data).lower():
-                                                        video_found = True
-                                                        break
-                                                except json.JSONDecodeError:
-                                                    continue
-                                    if video_found:
+                            if response.status != 200:
+                                error_text = await response.text()
+                                return TestResultWithTypes(
+                                    provider=provider,
+                                    model=model,
+                                    working=False,
+                                    response_time=response_time,
+                                    error=f"HTTP {response.status}: {error_text[:200]}",
+                                    media_type="video",
+                                    response_types=response_types
+                                )
+
+                            if "video/generate" in endpoint:
+                                response_data = await response.json()
+                                # Check for error in response body
+                                if "error" in response_data:
+                                    error_message = response_data["error"].get("message", "Unknown error in response")
+                                    return TestResultWithTypes(
+                                        provider=provider,
+                                        model=model,
+                                        working=False,
+                                        response_time=response_time,
+                                        error=f"API Error: {error_message[:200]}",
+                                        media_type="video",
+                                        response_types=response_types
+                                    )
+                                if "data" in response_data and response_data["data"]:
+                                    video_url = response_data["data"][0].get("url", "")
+                                    if video_url:
+                                        await self.save_video_from_url(provider, model, video_url)
                                         return TestResultWithTypes(
                                             provider=provider,
                                             model=model,
                                             working=True,
                                             response_time=response_time,
-                                            response_content="Video response detected",
+                                            response_content=f"Video generated: {video_url[:50]}...",
                                             media_type="video",
                                             response_types=response_types
                                         )
+                            else:
+                                video_found = False
+                                error_message = None
+                                async for line in response.content:
+                                    if line:
+                                        line_str = line.decode('utf-8').strip()
+                                        if line_str.startswith("data: "):
+                                            data_str = line_str[6:]
+                                            if data_str == "[DONE]":
+                                                break
+                                            try:
+                                                chunk_data = json.loads(data_str)
+                                                # Check for error field
+                                                if "error" in chunk_data:
+                                                    error_message = chunk_data["error"].get("message", "Unknown error in response")
+                                                    break
+                                                if "video" in str(chunk_data).lower():
+                                                    video_found = True
+                                                    break
+                                            except json.JSONDecodeError:
+                                                continue
+                                if error_message:
+                                    return TestResultWithTypes(
+                                        provider=provider,
+                                        model=model,
+                                        working=False,
+                                        response_time=response_time,
+                                        error=f"API Error: {error_message[:200]}",
+                                        media_type="video",
+                                        response_types=response_types
+                                    )
+                                if video_found:
+                                    return TestResultWithTypes(
+                                        provider=provider,
+                                        model=model,
+                                        working=True,
+                                        response_time=response_time,
+                                        response_content="Video response detected",
+                                        media_type="video",
+                                        response_types=response_types
+                                    )
                             break
                     except Exception:
                         continue
@@ -452,49 +525,88 @@ class ProviderModelFetcherAndTester:
                             timeout=aiohttp.ClientTimeout(total=self.timeout)
                         ) as response:
                             response_time = time.time() - start_time
-                            if response.status == 200:
-                                if "audio/speech" in endpoint:
-                                    audio_data = await response.read()
-                                    if audio_data:
-                                        await self.save_audio_from_bytes(provider, model, audio_data)
-                                        return TestResultWithTypes(
-                                            provider=provider,
-                                            model=model,
-                                            working=True,
-                                            response_time=response_time,
-                                            response_content="Audio generated successfully",
-                                            media_type="audio",
-                                            response_types=response_types
-                                        )
-                                else:
-                                    audio_found = False
-                                    async for line in response.content:
-                                        if line:
-                                            line_str = line.decode('utf-8').strip()
-                                            if line_str.startswith("data: "):
-                                                data_str = line_str[6:]
-                                                if data_str == "[DONE]":
+                            if response.status != 200:
+                                error_text = await response.text()
+                                return TestResultWithTypes(
+                                    provider=provider,
+                                    model=model,
+                                    working=False,
+                                    response_time=response_time,
+                                    error=f"HTTP {response.status}: {error_text[:200]}",
+                                    media_type="audio",
+                                    response_types=response_types
+                                )
+
+                            if "audio/speech" in endpoint:
+                                response_data = await response.json()
+                                # Check for error in response body
+                                if "error" in response_data:
+                                    error_message = response_data["error"].get("message", "Unknown error in response")
+                                    return TestResultWithTypes(
+                                        provider=provider,
+                                        model=model,
+                                        working=False,
+                                        response_time=response_time,
+                                        error=f"API Error: {error_message[:200]}",
+                                        media_type="audio",
+                                        response_types=response_types
+                                    )
+                                audio_data = await response.read()
+                                if audio_data:
+                                    await self.save_audio_from_bytes(provider, model, audio_data)
+                                    return TestResultWithTypes(
+                                        provider=provider,
+                                        model=model,
+                                        working=True,
+                                        response_time=response_time,
+                                        response_content="Audio generated successfully",
+                                        media_type="audio",
+                                        response_types=response_types
+                                    )
+                            else:
+                                audio_found = False
+                                error_message = None
+                                async for line in response.content:
+                                    if line:
+                                        line_str = line.decode('utf-8').strip()
+                                        if line_str.startswith("data: "):
+                                            data_str = line_str[6:]
+                                            if data_str == "[DONE]":
+                                                break
+                                            try:
+                                                chunk_data = json.loads(data_str)
+                                                # Check for error field
+                                                if "error" in chunk_data:
+                                                    error_message = chunk_data["error"].get("message", "Unknown error in response")
                                                     break
-                                                try:
-                                                    chunk_data = json.loads(data_str)
-                                                    if "choices" in chunk_data and chunk_data["choices"]:
-                                                        choice = chunk_data["choices"][0]
-                                                        if "message" in choice and "audio" in choice["message"]:
-                                                            await self.save_audio_response(provider, model, choice["message"]["audio"])
-                                                            audio_found = True
-                                                            break
-                                                except json.JSONDecodeError:
-                                                    continue
-                                    if audio_found:
-                                        return TestResultWithTypes(
-                                            provider=provider,
-                                            model=model,
-                                            working=True,
-                                            response_time=response_time,
-                                            response_content="Audio response detected",
-                                            media_type="audio",
-                                            response_types=response_types
-                                        )
+                                                if "choices" in chunk_data and chunk_data["choices"]:
+                                                    choice = chunk_data["choices"][0]
+                                                    if "message" in choice and "audio" in choice["message"]:
+                                                        await self.save_audio_response(provider, model, choice["message"]["audio"])
+                                                        audio_found = True
+                                                        break
+                                            except json.JSONDecodeError:
+                                                continue
+                                if error_message:
+                                    return TestResultWithTypes(
+                                        provider=provider,
+                                        model=model,
+                                        working=False,
+                                        response_time=response_time,
+                                        error=f"API Error: {error_message[:200]}",
+                                        media_type="audio",
+                                        response_types=response_types
+                                    )
+                                if audio_found:
+                                    return TestResultWithTypes(
+                                        provider=provider,
+                                        model=model,
+                                        working=True,
+                                        response_time=response_time,
+                                        response_content="Audio response detected",
+                                        media_type="audio",
+                                        response_types=response_types
+                                    )
                             break
                     except Exception:
                         continue
@@ -735,9 +847,9 @@ class ProviderModelFetcherAndTester:
                 models = provider_data.get('models', [])
                 if models:
                     for model in models:
-                        f.write(f"  - {model}\n")
+                        f.write(f" - {model}\n")
                 else:
-                    f.write("  No models available\n")
+                    f.write(" No models available\n")
                 f.write("\n" + "="*50 + "\n\n")
         print(f"Human-readable data saved to {txt_filename}")
 
@@ -860,7 +972,7 @@ class ProviderModelFetcherAndTester:
             f.write(f"Average Response Time: {summary['average_response_time']:.2f}s\n\n")
             f.write("RESPONSE TYPE BREAKDOWN:\n")
             for response_type, count in type_stats.items():
-                f.write(f"  {response_type.capitalize()}: {count}\n")
+                f.write(f" {response_type.capitalize()}: {count}\n")
             f.write("\n")
             f.write("WORKING MODELS BY RESPONSE TYPE:\n")
             f.write("-" * 40 + "\n")
@@ -869,7 +981,7 @@ class ProviderModelFetcherAndTester:
                 if type_results:
                     f.write(f"\n{response_type.upper()} MODELS:\n")
                     for result in type_results:
-                        f.write(f"  {result.provider}|{result.model} ({result.response_time:.2f}s)\n")
+                        f.write(f" {result.provider}|{result.model} ({result.response_time:.2f}s)\n")
             f.write(f"\nNON-WORKING MODELS:\n")
             f.write("-" * 40 + "\n")
             for result in non_working_results:
@@ -1002,12 +1114,12 @@ class ProviderModelFetcherAndTester:
                             capabilities.append('Audio')
                         if model.get('vision'):
                             capabilities.append('Vision')
-                        f.write(f"  - {model_id}\n")
-                        f.write(f"    Response Types: {response_types}\n")
+                        f.write(f" - {model_id}\n")
+                        f.write(f" Response Types: {response_types}\n")
                         if capabilities:
-                            f.write(f"    Capabilities: {', '.join(capabilities)}\n")
+                            f.write(f" Capabilities: {', '.join(capabilities)}\n")
                 else:
-                    f.write("  No models available\n")
+                    f.write(" No models available\n")
                 f.write("\n" + "=" * 60 + "\n\n")
         print(f"Human-readable provider models with types saved to {txt_filename}")
 
