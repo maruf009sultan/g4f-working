@@ -1,5 +1,8 @@
 <think><think>
-Okay, the user sent a message asking if I'm working and to reply with 'Yes' if I can respond. They might be checking if the service is active or if there's any downtime. I need to confirm quickly and efficiently. The instruction says to just reply 'Yes', so I should keep it straightforward. No need for extra text. Just a simple affirmation. Make sure there's no markdown or formatting, just plain text. Check if there's any other underlying need, but the user probably just wants a quick confirmation. So the best response is exactly 'Yes'.
-</think>
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, they want a simple confirmation. Let me read that again to make sure.
 
-Yes
+The user's main goal here is likely verifying if I'm operational. They want a quick response, just 'Yes' as specified. But maybe they also want to confirm my availability or set up a dialog for a further question. They might be testing my responsiveness or starting a conversation.
+
+I need to reply appropriately. The instruction was to respond with 'Yes', so even though I usually provide more detailed answers, I should adhere to that here. But wait, the user said to respond with 'Yes', but they might have a follow-up question. But according to their instruction, I should just answer with 'Yes'.
+
+But in the chat history, the user's message includes that instruction, so I should follow it strictly. They told me to reply with 'Yes' only. So I need to

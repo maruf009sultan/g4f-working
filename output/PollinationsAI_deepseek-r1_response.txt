@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just sent a simple greeting and functional check - "Hello, are you working? Reply with 'Yes' if you can respond." 
+Hmm, the user just sent a simple ping: "Hello, are you working? Reply with 'Yes' if you can respond." 
 
-This seems like a connection test or system check. The user might be verifying if I'm
+Okay, let's unpack this. The phrasing feels like a connectivity check - maybe they've had bad experiences

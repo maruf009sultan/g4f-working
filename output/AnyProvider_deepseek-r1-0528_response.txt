@@ -1,4 +1,4 @@
 <think>
-Okay, the user opened with a casual greeting asking if I'm working. Hmm, this feels like a connection-check ping – they probably just want reassurance that I'm online before sharing their actual question. 
+Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, seems like a simple test message to check if I'm operational. 
 
-The phrasing "Reply with
+Right now I'm fully functional,

@@ -1,25 +1,18 @@
 <think>
-The user is asking me if I'm working and to reply with 'Yes' if I can respond. This is a simple query to test if I'm functioning. The search results provided are about AI assistants, email etiquette, and how to respond to "how are you?" - none of which are directly relevant to this query.
+The user is asking a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-According to the restrictions, I should not say "According to the search results" or similar phrases. Since the search results don't contain information relevant to answering whether I'm working, I should answer based on my existing knowledge as instructed in guideline 3.
+This is a straightforward query asking me to confirm if I'm working/operational. The user has specifically requested that I reply with 'Yes' if I can respond.
 
-The user specifically requested that I reply with 'Yes' if I can respond, so I should follow that instruction directly. This is a simple response that doesn't require complex formatting or citations.
+Looking at the search results, they don't really contain relevant information for this specific query. The search results contain:
 
-Looking at the query type rules, this doesn't fall into any of the specific categories listed (Academic Research, Coding, People, Weather, etc.), so I should provide a straightforward answer.
+1. Information about IBM Watson AI assistant responses
+2. Something about TikTok content regarding work schedules
+3. Information about AI Assistant features
+4. A YouTube video about how to respond to "How are you?"
+5. Information about AI assistant capabilities
 
-The user asked me to reply with 'Yes' if I can respond, so I should do exactly that.
-</think>
+None of these search results directly address the user's simple request to confirm if I'm working with a "Yes" response.
 
-Yes
+According to the restrictions, if the search results do not provide an answer, I should respond saying that the information is not available. However, this seems to be a case where the user is asking me directly if I'm operational, not asking for information that would be found in search results.
 
-
-
-> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
->
-> [1] [indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter](https://www.indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter)
->
-> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
->
-> [3] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
->
-> [4] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
+Actually, let me re-read the guidelines. The instructions say: "If the search results are
