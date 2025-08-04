@@ -20,7 +20,7 @@ Skip the hassle of trial and error. Each day, this project tests all providers a
 
 - **No Python needed. No dependencies. No API keys.**
 - **Just open or download `models.txt` or `working_results.txt` for the latest working models.** OR
-- **Use [`models.txt`](https://raw.githubusercontent.com/mojaalagevai/psychic-dollop/refs/heads/main/working/models.txt) for models and [`working_results.txt`](https://raw.githubusercontent.com/mojaalagevai/psychic-dollop/refs/heads/main/working/working_results.txt) for `Provider | Model | Type` — perfect for automation!**   [UPDATED DAILY]
+- **Use [`models.txt`](https://raw.githubusercontent.com/maruf009sultan/g4f-working/refs/heads/main/working/models.txt) for models and [`working_results.txt`](https://raw.githubusercontent.com/maruf009sultan/g4f-working/refs/heads/main/working/working_results.txt) for `Provider | Model | Type` — perfect for automation!**   [UPDATED DAILY]
 
 - **Use the links above to always get the latest results.**
 
@@ -50,8 +50,8 @@ Skip the hassle of trial and error. Each day, this project tests all providers a
 |--------------------------|-------------------------------------------------------------------------------------------------------|
 | `/provider/`             | All provider and model definitions as per [@xtekky/gpt4free](https://github.com/xtekky/gpt4free).    |
 | `/working/`              | All output after daily tests. Contains the latest working models and providers.                      |
-| `models.txt`             | [List of all currently working models (name & type only)](https://raw.githubusercontent.com/mojaalagevai/psychic-dollop/refs/heads/main/working/models.txt).|
-| `working_results.txt` | [Provider \| Model \| Type lines for all working, no-auth models](https://raw.githubusercontent.com/mojaalagevai/psychic-dollop/refs/heads/main/working/working_results.txt) |
+| `models.txt`             | [List of all currently working models (name & type only)](https://raw.githubusercontent.com/maruf009sultan/g4f-working/refs/heads/main/working/models.txt).|
+| `working_results.txt` | [Provider \| Model \| Type lines for all working, no-auth models](https://raw.githubusercontent.com/maruf009sultan/g4f-working/refs/heads/main/working/working_results.txt) |
 | `LICENSE.md`             | The license for this repository. Read for usage/contribution rules.                                   |
 | (other files/folders)    | See `/output` for provider/model generated response and `/generated_media` for audio outputs.                      |
 
@@ -79,7 +79,7 @@ Skip the hassle of trial and error. Each day, this project tests all providers a
 
 ### `models.txt`
 
-- [View raw](https://raw.githubusercontent.com/mojaalagevai/psychic-dollop/refs/heads/main/working/models.txt)
+- [View raw](https://raw.githubusercontent.com/maruf009sultan/g4f-working/refs/heads/main/working/models.txt)
 - **Purpose:**  
   A simple, newline-separated list of all working models (name and type only).  
   Example:
@@ -93,7 +93,7 @@ Skip the hassle of trial and error. Each day, this project tests all providers a
 
 ### `working_results.txt`
 
-- [View raw](https://raw.githubusercontent.com/mojaalagevai/psychic-dollop/refs/heads/main/working/working_results.txt)
+- [View raw](https://raw.githubusercontent.com/maruf009sultan/g4f-working/refs/heads/main/working/working_results.txt)
 - **Purpose:**  
   Detailed results with `provider|model|type` for each working model.
 - **Media Type Note:**  
@@ -188,8 +188,8 @@ A: Yes! Open an issue or pull request.
 ## 🌐 Links
 
 - [@xtekky/gpt4free](https://github.com/xtekky/gpt4free) — the base project for all providers/models.
-- [Latest `models.txt`](https://raw.githubusercontent.com/mojaalagevai/psychic-dollop/refs/heads/main/working/models.txt)
-- [Latest `working_results.txt`](https://raw.githubusercontent.com/mojaalagevai/psychic-dollop/refs/heads/main/working/working_results.txt)
+- [Latest `models.txt`](https://raw.githubusercontent.com/maruf009sultan/g4f-working/refs/heads/main/working/models.txt)
+- [Latest `working_results.txt`](https://raw.githubusercontent.com/maruf009sultan/g4f-working/refs/heads/main/working/working_results.txt)
 
 ---
 
