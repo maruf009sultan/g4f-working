@@ -1,3 +1,1 @@
-Okay, the user just asked if I'm working and wants me to reply with 'Yes' if I can respond. Let me see.
-
-First, I need to recognize the query. They're checking if I'm operational. My response should be straightforward
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." So they want a simple 'Yes' if I'm operational. Let me check the instructions again. The user specified to reply with just

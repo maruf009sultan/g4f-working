@@ -1,3 +1,1 @@
-User message: "Hello, are you working? Reply with 'Yes' if you can respond." User instructions: "Hello, are you working? Reply with 'Yes' if you can respond."
-
-The query instructs the assistant to reply with
+User says: "Hello, are you working? Reply with 'Yes' if you can respond." We need to check if there's instructions in the conversation. But the instructions: "Reply with 'Yes' if you can respond." So answer

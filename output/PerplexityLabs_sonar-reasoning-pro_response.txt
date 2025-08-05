@@ -1,18 +1,10 @@
 <think>
-The user is asking a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
+Okay, let me start by looking at the user's query: "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple 'Yes' as an answer. Let me check the search results to see if there's any relevant information. 
 
-This is a straightforward query asking me to confirm if I'm working/operational. The user has specifically requested that I reply with 'Yes' if I can respond.
+Search result [2] talks about how to answer "How are you?" which might not be directly related, but maybe there's something about appropriate responses. However, the user here is asking if I'm working, not my well-being. 
 
-Looking at the search results, they don't really contain relevant information for this specific query. The search results contain:
+Search result [3] and [5] discuss how to add AI assistant responses, including formatting and generating answers. But the user just wants a 'Yes' response. 
 
-1. Information about IBM Watson AI assistant responses
-2. Something about TikTok content regarding work schedules
-3. Information about AI Assistant features
-4. A YouTube video about how to respond to "How are you?"
-5. Information about AI assistant capabilities
+Looking through all the search results, none of them directly address how an AI should respond to a check-in like this. The user's instruction is straightforward: reply 'Yes'. The other results are about generating longer responses or using AI tools for assistance, but the query doesn't require that complexity. 
 
-None of these search results directly address the user's simple request to confirm if I'm working with a "Yes" response.
-
-According to the restrictions, if the search results do not provide an answer, I should respond saying that the information is not available. However, this seems to be a case where the user is asking me directly if I'm operational, not asking for information that would be found in search results.
-
-Actually, let me re-read the guidelines. The instructions say: "If the search results are
+So, the correct

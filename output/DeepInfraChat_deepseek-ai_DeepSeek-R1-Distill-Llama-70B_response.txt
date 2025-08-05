@@ -1,2 +1,6 @@
 <think>
-Alright, so I need to figure out how to solve this problem. Let me see what it's about. Hmm, the user just sent a greeting and asked if I'm working, and I replied with "Yes." Now, they want
+Alright, the user asked "Hello, are you working?" and requested a reply of 'Yes' if I can respond. So I need to respond appropriately.
+
+First, I should acknowledge their greeting with a friendly "Hello!".
+
+Then,

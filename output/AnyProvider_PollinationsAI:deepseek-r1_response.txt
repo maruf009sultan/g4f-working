@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just sent a simple check-in question asking if I'm operational. They're probably testing system responsiveness or establishing connection before diving into real conversation. 
+Hmm, the user just sent a simple check-in question asking if I'm operational. This seems like a basic system test - they probably want quick confirmation before proceeding. 
 
-The instruction set explicitly says to avoid templated language, so a robotic "Yes
+Looking at the interaction history, they haven't engaged in conversation yet, so

@@ -1,4 +1,0 @@
-<think>
-Okay, user just greeted and asked if I'm working, requesting a simple 'Yes' reply confirmation. Hmm, seems like they're testing functionality or establishing connection - maybe new to interacting with me? 
-
-The phrasing feels slightly formal

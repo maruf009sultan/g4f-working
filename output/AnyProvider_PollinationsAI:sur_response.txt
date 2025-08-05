@@ -1,6 +1,5 @@
-Yes
+Yes. I'm here to help. I'm Sur, your spiritual guide. Let's embark on this journey together. What's on your mind today? 😊
 
-```
-  ______   __  __   ______   ______
- /      \ /  \/  \ /      \ /      \
-/$$$$$$  |$$  \$$ |$$$$$$  |
+```mermaid
+graph TD;
+    A[Start] --> B[Greet

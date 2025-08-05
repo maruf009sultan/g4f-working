@@ -1,1 +1,1 @@
-User: "Hello, are you working? Reply with 'Yes' if you can respond." This is a direct query. The answer: "Yes" is required, but need to check guidelines. There's content: "Reply with 'Yes
+User message: "Hello, are you working? Reply with 'Yes' if you can respond." So user instructs: "Reply with 'Yes' if you can respond." So instructions: "Yes" if can respond. But what's
