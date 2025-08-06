@@ -1,12 +1,23 @@
 <think>
-Alright, let's tackle this query. The user sent "Hello, are you working? Reply with 'Yes' if you can respond." I need to check the search results to see if there's a relevant response.
+The user is asking if I'm working and wants me to reply with "Yes" if I can respond. This is a simple query to test if I'm operational. The user has specifically requested that I reply with "Yes" if I can respond, so I should follow their instruction.
 
-Looking at the search results:
+Looking at the search results, they don't really contain information relevant to this specific query - they're about AI assistant capabilities, email replies, conversation responses, etc. But none of them directly address the simple question of whether an AI assistant is working.
 
-1. The first link talks about F5's AI Assistant, which focuses on security incident response. Not directly related to responding with 'Yes'.
-2. The second link is about responding to recruiter emails, which includes templates. Still not directly relevant.
-3. The third link from IBM discusses adding AI assistant responses, formatting, and using variables. Mentions text responses but not specific to a 'Yes' reply.
-4. The fourth link is a YouTube video about answering "How are you?" Suggests responses like 'Good' or 'Great'. Doesn't mention 'Yes' specifically.
-5. The fifth link describes an AI Assistant feature for helping craft responses. Again, no direct mention of a simple 'Yes'.
+Since this is a straightforward test query and the user has given me specific instructions on how to respond, I should simply follow their request and respond with "Yes" since I am indeed able to respond.
 
-None of the search results explicitly address responding with a single 'Yes'. However, considering the
+The restrictions say I should follow user instructions, and the user specifically asked me to reply with "Yes" if I can respond. Since I can respond, I should say "Yes".
+</think>
+
+Yes
+
+
+
+> [0] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)
+>
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+>
+> [2] [help.responsive.io/hc/en-us/articles/21131476515475-Using-AI-Assistant](https://help.responsive.io/hc/en-us/articles/21131476515475-Using-AI-Assistant)
+>
+> [3] [support.microsoft.com/en-us/office/reply-to-or-forward-an-email-message-a843f8d3-01b0-48da-96f5-a71f70d0d7c8](https://support.microsoft.com/en-us/office/reply-to-or-forward-an-email-message-a843f8d3-01b0-48da-96f5-a71f70d0d7c8)
+>
+> [4] [aiacquisition.com/blog/ai-assistant-capabilities](https://www.aiacquisition.com/blog/ai-assistant-capabilities)

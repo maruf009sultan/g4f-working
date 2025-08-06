@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just sent a simple check-in question asking if I'm operational. This seems like a basic system test - they probably want quick confirmation before proceeding. 
+Hmm, the user just asked a simple verification question - "Hello, are you working? Reply with 'Yes' if you can respond." 
 
-Looking at the interaction history, they haven't engaged in conversation yet, so
+Given the system instructions, I should keep this light and companionable. They're probably just checking if

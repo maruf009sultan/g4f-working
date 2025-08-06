@@ -1,2 +1,1 @@
-<think>
-Okay, the user is asking, Hello, are you working? Reply with 'Yes' if you can respond. Alright, first, I need to confirm if I can respond. The user wants a 'Yes' reply if I'm working
+Yes.

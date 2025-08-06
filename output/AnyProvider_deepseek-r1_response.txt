@@ -1,0 +1,4 @@
+<think>
+Hmm, the user just sent a simple system check - "Hello, are you working? Reply with 'Yes' if you can respond." 
+
+Straightforward ping test, probably verifying connectivity after seeing that detailed system prompt. They want the bare

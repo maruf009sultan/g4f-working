@@ -1,6 +1,2 @@
 <think>
-Alright, the user asked "Hello, are you working?" and requested a reply of 'Yes' if I can respond. So I need to respond appropriately.
-
-First, I should acknowledge their greeting with a friendly "Hello!".
-
-Then,
+Okay, so I need to figure out how to respond to the user's message. The user wrote, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, they want me to simply reply with '

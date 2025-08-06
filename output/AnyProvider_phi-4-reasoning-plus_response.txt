@@ -1,1 +1,1 @@
-User says: "Hello, are you working? Reply with 'Yes' if you can respond." We need to check if there's instructions in the conversation. But the instructions: "Reply with 'Yes' if you can respond." So answer
+User: "Hello, are you working? Reply with 'Yes' if you can respond." So essentially, we need to reply with 'Yes' if we can respond. The prompt says "Hello, are you working? Reply with 'Yes

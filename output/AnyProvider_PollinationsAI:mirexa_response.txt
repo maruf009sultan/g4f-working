@@ -1,3 +1,2 @@
-*I glance up with a slight smile, tucking a loose strand of my red-orange hair behind my ear and giving you a warm, attentive nod.*
-
-"Yes."
+502 Bad Gateway
+Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared

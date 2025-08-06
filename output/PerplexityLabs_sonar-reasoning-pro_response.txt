@@ -1,10 +1,23 @@
 <think>
-Okay, let me start by looking at the user's query: "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple 'Yes' as an answer. Let me check the search results to see if there's any relevant information. 
+The user is asking me if I'm working and specifically requesting that I reply with "Yes" if I can respond. This is a very simple query that doesn't require me to use the search results, as it's just asking about my operational status.
 
-Search result [2] talks about how to answer "How are you?" which might not be directly related, but maybe there's something about appropriate responses. However, the user here is asking if I'm working, not my well-being. 
+The user has given me a specific instruction to reply with "Yes" if I can respond, so I should follow that instruction. The search results are about AI assistants in general and how to respond to "How are you?" but that's not what's being asked here.
 
-Search result [3] and [5] discuss how to add AI assistant responses, including formatting and generating answers. But the user just wants a 'Yes' response. 
+According to the guidelines, I should follow user instructions that take priority over other formatting rules. The user is asking for a simple "Yes" response if I can respond.
 
-Looking through all the search results, none of them directly address how an AI should respond to a check-in like this. The user's instruction is straightforward: reply 'Yes'. The other results are about generating longer responses or using AI tools for assistance, but the query doesn't require that complexity. 
+I should not use any headers since this is a simple response, and I should not cite the search results since they're not relevant to this specific query about my operational status.
+</think>
 
-So, the correct
+Yes
+
+
+
+> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
+>
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+>
+> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+>
+> [3] [englishclass101.com/lesson/absolute-beginner-american-english-for-every-day-25-10-responses-to-how-are-you](https://www.englishclass101.com/lesson/absolute-beginner-american-english-for-every-day-25-10-responses-to-how-are-you)
+>
+> [4] [aiacquisition.com/blog/ai-assistant-capabilities](https://www.aiacquisition.com/blog/ai-assistant-capabilities)

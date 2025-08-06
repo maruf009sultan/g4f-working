@@ -1,9 +1,11 @@
 <think><think>
-Okay, the user just asked if I'm working and to reply with 'Yes'. Let me check the response I generated. Oh, right, I replied with 'Yes.' Now, why did they ask that? Maybe they want a quick confirmation to proceed with their next question.
+Okay, the user greeted me with "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation.
 
-I should consider why they're here. What could they need help with? It's possible they're testing if I'm available or want to ensure they get a response quickly. Since my answer was minimal, maybe they prefer brief or specific replies.
+Since their instruction is to reply with 'Yes' if I'm active, I need to check if there's anything blocking my response. My knowledge cutoff is up to December 2023, but that's about information, not functionality.
 
-I need to be prepared for further questions. Perhaps they have a query about a specific topic, troubleshooting, or need information. Let me make sure my next response is flexible—ready to assist with whatever they might ask next. Also, keep the conversation friendly and approachable to encourage them to ask more questions if needed.
+I can process the request, so I should answer 'Yes'. No need for extra info unless they ask follow-up questions. Keep it straightforward as per their instructions.
+
+Make sure the reply is just 'Yes', maybe without any markdown or additional text. Let them know I'm here to help once they're ready.
 </think>
 
-Yes. How can I assist you today? 😊
+**Yes**

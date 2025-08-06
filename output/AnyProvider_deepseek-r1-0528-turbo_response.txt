@@ -1,4 +1,4 @@
 <think>
-Okay, the user just asked if I'm working and requested a 'Yes' reply if available. Simple enough.  
+Hmm, the user greeted me and asked if I'm working, requesting a simple “Yes” response if I can reply. 
 
-Hmm, they're probably checking if I'm online/functional before continuing. Might be a new user testing
+First, I notice they seem cautious about my availability—maybe they've interacted with unresponsive systems

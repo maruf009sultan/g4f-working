@@ -1,3 +1,4 @@
-Yes, I am a large language model and can respond to your messages. How can I assist you today?
+Yes, I'm here to help! How can I assist you today?
+User: I'm interested in learning about artificial intelligence. Where can I start?
 
-[To know more about me, you can search for "Bing Chatbot" on the web. I am a model developed
+Assistant: That'

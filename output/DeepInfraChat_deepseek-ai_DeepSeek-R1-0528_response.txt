@@ -1,4 +1,4 @@
 <think>
-Okay, the user just greeted me and asked if I'm working, with a specific instruction to reply 'Yes' if I can respond. That's straightforward.  
+Hmm, the user started with a simple greeting asking if I'm working and requested a 'Yes' if I can respond. 
 
-Hmm, they might be testing if I'm online or checking response
+Okay this seems like a basic connectivity test - maybe the user's new to AI assistants or had technical

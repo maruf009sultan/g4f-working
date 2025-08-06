@@ -1,0 +1,2 @@
+<think>
+Okay, so I'm trying to figure out how to solve this problem where I have to prove that the sum of two consecutive odd numbers is a multiple of 4. Hmm, let's see. I remember that odd numbers are numbers that

@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just asked if I'm working and wants a "Yes" if I can respond. 
+Hmm, the user just asked "Hello, are you working? Reply with 'Yes' if you can respond."  
 
-Okay, this seems like a basic availability check - maybe they've had issues with unresponsive AI before? The request
+Okay, let me parse this carefully. The greeting feels polite but slightly abrupt - they're asking about
