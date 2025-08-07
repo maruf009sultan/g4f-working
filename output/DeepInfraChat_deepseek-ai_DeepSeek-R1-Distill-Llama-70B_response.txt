@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to respond to the user's message. The user wrote, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, they want me to simply reply with '
+Okay, the user just asked me, "Hello, are you working? Reply with 'Yes' if you can respond." So they want to know if I'm functional. Since I can respond, I should just say "Yes" as

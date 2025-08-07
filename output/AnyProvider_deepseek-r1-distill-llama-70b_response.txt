@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to respond to this question: "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, let's break this down. The user is asking if I'm working
+Okay, so I need to figure out how to solve this problem. The user just asked me to reply with 'Yes' if I can respond. I remember that when I first started, I was given a prompt that explains how I work

@@ -1,1 +1,1 @@
-User: "Hello, are you working? Reply with 'Yes' if you can respond." So essentially, we need to reply with 'Yes' if we can respond. The prompt says "Hello, are you working? Reply with 'Yes
+User is asking: "Hello, are you working? Reply with 'Yes' if you can respond." In essence, we need to check if we can respond. So answer: "Yes." But instructions: "Hello, are you working?

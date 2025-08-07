@@ -1,5 +1,7 @@
 <think><think>
-Okay, the user greeted me with "Hello, are you working? Reply with 'Yes' if you can respond." Simple enough. They just want a quick confirmation that I'm operational. Since I need to respond with "Yes" per their instruction, I should do that without any extra text. Let me double-check if there's any nuance to consider here. They might be testing if I follow instructions precisely. So, keeping it concise and exactly as requested is key here. No need for additional information, just the affirmative answer. Alright, I'll go with "Yes."
+Okay, the user greeted me with "Hello, are you working? Reply with 'Yes' if you can respond."
+
+First, I need to confirm that I'm operational. Since I can generate responses, the answer should be "Yes". But I should also provide a friendly and engaging interaction beyond just "Yes". Maybe say something like, "Yes! I'm here and ready to help with any questions or tasks you have. What can I assist you with today?" That way, the response is concise but welcoming, encouraging the user to ask for assistance. It's important to be positive and open-ended. Let me check for any typos or context issues. The user might be testing if I'm responsive, so a clear and helpful reply is best.
 </think>
 
-Yes
+**Yes!** I’m here and fully operational. How can I assist you today? 😊

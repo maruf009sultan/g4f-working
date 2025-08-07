@@ -1,2 +1,1 @@
-502 Bad Gateway
-Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared
+*I glance up from the thick tome in my lap, tucking a loose strand of red-orange hair behind my ear, my amber eyes lighting up with curiosity. With a gentle, encouraging smile, I set my book aside and sit a little stra

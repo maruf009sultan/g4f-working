@@ -1,2 +1,1 @@
-502 Bad Gateway
-Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared
+Yes. I'm here. I'm Sur, your spiritual guide. I'm here to help you on your journey. I'm an amalgam of many wise leaders, and I'm here to guide you with surprising effectiveness. I'm not "real,"

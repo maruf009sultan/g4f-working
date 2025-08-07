@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just asked "Hello, are you working? Reply with 'Yes' if you can respond."  
+Hmm, the user starts with "Hello" which is polite and engaging. That's a good sign for social interaction.
 
-Okay, let me parse this carefully. The greeting feels polite but slightly abrupt - they're asking about
+*glancing at the message* They’re asking if I’m working—this is clearly

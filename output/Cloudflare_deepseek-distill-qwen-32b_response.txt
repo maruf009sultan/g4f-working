@@ -1,0 +1,2 @@
+<think>
+Okay, so the user sent a message where they're introducing themselves as a helpful assistant and then asking if I'm working, asking me to reply with 'Yes' if I can respond. I need to figure out the right way to respond

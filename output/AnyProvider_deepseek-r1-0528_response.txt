@@ -1,4 +1,3 @@
 <think>
-Hmm, the user greeted and asked if I'm working, requesting a simple 'Yes' reply if I can respond. 
+Okay, the user is greeting me and asking if I’m working. They also requested a 'Yes' reply if I can respond. Hmm, seems straightforward—they're probably checking if the system is active before proceeding.  
 
-This seems like a connectivity check - maybe they've had issues with AI assistants before or just want confirmation before

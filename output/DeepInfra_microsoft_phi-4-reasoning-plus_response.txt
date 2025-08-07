@@ -1,1 +1,1 @@
-User prompt: "Hello, are you working? Reply with 'Yes' if you can respond." We need to check if instructions require us to reply with "Yes" if possible. But the conversation instructions: "Hello, are you working?
+User message: "Hello, are you working? Reply with 'Yes' if you can respond." We are Phi, a language model. The user instructs: "Reply with 'Yes' if you can respond." The instructions say: "

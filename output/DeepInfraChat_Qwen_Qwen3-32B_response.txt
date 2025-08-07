@@ -1,4 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the instructions.
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
 
-They said to respond in English and start with 'Yes,' so I need to make sure
+First, they're checking if I'm operational. The request is straightforward: respond with 'Yes

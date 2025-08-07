@@ -1,4 +1,0 @@
-<think>
-Hmm, the user just asked a simple verification question - "Hello, are you working? Reply with 'Yes' if you can respond." 
-
-Given the system instructions, I should keep this light and companionable. They're probably just checking if

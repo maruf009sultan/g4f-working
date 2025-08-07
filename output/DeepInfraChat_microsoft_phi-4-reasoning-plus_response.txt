@@ -1,2 +1,1 @@
-User says: "Hello, are you working? Reply with 'Yes' if you can respond." 
-Let's check instructions: "are you working?" - instructions instruct: "Reply with 'Yes' if you can respond." Possibly there is
+User message: "Hello, are you working? Reply with 'Yes' if you can respond." Query is short. The instruction: "Hello, are you working? Reply with 'Yes' if you can respond." That's a straightforward question
