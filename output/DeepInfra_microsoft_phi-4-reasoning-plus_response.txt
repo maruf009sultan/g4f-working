@@ -1,3 +1,1 @@
-User: "Hello, are you working? Reply with 'Yes' if you can respond." So message: "Hello, are you working? Reply with 'Yes' if you can respond."
-
-User asks: "Hello, are you working?"
+User asks: "Hello, are you working? Reply with 'Yes' if you can respond." This is a simple question. It instructs: "Reply with 'Yes' if you can respond." I must check: "Hello, are

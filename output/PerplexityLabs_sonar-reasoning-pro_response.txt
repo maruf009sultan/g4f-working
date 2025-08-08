@@ -1,25 +1,26 @@
 <think>
-The user is asking me a simple question about whether I'm working and asking me to reply with "Yes" if I can respond. This seems like a straightforward query where they're just checking if I'm functional.
+The user is asking if I'm working and requesting I reply with 'Yes' if I can respond. This is a simple greeting/test query to see if I'm functioning. I should follow the user's explicit instruction to reply with 'Yes' if I can respond.
 
-Looking at the search results, they contain information about AI assistants and how they work, as well as some information about responding to "how are you" messages and warnings about scam messages. However, none of this is directly relevant to the user's simple query asking if I'm working.
+Looking at the search results:
+- They contain information about AI assistants, email responses, and general conversation responses
+- They don't directly relate to the user's specific request
+- The user has given me a specific instruction on how to respond
 
-The user is asking me to respond with "Yes" if I can respond, which is exactly what I should do. This is a very simple, direct request that doesn't require extensive analysis or citing of search results.
+According to the guidelines, "Following user instruction takes priority over any other formatting rules listed here." The user specifically requested I reply with 'Yes' if I can respond, which I can.
 
-According to the restrictions, I should not start with a header, and I should answer directly. The user is essentially testing if I'm functional, so a simple "Yes" response is appropriate here, possibly with a brief confirmation that I'm ready to help.
-
-I should not cite any of the search results since they're not relevant to this simple functionality check query.
+I should not overthink this - it's a simple test/greeting and the user has been very clear about what response they want.
 </think>
 
-Yes, I'm working and ready to help you with any questions or tasks you have.
+Yes
 
 
 
 > [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
 >
-> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+> [1] [indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter](https://www.indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter)
 >
-> [2] [salesforce.com/agentforce/ai-assistant/](https://www.salesforce.com/agentforce/ai-assistant/)
+> [2] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)
 >
-> [3] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
+> [3] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
 >
-> [4] [f5.com/company/blog/introducing-ai-assistant](https://www.f5.com/company/blog/introducing-ai-assistant)
+> [4] [help.responsive.io/hc/en-us/articles/21131476515475-Using-AI-Assistant](https://help.responsive.io/hc/en-us/articles/21131476515475-Using-AI-Assistant)

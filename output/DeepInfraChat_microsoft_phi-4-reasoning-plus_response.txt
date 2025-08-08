@@ -1,3 +1,1 @@
-User message: "Hello, are you working? Reply with 'Yes' if you can respond." 
-User instructions: "Hello, are you working? Reply with 'Yes' if you can respond." 
-It is a prompt from a user
+User says: "Hello, are you working? Reply with 'Yes' if you can respond." instructions: "Hello, are you working? Reply with 'Yes' if you can respond." The answer should be "Yes." But instructions says

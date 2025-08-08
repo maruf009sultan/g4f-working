@@ -1,1 +1,1 @@
-Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." They want me to confirm I'm available by replying with 'Yes'. Let me check the guidelines. The user is asking for a
+Okay, the user just sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." and wants a reply of just "Yes" if I can. Let me check the guidelines. They mentioned responding politely and

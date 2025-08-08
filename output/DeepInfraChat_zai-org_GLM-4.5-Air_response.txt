@@ -1,0 +1,3 @@
+<think>Okay, the user just sent a very simple query: "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, they're clearly testing if I'm functional right now. 
+
+The phrasing feels deliberately minimal</think>

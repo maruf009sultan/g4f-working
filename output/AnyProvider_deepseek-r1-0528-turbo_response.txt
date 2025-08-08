@@ -1,5 +1,4 @@
 <think>
-Hmm, the user asked if I'm working and requested a simple 'yes' reply if I can respond. Interesting approach - very direct and minimalistic.
+Hmm, the user asked "Hello, are you working? Reply with 'Yes' if you can respond." 
 
-Let me break this down:  
-First, the greeting "Hello" shows
+This seems like a simple connectivity check - they probably want immediate confirmation that the assistant is operational. Using all

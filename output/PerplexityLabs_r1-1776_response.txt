@@ -1,0 +1,8 @@
+<think><think>
+Okay, the user greeted me with "Hello, are you working? Reply with 'Yes' if you can respond." They want a confirmation that I'm operational.
+
+First, I should acknowledge their question. My response needs to be clear and concise as per their request. They specified to reply with 'Yes', so I need to make sure I comply with that instruction.
+
+But wait, the user might be testing if I follow directions accurately. Just saying 'Yes' might be too brief. Maybe adding a friendly sentence could make the interaction more engaging while still answering their question. But they explicitly asked to reply with 'Yes', so perhaps sticking strictly to their instruction is better here.
+
+Hmm, but maybe they expect a bit more. Let me check the guidelines again. The user's query is straightforward. They want a 'Yes' response if I can respond. So the safest approach is to respond with 'Yes' as instructed, without any additional text. However,
