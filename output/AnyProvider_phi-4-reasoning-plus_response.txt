@@ -1,1 +1,1 @@
-User is asking: "Hello, are you working? Reply with 'Yes' if you can respond." In essence, we need to check if we can respond. So answer: "Yes." But instructions: "Hello, are you working?
+User message: "Hello, are you working? Reply with 'Yes' if you can respond." This is straightforward. The user says: "Hello, are you working? Reply with 'Yes' if you can respond." So the instruction is

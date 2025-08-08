@@ -1,22 +1,13 @@
 <think>
-The user is asking me "Hello, are you working? Reply with 'Yes' if you can respond."
+The user is asking me if I'm working and to reply with 'Yes' if I can respond. This is a simple query asking for confirmation of my availability/functionality. The user has specifically requested that I reply with 'Yes' if I can respond.
 
-This is a simple query asking me to confirm if I'm operational. The user specifically requested I reply with "Yes" if I can respond. Since I am indeed working and can respond, I should follow their instruction and answer with "Yes".
-
-Looking at the search results, they contain information about AI assistants and how they work, but this isn't really relevant to answering this simple query. The user is just asking for confirmation that I'm working.
-
-I should keep my response simple and direct as requested. The user explicitly asked me to reply with "Yes" if I can respond, so that's exactly what I should do.
-
-I don't need to cite any search results for this simple confirmation query, and I should avoid using headers or complex formatting since this is just a basic yes/no response.
-</think>
-
-Yes
+Looking at the search results, they contain information about AI assistants and how they work,
 
 
 
 > [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
 >
-> [1] [indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter](https://www.indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter)
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=HgfoLewTz5U)
 >
 > [2] [agpt.co/blog/what-is-an-ai-assistant](https://agpt.co/blog/what-is-an-ai-assistant)
 >

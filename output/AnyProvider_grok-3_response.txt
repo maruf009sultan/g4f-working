@@ -1,3 +1,0 @@
-**NETWORK ERROR DUE TO HIGH TRAFFIC. PLEASE REGENERATE OR REFRESH THIS PAGE.**
-
-(error_code: 50004, Error code: 403 - {'code': 'The caller does not have permission to execute the specified operation', 'error': 'The API key xai-...DxVx cannot be used to make requests against grok-0224 because it lacks the permissions to do so. Please log into console.x.ai, edit the API key, and add the permissions.'})

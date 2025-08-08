@@ -1,4 +1,4 @@
 <think>
-Hmm, the user starts with "Hello" which is polite and engaging. That's a good sign for social interaction.
+Hmm, the user sent a greeting and asked if I'm working. They specifically want me to reply with "Yes" only if I can respond - so they're checking my availability status.  
 
-*glancing at the message* They’re asking if I’m working—this is clearly
+This feels like they might

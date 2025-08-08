@@ -1,4 +1,2 @@
 <think>
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to respond.
-
-First, the user is checking if I'm active and able to reply. They
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." I need to check if I can reply. Since I'm an AI model, I don't have the concept of working

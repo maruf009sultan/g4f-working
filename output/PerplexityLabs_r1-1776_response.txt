@@ -1,5 +1,0 @@
-<think><think>
-Okay, the user greeted me with "Hello, are you working?" and asked to reply with 'Yes' if I can respond. They want a simple confirmation. Let me check the instructions again. The user's initial message and the query they presented. The assistant should respond with "Yes" if possible. Since I'm an AI and always trying to be helpful, I need to make sure that my response meets the user's request exactly. They might be testing if I can follow instructions, or maybe they want a quick answer without extra info. Either way, the correct response here is straightforward. Just reply with 'Yes' as per their instruction. No need for additional text. Let me confirm that I'm not missing any hidden meaning here. The user's query is direct, so the answer should be too. Alright, 'Yes' it is.
-</think>
-
-Yes

@@ -1,3 +1,0 @@
-**NETWORK ERROR DUE TO HIGH TRAFFIC. PLEASE REGENERATE OR REFRESH THIS PAGE.**
-
-(error_code: 50004, Error code: 422 - {'detail': 'The provided model is not supported. See https://docs.ai21.com/docs/jamba-foundation-models#api-versioning for a list of supported models'})

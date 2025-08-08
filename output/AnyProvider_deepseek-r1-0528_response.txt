@@ -1,3 +1,4 @@
 <think>
-Okay, the user is greeting me and asking if I’m working. They also requested a 'Yes' reply if I can respond. Hmm, seems straightforward—they're probably checking if the system is active before proceeding.  
+Hmm, the user sent a greeting and asked if I'm working. They want a simple 'Yes' response if I'm able to reply. 
 
+This seems like a connection test or readiness check. The tone is friendly ("Hello")

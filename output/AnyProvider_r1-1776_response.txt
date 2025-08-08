@@ -1,7 +1,13 @@
 <think><think>
-Okay, the user greeted me with "Hello, are you working? Reply with 'Yes' if you can respond."
+Okay, the user sent "Hello, are you working? Reply with 'Yes' if you can respond." They want a quick confirmation.
 
-First, I need to confirm that I'm operational. Since I can generate responses, the answer should be "Yes". But I should also provide a friendly and engaging interaction beyond just "Yes". Maybe say something like, "Yes! I'm here and ready to help with any questions or tasks you have. What can I assist you with today?" That way, the response is concise but welcoming, encouraging the user to ask for assistance. It's important to be positive and open-ended. Let me check for any typos or context issues. The user might be testing if I'm responsive, so a clear and helpful reply is best.
+First, I need to check if I can respond. Since I'm an AI developed by Perplexity, I should have the capability to reply, but maybe the user is testing if I'm operational. 
+
+The user specified to reply with just 'Yes', so they want a minimal response. However, maybe adding a brief friendly message would be better. But the instruction is strict: just 'Yes'.
+
+I should ensure compliance with their request. They might prefer a straightforward answer without extra text. So, the correct response here is to reply with 'Yes' as instructed. No need for anything else. Let's make sure there's no markdown or formatting issues. Just the plain word.
+
+Final check: Did I address the query correctly according to their instructions? Yes. The user wanted 'Yes' as a response. Done.
 </think>
 
-**Yes!** I’m here and fully operational. How can I assist you today? 😊
+Yes

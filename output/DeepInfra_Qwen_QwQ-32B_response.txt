@@ -1,1 +1,1 @@
-Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation that I'm operational. My task is to respond with just "Yes" without any extra information.
+Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation that I'm operational. Let me check the instructions again. The user specified to reply with just '
