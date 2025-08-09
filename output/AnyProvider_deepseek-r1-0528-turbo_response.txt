@@ -1,4 +1,4 @@
 <think>
-Hmm, the user asked "Hello, are you working? Reply with 'Yes' if you can respond." 
+Okay, the user just asked if I'm working and requested a 'Yes' reply if capable. Hmm, such a simple greeting feels like they might be testing bot responsiveness or confirming real-time functionality.  
 
-This seems like a simple connectivity check - they probably want immediate confirmation that the assistant is operational. Using all
+The phrasing "

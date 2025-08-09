@@ -1,14 +1,20 @@
 <think>
-The user is asking if I'm working and requesting I reply with 'Yes' if I can respond. This is a simple greeting/test query to see if I'm functioning. I should follow the user's explicit instruction to reply with 'Yes' if I can respond.
+The user is asking me if I'm working and wants me to reply with 'Yes' if I can respond. This is a very simple query - they just want to know if I'm functioning and able to respond to them.
 
-Looking at the search results:
-- They contain information about AI assistants, email responses, and general conversation responses
-- They don't directly relate to the user's specific request
-- The user has given me a specific instruction on how to respond
+Looking at the search results, they don't really contain relevant information for answering this specific query. The search results are about:
+1. How AI assistants work in general
+2. How to respond to recruiter emails  
+3. Adding AI assistant responses in IBM Watson
+4. How to respond to "How are you?" in conversation
+5. Using AI Assistant features in a help system
 
-According to the guidelines, "Following user instruction takes priority over any other formatting rules listed here." The user specifically requested I reply with 'Yes' if I can respond, which I can.
+None of these directly address the user's simple question about whether I'm working/can respond.
 
-I should not overthink this - it's a simple test/greeting and the user has been very clear about what response they want.
+According to the restrictions, if the search results don't provide an answer, I should respond saying the information is not available. However, in this case, the user is asking me directly if I can respond - which I obviously can since I'm responding to them. This is more of a test/check of my functionality rather than a query that would require search results.
+
+The user specifically requested that I reply with 'Yes' if I can respond. Since I can respond (evidenced by the fact that I'm responding), I should follow their instruction and say 'Yes'.
+
+I should not mention search results or cite anything since this is a direct functional question about my ability to respond.
 </think>
 
 Yes

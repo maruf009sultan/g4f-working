@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve this problem. The question is asking about the maximum number of regions (R) that a plane can be divided into by n lines. I remember there's a formula for this, but
+Okay, so I need to figure out how to solve this problem where I have two rows of numbers, and for each number in the first row, I have to find the sum of the numbers in the second row that are less than it

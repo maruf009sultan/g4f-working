@@ -1,1 +1,1 @@
-User says: "Hello, are you working? Reply with 'Yes' if you can respond." The user asks: "are you working?" and instructs: "Reply with 'Yes' if you can respond." The assistant is allowed to
+User's message: "Hello, are you working? Reply with 'Yes' if you can respond." It's an instruction. But instructions: "Reply with 'Yes' if you can respond." My response: "Yes". But is that

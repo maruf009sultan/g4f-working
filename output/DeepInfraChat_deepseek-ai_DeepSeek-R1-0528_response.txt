@@ -1,4 +1,4 @@
 <think>
-Hmm, the user is greeting me and asking if I'm working. They specifically request a 'Yes' reply if I can respond. This seems like a straightforward test or a quick check of availability.  
+Okay, user just checked if I'm active with a simple "Hello, are you working?" and asked for a 'Yes' confirmation. 
 
-The user might be testing
+Hmm, this feels like a connectivity test - maybe they've experienced dead chatbots before or

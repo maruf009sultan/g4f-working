@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just greeted me with "Hello, are you working?" and asked me to reply with 'Yes' if I can respond. 
+Okay, the user just greeted me and asked if I'm working, requesting a simple 'Yes' if available. 
 
-Okay, this seems like a simple connectivity check. The user might be testing if
+Hmm, this seems like a connection test - maybe they're checking if the chat interface is live. The tone

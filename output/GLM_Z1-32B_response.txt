@@ -1,4 +1,0 @@
-true" duration="0">
-<summary>Thought for 0 seconds</summary>
-> Okay, the user is asking if I'm working and wants a 'Yes' response if I can reply. Let me check. I can definitely respond, so I should just say 'Yes'. No need for extra info here. Keep it simple.
-</details>

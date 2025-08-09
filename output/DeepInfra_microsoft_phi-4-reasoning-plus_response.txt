@@ -1,1 +1,1 @@
-User asks: "Hello, are you working? Reply with 'Yes' if you can respond." This is a simple question. It instructs: "Reply with 'Yes' if you can respond." I must check: "Hello, are
+User message: "Hello, are you working? Reply with 'Yes' if you can respond." The conversation is short. I need to check instructions. The conversation: "Hello, are you working? Reply with 'Yes' if you can

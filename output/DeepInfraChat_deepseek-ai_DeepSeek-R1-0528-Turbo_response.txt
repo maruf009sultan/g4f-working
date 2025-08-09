@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just greeted me and asked if I'm working. Seems like a simple availability check - probably wants to confirm I'm online before sharing their actual query.  
+Hmm, the user just asked if I'm working and wants me to reply with "Yes" if I can respond. Okay, straightforward greeting and verification request.  
 
-Okay, they specifically asked for a "Yes"
+User seems to be testing the waters - maybe checking if I

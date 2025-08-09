@@ -195,8 +195,10 @@ CohereForAI_C4AI_Command|command-r7b-12-2024
 CohereForAI_C4AI_Command|command-r7b-arabic-02-2025
 Copilot|Copilot
 Copilot|Think Deeper
+Copilot|Smart (GPT-5)
 CopilotAccount|Copilot
 CopilotAccount|Think Deeper
+CopilotAccount|Smart (GPT-5)
 DeepInfra|openai/gpt-oss-120b
 DeepInfra|openai/gpt-oss-20b
 DeepInfra|Qwen/Qwen3-Coder-480B-A35B-Instruct-Turbo
@@ -278,56 +280,32 @@ DeepInfraChat|microsoft/phi-4
 DeepSeek|deepseek-chat
 DeepseekAI_JanusPro7b|janus-pro-7b
 DeepseekAI_JanusPro7b|janus-pro-7b-image
-EasyChat|claude-3.7-sonnet
-EasyChat|claude-4-sonnet
-EasyChat|claude-opus-4-test
-EasyChat|deepseek-r1-250528
-EasyChat|deepseek-v3-250324
-EasyChat|gemini-2.0-flash-free
-EasyChat|gemini-2.5-flash-free
-EasyChat|gemini-2.5-pro
-EasyChat|gemini-2.5-pro-search
-EasyChat|gemini-exp-1206
-EasyChat|gpt-4-5
-EasyChat|gpt-4.1
+EasyChat|gemini-2.0-flash
+EasyChat|gemini-2.5-flash
 EasyChat|gpt-4o
-EasyChat|gpt-4o-all
-EasyChat|gpt-4o-free
-EasyChat|gpt-4o-image
-EasyChat|gpt-4o-mini
-EasyChat|gpt-4o-mini-image-free
-EasyChat|gpt-4o-research-free
-EasyChat|gpt-5-chat
-EasyChat|gpt-5-test
-EasyChat|gpt-oss-120b-free
+EasyChat|gpt-4o-mini-image
+EasyChat|gpt-4o-research
+EasyChat|gpt-oss-120b
 EasyChat|grok-3
-EasyChat|grok-3-deepsearch
-EasyChat|grok-3-free
-EasyChat|grok-3-reasoner
-EasyChat|o3
-EasyChat|o4-mini
-EasyChat|o4-mini-high
-EasyChat|yi-lightning
 FenayAI|alfst-chatbot
 FenayAI|alize
 FenayAI|aya-expanse
 FenayAI|bard
-FenayAI|basicxii
+FenayAI|bespoke-minicheck
+FenayAI|bggpt-9b
 FenayAI|binary-detector
-FenayAI|camel-r1
+FenayAI|blackhatbadshah
 FenayAI|chatbot-erpskrip
-FenayAI|cloudgem3c90tc
-FenayAI|codegeex4
+FenayAI|claude-3.7
 FenayAI|codegemma
 FenayAI|codellama
 FenayAI|codeqwen-7b
 FenayAI|codestral
+FenayAI|cogito-14b
 FenayAI|cogito-8b
-FenayAI|command-a
 FenayAI|command-r
+FenayAI|command-r-35b
 FenayAI|correctag
-FenayAI|deepcoder
-FenayAI|deepscaler-1.5b
 FenayAI|deepseek-coder
 FenayAI|deepseek-coder-33b
 FenayAI|deepseek-coder-v2
@@ -340,24 +318,21 @@ FenayAI|deepseek-r1-32b-medical
 FenayAI|deepseek-r1-70b
 FenayAI|deepseek-r1-7b
 FenayAI|deepseek-r1-8b
-FenayAI|deepseek-r1-8b-0528
+FenayAI|deepseek-r1-8b-ctx8k
 FenayAI|deepseek-r1-abliterated-70b
 FenayAI|deepseek-r1-abliterated-8b
 FenayAI|deepseek-r1-claude-3.7
-FenayAI|deepseek-r1-cline
-FenayAI|deepseek-r1-cline-8b
-FenayAI|deepseek-r1|70b-llama-distill-fp16
 FenayAI|deepseek-v2-16b
 FenayAI|deepseek8bq3
 FenayAI|densedlt
 FenayAI|devstral
 FenayAI|dolphin-llama3
 FenayAI|dolphin-mistral
-FenayAI|dolphin-mixtral|8x7b
 FenayAI|dolphin3
 FenayAI|dolphincoder
-FenayAI|edmsvl-32b
 FenayAI|eeve
+FenayAI|eris
+FenayAI|eurollm-9b
 FenayAI|eurollm-greek
 FenayAI|exaone-deep
 FenayAI|exaone3.5
@@ -374,33 +349,28 @@ FenayAI|gemma3-27b
 FenayAI|gemma3-4b
 FenayAI|gemma3-4b-abliterated
 FenayAI|gemma3-sql-assistant
+FenayAI|gemma3.5
 FenayAI|gemma3n
 FenayAI|gemma3n-e2b
 FenayAI|gemma3n-e2b-abliterated
 FenayAI|gemma3n-e4b
 FenayAI|gpt-oss-120b
 FenayAI|gpt-oss-20b
-FenayAI|granite-code|8b
-FenayAI|granite3.1
-FenayAI|granite3.2
+FenayAI|gpt-oss|120b-fast
 FenayAI|granite3.2-vision
 FenayAI|granite3.3
 FenayAI|hb-service-mistral
 FenayAI|hermes-8b
-FenayAI|hf.co/DavidAU/Qwen3-18B-A3B-Stranger-Thoughts-Abliterated-Uncensored-GGUF|Q4_K_M
-FenayAI|hf.co/MaziyarPanahi/Qwen2.5-1.5B-Instruct-GGUF|Q8_0
 FenayAI|hyperclovax
-FenayAI|kate
 FenayAI|keez
 FenayAI|kimi-dev-72b
+FenayAI|lexi-llama3-8b-uncensored
 FenayAI|llama-korean-consitution
 FenayAI|llama2
 FenayAI|llama2-13b
-FenayAI|llama2-7b
 FenayAI|llama2-uncensored
 FenayAI|llama2-uncensored-7b
 FenayAI|llama3
-FenayAI|llama3-8b
 FenayAI|llama3-8b-categorizer
 FenayAI|llama3-8b-description
 FenayAI|llama3-8b-sqlcoder
@@ -415,13 +385,12 @@ FenayAI|llama3.2
 FenayAI|llama3.2-1b
 FenayAI|llama3.2-32k
 FenayAI|llama3.2-3b
-FenayAI|llama3.2-8b
 FenayAI|llama3.2-claude
 FenayAI|llama3.2-korean
-FenayAI|llama3.2-optimized
 FenayAI|llama3.2-uncensored
 FenayAI|llama3.2-vision
 FenayAI|llama3.2-ypartners
+FenayAI|llama3.2|3b-instruct-q8_0
 FenayAI|llama3.3
 FenayAI|llama3.3-20k
 FenayAI|llama4-maverick
@@ -431,8 +400,8 @@ FenayAI|llava
 FenayAI|llava-llama3
 FenayAI|magistral
 FenayAI|mario
+FenayAI|meditron-7b
 FenayAI|minicpm-v
-FenayAI|minimind2
 FenayAI|mistral
 FenayAI|mistral-7b
 FenayAI|mistral-german
@@ -444,43 +413,36 @@ FenayAI|mistral-small3.1
 FenayAI|mistral-small3.2
 FenayAI|mistralprism-24b
 FenayAI|mixtral
-FenayAI|monkey-ocr
+FenayAI|moondream
 FenayAI|mw
 FenayAI|nanonets-ocr
-FenayAI|neuraldaredevil
 FenayAI|nous-hermes2
-FenayAI|ocrflux
+FenayAI|nsfw
 FenayAI|openhermes
 FenayAI|orca2
-FenayAI|pcn-sllm
-FenayAI|pek
 FenayAI|pentesting
 FenayAI|phi3
 FenayAI|phi3-mini
-FenayAI|phi3.5
 FenayAI|phi4
 FenayAI|phi4-mini
-FenayAI|phi4-mini-reasoning
 FenayAI|phi4-reasoning
 FenayAI|phi4-reasoning-plus
 FenayAI|picap-vision
-FenayAI|qwen-0.5b
 FenayAI|qwen-7b
 FenayAI|qwen-coder
 FenayAI|qwen2
 FenayAI|qwen2-7b
+FenayAI|qwen2-7b-rp
 FenayAI|qwen2.5
 FenayAI|qwen2.5-0.5b
 FenayAI|qwen2.5-1.5b
+FenayAI|qwen2.5-1.5b-uncensored
 FenayAI|qwen2.5-14b
 FenayAI|qwen2.5-32b
 FenayAI|qwen2.5-3b
 FenayAI|qwen2.5-72b
 FenayAI|qwen2.5-7b
-FenayAI|qwen2.5-abliterated
 FenayAI|qwen2.5-coder
-FenayAI|qwen2.5-coder-1.5b
-FenayAI|qwen2.5-coder-cline
 FenayAI|qwen2.5vl
 FenayAI|qwen2.5vl-72b
 FenayAI|qwen3
@@ -492,39 +454,36 @@ FenayAI|qwen3-14b-omega-directive
 FenayAI|qwen3-235b
 FenayAI|qwen3-30b
 FenayAI|qwen3-30b-a3b
+FenayAI|qwen3-30b-a3b-abliterated
+FenayAI|qwen3-30b-medical
+FenayAI|qwen3-30b-medical-40
 FenayAI|qwen3-32b
 FenayAI|qwen3-4b
-FenayAI|qwen3-4b-cline
-FenayAI|qwen3-4b-code-reasoning
 FenayAI|qwen3-8b
-FenayAI|qwen3-8b-nothink
 FenayAI|qwen3-8b-uncensored
+FenayAI|qwen3-abliterated-30b
 FenayAI|qwen3-abliterated-32b
 FenayAI|qwen3-coder
 FenayAI|qwen3-reranker
+FenayAI|qwen3g2
 FenayAI|qwenlong-abliterated
 FenayAI|qwq
-FenayAI|qwq-abliterated
-FenayAI|reader-lm-v2
-FenayAI|rjmalagon/gte-qwen2-1.5b-instruct-embed-f16
-FenayAI|rn-tr-r2
-FenayAI|shieldgemma|9b
+FenayAI|ruadaptqwen2.5
 FenayAI|smollm2
 FenayAI|solar-uncensored
 FenayAI|starcoder2-15b
+FenayAI|starcoder2-3b
 FenayAI|syzd
 FenayAI|t-lite-q
-FenayAI|tanuki
-FenayAI|tiny-agent
+FenayAI|theia
 FenayAI|tinyllama
+FenayAI|trillion-7b-preview
+FenayAI|typhoon-ocr
 FenayAI|umpa-beta
 FenayAI|varco-8b
 FenayAI|vicuna
 FenayAI|weather
-FenayAI|wizardlm2
-FenayAI|yandexgpt-8b
-FenayAI|yasserrmd/Qwen2.5-7B-Instruct-1M
-FenayAI|zero-reasoner-coder-14b
+FenayAI|zyh-llm-qwen2.5-14b
 GLM|GLM-4.5
 GLM|GLM-4.5-Air
 GLM|GLM-4-32B
@@ -603,262 +562,263 @@ Groq|whisper-large-v3
 Groq|whisper-large-v3-turbo
 HailuoAI|minimax
 HarProvider|chatgpt-4o-latest-20250326
-HarProvider|mistral-medium-2505
-HarProvider|phi-4
+HarProvider|claude-3-5-haiku-20241022
+HarProvider|mistral-small-24b-instruct-2501
+HarProvider|gemini-2.0-flash-lite-preview-02-05
+HarProvider|llama-3.1-70b-instruct
+HarProvider|gpt-4.1-nano-2025-04-14
+HarProvider|gpt-4-0613
+HarProvider|llama-2-70b-chat
+HarProvider|stripedhyena-nous-7b
+HarProvider|gemini-pro-dev-api
+HarProvider|reka-core-20240722
+HarProvider|qwen2.5-72b-instruct
+HarProvider|chatgpt-4o-latest-20250129
+HarProvider|pplx-7b-online
+HarProvider|qwen-max-0919
+HarProvider|qwen2.5-max
+HarProvider|command-r-plus-08-2024
 HarProvider|gemini-1.5-flash-8b-001
-HarProvider|glm-4-plus-0111
+HarProvider|o3-mini
+HarProvider|gpt-4-0314
+HarProvider|granite-3.0-8b-instruct
+HarProvider|qwen1.5-72b-chat
+HarProvider|claude-3-sonnet-20240229
+HarProvider|gemini-2.0-flash-thinking-exp-1219
+HarProvider|llama-3-70b-instruct
+HarProvider|deepseek-v2.5
+HarProvider|granite-3.0-2b-instruct
+HarProvider|gemma-1.1-7b-it
+HarProvider|gemma-2-9b-it-simpo
+HarProvider|qwen-plus-0125
+HarProvider|llama-3.1-tulu-3-70b
+HarProvider|gpt-4o-mini-2024-07-18
+HarProvider|gpt-3.5-turbo-0314
+HarProvider|gemini-2.0-flash-exp
+HarProvider|gemini-1.5-pro-exp-0801
 HarProvider|gemma-2-9b-it
-HarProvider|deepseek-coder-v2-0724
-HarProvider|llama-3.1-8b-instruct
-HarProvider|llama-3.1-nemotron-51b-instruct
-HarProvider|vicuna-13b
-HarProvider|llama-4-scout-17b-16e-instruct
+HarProvider|grok-3-preview-02-24
+HarProvider|mistral-large-2407
+HarProvider|claude-3-7-sonnet-20250219
+HarProvider|dbrx-instruct-preview
+HarProvider|deepseek-r1
+HarProvider|claude-3-7-sonnet-20250219-thinking-32k
+HarProvider|gemini-2.5-pro-preview-05-06
+HarProvider|grok-2-mini-2024-08-13
+HarProvider|llama-2-7b-chat
+HarProvider|palm-2
+HarProvider|qwen1.5-32b-chat
+HarProvider|gemini-advanced-0514
+HarProvider|gemini-1.5-flash-001
+HarProvider|koala-13b
+HarProvider|early-grok-3
+HarProvider|deepseek-v2.5-1210
+HarProvider|llama-3.2-1b-instruct
+HarProvider|qwen1.5-110b-chat
+HarProvider|zephyr-7b-beta
 HarProvider|mistral-large-2411
 HarProvider|gpt-4-turbo-2024-04-09
-HarProvider|grok-2-2024-08-13
-HarProvider|claude-instant-1
-HarProvider|qwen1.5-32b-chat
-HarProvider|gemini-1.5-pro-002
-HarProvider|gemini-1.5-flash-002
-HarProvider|yi-lightning-lite
-HarProvider|gemini-1.5-pro-001
-HarProvider|deepseek-v2.5
-HarProvider|dolly-v2-12b
-HarProvider|early-grok-3
-HarProvider|amazon-nova-lite-v1.0
-HarProvider|llama-13b
-HarProvider|c4ai-aya-expanse-32b
-HarProvider|granite-3.1-8b-instruct
-HarProvider|stripedhyena-nous-7b
-HarProvider|claude-3-sonnet-20240229
-HarProvider|gemma-2b-it
-HarProvider|gpt-4-0613
-HarProvider|reka-core-20240722
-HarProvider|gpt-4-0314
-HarProvider|mpt-30b-chat
-HarProvider|chatglm2-6b
-HarProvider|reka-flash-21b-20240226
-HarProvider|gemma-7b-it
-HarProvider|amazon-nova-pro-v1.0
-HarProvider|koala-13b
-HarProvider|qwen1.5-14b-chat
-HarProvider|o4-mini-2025-04-16
-HarProvider|gemini-2.0-flash-thinking-exp-01-21
-HarProvider|claude-3-5-sonnet-20240620
-HarProvider|gpt-4.1-2025-04-14
-HarProvider|yi-lightning
-HarProvider|granite-3.1-2b-instruct
-HarProvider|qwen3-235b-a22b
-HarProvider|claude-3-haiku-20240307
-HarProvider|gemini-1.5-pro-exp-0801
-HarProvider|chatgpt-4o-latest-20250129
-HarProvider|pplx-70b-online
-HarProvider|gemini-exp-1206
-HarProvider|openchat-3.5-0106
-HarProvider|reka-flash-preview-20240611
-HarProvider|mistral-large-2407
-HarProvider|mixtral-8x7b-instruct-v0.1
-HarProvider|zephyr-7b-alpha
-HarProvider|command-r
-HarProvider|athene-70b-0725
-HarProvider|ministral-8b-2410
-HarProvider|mistral-small-24b-instruct-2501
-HarProvider|yi-large-preview
 HarProvider|phi-3-medium-4k-instruct
-HarProvider|qwen2.5-72b-instruct
-HarProvider|gemma-2-9b-it-simpo
-HarProvider|deepseek-v3
-HarProvider|snowflake-arctic-instruct
-HarProvider|claude-1
-HarProvider|internlm2_5-20b-chat
-HarProvider|reka-core-20240904
-HarProvider|qwen-max-0919
-HarProvider|hunyuan-standard-256k
-HarProvider|gemma-2-27b-it
-HarProvider|granite-3.0-8b-instruct
-HarProvider|gemini-1.5-flash-exp-0827
-HarProvider|gemini-1.5-flash-8b-exp-0827
-HarProvider|gemini-2.5-flash-preview-04-17
-HarProvider|qwen2-72b-instruct
-HarProvider|llama-2-7b-chat
-HarProvider|deepseek-r1
-HarProvider|qwen-plus-0125
-HarProvider|yi-34b-chat
-HarProvider|gemma-2-2b-it
-HarProvider|mistral-large-2402
-HarProvider|qwen1.5-7b-chat
-HarProvider|qwen2.5-plus-1127
-HarProvider|vicuna-33b
-HarProvider|deepseek-v2-api-0628
-HarProvider|llama-3.1-nemotron-70b-instruct
-HarProvider|wizardlm-70b
-HarProvider|codellama-70b-instruct
-HarProvider|o3-mini
-HarProvider|reka-flash-21b-20240226-online
-HarProvider|gemini-exp-1114
 HarProvider|phi-3-mini-4k-instruct
-HarProvider|fastchat-t5-3b
-HarProvider|gemini-2.0-flash-001
-HarProvider|llama-3.1-tulu-3-70b
-HarProvider|athene-v2-chat
-HarProvider|smollm2-1.7b-instruct
-HarProvider|llama-3.2-1b-instruct
-HarProvider|qwen-plus-0828
-HarProvider|gemma-3-12b-it
-HarProvider|claude-3-5-sonnet-20241022
-HarProvider|llama-3.1-405b-instruct-fp8
-HarProvider|mpt-7b-chat
-HarProvider|qwen1.5-72b-chat
-HarProvider|yi-1.5-34b-chat
-HarProvider|phi-3-mini-128k-instruct
-HarProvider|gpt4all-13b-snoozy
-HarProvider|mixtral-8x22b-instruct-v0.1
-HarProvider|mistral-7b-instruct-v0.2
-HarProvider|llama-3.1-405b-instruct-bf16
-HarProvider|chatgpt-4o-latest-20240808
 HarProvider|jamba-1.5-large
-HarProvider|chatgpt-4o-latest-20241120
-HarProvider|dolphin-2.2.1-mistral-7b
-HarProvider|mistral-7b-instruct
-HarProvider|phi-3-small-8k-instruct
-HarProvider|gemini-2.0-flash-thinking-exp-1219
-HarProvider|palm-2
-HarProvider|chatglm3-6b
-HarProvider|glm-4-plus
-HarProvider|qwen1.5-4b-chat
-HarProvider|claude-3-5-haiku-20241022
-HarProvider|gemma-3-4b-it
-HarProvider|gemini-2.0-pro-exp-02-05
-HarProvider|amazon-nova-micro-v1.0
-HarProvider|llama-4-maverick-17b-128e-instruct
-HarProvider|llama-2-70b-chat
-HarProvider|starling-lm-7b-alpha
-HarProvider|vicuna-7b
-HarProvider|mistral-medium
-HarProvider|qwen2.5-coder-32b-instruct
-HarProvider|gpt-4-1106-preview
-HarProvider|command-r-08-2024
-HarProvider|nous-hermes-2-mixtral-8x7b-dpo
-HarProvider|gpt-4.1-mini-2025-04-14
-HarProvider|o3-mini-high
-HarProvider|wizardlm-13b
-HarProvider|llama-3.1-70b-instruct
-HarProvider|gemini-2.5-pro-preview-05-06
-HarProvider|llama-3.3-70b-instruct
-HarProvider|gpt-3.5-turbo-1106
-HarProvider|gemini-2.0-flash-lite-preview-02-05
-HarProvider|command-r-plus
-HarProvider|granite-3.0-2b-instruct
-HarProvider|gemini-1.5-pro-api-0409-preview
-HarProvider|claude-2.0
-HarProvider|o1-2024-12-17
 HarProvider|deepseek-llm-67b-chat
-HarProvider|gpt-4o-2024-05-13
-HarProvider|reka-flash-20240904
-HarProvider|grok-2-mini-2024-08-13
-HarProvider|openchat-3.5
-HarProvider|oasst-pythia-12b
-HarProvider|gemini-1.5-pro-exp-0827
-HarProvider|nemotron-4-340b-instruct
-HarProvider|olmo-7b-instruct
-HarProvider|chatglm-6b
-HarProvider|command-r-plus-08-2024
-HarProvider|alpaca-13b
-HarProvider|glm-4-0520
-HarProvider|openhermes-2.5-mistral-7b
-HarProvider|o1-mini
-HarProvider|gpt-4-0125-preview
-HarProvider|reka-flash-20240722
-HarProvider|c4ai-aya-expanse-8b
-HarProvider|o3-2025-04-16
-HarProvider|reka-core-20240501
-HarProvider|pplx-7b-online
-HarProvider|deepseek-v2.5-1210
-HarProvider|solar-10.7b-instruct-v1.0
-HarProvider|phi-3-mini-4k-instruct-june-2024
-HarProvider|grok-3-preview-02-24
-HarProvider|gpt-4.1-nano-2025-04-14
-HarProvider|gemma-1.1-2b-it
-HarProvider|claude-3-7-sonnet-20250219
-HarProvider|falcon-180b-chat
-HarProvider|qwq-32b-preview
-HarProvider|starling-lm-7b-beta
-HarProvider|llama-2-13b-chat
-HarProvider|jamba-1.5-mini
-HarProvider|qwen2.5-max
-HarProvider|qwen-max-0428
-HarProvider|qwen-14b-chat
-HarProvider|RWKV-4-Raven-14B
-HarProvider|step-2-16k-exp-202412
-HarProvider|llama-3.1-tulu-3-8b
-HarProvider|glm-4-0116
 HarProvider|deepseek-coder-v2
-HarProvider|zephyr-orpo-141b-A35b-v0.1
-HarProvider|gemini-exp-1121
-HarProvider|claude-3-opus-20240229
-HarProvider|gemini-2.0-flash-exp
-HarProvider|gemma-1.1-7b-it
-HarProvider|zephyr-7b-beta
-HarProvider|gpt-4o-2024-08-06
-HarProvider|gpt-3.5-turbo-0613
-HarProvider|gemini-advanced-0514
-HarProvider|llama2-70b-steerlm-chat
-HarProvider|stablelm-tuned-alpha-7b
-HarProvider|gemini-pro-dev-api
-HarProvider|gemma-3-27b-it
-HarProvider|gpt-3.5-turbo-0125
-HarProvider|o1-preview
+HarProvider|gemma-2b-it
 HarProvider|mistral-next
-HarProvider|gpt-3.5-turbo-0314
-HarProvider|dbrx-instruct-preview
-HarProvider|llama-4-maverick-03-26-experimental
-HarProvider|llama-3-70b-instruct
-HarProvider|gemini-1.5-flash-001
-HarProvider|deepseek-v3-0324
-HarProvider|bard-jan-24-gemini-pro
-HarProvider|gpt-4o-mini-2024-07-18
-HarProvider|llama-3.2-3b-instruct
-HarProvider|llama-3-8b-instruct
 HarProvider|tulu-2-dpo-70b
-HarProvider|claude-3-7-sonnet-20250219-thinking-32k
-HarProvider|codellama-34b-instruct
-HarProvider|qwen1.5-110b-chat
-HarProvider|claude-2.1
-HarProvider|chatgpt-4o-latest-20240903
-HarProvider|gemini-pro
+HarProvider|solar-10.7b-instruct-v1.0
+HarProvider|gpt-4o-2024-08-06
+HarProvider|chatglm2-6b
+HarProvider|claude-3-5-sonnet-20241022
+HarProvider|stablelm-tuned-alpha-7b
+HarProvider|gemma-2-2b-it
+HarProvider|amazon-nova-micro-v1.0
+HarProvider|gpt-4.1-mini-2025-04-14
+HarProvider|codellama-70b-instruct
+HarProvider|gemma-3-4b-it
+HarProvider|yi-34b-chat
+HarProvider|deepseek-v3-0324
+HarProvider|dolly-v2-12b
+HarProvider|granite-3.1-8b-instruct
+HarProvider|llama-13b
+HarProvider|gemini-2.0-flash-001
+HarProvider|claude-instant-1
+HarProvider|smollm2-1.7b-instruct
+HarProvider|glm-4-plus-0111
+HarProvider|reka-flash-preview-20240611
+HarProvider|openchat-3.5
+HarProvider|llama-3.2-3b-instruct
+HarProvider|llama-3.1-nemotron-70b-instruct
+HarProvider|c4ai-aya-expanse-32b
+HarProvider|qwen-max-0428
+HarProvider|claude-1
+HarProvider|gemini-2.0-pro-exp-02-05
+HarProvider|yi-large-preview
+HarProvider|reka-flash-20240904
+HarProvider|zephyr-7b-alpha
+HarProvider|o1-preview
+HarProvider|gpt4all-13b-snoozy
+HarProvider|gemini-2.0-flash-thinking-exp-01-21
+HarProvider|gemini-1.5-flash-exp-0827
+HarProvider|internlm2_5-20b-chat
+HarProvider|openhermes-2.5-mistral-7b
+HarProvider|o4-mini-2025-04-16
+HarProvider|qwen1.5-14b-chat
+HarProvider|mixtral-8x7b-instruct-v0.1
+HarProvider|gpt-4o-2024-05-13
+HarProvider|olmo-7b-instruct
+HarProvider|o1-mini
+HarProvider|vicuna-7b
+HarProvider|phi-4
+HarProvider|qwen2.5-plus-1127
+HarProvider|chatglm3-6b
+HarProvider|mistral-7b-instruct-v0.2
+HarProvider|zephyr-orpo-141b-A35b-v0.1
+HarProvider|gemini-1.5-pro-api-0409-preview
+HarProvider|llama-3.1-8b-instruct
+HarProvider|phi-3-mini-4k-instruct-june-2024
+HarProvider|claude-3-haiku-20240307
+HarProvider|gemma-1.1-2b-it
+HarProvider|llama-3.1-tulu-3-8b
+HarProvider|reka-flash-20240722
+HarProvider|phi-3-small-8k-instruct
+HarProvider|o3-2025-04-16
+HarProvider|ministral-8b-2410
+HarProvider|gemma-3-12b-it
+HarProvider|alpaca-13b
+HarProvider|gemini-2.5-flash-preview-04-17
+HarProvider|chatgpt-4o-latest-20241120
+HarProvider|wizardlm-13b
+HarProvider|gemma-7b-it
+HarProvider|gemini-exp-1206
+HarProvider|deepseek-coder-v2-0724
 HarProvider|guanaco-33b
+HarProvider|yi-lightning
+HarProvider|jamba-1.5-mini
+HarProvider|RWKV-4-Raven-14B
+HarProvider|llama-3.1-405b-instruct-bf16
+HarProvider|starling-lm-7b-alpha
+HarProvider|llama2-70b-steerlm-chat
+HarProvider|gpt-3.5-turbo-1106
+HarProvider|mpt-7b-chat
+HarProvider|qwen3-235b-a22b
+HarProvider|gpt-3.5-turbo-0125
+HarProvider|yi-lightning-lite
+HarProvider|fastchat-t5-3b
+HarProvider|llama-4-scout-17b-16e-instruct
+HarProvider|gemma-3-27b-it
+HarProvider|gemini-pro
+HarProvider|mistral-medium-2505
+HarProvider|athene-v2-chat
+HarProvider|command-r-08-2024
+HarProvider|gemini-1.5-flash-002
+HarProvider|chatgpt-4o-latest-20240808
+HarProvider|wizardlm-70b
+HarProvider|reka-core-20240501
+HarProvider|amazon-nova-lite-v1.0
+HarProvider|phi-3-mini-128k-instruct
+HarProvider|claude-3-5-sonnet-20240620
+HarProvider|vicuna-13b
+HarProvider|qwen2.5-coder-32b-instruct
+HarProvider|mistral-medium
+HarProvider|gpt-3.5-turbo-0613
+HarProvider|gpt-4-1106-preview
+HarProvider|starling-lm-7b-beta
+HarProvider|gemini-1.5-pro-002
+HarProvider|gpt-4-0125-preview
+HarProvider|llama-3-8b-instruct
+HarProvider|llama-3.1-405b-instruct-fp8
+HarProvider|qwen1.5-7b-chat
+HarProvider|mixtral-8x22b-instruct-v0.1
+HarProvider|vicuna-33b
+HarProvider|mistral-7b-instruct
+HarProvider|chatglm-6b
+HarProvider|claude-3-opus-20240229
+HarProvider|qwq-32b-preview
+HarProvider|pplx-70b-online
+HarProvider|qwen-14b-chat
+HarProvider|llama-4-maverick-03-26-experimental
+HarProvider|gemini-exp-1114
+HarProvider|grok-2-2024-08-13
+HarProvider|llama-3.3-70b-instruct
+HarProvider|oasst-pythia-12b
+HarProvider|command-r-plus
+HarProvider|qwen2-72b-instruct
+HarProvider|athene-70b-0725
+HarProvider|snowflake-arctic-instruct
+HarProvider|amazon-nova-pro-v1.0
+HarProvider|hunyuan-standard-256k
+HarProvider|glm-4-0520
+HarProvider|llama-4-maverick-17b-128e-instruct
+HarProvider|codellama-34b-instruct
+HarProvider|gemini-1.5-pro-001
+HarProvider|nous-hermes-2-mixtral-8x7b-dpo
+HarProvider|falcon-180b-chat
+HarProvider|claude-2.0
 HarProvider|yi-large
+HarProvider|command-r
+HarProvider|deepseek-v2-api-0628
+HarProvider|glm-4-0116
+HarProvider|llama-2-13b-chat
+HarProvider|c4ai-aya-expanse-8b
+HarProvider|qwen-plus-0828
+HarProvider|nemotron-4-340b-instruct
+HarProvider|gemini-1.5-flash-8b-exp-0827
+HarProvider|llama-3.1-nemotron-51b-instruct
+HarProvider|bard-jan-24-gemini-pro
+HarProvider|openchat-3.5-0106
+HarProvider|chatgpt-4o-latest-20240903
+HarProvider|glm-4-plus
+HarProvider|reka-flash-21b-20240226
+HarProvider|reka-core-20240904
+HarProvider|gemini-1.5-pro-exp-0827
+HarProvider|reka-flash-21b-20240226-online
+HarProvider|step-2-16k-exp-202412
+HarProvider|gemma-2-27b-it
+HarProvider|yi-1.5-34b-chat
+HarProvider|granite-3.1-2b-instruct
+HarProvider|dolphin-2.2.1-mistral-7b
+HarProvider|mpt-30b-chat
+HarProvider|gpt-4.1-2025-04-14
+HarProvider|o3-mini-high
+HarProvider|claude-2.1
+HarProvider|mistral-large-2402
+HarProvider|qwen1.5-4b-chat
+HarProvider|gemini-exp-1121
+HarProvider|o1-2024-12-17
+HarProvider|deepseek-v3
 HuggingFace|openai/gpt-oss-120b
 HuggingFace|openai/gpt-oss-20b
 HuggingFace|zai-org/GLM-4.5
-HuggingFace|Qwen/Qwen3-Coder-30B-A3B-Instruct
 HuggingFace|Qwen/Qwen3-4B-Thinking-2507
+HuggingFace|Qwen/Qwen3-Coder-30B-A3B-Instruct
 HuggingFace|Qwen/Qwen3-4B-Instruct-2507
 HuggingFace|moonshotai/Kimi-K2-Instruct
-HuggingFace|Qwen/Qwen3-Coder-480B-A35B-Instruct
 HuggingFace|zai-org/GLM-4.5-Air
+HuggingFace|Qwen/Qwen3-Coder-480B-A35B-Instruct
 HuggingFace|meta-llama/Llama-3.1-8B-Instruct
-HuggingFace|deepseek-ai/DeepSeek-R1
 HuggingFace|Qwen/Qwen3-235B-A22B-Instruct-2507
+HuggingFace|deepseek-ai/DeepSeek-R1
 HuggingFace|Qwen/Qwen3-235B-A22B-Thinking-2507
-HuggingFace|Qwen/Qwen3-8B
 HuggingFace|HuggingFaceTB/SmolLM3-3B
+HuggingFace|Qwen/Qwen3-8B
 HuggingFace|deepseek-ai/DeepSeek-R1-0528
 HuggingFace|meta-llama/Meta-Llama-3-8B-Instruct
 HuggingFace|Qwen/Qwen3-4B
-HuggingFace|meta-llama/Llama-3.2-3B-Instruct
-HuggingFace|zai-org/GLM-4.5-Air-FP8
+HuggingFace|deepseek-ai/DeepSeek-V3-0324
 HuggingFace|meta-llama/Llama-3.1-8B
+HuggingFace|mistralai/Mistral-7B-Instruct-v0.2
+HuggingFace|meta-llama/Llama-3.2-3B-Instruct
 HuggingFace|meta-llama/Llama-3.3-70B-Instruct
 HuggingFace|deepseek-ai/DeepSeek-V3
-HuggingFace|deepseek-ai/DeepSeek-V3-0324
-HuggingFace|Qwen/Qwen3-1.7B
 HuggingFace|Qwen/Qwen3-30B-A3B
-HuggingFace|mistralai/Mistral-7B-Instruct-v0.2
+HuggingFace|dphn/Dolphin-Mistral-24B-Venice-Edition
+HuggingFace|zai-org/GLM-4.5-Air-FP8
+HuggingFace|Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8
+HuggingFace|Qwen/Qwen3-1.7B
+HuggingFace|Qwen/Qwen3-14B
 HuggingFace|Qwen/Qwen3-32B
 HuggingFace|Qwen/Qwen3-235B-A22B
-HuggingFace|dphn/Dolphin-Mistral-24B-Venice-Edition
-HuggingFace|Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8
 HuggingFace|meta-llama/Llama-3.2-11B-Vision-Instruct
 HuggingFace|Qwen/Qwen2-VL-7B-Instruct
 HuggingFace|CohereForAI/c4ai-command-r-plus-08-2024
@@ -874,141 +834,131 @@ HuggingFace|black-forest-labs/FLUX.1-schnell
 HuggingFace|Qwen/Qwen-Image
 HuggingFace|black-forest-labs/FLUX.1-Krea-dev
 HuggingFace|city96/Qwen-Image-gguf
-HuggingFace|nunchaku-tech/nunchaku-flux.1-krea-dev
 HuggingFace|MintLab/FLUX-Krea-BLAZE
+HuggingFace|nunchaku-tech/nunchaku-flux.1-krea-dev
 HuggingFace|QuantStack/FLUX.1-Krea-dev-GGUF
 HuggingFace|stabilityai/stable-diffusion-xl-base-1.0
 HuggingFace|kpsss34/Stable-Diffusion-3.5-Small-Preview1
-HuggingFace|stable-diffusion-v1-5/stable-diffusion-v1-5
+HuggingFace|flymy-ai/qwen-image-realism-lora
 HuggingFace|stabilityai/stable-diffusion-3.5-large
+HuggingFace|lodestones/Chroma1-HD
 HuggingFaceAPI|openai/gpt-oss-120b
 HuggingFaceAPI|openai/gpt-oss-20b
 HuggingFaceAPI|zai-org/GLM-4.5
-HuggingFaceAPI|Qwen/Qwen3-Coder-30B-A3B-Instruct
 HuggingFaceAPI|Qwen/Qwen3-4B-Thinking-2507
+HuggingFaceAPI|Qwen/Qwen3-Coder-30B-A3B-Instruct
 HuggingFaceAPI|Qwen/Qwen3-4B-Instruct-2507
 HuggingFaceAPI|moonshotai/Kimi-K2-Instruct
-HuggingFaceAPI|Qwen/Qwen3-Coder-480B-A35B-Instruct
 HuggingFaceAPI|zai-org/GLM-4.5-Air
+HuggingFaceAPI|Qwen/Qwen3-Coder-480B-A35B-Instruct
 HuggingFaceAPI|meta-llama/Llama-3.1-8B-Instruct
-HuggingFaceAPI|CohereLabs/command-a-vision-07-2025
-HuggingFaceAPI|deepseek-ai/DeepSeek-R1
 HuggingFaceAPI|Qwen/Qwen3-235B-A22B-Instruct-2507
-HuggingFaceAPI|Qwen/Qwen3-235B-A22B-Thinking-2507
+HuggingFaceAPI|deepseek-ai/DeepSeek-R1
 HuggingFaceAPI|Qwen/Qwen2.5-VL-7B-Instruct
+HuggingFaceAPI|Qwen/Qwen3-235B-A22B-Thinking-2507
 HuggingFaceAPI|mistralai/Mistral-7B-Instruct-v0.3
-HuggingFaceAPI|Qwen/Qwen3-8B
 HuggingFaceAPI|HuggingFaceTB/SmolLM3-3B
+HuggingFaceAPI|Qwen/Qwen3-8B
 HuggingFaceAPI|deepseek-ai/DeepSeek-R1-0528
 HuggingFaceAPI|meta-llama/Meta-Llama-3-8B-Instruct
 HuggingFaceAPI|Qwen/Qwen3-4B
-HuggingFaceAPI|google/gemma-3-27b-it
+HuggingFaceAPI|deepseek-ai/DeepSeek-V3-0324
 HuggingFaceAPI|mistralai/Mixtral-8x7B-Instruct-v0.1
-HuggingFaceAPI|zai-org/GLM-4.1V-9B-Thinking
+HuggingFaceAPI|google/gemma-3-27b-it
+HuggingFaceAPI|CohereLabs/command-a-vision-07-2025
+HuggingFaceAPI|mistralai/Mistral-7B-Instruct-v0.2
 HuggingFaceAPI|meta-llama/Llama-3.2-3B-Instruct
-HuggingFaceAPI|zai-org/GLM-4.5-Air-FP8
 HuggingFaceAPI|meta-llama/Llama-3.3-70B-Instruct
 HuggingFaceAPI|deepseek-ai/DeepSeek-V3
-HuggingFaceAPI|deepseek-ai/DeepSeek-V3-0324
-HuggingFaceAPI|Qwen/Qwen3-1.7B
 HuggingFaceAPI|Qwen/Qwen3-30B-A3B
-HuggingFaceAPI|mistralai/Mistral-7B-Instruct-v0.2
+HuggingFaceAPI|dphn/Dolphin-Mistral-24B-Venice-Edition
+HuggingFaceAPI|zai-org/GLM-4.1V-9B-Thinking
+HuggingFaceAPI|zai-org/GLM-4.5-Air-FP8
+HuggingFaceAPI|Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8
+HuggingFaceAPI|Qwen/Qwen3-1.7B
+HuggingFaceAPI|Qwen/Qwen3-14B
 HuggingFaceAPI|Qwen/Qwen3-32B
 HuggingFaceAPI|Qwen/Qwen3-235B-A22B
-HuggingFaceAPI|dphn/Dolphin-Mistral-24B-Venice-Edition
-HuggingFaceAPI|Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8
 HuggingFaceAPI|google/gemma-3-12b-it
-HuggingFaceAPI|Qwen/Qwen3-14B
-HuggingFaceAPI|deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B
 HuggingFaceAPI|TinyLlama/TinyLlama-1.1B-Chat-v1.0
+HuggingFaceAPI|deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B
 HuggingFaceAPI|meta-llama/Llama-4-Scout-17B-16E-Instruct
-HuggingFaceAPI|moonshotai/Kimi-Dev-72B
-HuggingFaceAPI|inflatebot/MN-12B-Mag-Mell-R1
+HuggingFaceAPI|Qwen/Qwen2.5-7B-Instruct
 HuggingFaceAPI|Qwen/Qwen2.5-14B-Instruct
+HuggingFaceAPI|microsoft/phi-4
 HuggingFaceAPI|Qwen/QwQ-32B
 HuggingFaceAPI|zai-org/GLM-4-32B-0414
-HuggingFaceAPI|nvidia/OpenReasoning-Nemotron-32B
+HuggingFaceAPI|agentica-org/DeepSWE-Preview
 HuggingFaceAPI|google/gemma-2-2b-it
 HuggingFaceAPI|Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2
+HuggingFaceAPI|inflatebot/MN-12B-Mag-Mell-R1
 HuggingFaceAPI|Qwen/Qwen2.5-Coder-32B-Instruct
+HuggingFaceAPI|deepseek-ai/DeepSeek-R1-Distill-Qwen-14B
 HuggingFaceAPI|Qwen/Qwen2.5-7B-Instruct-1M
-HuggingFaceAPI|mistralai/Mistral-Small-3.1-24B-Instruct-2503
-HuggingFaceAPI|Salesforce/Llama-xLAM-2-8b-fc-r
 HuggingFaceAPI|darkc0de/XortronCriminalComputingConfig
-HuggingFaceAPI|baidu/ERNIE-4.5-21B-A3B-PT
-HuggingFaceAPI|agentica-org/DeepSWE-Preview
-HuggingFaceAPI|Sao10K/L3-8B-Stheno-v3.2
+HuggingFaceAPI|moonshotai/Kimi-Dev-72B
 HuggingFaceAPI|google/gemma-2-9b-it
-HuggingFaceAPI|Qwen/Qwen2.5-7B-Instruct
 HuggingFaceAPI|Qwen/Qwen2.5-Coder-7B-Instruct
 HuggingFaceAPI|Qwen/Qwen2.5-1.5B-Instruct
 HuggingFaceAPI|meta-llama/Llama-3.2-1B-Instruct
-HuggingFaceAPI|microsoft/phi-4
-HuggingFaceAPI|jinaai/ReaderLM-v2
-HuggingFaceAPI|deepseek-ai/DeepSeek-R1-Distill-Qwen-7B
-HuggingFaceAPI|deepseek-ai/DeepSeek-R1-Distill-Qwen-14B
 HuggingFaceAPI|Qwen/Qwen2.5-VL-72B-Instruct
 HuggingFaceAPI|CohereLabs/aya-vision-8b
-HuggingFaceAPI|CohereLabs/c4ai-command-a-03-2025
+HuggingFaceAPI|mistralai/Mistral-Small-3.1-24B-Instruct-2503
 HuggingFaceAPI|Qwen/Qwen2.5-VL-32B-Instruct
+HuggingFaceAPI|Salesforce/Llama-xLAM-2-8b-fc-r
 HuggingFaceAPI|meta-llama/Llama-4-Maverick-17B-128E-Instruct
+HuggingFaceAPI|Qwen/Qwen3-8B-Base
 HuggingFaceAPI|Qwen/Qwen3-14B-Base
-HuggingFaceAPI|deepseek-ai/DeepSeek-R1-0528-Qwen3-8B
-HuggingFaceAPI|CohereLabs/c4ai-command-r-plus
-HuggingFaceAPI|elyza/Llama-3-ELYZA-JP-8B
+HuggingFaceAPI|baidu/ERNIE-4.5-21B-A3B-PT
+HuggingFaceAPI|nvidia/OpenReasoning-Nemotron-32B
+HuggingFaceAPI|Sao10K/L3-8B-Stheno-v3.2
 HuggingFaceAPI|meta-llama/Llama-Guard-3-8B
+HuggingFaceAPI|nothingiisreal/MN-12B-Celeste-V1.9
 HuggingFaceAPI|Qwen/Qwen2.5-7B
 HuggingFaceAPI|Qwen/Qwen2.5-32B-Instruct
-HuggingFaceAPI|google/gemma-2-2b-jpn-it
 HuggingFaceAPI|CohereLabs/aya-expanse-8b
 HuggingFaceAPI|Qwen/Qwen2.5-Coder-3B-Instruct
-HuggingFaceAPI|deepseek-ai/DeepSeek-R1-Distill-Llama-8B
+HuggingFaceAPI|jinaai/ReaderLM-v2
+HuggingFaceAPI|deepseek-ai/DeepSeek-R1-Distill-Qwen-7B
 HuggingFaceAPI|mlabonne/gemma-3-27b-it-abliterated
 HuggingFaceAPI|Tesslate/Synthia-S1-27b
-HuggingFaceAPI|Qwen/Qwen3-8B-Base
+HuggingFaceAPI|DeepHat/DeepHat-V1-7B
 HuggingFaceAPI|Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1
 HuggingFaceAPI|zerofata/L3.3-GeneticLemonade-Unleashed-v3-70B
+HuggingFaceAPI|deepseek-ai/DeepSeek-R1-0528-Qwen3-8B
 HuggingFaceAPI|tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.5
-HuggingFaceAPI|baidu/ERNIE-4.5-VL-28B-A3B-PT
 HuggingFaceAPI|NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO
-HuggingFaceAPI|Qwen/Qwen1.5-1.8B-Chat
-HuggingFaceAPI|meta-llama/Meta-Llama-3-70B-Instruct
+HuggingFaceAPI|CohereLabs/c4ai-command-r-plus
+HuggingFaceAPI|mistralai/Mixtral-8x22B-Instruct-v0.1
 HuggingFaceAPI|MLP-KTLim/llama-3-Korean-Bllossom-8B
 HuggingFaceAPI|Qwen/Qwen2-1.5B
+HuggingFaceAPI|elyza/Llama-3-ELYZA-JP-8B
 HuggingFaceAPI|SeaLLMs/SeaLLMs-v3-7B-Chat
-HuggingFaceAPI|meta-llama/Llama-3.1-70B-Instruct
-HuggingFaceAPI|meta-llama/Llama-3.1-405B-Instruct
-HuggingFaceAPI|mistralai/Mistral-Nemo-Instruct-2407
 HuggingFaceAPI|unsloth/Meta-Llama-3.1-8B-Instruct
-HuggingFaceAPI|NousResearch/Hermes-3-Llama-3.1-8B
-HuggingFaceAPI|nothingiisreal/MN-12B-Celeste-V1.9
-HuggingFaceAPI|jinaai/reader-lm-1.5b
-HuggingFaceAPI|Qwen/Qwen2.5-1.5B
+HuggingFaceAPI|Qwen/Qwen2.5-14B
 HuggingFaceAPI|Qwen/Qwen2.5-72B-Instruct
-HuggingFaceAPI|Qwen/Qwen2.5-Math-7B-Instruct
+HuggingFaceAPI|google/gemma-2-2b-jpn-it
 HuggingFaceAPI|Orion-zhen/Qwen2.5-7B-Instruct-Uncensored
+HuggingFaceAPI|huihui-ai/Qwen2.5-7B-Instruct-abliterated-v3
 HuggingFaceAPI|Nitral-AI/Captain-Eris_Violet-V0.420-12B
-HuggingFaceAPI|deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
-HuggingFaceAPI|mistralai/Mistral-Small-24B-Instruct-2501
+HuggingFaceAPI|deepseek-ai/DeepSeek-R1-Distill-Llama-8B
+HuggingFaceAPI|CohereLabs/c4ai-command-a-03-2025
 HuggingFaceAPI|nvidia/Llama-3_3-Nemotron-Super-49B-v1
 HuggingFaceAPI|nvidia/Llama-3.1-Nemotron-Nano-8B-v1
-HuggingFaceAPI|deepcogito/cogito-v1-preview-llama-8B
 HuggingFaceAPI|meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8
 HuggingFaceAPI|INSAIT-Institute/MamayLM-Gemma-2-9B-IT-v0.1
-HuggingFaceAPI|DeepHat/DeepHat-V1-7B
-HuggingFaceAPI|Qwen/Qwen3-235B-A22B-FP8
 HuggingFaceAPI|PocketDoc/Dans-PersonalityEngine-V1.3.0-12b
 HuggingFaceAPI|WisdomShell/RewardAnything-8B-v1
 HuggingFaceAPI|Alibaba-NLP/WebDancer-32B
-HuggingFaceAPI|baidu/ERNIE-4.5-VL-424B-A47B-Base-PT
-HuggingFaceAPI|baidu/ERNIE-4.5-0.3B-PT
 HuggingFaceAPI|zerofata/L3.3-GeneticLemonade-Opus-70B
+HuggingFaceAPI|Trendyol/Trendyol-LLM-8B-T1
 HuggingFaceAPI|Tesslate/UIGEN-X-8B
 HuggingFaceAPI|meta-llama/Llama-2-13b-chat-hf
 HuggingFaceAPI|HuggingFaceH4/zephyr-7b-beta
 HuggingFaceAPI|clouditera/secgpt
+HuggingFaceAPI|Qwen/Qwen1.5-1.8B-Chat
 HuggingFaceAPI|bunnycore/Chimera-Apex-7B
-HuggingFaceAPI|mistralai/Mixtral-8x22B-Instruct-v0.1
+HuggingFaceAPI|meta-llama/Meta-Llama-3-70B-Instruct
 HuggingFaceAPI|skfrost19/BioMistralMerged
 HuggingFaceAPI|Bllossom/llama-3-Korean-Bllossom-70B
 HuggingFaceAPI|migtissera/Llama-3-8B-Synthia-v3.5
@@ -1016,35 +966,37 @@ HuggingFaceAPI|mlabonne/NeuralLlama-3-8B-Instruct-abliterated
 HuggingFaceAPI|mlabonne/NeuralDaredevil-8B-abliterated
 HuggingFaceAPI|Qwen/Qwen2-7B
 HuggingFaceAPI|bosonai/Higgs-Llama-3-70B
-HuggingFaceAPI|Sao10K/L3-70B-Euryale-v2.1
 HuggingFaceAPI|Weyaxi/Einstein-v7-Qwen2-7B
-HuggingFaceAPI|2121-8/TinySlime-1.1B-Chat-v1.0
+HuggingFaceAPI|m42-health/Llama3-Med42-70B
+HuggingFaceAPI|meta-llama/Llama-3.1-70B-Instruct
+HuggingFaceAPI|mistralai/Mistral-Nemo-Instruct-2407
 HuggingFaceAPI|mlabonne/Meta-Llama-3.1-8B-Instruct-abliterated
-HuggingFaceAPI|aifeifei798/DarkIdol-Llama-3.1-8B-Instruct-1.2-Uncensored
+HuggingFaceAPI|NousResearch/Hermes-3-Llama-3.1-8B
 HuggingFaceAPI|NousResearch/Hermes-3-Llama-3.1-70B
 HuggingFaceAPI|mlabonne/Hermes-3-Llama-3.1-8B-lorablated
 HuggingFaceAPI|silma-ai/SILMA-9B-Instruct-v1.0
-HuggingFaceAPI|Qwen/Qwen2.5-14B
+HuggingFaceAPI|jinaai/reader-lm-1.5b
+HuggingFaceAPI|Qwen/Qwen2.5-1.5B
 HuggingFaceAPI|Qwen/Qwen2.5-32B
 HuggingFaceAPI|Qwen/Qwen2.5-72B
-HuggingFaceAPI|Qwen/Qwen2.5-Coder-7B
 HuggingFaceAPI|Qwen/Qwen2.5-Math-1.5B
 HuggingFaceAPI|Qwen/Qwen2.5-Math-1.5B-Instruct
 HuggingFaceAPI|Qwen/Qwen2-VL-72B-Instruct
 HuggingFaceAPI|Qwen/Qwen2.5-Coder-1.5B
 HuggingFaceAPI|unsloth/Qwen2.5-7B-Instruct
+HuggingFaceAPI|Qwen/Qwen2.5-Math-7B-Instruct
+HuggingFaceAPI|huihui-ai/Qwen2.5-32B-Instruct-abliterated
 HuggingFaceAPI|HumanLLMs/Human-Like-Mistral-Nemo-Instruct-2407
-HuggingFaceAPI|huihui-ai/Qwen2.5-7B-Instruct-abliterated-v3
+HuggingFaceAPI|CohereLabs/aya-expanse-32b
 HuggingFaceAPI|mukaj/Llama-3.1-Hawkish-8B
+HuggingFaceAPI|aisingapore/Gemma-SEA-LION-v3-9B-IT
 HuggingFaceAPI|PygmalionAI/Pygmalion-3-12B
 HuggingFaceAPI|Qwen/Qwen2.5-Coder-14B-Instruct
 HuggingFaceAPI|FallenMerick/MN-Violet-Lotus-12B
-HuggingFaceAPI|dnotitia/Llama-DNA-1.0-8B-Instruct
 HuggingFaceAPI|scb10x/llama3.1-typhoon2-8b-instruct
-HuggingFaceAPI|SakanaAI/TinySwallow-1.5B
-HuggingFaceAPI|Sao10K/32B-Qwen2.5-Kunou-v1
-HuggingFaceAPI|SakanaAI/TinySwallow-1.5B-Instruct
+HuggingFaceAPI|Steelskull/L3.3-MS-Nevoria-70b
 HuggingFaceAPI|deepseek-ai/DeepSeek-R1-Distill-Llama-70B
+HuggingFaceAPI|deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
 HuggingFaceAPI|unsloth/DeepSeek-R1-Distill-Llama-8B
 HuggingFaceAPI|mlx-community/DeepSeek-R1-Distill-Qwen-14B
 HuggingFaceAPI|huihui-ai/DeepSeek-R1-Distill-Qwen-14B-abliterated
@@ -1053,13 +1005,14 @@ HuggingFaceAPI|huihui-ai/DeepSeek-R1-Distill-Qwen-14B-abliterated-v2
 HuggingFaceAPI|silma-ai/SILMA-Kashif-2B-Instruct-v1.0
 HuggingFaceAPI|cyberagent/DeepSeek-R1-Distill-Qwen-32B-Japanese
 HuggingFaceAPI|open-thoughts/OpenThinker-7B
+HuggingFaceAPI|mistralai/Mistral-Small-24B-Instruct-2501
+HuggingFaceAPI|huihui-ai/Mistral-Small-24B-Instruct-2501-abliterated
 HuggingFaceAPI|NousResearch/DeepHermes-3-Llama-3-8B-Preview
 HuggingFaceAPI|Vikhrmodels/Qwen2.5-7B-Instruct-Tool-Planning-v0.1
 HuggingFaceAPI|PocketDoc/Dans-PersonalityEngine-V1.2.0-24b
 HuggingFaceAPI|ByteDance-Seed/BFS-Prover
 HuggingFaceAPI|CohereLabs/c4ai-command-r7b-arabic-02-2025
 HuggingFaceAPI|CohereLabs/aya-vision-32b
-HuggingFaceAPI|allura-org/Gemma-3-Glitter-12B
 HuggingFaceAPI|huihui-ai/gemma-3-12b-it-abliterated
 HuggingFaceAPI|all-hands/openhands-lm-32b-v0.1
 HuggingFaceAPI|huihui-ai/gemma-3-27b-it-abliterated
@@ -1067,12 +1020,12 @@ HuggingFaceAPI|agentica-org/DeepCoder-14B-Preview
 HuggingFaceAPI|nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
 HuggingFaceAPI|google/gemma-3-12b-it-qat-q4_0-unquantized
 HuggingFaceAPI|sleepdeprived3/Christian-Bible-Expert-v2.0-12B
-HuggingFaceAPI|allura-org/Gemma-3-Glitter-27B
+HuggingFaceAPI|aisingapore/Llama-SEA-LION-v3.5-8B-R
 HuggingFaceAPI|soob3123/amoral-gemma3-12B-v2-qat
 HuggingFaceAPI|allura-org/GLM4-9B-Neon-v2
 HuggingFaceAPI|unsloth/Qwen3-8B
-HuggingFaceAPI|allura-org/GLM4-32B-Neon-v2
-HuggingFaceAPI|microsoft/NextCoder-32B
+HuggingFaceAPI|Qwen/Qwen3-235B-A22B-FP8
+HuggingFaceAPI|deepseek-ai/DeepSeek-Prover-V2-671B
 HuggingFaceAPI|RedHatAI/Llama-3.1-8B-Instruct
 HuggingFaceAPI|a-m-team/AM-Thinking-v1
 HuggingFaceAPI|nvidia/AceReason-Nemotron-14B
@@ -1081,26 +1034,26 @@ HuggingFaceAPI|Tongyi-Zhiwen/QwenLong-L1-32B
 HuggingFaceAPI|Qwen/Qwen3-8B-MLX-bf16
 HuggingFaceAPI|open-thoughts/OpenThinker3-7B
 HuggingFaceAPI|ArliAI/DS-R1-Qwen3-8B-ArliAI-RpR-v4-Small
+HuggingFaceAPI|Unbabel/Tower-Plus-72B
 HuggingFaceAPI|Skywork/Skywork-SWE-32B
 HuggingFaceAPI|MiniMaxAI/MiniMax-M1-80k
-HuggingFaceAPI|Intelligent-Internet/II-Medical-8B-1706
 HuggingFaceAPI|THU-KEG/LongWriter-Zero-32B
 HuggingFaceAPI|netease-youdao/Confucius3-Math
 HuggingFaceAPI|unsloth/Mistral-Small-3.2-24B-Instruct-2506
 HuggingFaceAPI|katanemo/Arch-Agent-7B
 HuggingFaceAPI|katanemo/Arch-Agent-32B
-HuggingFaceAPI|baidu/ERNIE-4.5-300B-A47B-Base-PT
+HuggingFaceAPI|baidu/ERNIE-4.5-VL-424B-A47B-Base-PT
+HuggingFaceAPI|baidu/ERNIE-4.5-VL-28B-A3B-PT
+HuggingFaceAPI|baidu/ERNIE-4.5-0.3B-PT
 HuggingFaceAPI|AI-MO/Kimina-Prover-72B
-HuggingFaceAPI|nvidia/OpenReasoning-Nemotron-7B
-HuggingFaceAPI|Trendyol/Trendyol-LLM-8B-T1
 HuggingFaceAPI|maldv/Doctor-Kunou-72b
 HuggingFaceAPI|sophosympatheia/Strawberrylemonade-L3-70B-v1.1
-HuggingFaceAPI|ReadyArt/L3.3-The-Omega-Directive-70B-Unslop-v2.0
 HuggingFaceAPI|UnfilteredAI/DAN-L3-R1-8B
-HuggingFaceAPI|ReadyArt/Omega-Darker_The-Final-Directive-24B
 HuggingFaceAPI|ReadyArt/Broken-Tutu-24B-Unslop-v2.0
-HuggingFaceAPI|spow12/ChatWaifu_v1.4
+HuggingFaceAPI|ReadyArt/L3.3-The-Omega-Directive-70B-Unslop-v2.0
 HuggingFaceAPI|mergekit-community/Deepseek-R1-Distill-NSFW-RPv1
+HuggingFaceAPI|ReadyArt/Omega-Darker_The-Final-Directive-24B
+HuggingFaceAPI|ReadyArt/Broken-Tutu-24B-Transgression-v2.0
 HuggingFaceAPI|Retreatcost/KansenSakura-Zero-RP-12b
 HuggingFaceAPI|google/gemma-3-27b-it
 HuggingFaceMedia|Wan-AI/Wan2.2-TI2V-5B
@@ -1112,19 +1065,17 @@ HuggingFaceMedia|Wan-AI/Wan2.2-T2V-A14B-Diffusers
 HuggingFaceMedia|Wan-AI/Wan2.2-T2V-A14B-Diffusers:fal-ai
 HuggingFaceMedia|tencent/HunyuanVideo
 HuggingFaceMedia|tencent/HunyuanVideo:fal-ai
+HuggingFaceMedia|Wan-AI/Wan2.1-T2V-1.3B
+HuggingFaceMedia|Wan-AI/Wan2.1-T2V-1.3B:fal-ai
+HuggingFaceMedia|Wan-AI/Wan2.1-T2V-1.3B:replicate
 HuggingFaceMedia|Wan-AI/Wan2.1-T2V-14B
 HuggingFaceMedia|Wan-AI/Wan2.1-T2V-14B:novita
 HuggingFaceMedia|Wan-AI/Wan2.1-T2V-14B:fal-ai
 HuggingFaceMedia|Wan-AI/Wan2.1-T2V-14B:replicate
-HuggingFaceMedia|Wan-AI/Wan2.1-T2V-1.3B
-HuggingFaceMedia|Wan-AI/Wan2.1-T2V-1.3B:fal-ai
-HuggingFaceMedia|Wan-AI/Wan2.1-T2V-1.3B:replicate
 HuggingFaceMedia|zai-org/CogVideoX-5b
 HuggingFaceMedia|zai-org/CogVideoX-5b:fal-ai
 HuggingFaceMedia|genmo/mochi-1-preview
 HuggingFaceMedia|genmo/mochi-1-preview:fal-ai
-HuggingFaceMedia|Lightricks/LTX-Video-0.9.7-dev
-HuggingFaceMedia|Lightricks/LTX-Video-0.9.7-dev:fal-ai
 HuggingFaceMedia|Qwen/Qwen-Image
 HuggingFaceMedia|Qwen/Qwen-Image:fal-ai
 HuggingFaceMedia|Qwen/Qwen-Image:replicate
@@ -1142,6 +1093,9 @@ HuggingFaceMedia|stabilityai/stable-diffusion-xl-base-1.0:nebius
 HuggingFaceMedia|stabilityai/stable-diffusion-xl-base-1.0:nscale
 HuggingFaceMedia|stabilityai/stable-diffusion-xl-base-1.0:replicate
 HuggingFaceMedia|stabilityai/stable-diffusion-xl-base-1.0:hf-inference
+HuggingFaceMedia|stabilityai/stable-diffusion-3.5-large
+HuggingFaceMedia|stabilityai/stable-diffusion-3.5-large:fal-ai
+HuggingFaceMedia|stabilityai/stable-diffusion-3.5-large:replicate
 HuggingFaceMedia|black-forest-labs/FLUX.1-schnell
 HuggingFaceMedia|black-forest-labs/FLUX.1-schnell:nebius
 HuggingFaceMedia|black-forest-labs/FLUX.1-schnell:together
@@ -1149,112 +1103,95 @@ HuggingFaceMedia|black-forest-labs/FLUX.1-schnell:fal-ai
 HuggingFaceMedia|black-forest-labs/FLUX.1-schnell:nscale
 HuggingFaceMedia|black-forest-labs/FLUX.1-schnell:replicate
 HuggingFaceMedia|black-forest-labs/FLUX.1-schnell:hf-inference
-HuggingFaceMedia|stabilityai/stable-diffusion-3.5-large
-HuggingFaceMedia|stabilityai/stable-diffusion-3.5-large:fal-ai
-HuggingFaceMedia|stabilityai/stable-diffusion-3.5-large:replicate
 HuggingFaceMedia|ByteDance/Hyper-SD
 HuggingFaceMedia|ByteDance/Hyper-SD:fal-ai
 HuggingFaceMedia|ByteDance/Hyper-SD:replicate
 HuggingFaceMedia|ByteDance/Hyper-SD:replicate
 HuggingFaceMedia|stabilityai/stable-diffusion-3.5-medium
 HuggingFaceMedia|stabilityai/stable-diffusion-3.5-medium:fal-ai
-HuggingFaceMedia|fofr/sdxl-emoji
-HuggingFaceMedia|fofr/sdxl-emoji:fal-ai
 HuggingFaceMedia|ByteDance/SDXL-Lightning
 HuggingFaceMedia|ByteDance/SDXL-Lightning:fal-ai
 HuggingFaceMedia|ByteDance/SDXL-Lightning:replicate
+HuggingFaceMedia|fofr/sdxl-emoji
+HuggingFaceMedia|fofr/sdxl-emoji:fal-ai
 HuggingFaceMedia|HiDream-ai/HiDream-I1-Full
 HuggingFaceMedia|HiDream-ai/HiDream-I1-Full:fal-ai
-HuggingFaceMedia|tarfandoon/farshchian_flux
-HuggingFaceMedia|tarfandoon/farshchian_flux:fal-ai
-HuggingFaceMedia|tarfandoon/farshchian_flux:replicate
 HuggingFaceMedia|42lux/42lux-Schwarzwald-Klinik
 HuggingFaceMedia|42lux/42lux-Schwarzwald-Klinik:fal-ai
 HuggingFaceMedia|42lux/42lux-Schwarzwald-Klinik:replicate
-HuggingFaceMedia|alvdansen/softserve_anime
-HuggingFaceMedia|alvdansen/softserve_anime:fal-ai
-HuggingFaceMedia|alvdansen/softserve_anime:replicate
+HuggingFaceMedia|stabilityai/stable-diffusion-3-medium
+HuggingFaceMedia|stabilityai/stable-diffusion-3-medium:fal-ai
 HuggingFaceMedia|Shakker-Labs/FLUX.1-dev-LoRA-Logo-Design
 HuggingFaceMedia|Shakker-Labs/FLUX.1-dev-LoRA-Logo-Design:fal-ai
 HuggingFaceMedia|Shakker-Labs/FLUX.1-dev-LoRA-Logo-Design:replicate
 HuggingFaceMedia|UmeAiRT/FLUX.1-dev-LoRA-Modern_Pixel_art
 HuggingFaceMedia|UmeAiRT/FLUX.1-dev-LoRA-Modern_Pixel_art:fal-ai
 HuggingFaceMedia|UmeAiRT/FLUX.1-dev-LoRA-Modern_Pixel_art:replicate
+HuggingFaceMedia|Kwai-Kolors/Kolors
+HuggingFaceMedia|Kwai-Kolors/Kolors:fal-ai
+HuggingFaceMedia|XLabs-AI/flux-RealismLora
+HuggingFaceMedia|XLabs-AI/flux-RealismLora:fal-ai
+HuggingFaceMedia|XLabs-AI/flux-RealismLora:replicate
+HuggingFaceMedia|aleksa-codes/flux-ghibsky-illustration
+HuggingFaceMedia|aleksa-codes/flux-ghibsky-illustration:fal-ai
+HuggingFaceMedia|aleksa-codes/flux-ghibsky-illustration:replicate
+HuggingFaceMedia|Efficient-Large-Model/Sana_1600M_1024px
+HuggingFaceMedia|Efficient-Large-Model/Sana_1600M_1024px:fal-ai
+HuggingFaceMedia|glif-loradex-trainer/AP123_movie_shots_ic_lora_experiment_v1
+HuggingFaceMedia|glif-loradex-trainer/AP123_movie_shots_ic_lora_experiment_v1:fal-ai
+HuggingFaceMedia|glif-loradex-trainer/AP123_movie_shots_ic_lora_experiment_v1:replicate
 HuggingFaceMedia|prithivMLmods/Retro-Pixel-Flux-LoRA
 HuggingFaceMedia|prithivMLmods/Retro-Pixel-Flux-LoRA:fal-ai
 HuggingFaceMedia|prithivMLmods/Retro-Pixel-Flux-LoRA:replicate
 HuggingFaceMedia|strangerzonehf/Flux-Super-Realism-LoRA
 HuggingFaceMedia|strangerzonehf/Flux-Super-Realism-LoRA:fal-ai
 HuggingFaceMedia|strangerzonehf/Flux-Super-Realism-LoRA:replicate
-HuggingFaceMedia|strangerzonehf/Flux-Midjourney-Mix2-LoRA
-HuggingFaceMedia|strangerzonehf/Flux-Midjourney-Mix2-LoRA:fal-ai
-HuggingFaceMedia|strangerzonehf/Flux-Midjourney-Mix2-LoRA:replicate
+HuggingFaceMedia|glif-loradex-trainer/Lamia-000_Antoinette
+HuggingFaceMedia|glif-loradex-trainer/Lamia-000_Antoinette:fal-ai
+HuggingFaceMedia|glif-loradex-trainer/Lamia-000_Antoinette:replicate
+HuggingFaceMedia|tarfandoon/farshchian_flux
+HuggingFaceMedia|tarfandoon/farshchian_flux:fal-ai
+HuggingFaceMedia|tarfandoon/farshchian_flux:replicate
 HuggingFaceMedia|ajinkyaT/flux-kontext-inpaint-lora
 HuggingFaceMedia|ajinkyaT/flux-kontext-inpaint-lora:fal-ai
 HuggingFaceMedia|ajinkyaT/flux-kontext-inpaint-lora:replicate
+HuggingFaceMedia|TheLastBen/Josef_Koudelka_Style_SDXL
+HuggingFaceMedia|TheLastBen/Josef_Koudelka_Style_SDXL:fal-ai
 HuggingFaceMedia|nerijs/pixel-art-xl
 HuggingFaceMedia|nerijs/pixel-art-xl:fal-ai
-HuggingFaceMedia|stabilityai/stable-diffusion-3-medium
-HuggingFaceMedia|stabilityai/stable-diffusion-3-medium:fal-ai
-HuggingFaceMedia|Kwai-Kolors/Kolors
-HuggingFaceMedia|Kwai-Kolors/Kolors:fal-ai
+HuggingFaceMedia|nerijs/lego-minifig-xl
+HuggingFaceMedia|nerijs/lego-minifig-xl:fal-ai
+HuggingFaceMedia|artificialguybr/StickersRedmond
+HuggingFaceMedia|artificialguybr/StickersRedmond:fal-ai
+HuggingFaceMedia|ostris/ikea-instructions-lora-sdxl
+HuggingFaceMedia|ostris/ikea-instructions-lora-sdxl:fal-ai
+HuggingFaceMedia|blink7630/storyboard-sketch
+HuggingFaceMedia|blink7630/storyboard-sketch:fal-ai
+HuggingFaceMedia|piebro/factorio-blueprint-visualizations-sdxl-lora
+HuggingFaceMedia|piebro/factorio-blueprint-visualizations-sdxl-lora:fal-ai
+HuggingFaceMedia|rikhoffbauer2/naomi-makkelie-seaweed-painting-style-4
+HuggingFaceMedia|rikhoffbauer2/naomi-makkelie-seaweed-painting-style-4:fal-ai
+HuggingFaceMedia|playgroundai/playground-v2.5-1024px-aesthetic
+HuggingFaceMedia|playgroundai/playground-v2.5-1024px-aesthetic:replicate
+HuggingFaceMedia|alexionby/south_park_lora
+HuggingFaceMedia|alexionby/south_park_lora:fal-ai
+HuggingFaceMedia|sWizad/pokemon-trainer-sprite-pixelart
+HuggingFaceMedia|sWizad/pokemon-trainer-sprite-pixelart:fal-ai
 HuggingFaceMedia|alvdansen/midsommarcartoon
 HuggingFaceMedia|alvdansen/midsommarcartoon:fal-ai
+HuggingFaceMedia|StableGenius-AI/dana-trippee-sdxl-1.0
+HuggingFaceMedia|StableGenius-AI/dana-trippee-sdxl-1.0:fal-ai
+HuggingFaceMedia|prithivMLmods/Canopus-Isometric-InteriorDesign-3D
+HuggingFaceMedia|prithivMLmods/Canopus-Isometric-InteriorDesign-3D:fal-ai
+HuggingFaceMedia|alvdansen/softserve_anime
+HuggingFaceMedia|alvdansen/softserve_anime:fal-ai
+HuggingFaceMedia|alvdansen/softserve_anime:replicate
 HuggingFaceMedia|davisbro/half_illustration
 HuggingFaceMedia|davisbro/half_illustration:fal-ai
 HuggingFaceMedia|davisbro/half_illustration:replicate
 HuggingFaceMedia|multimodalart/flux-tarot-v1
 HuggingFaceMedia|multimodalart/flux-tarot-v1:fal-ai
 HuggingFaceMedia|multimodalart/flux-tarot-v1:replicate
-HuggingFaceMedia|renderartist/simplevectorflux
-HuggingFaceMedia|renderartist/simplevectorflux:fal-ai
-HuggingFaceMedia|renderartist/simplevectorflux:replicate
-HuggingFaceMedia|Efficient-Large-Model/Sana_1600M_1024px
-HuggingFaceMedia|Efficient-Large-Model/Sana_1600M_1024px:fal-ai
-HuggingFaceMedia|tryonlabs/FLUX.1-dev-LoRA-Outfit-Generator
-HuggingFaceMedia|tryonlabs/FLUX.1-dev-LoRA-Outfit-Generator:fal-ai
-HuggingFaceMedia|tryonlabs/FLUX.1-dev-LoRA-Outfit-Generator:replicate
-HuggingFaceMedia|glif-loradex-trainer/AP123_movie_shots_ic_lora_experiment_v1
-HuggingFaceMedia|glif-loradex-trainer/AP123_movie_shots_ic_lora_experiment_v1:fal-ai
-HuggingFaceMedia|glif-loradex-trainer/AP123_movie_shots_ic_lora_experiment_v1:replicate
-HuggingFaceMedia|glif-loradex-trainer/Lamia-000_Antoinette
-HuggingFaceMedia|glif-loradex-trainer/Lamia-000_Antoinette:fal-ai
-HuggingFaceMedia|glif-loradex-trainer/Lamia-000_Antoinette:replicate
-HuggingFaceMedia|multimodalart/isometric-skeumorphic-3d-bnb
-HuggingFaceMedia|multimodalart/isometric-skeumorphic-3d-bnb:fal-ai
-HuggingFaceMedia|multimodalart/isometric-skeumorphic-3d-bnb:replicate
-HuggingFaceMedia|TheLastBen/Josef_Koudelka_Style_SDXL
-HuggingFaceMedia|TheLastBen/Josef_Koudelka_Style_SDXL:fal-ai
-HuggingFaceMedia|nerijs/lego-minifig-xl
-HuggingFaceMedia|nerijs/lego-minifig-xl:fal-ai
-HuggingFaceMedia|goofyai/3d_render_style_xl
-HuggingFaceMedia|goofyai/3d_render_style_xl:fal-ai
-HuggingFaceMedia|artificialguybr/StickersRedmond
-HuggingFaceMedia|artificialguybr/StickersRedmond:fal-ai
-HuggingFaceMedia|artificialguybr/PixelArtRedmond
-HuggingFaceMedia|artificialguybr/PixelArtRedmond:fal-ai
-HuggingFaceMedia|ostris/ikea-instructions-lora-sdxl
-HuggingFaceMedia|ostris/ikea-instructions-lora-sdxl:fal-ai
-HuggingFaceMedia|blink7630/storyboard-sketch
-HuggingFaceMedia|blink7630/storyboard-sketch:fal-ai
-HuggingFaceMedia|ntc-ai/SDXL-LoRA-slider.pixel-art
-HuggingFaceMedia|ntc-ai/SDXL-LoRA-slider.pixel-art:fal-ai
-HuggingFaceMedia|rikhoffbauer2/naomi-makkelie-seaweed-painting-style-4
-HuggingFaceMedia|rikhoffbauer2/naomi-makkelie-seaweed-painting-style-4:fal-ai
-HuggingFaceMedia|alexionby/south_park_lora
-HuggingFaceMedia|alexionby/south_park_lora:fal-ai
-HuggingFaceMedia|sWizad/pokemon-trainer-sprite-pixelart
-HuggingFaceMedia|sWizad/pokemon-trainer-sprite-pixelart:fal-ai
-HuggingFaceMedia|alvdansen/littletinies
-HuggingFaceMedia|alvdansen/littletinies:fal-ai
-HuggingFaceMedia|StableGenius-AI/dana-trippee-sdxl-1.0
-HuggingFaceMedia|StableGenius-AI/dana-trippee-sdxl-1.0:fal-ai
-HuggingFaceMedia|XLabs-AI/flux-RealismLora
-HuggingFaceMedia|XLabs-AI/flux-RealismLora:fal-ai
-HuggingFaceMedia|XLabs-AI/flux-RealismLora:replicate
-HuggingFaceMedia|Norod78/Flux_1_Dev_LoRA_Paper-Cutout-Style
-HuggingFaceMedia|Norod78/Flux_1_Dev_LoRA_Paper-Cutout-Style:fal-ai
-HuggingFaceMedia|Norod78/Flux_1_Dev_LoRA_Paper-Cutout-Style:replicate
 HuggingFaceMedia|samim/flow-lora-2
 HuggingFaceMedia|samim/flow-lora-2:fal-ai
 HuggingFaceMedia|samim/flow-lora-2:replicate
@@ -1263,9 +1200,6 @@ HuggingFaceMedia|Tech-Meld/her-eyes:fal-ai
 HuggingFaceMedia|alvdansen/haunted_linework_flux
 HuggingFaceMedia|alvdansen/haunted_linework_flux:fal-ai
 HuggingFaceMedia|alvdansen/haunted_linework_flux:replicate
-HuggingFaceMedia|aleksa-codes/flux-ghibsky-illustration
-HuggingFaceMedia|aleksa-codes/flux-ghibsky-illustration:fal-ai
-HuggingFaceMedia|aleksa-codes/flux-ghibsky-illustration:replicate
 HuggingFaceMedia|nerijs/dark-fantasy-illustration-flux
 HuggingFaceMedia|nerijs/dark-fantasy-illustration-flux:fal-ai
 HuggingFaceMedia|nerijs/dark-fantasy-illustration-flux:replicate
@@ -1275,39 +1209,24 @@ HuggingFaceMedia|multimodalart/vintage-ads-flux:replicate
 HuggingFaceMedia|Shakker-Labs/FLUX.1-dev-LoRA-add-details
 HuggingFaceMedia|Shakker-Labs/FLUX.1-dev-LoRA-add-details:fal-ai
 HuggingFaceMedia|Shakker-Labs/FLUX.1-dev-LoRA-add-details:replicate
-HuggingFaceMedia|Shakker-Labs/FLUX.1-dev-LoRA-Vector-Journey
-HuggingFaceMedia|Shakker-Labs/FLUX.1-dev-LoRA-Vector-Journey:fal-ai
-HuggingFaceMedia|Shakker-Labs/FLUX.1-dev-LoRA-Vector-Journey:replicate
 HuggingFaceMedia|aditxgupta/sai_pallavi_lora
 HuggingFaceMedia|aditxgupta/sai_pallavi_lora:fal-ai
 HuggingFaceMedia|aditxgupta/sai_pallavi_lora:replicate
 HuggingFaceMedia|pablobonilla/flux-realistic-lora
 HuggingFaceMedia|pablobonilla/flux-realistic-lora:fal-ai
 HuggingFaceMedia|pablobonilla/flux-realistic-lora:replicate
-HuggingFaceMedia|Shakker-Labs/FLUX.1-dev-LoRA-Children-Simple-Sketch
-HuggingFaceMedia|Shakker-Labs/FLUX.1-dev-LoRA-Children-Simple-Sketch:fal-ai
-HuggingFaceMedia|Shakker-Labs/FLUX.1-dev-LoRA-Children-Simple-Sketch:replicate
-HuggingFaceMedia|bingbangboom/flux_geopop
-HuggingFaceMedia|bingbangboom/flux_geopop:fal-ai
-HuggingFaceMedia|bingbangboom/flux_geopop:replicate
-HuggingFaceMedia|glif/how2draw
-HuggingFaceMedia|glif/how2draw:fal-ai
-HuggingFaceMedia|glif/how2draw:replicate
 HuggingFaceMedia|glif/dithering
 HuggingFaceMedia|glif/dithering:fal-ai
 HuggingFaceMedia|glif/dithering:replicate
+HuggingFaceMedia|renderartist/simplevectorflux
+HuggingFaceMedia|renderartist/simplevectorflux:fal-ai
+HuggingFaceMedia|renderartist/simplevectorflux:replicate
 HuggingFaceMedia|glif/90s-anime-art
 HuggingFaceMedia|glif/90s-anime-art:fal-ai
 HuggingFaceMedia|glif/90s-anime-art:replicate
-HuggingFaceMedia|renderartist/coloringbookflux
-HuggingFaceMedia|renderartist/coloringbookflux:fal-ai
-HuggingFaceMedia|renderartist/coloringbookflux:replicate
-HuggingFaceMedia|Shakker-Labs/FLUX.1-dev-LoRA-One-Click-Creative-Template
-HuggingFaceMedia|Shakker-Labs/FLUX.1-dev-LoRA-One-Click-Creative-Template:fal-ai
-HuggingFaceMedia|Shakker-Labs/FLUX.1-dev-LoRA-One-Click-Creative-Template:replicate
-HuggingFaceMedia|renderartist/toyboxflux
-HuggingFaceMedia|renderartist/toyboxflux:fal-ai
-HuggingFaceMedia|renderartist/toyboxflux:replicate
+HuggingFaceMedia|cfahlgren1/flux-qwen-capybara
+HuggingFaceMedia|cfahlgren1/flux-qwen-capybara:fal-ai
+HuggingFaceMedia|cfahlgren1/flux-qwen-capybara:replicate
 HuggingFaceMedia|Purz/choose-your-own-adventure
 HuggingFaceMedia|Purz/choose-your-own-adventure:fal-ai
 HuggingFaceMedia|Purz/choose-your-own-adventure:replicate
@@ -1317,18 +1236,15 @@ HuggingFaceMedia|fabdream/Comicbook-vintage:replicate
 HuggingFaceMedia|prithivMLmods/Canopus-LoRA-Flux-UltraRealism-2.0
 HuggingFaceMedia|prithivMLmods/Canopus-LoRA-Flux-UltraRealism-2.0:fal-ai
 HuggingFaceMedia|prithivMLmods/Canopus-LoRA-Flux-UltraRealism-2.0:replicate
-HuggingFaceMedia|elifergunes/background_only_game_2
-HuggingFaceMedia|elifergunes/background_only_game_2:fal-ai
-HuggingFaceMedia|elifergunes/background_only_game_2:replicate
-HuggingFaceMedia|gokaygokay/Flux-Game-Assets-LoRA-v2
-HuggingFaceMedia|gokaygokay/Flux-Game-Assets-LoRA-v2:fal-ai
-HuggingFaceMedia|gokaygokay/Flux-Game-Assets-LoRA-v2:replicate
 HuggingFaceMedia|martintomov/ecom-flux-v1
 HuggingFaceMedia|martintomov/ecom-flux-v1:fal-ai
 HuggingFaceMedia|martintomov/ecom-flux-v1:replicate
 HuggingFaceMedia|glif-loradex-trainer/001_flux_wojaks_v1
 HuggingFaceMedia|glif-loradex-trainer/001_flux_wojaks_v1:fal-ai
 HuggingFaceMedia|glif-loradex-trainer/001_flux_wojaks_v1:replicate
+HuggingFaceMedia|stabilityai/stable-diffusion-3.5-large-turbo
+HuggingFaceMedia|stabilityai/stable-diffusion-3.5-large-turbo:fal-ai
+HuggingFaceMedia|stabilityai/stable-diffusion-3.5-large-turbo:replicate
 HuggingFaceMedia|Keltezaa/flux-chloe-grace-moretz
 HuggingFaceMedia|Keltezaa/flux-chloe-grace-moretz:fal-ai
 HuggingFaceMedia|Keltezaa/flux-chloe-grace-moretz:replicate
@@ -1338,60 +1254,30 @@ HuggingFaceMedia|prithivMLmods/Ton618-Only-Stickers-Flux-LoRA:replicate
 HuggingFaceMedia|prithivMLmods/Logo-Design-Flux-LoRA
 HuggingFaceMedia|prithivMLmods/Logo-Design-Flux-LoRA:fal-ai
 HuggingFaceMedia|prithivMLmods/Logo-Design-Flux-LoRA:replicate
-HuggingFaceMedia|prithivMLmods/Minimal-Futuristic-Flux-LoRA
-HuggingFaceMedia|prithivMLmods/Minimal-Futuristic-Flux-LoRA:fal-ai
-HuggingFaceMedia|prithivMLmods/Minimal-Futuristic-Flux-LoRA:replicate
-HuggingFaceMedia|gokaygokay/Flux-2D-Game-Assets-LoRA
-HuggingFaceMedia|gokaygokay/Flux-2D-Game-Assets-LoRA:fal-ai
-HuggingFaceMedia|gokaygokay/Flux-2D-Game-Assets-LoRA:replicate
+HuggingFaceMedia|tryonlabs/FLUX.1-dev-LoRA-Outfit-Generator
+HuggingFaceMedia|tryonlabs/FLUX.1-dev-LoRA-Outfit-Generator:fal-ai
+HuggingFaceMedia|tryonlabs/FLUX.1-dev-LoRA-Outfit-Generator:replicate
 HuggingFaceMedia|ayrisdev/mobile-ui-design
 HuggingFaceMedia|ayrisdev/mobile-ui-design:fal-ai
 HuggingFaceMedia|ayrisdev/mobile-ui-design:replicate
 HuggingFaceMedia|glif-loradex-trainer/insectagon_mugshots1
 HuggingFaceMedia|glif-loradex-trainer/insectagon_mugshots1:fal-ai
 HuggingFaceMedia|glif-loradex-trainer/insectagon_mugshots1:replicate
-HuggingFaceMedia|prithivMLmods/Knitted-Character-Flux-LoRA
-HuggingFaceMedia|prithivMLmods/Knitted-Character-Flux-LoRA:fal-ai
-HuggingFaceMedia|prithivMLmods/Knitted-Character-Flux-LoRA:replicate
-HuggingFaceMedia|prithivMLmods/Digital-Chaos-Flux-LoRA
-HuggingFaceMedia|prithivMLmods/Digital-Chaos-Flux-LoRA:fal-ai
-HuggingFaceMedia|prithivMLmods/Digital-Chaos-Flux-LoRA:replicate
-HuggingFaceMedia|prithivMLmods/Flux.1-Dev-Pov-DoorEye-LoRA
-HuggingFaceMedia|prithivMLmods/Flux.1-Dev-Pov-DoorEye-LoRA:fal-ai
-HuggingFaceMedia|prithivMLmods/Flux.1-Dev-Pov-DoorEye-LoRA:replicate
-HuggingFaceMedia|mmaluchnick/jessica-simpson-young-flux-model
-HuggingFaceMedia|mmaluchnick/jessica-simpson-young-flux-model:fal-ai
-HuggingFaceMedia|mmaluchnick/jessica-simpson-young-flux-model:replicate
-HuggingFaceMedia|glif-loradex-trainer/kklors_flux_dev_translucency
-HuggingFaceMedia|glif-loradex-trainer/kklors_flux_dev_translucency:fal-ai
-HuggingFaceMedia|glif-loradex-trainer/kklors_flux_dev_translucency:replicate
-HuggingFaceMedia|strangerzonehf/Flux-Isometric-3D-LoRA
-HuggingFaceMedia|strangerzonehf/Flux-Isometric-3D-LoRA:fal-ai
-HuggingFaceMedia|strangerzonehf/Flux-Isometric-3D-LoRA:replicate
-HuggingFaceMedia|strangerzonehf/Flux-Isometric-3D-Cinematography
-HuggingFaceMedia|strangerzonehf/Flux-Isometric-3D-Cinematography:fal-ai
-HuggingFaceMedia|strangerzonehf/Flux-Isometric-3D-Cinematography:replicate
+HuggingFaceMedia|strangerzonehf/Flux-Midjourney-Mix2-LoRA
+HuggingFaceMedia|strangerzonehf/Flux-Midjourney-Mix2-LoRA:fal-ai
+HuggingFaceMedia|strangerzonehf/Flux-Midjourney-Mix2-LoRA:replicate
 HuggingFaceMedia|jwywoo/storyboard-scene-generation-model-flux-v3-FLH
 HuggingFaceMedia|jwywoo/storyboard-scene-generation-model-flux-v3-FLH:fal-ai
 HuggingFaceMedia|jwywoo/storyboard-scene-generation-model-flux-v3-FLH:replicate
 HuggingFaceMedia|strangerzonehf/Flux-Icon-Kit-LoRA
 HuggingFaceMedia|strangerzonehf/Flux-Icon-Kit-LoRA:fal-ai
 HuggingFaceMedia|strangerzonehf/Flux-Icon-Kit-LoRA:replicate
-HuggingFaceMedia|strangerzonehf/Flux-Isometric-Site-LoRA
-HuggingFaceMedia|strangerzonehf/Flux-Isometric-Site-LoRA:fal-ai
-HuggingFaceMedia|strangerzonehf/Flux-Isometric-Site-LoRA:replicate
-HuggingFaceMedia|mrcuddle/live2d-model-maker
-HuggingFaceMedia|mrcuddle/live2d-model-maker:fal-ai
-HuggingFaceMedia|mrcuddle/live2d-model-maker:replicate
 HuggingFaceMedia|alastandy/Add-Dental-Braces-4
 HuggingFaceMedia|alastandy/Add-Dental-Braces-4:fal-ai
 HuggingFaceMedia|alastandy/Add-Dental-Braces-4:replicate
-HuggingFaceMedia|AIGCDuckBoss/fluxLora_gamecartoon
-HuggingFaceMedia|AIGCDuckBoss/fluxLora_gamecartoon:fal-ai
-HuggingFaceMedia|AIGCDuckBoss/fluxLora_gamecartoon:replicate
-HuggingFaceMedia|fofr/flux-handwriting
-HuggingFaceMedia|fofr/flux-handwriting:fal-ai
-HuggingFaceMedia|fofr/flux-handwriting:replicate
+HuggingFaceMedia|strangerzonehf/Flux-Xmas-Isometric-Kit-LoRA
+HuggingFaceMedia|strangerzonehf/Flux-Xmas-Isometric-Kit-LoRA:fal-ai
+HuggingFaceMedia|strangerzonehf/Flux-Xmas-Isometric-Kit-LoRA:replicate
 HuggingFaceMedia|strangerzonehf/Flux-Sketch-Smudge-LoRA
 HuggingFaceMedia|strangerzonehf/Flux-Sketch-Smudge-LoRA:fal-ai
 HuggingFaceMedia|strangerzonehf/Flux-Sketch-Smudge-LoRA:replicate
@@ -1400,12 +1286,14 @@ HuggingFaceMedia|tsala3p/flux-dev-mc-creative-logo-images-lora:fal-ai
 HuggingFaceMedia|tsala3p/flux-dev-mc-creative-logo-images-lora:replicate
 HuggingFaceMedia|AiWise/AlbedoBase-XL_v31-Large
 HuggingFaceMedia|AiWise/AlbedoBase-XL_v31-Large:fal-ai
-HuggingFaceMedia|Keltezaa/kristen-bell
-HuggingFaceMedia|Keltezaa/kristen-bell:fal-ai
-HuggingFaceMedia|Keltezaa/kristen-bell:replicate
+HuggingFaceMedia|Alpha-VLLM/Lumina-Image-2.0
+HuggingFaceMedia|Alpha-VLLM/Lumina-Image-2.0:fal-ai
 HuggingFaceMedia|strangerzonehf/2Color-Illustration
 HuggingFaceMedia|strangerzonehf/2Color-Illustration:fal-ai
 HuggingFaceMedia|strangerzonehf/2Color-Illustration:replicate
+HuggingFaceMedia|Keltezaa/Dynamic_Pose_Uncensored
+HuggingFaceMedia|Keltezaa/Dynamic_Pose_Uncensored:fal-ai
+HuggingFaceMedia|Keltezaa/Dynamic_Pose_Uncensored:replicate
 HuggingFaceMedia|Jonjew/Honkai3rd
 HuggingFaceMedia|Jonjew/Honkai3rd:fal-ai
 HuggingFaceMedia|Jonjew/Honkai3rd:replicate
@@ -1427,6 +1315,9 @@ HuggingFaceMedia|HiDream-ai/HiDream-I1-Fast:fal-ai
 HuggingFaceMedia|strangerzonehf/Flux-Midjourney-Painterly-LoRA
 HuggingFaceMedia|strangerzonehf/Flux-Midjourney-Painterly-LoRA:fal-ai
 HuggingFaceMedia|strangerzonehf/Flux-Midjourney-Painterly-LoRA:replicate
+HuggingFaceMedia|multimodalart/isometric-skeumorphic-3d-bnb
+HuggingFaceMedia|multimodalart/isometric-skeumorphic-3d-bnb:fal-ai
+HuggingFaceMedia|multimodalart/isometric-skeumorphic-3d-bnb:replicate
 HuggingFaceMedia|glif-loradex-trainer/Swap_agrawal14_aestheticretrocapturez
 HuggingFaceMedia|glif-loradex-trainer/Swap_agrawal14_aestheticretrocapturez:fal-ai
 HuggingFaceMedia|glif-loradex-trainer/Swap_agrawal14_aestheticretrocapturez:replicate
@@ -1442,21 +1333,21 @@ HuggingFaceMedia|VOidChill/ayesha:replicate
 HuggingFaceMedia|Seryoger/M0sya
 HuggingFaceMedia|Seryoger/M0sya:fal-ai
 HuggingFaceMedia|Seryoger/M0sya:replicate
-HuggingFaceMedia|CultriX/flux-nsfw-highress
-HuggingFaceMedia|CultriX/flux-nsfw-highress:fal-ai
-HuggingFaceMedia|CultriX/flux-nsfw-highress:replicate
-HuggingFaceMedia|openfree/flux-chatgpt-ghibli-lora
-HuggingFaceMedia|openfree/flux-chatgpt-ghibli-lora:fal-ai
-HuggingFaceMedia|openfree/flux-chatgpt-ghibli-lora:replicate
 HuggingFaceMedia|lustlyai/Flux_Lustly.ai_Uncensored_nsfw_v1
 HuggingFaceMedia|lustlyai/Flux_Lustly.ai_Uncensored_nsfw_v1:fal-ai
 HuggingFaceMedia|lustlyai/Flux_Lustly.ai_Uncensored_nsfw_v1:replicate
-HuggingFaceMedia|Keltezaa/blowjob-pov-flux-lora
-HuggingFaceMedia|Keltezaa/blowjob-pov-flux-lora:fal-ai
-HuggingFaceMedia|Keltezaa/blowjob-pov-flux-lora:replicate
-HuggingFaceMedia|Keltezaa/NSFW_MASTER_FLUX
-HuggingFaceMedia|Keltezaa/NSFW_MASTER_FLUX:fal-ai
-HuggingFaceMedia|Keltezaa/NSFW_MASTER_FLUX:replicate
+HuggingFaceMedia|openfree/flux-chatgpt-ghibli-lora
+HuggingFaceMedia|openfree/flux-chatgpt-ghibli-lora:fal-ai
+HuggingFaceMedia|openfree/flux-chatgpt-ghibli-lora:replicate
+HuggingFaceMedia|CultriX/flux-nsfw-highress
+HuggingFaceMedia|CultriX/flux-nsfw-highress:fal-ai
+HuggingFaceMedia|CultriX/flux-nsfw-highress:replicate
+HuggingFaceMedia|enhanceaiteam/Flux-uncensored
+HuggingFaceMedia|enhanceaiteam/Flux-uncensored:fal-ai
+HuggingFaceMedia|enhanceaiteam/Flux-uncensored:replicate
+HuggingFaceMedia|anthienlong/enhanceaiteam_uncensored
+HuggingFaceMedia|anthienlong/enhanceaiteam_uncensored:fal-ai
+HuggingFaceMedia|anthienlong/enhanceaiteam_uncensored:replicate
 HuggingFaceMedia|Jonjew/OnlyFansSexyPost
 HuggingFaceMedia|Jonjew/OnlyFansSexyPost:fal-ai
 HuggingFaceMedia|Jonjew/OnlyFansSexyPost:replicate
@@ -1594,231 +1485,231 @@ LambdaChat|llama-4-scout-17b-16e-instruct
 LambdaChat|llama3.3-70b-instruct-fp8
 LambdaChat|qwen3-32b-fp8
 LegacyLMArena|chatgpt-4o-latest-20250326
-LegacyLMArena|mistral-medium-2505
-LegacyLMArena|phi-4
+LegacyLMArena|claude-3-5-haiku-20241022
+LegacyLMArena|mistral-small-24b-instruct-2501
+LegacyLMArena|gemini-2.0-flash-lite-preview-02-05
+LegacyLMArena|llama-3.1-70b-instruct
+LegacyLMArena|gpt-4.1-nano-2025-04-14
+LegacyLMArena|gpt-4-0613
+LegacyLMArena|llama-2-70b-chat
+LegacyLMArena|stripedhyena-nous-7b
+LegacyLMArena|gemini-pro-dev-api
+LegacyLMArena|reka-core-20240722
+LegacyLMArena|qwen2.5-72b-instruct
+LegacyLMArena|chatgpt-4o-latest-20250129
+LegacyLMArena|pplx-7b-online
+LegacyLMArena|qwen-max-0919
+LegacyLMArena|qwen2.5-max
+LegacyLMArena|command-r-plus-08-2024
 LegacyLMArena|gemini-1.5-flash-8b-001
-LegacyLMArena|glm-4-plus-0111
+LegacyLMArena|o3-mini
+LegacyLMArena|gpt-4-0314
+LegacyLMArena|granite-3.0-8b-instruct
+LegacyLMArena|qwen1.5-72b-chat
+LegacyLMArena|claude-3-sonnet-20240229
+LegacyLMArena|gemini-2.0-flash-thinking-exp-1219
+LegacyLMArena|llama-3-70b-instruct
+LegacyLMArena|deepseek-v2.5
+LegacyLMArena|granite-3.0-2b-instruct
+LegacyLMArena|gemma-1.1-7b-it
+LegacyLMArena|gemma-2-9b-it-simpo
+LegacyLMArena|qwen-plus-0125
+LegacyLMArena|llama-3.1-tulu-3-70b
+LegacyLMArena|gpt-4o-mini-2024-07-18
+LegacyLMArena|gpt-3.5-turbo-0314
+LegacyLMArena|gemini-2.0-flash-exp
+LegacyLMArena|gemini-1.5-pro-exp-0801
 LegacyLMArena|gemma-2-9b-it
-LegacyLMArena|deepseek-coder-v2-0724
-LegacyLMArena|llama-3.1-8b-instruct
-LegacyLMArena|llama-3.1-nemotron-51b-instruct
-LegacyLMArena|vicuna-13b
-LegacyLMArena|llama-4-scout-17b-16e-instruct
+LegacyLMArena|grok-3-preview-02-24
+LegacyLMArena|mistral-large-2407
+LegacyLMArena|claude-3-7-sonnet-20250219
+LegacyLMArena|dbrx-instruct-preview
+LegacyLMArena|deepseek-r1
+LegacyLMArena|claude-3-7-sonnet-20250219-thinking-32k
+LegacyLMArena|gemini-2.5-pro-preview-05-06
+LegacyLMArena|grok-2-mini-2024-08-13
+LegacyLMArena|llama-2-7b-chat
+LegacyLMArena|palm-2
+LegacyLMArena|qwen1.5-32b-chat
+LegacyLMArena|gemini-advanced-0514
+LegacyLMArena|gemini-1.5-flash-001
+LegacyLMArena|koala-13b
+LegacyLMArena|early-grok-3
+LegacyLMArena|deepseek-v2.5-1210
+LegacyLMArena|llama-3.2-1b-instruct
+LegacyLMArena|qwen1.5-110b-chat
+LegacyLMArena|zephyr-7b-beta
 LegacyLMArena|mistral-large-2411
 LegacyLMArena|gpt-4-turbo-2024-04-09
-LegacyLMArena|grok-2-2024-08-13
-LegacyLMArena|claude-instant-1
-LegacyLMArena|qwen1.5-32b-chat
-LegacyLMArena|gemini-1.5-pro-002
-LegacyLMArena|gemini-1.5-flash-002
-LegacyLMArena|yi-lightning-lite
-LegacyLMArena|gemini-1.5-pro-001
-LegacyLMArena|deepseek-v2.5
-LegacyLMArena|dolly-v2-12b
-LegacyLMArena|early-grok-3
-LegacyLMArena|amazon-nova-lite-v1.0
-LegacyLMArena|llama-13b
-LegacyLMArena|c4ai-aya-expanse-32b
-LegacyLMArena|granite-3.1-8b-instruct
-LegacyLMArena|stripedhyena-nous-7b
-LegacyLMArena|claude-3-sonnet-20240229
-LegacyLMArena|gemma-2b-it
-LegacyLMArena|gpt-4-0613
-LegacyLMArena|reka-core-20240722
-LegacyLMArena|gpt-4-0314
-LegacyLMArena|mpt-30b-chat
-LegacyLMArena|chatglm2-6b
-LegacyLMArena|reka-flash-21b-20240226
-LegacyLMArena|gemma-7b-it
-LegacyLMArena|amazon-nova-pro-v1.0
-LegacyLMArena|koala-13b
-LegacyLMArena|qwen1.5-14b-chat
-LegacyLMArena|o4-mini-2025-04-16
-LegacyLMArena|gemini-2.0-flash-thinking-exp-01-21
-LegacyLMArena|claude-3-5-sonnet-20240620
-LegacyLMArena|gpt-4.1-2025-04-14
-LegacyLMArena|yi-lightning
-LegacyLMArena|granite-3.1-2b-instruct
-LegacyLMArena|qwen3-235b-a22b
-LegacyLMArena|claude-3-haiku-20240307
-LegacyLMArena|gemini-1.5-pro-exp-0801
-LegacyLMArena|chatgpt-4o-latest-20250129
-LegacyLMArena|pplx-70b-online
-LegacyLMArena|gemini-exp-1206
-LegacyLMArena|openchat-3.5-0106
-LegacyLMArena|reka-flash-preview-20240611
-LegacyLMArena|mistral-large-2407
-LegacyLMArena|mixtral-8x7b-instruct-v0.1
-LegacyLMArena|zephyr-7b-alpha
-LegacyLMArena|command-r
-LegacyLMArena|athene-70b-0725
-LegacyLMArena|ministral-8b-2410
-LegacyLMArena|mistral-small-24b-instruct-2501
-LegacyLMArena|yi-large-preview
 LegacyLMArena|phi-3-medium-4k-instruct
-LegacyLMArena|qwen2.5-72b-instruct
-LegacyLMArena|gemma-2-9b-it-simpo
-LegacyLMArena|deepseek-v3
-LegacyLMArena|snowflake-arctic-instruct
-LegacyLMArena|claude-1
-LegacyLMArena|internlm2_5-20b-chat
-LegacyLMArena|reka-core-20240904
-LegacyLMArena|qwen-max-0919
-LegacyLMArena|hunyuan-standard-256k
-LegacyLMArena|gemma-2-27b-it
-LegacyLMArena|granite-3.0-8b-instruct
-LegacyLMArena|gemini-1.5-flash-exp-0827
-LegacyLMArena|gemini-1.5-flash-8b-exp-0827
-LegacyLMArena|gemini-2.5-flash-preview-04-17
-LegacyLMArena|qwen2-72b-instruct
-LegacyLMArena|llama-2-7b-chat
-LegacyLMArena|deepseek-r1
-LegacyLMArena|qwen-plus-0125
-LegacyLMArena|yi-34b-chat
-LegacyLMArena|gemma-2-2b-it
-LegacyLMArena|mistral-large-2402
-LegacyLMArena|qwen1.5-7b-chat
-LegacyLMArena|qwen2.5-plus-1127
-LegacyLMArena|vicuna-33b
-LegacyLMArena|deepseek-v2-api-0628
-LegacyLMArena|llama-3.1-nemotron-70b-instruct
-LegacyLMArena|wizardlm-70b
-LegacyLMArena|codellama-70b-instruct
-LegacyLMArena|o3-mini
-LegacyLMArena|reka-flash-21b-20240226-online
-LegacyLMArena|gemini-exp-1114
 LegacyLMArena|phi-3-mini-4k-instruct
-LegacyLMArena|fastchat-t5-3b
-LegacyLMArena|gemini-2.0-flash-001
-LegacyLMArena|llama-3.1-tulu-3-70b
-LegacyLMArena|athene-v2-chat
-LegacyLMArena|smollm2-1.7b-instruct
-LegacyLMArena|llama-3.2-1b-instruct
-LegacyLMArena|qwen-plus-0828
-LegacyLMArena|gemma-3-12b-it
-LegacyLMArena|claude-3-5-sonnet-20241022
-LegacyLMArena|llama-3.1-405b-instruct-fp8
-LegacyLMArena|mpt-7b-chat
-LegacyLMArena|qwen1.5-72b-chat
-LegacyLMArena|yi-1.5-34b-chat
-LegacyLMArena|phi-3-mini-128k-instruct
-LegacyLMArena|gpt4all-13b-snoozy
-LegacyLMArena|mixtral-8x22b-instruct-v0.1
-LegacyLMArena|mistral-7b-instruct-v0.2
-LegacyLMArena|llama-3.1-405b-instruct-bf16
-LegacyLMArena|chatgpt-4o-latest-20240808
 LegacyLMArena|jamba-1.5-large
-LegacyLMArena|chatgpt-4o-latest-20241120
-LegacyLMArena|dolphin-2.2.1-mistral-7b
-LegacyLMArena|mistral-7b-instruct
-LegacyLMArena|phi-3-small-8k-instruct
-LegacyLMArena|gemini-2.0-flash-thinking-exp-1219
-LegacyLMArena|palm-2
-LegacyLMArena|chatglm3-6b
-LegacyLMArena|glm-4-plus
-LegacyLMArena|qwen1.5-4b-chat
-LegacyLMArena|claude-3-5-haiku-20241022
-LegacyLMArena|gemma-3-4b-it
-LegacyLMArena|gemini-2.0-pro-exp-02-05
-LegacyLMArena|amazon-nova-micro-v1.0
-LegacyLMArena|llama-4-maverick-17b-128e-instruct
-LegacyLMArena|llama-2-70b-chat
-LegacyLMArena|starling-lm-7b-alpha
-LegacyLMArena|vicuna-7b
-LegacyLMArena|mistral-medium
-LegacyLMArena|qwen2.5-coder-32b-instruct
-LegacyLMArena|gpt-4-1106-preview
-LegacyLMArena|command-r-08-2024
-LegacyLMArena|nous-hermes-2-mixtral-8x7b-dpo
-LegacyLMArena|gpt-4.1-mini-2025-04-14
-LegacyLMArena|o3-mini-high
-LegacyLMArena|wizardlm-13b
-LegacyLMArena|llama-3.1-70b-instruct
-LegacyLMArena|gemini-2.5-pro-preview-05-06
-LegacyLMArena|llama-3.3-70b-instruct
-LegacyLMArena|gpt-3.5-turbo-1106
-LegacyLMArena|gemini-2.0-flash-lite-preview-02-05
-LegacyLMArena|command-r-plus
-LegacyLMArena|granite-3.0-2b-instruct
-LegacyLMArena|gemini-1.5-pro-api-0409-preview
-LegacyLMArena|claude-2.0
-LegacyLMArena|o1-2024-12-17
 LegacyLMArena|deepseek-llm-67b-chat
-LegacyLMArena|gpt-4o-2024-05-13
-LegacyLMArena|reka-flash-20240904
-LegacyLMArena|grok-2-mini-2024-08-13
-LegacyLMArena|openchat-3.5
-LegacyLMArena|oasst-pythia-12b
-LegacyLMArena|gemini-1.5-pro-exp-0827
-LegacyLMArena|nemotron-4-340b-instruct
-LegacyLMArena|olmo-7b-instruct
-LegacyLMArena|chatglm-6b
-LegacyLMArena|command-r-plus-08-2024
-LegacyLMArena|alpaca-13b
-LegacyLMArena|glm-4-0520
-LegacyLMArena|openhermes-2.5-mistral-7b
-LegacyLMArena|o1-mini
-LegacyLMArena|gpt-4-0125-preview
-LegacyLMArena|reka-flash-20240722
-LegacyLMArena|c4ai-aya-expanse-8b
-LegacyLMArena|o3-2025-04-16
-LegacyLMArena|reka-core-20240501
-LegacyLMArena|pplx-7b-online
-LegacyLMArena|deepseek-v2.5-1210
-LegacyLMArena|solar-10.7b-instruct-v1.0
-LegacyLMArena|phi-3-mini-4k-instruct-june-2024
-LegacyLMArena|grok-3-preview-02-24
-LegacyLMArena|gpt-4.1-nano-2025-04-14
-LegacyLMArena|gemma-1.1-2b-it
-LegacyLMArena|claude-3-7-sonnet-20250219
-LegacyLMArena|falcon-180b-chat
-LegacyLMArena|qwq-32b-preview
-LegacyLMArena|starling-lm-7b-beta
-LegacyLMArena|llama-2-13b-chat
-LegacyLMArena|jamba-1.5-mini
-LegacyLMArena|qwen2.5-max
-LegacyLMArena|qwen-max-0428
-LegacyLMArena|qwen-14b-chat
-LegacyLMArena|RWKV-4-Raven-14B
-LegacyLMArena|step-2-16k-exp-202412
-LegacyLMArena|llama-3.1-tulu-3-8b
-LegacyLMArena|glm-4-0116
 LegacyLMArena|deepseek-coder-v2
-LegacyLMArena|zephyr-orpo-141b-A35b-v0.1
-LegacyLMArena|gemini-exp-1121
-LegacyLMArena|claude-3-opus-20240229
-LegacyLMArena|gemini-2.0-flash-exp
-LegacyLMArena|gemma-1.1-7b-it
-LegacyLMArena|zephyr-7b-beta
-LegacyLMArena|gpt-4o-2024-08-06
-LegacyLMArena|gpt-3.5-turbo-0613
-LegacyLMArena|gemini-advanced-0514
-LegacyLMArena|llama2-70b-steerlm-chat
-LegacyLMArena|stablelm-tuned-alpha-7b
-LegacyLMArena|gemini-pro-dev-api
-LegacyLMArena|gemma-3-27b-it
-LegacyLMArena|gpt-3.5-turbo-0125
-LegacyLMArena|o1-preview
+LegacyLMArena|gemma-2b-it
 LegacyLMArena|mistral-next
-LegacyLMArena|gpt-3.5-turbo-0314
-LegacyLMArena|dbrx-instruct-preview
-LegacyLMArena|llama-4-maverick-03-26-experimental
-LegacyLMArena|llama-3-70b-instruct
-LegacyLMArena|gemini-1.5-flash-001
-LegacyLMArena|deepseek-v3-0324
-LegacyLMArena|bard-jan-24-gemini-pro
-LegacyLMArena|gpt-4o-mini-2024-07-18
-LegacyLMArena|llama-3.2-3b-instruct
-LegacyLMArena|llama-3-8b-instruct
 LegacyLMArena|tulu-2-dpo-70b
-LegacyLMArena|claude-3-7-sonnet-20250219-thinking-32k
-LegacyLMArena|codellama-34b-instruct
-LegacyLMArena|qwen1.5-110b-chat
-LegacyLMArena|claude-2.1
-LegacyLMArena|chatgpt-4o-latest-20240903
-LegacyLMArena|gemini-pro
+LegacyLMArena|solar-10.7b-instruct-v1.0
+LegacyLMArena|gpt-4o-2024-08-06
+LegacyLMArena|chatglm2-6b
+LegacyLMArena|claude-3-5-sonnet-20241022
+LegacyLMArena|stablelm-tuned-alpha-7b
+LegacyLMArena|gemma-2-2b-it
+LegacyLMArena|amazon-nova-micro-v1.0
+LegacyLMArena|gpt-4.1-mini-2025-04-14
+LegacyLMArena|codellama-70b-instruct
+LegacyLMArena|gemma-3-4b-it
+LegacyLMArena|yi-34b-chat
+LegacyLMArena|deepseek-v3-0324
+LegacyLMArena|dolly-v2-12b
+LegacyLMArena|granite-3.1-8b-instruct
+LegacyLMArena|llama-13b
+LegacyLMArena|gemini-2.0-flash-001
+LegacyLMArena|claude-instant-1
+LegacyLMArena|smollm2-1.7b-instruct
+LegacyLMArena|glm-4-plus-0111
+LegacyLMArena|reka-flash-preview-20240611
+LegacyLMArena|openchat-3.5
+LegacyLMArena|llama-3.2-3b-instruct
+LegacyLMArena|llama-3.1-nemotron-70b-instruct
+LegacyLMArena|c4ai-aya-expanse-32b
+LegacyLMArena|qwen-max-0428
+LegacyLMArena|claude-1
+LegacyLMArena|gemini-2.0-pro-exp-02-05
+LegacyLMArena|yi-large-preview
+LegacyLMArena|reka-flash-20240904
+LegacyLMArena|zephyr-7b-alpha
+LegacyLMArena|o1-preview
+LegacyLMArena|gpt4all-13b-snoozy
+LegacyLMArena|gemini-2.0-flash-thinking-exp-01-21
+LegacyLMArena|gemini-1.5-flash-exp-0827
+LegacyLMArena|internlm2_5-20b-chat
+LegacyLMArena|openhermes-2.5-mistral-7b
+LegacyLMArena|o4-mini-2025-04-16
+LegacyLMArena|qwen1.5-14b-chat
+LegacyLMArena|mixtral-8x7b-instruct-v0.1
+LegacyLMArena|gpt-4o-2024-05-13
+LegacyLMArena|olmo-7b-instruct
+LegacyLMArena|o1-mini
+LegacyLMArena|vicuna-7b
+LegacyLMArena|phi-4
+LegacyLMArena|qwen2.5-plus-1127
+LegacyLMArena|chatglm3-6b
+LegacyLMArena|mistral-7b-instruct-v0.2
+LegacyLMArena|zephyr-orpo-141b-A35b-v0.1
+LegacyLMArena|gemini-1.5-pro-api-0409-preview
+LegacyLMArena|llama-3.1-8b-instruct
+LegacyLMArena|phi-3-mini-4k-instruct-june-2024
+LegacyLMArena|claude-3-haiku-20240307
+LegacyLMArena|gemma-1.1-2b-it
+LegacyLMArena|llama-3.1-tulu-3-8b
+LegacyLMArena|reka-flash-20240722
+LegacyLMArena|phi-3-small-8k-instruct
+LegacyLMArena|o3-2025-04-16
+LegacyLMArena|ministral-8b-2410
+LegacyLMArena|gemma-3-12b-it
+LegacyLMArena|alpaca-13b
+LegacyLMArena|gemini-2.5-flash-preview-04-17
+LegacyLMArena|chatgpt-4o-latest-20241120
+LegacyLMArena|wizardlm-13b
+LegacyLMArena|gemma-7b-it
+LegacyLMArena|gemini-exp-1206
+LegacyLMArena|deepseek-coder-v2-0724
 LegacyLMArena|guanaco-33b
+LegacyLMArena|yi-lightning
+LegacyLMArena|jamba-1.5-mini
+LegacyLMArena|RWKV-4-Raven-14B
+LegacyLMArena|llama-3.1-405b-instruct-bf16
+LegacyLMArena|starling-lm-7b-alpha
+LegacyLMArena|llama2-70b-steerlm-chat
+LegacyLMArena|gpt-3.5-turbo-1106
+LegacyLMArena|mpt-7b-chat
+LegacyLMArena|qwen3-235b-a22b
+LegacyLMArena|gpt-3.5-turbo-0125
+LegacyLMArena|yi-lightning-lite
+LegacyLMArena|fastchat-t5-3b
+LegacyLMArena|llama-4-scout-17b-16e-instruct
+LegacyLMArena|gemma-3-27b-it
+LegacyLMArena|gemini-pro
+LegacyLMArena|mistral-medium-2505
+LegacyLMArena|athene-v2-chat
+LegacyLMArena|command-r-08-2024
+LegacyLMArena|gemini-1.5-flash-002
+LegacyLMArena|chatgpt-4o-latest-20240808
+LegacyLMArena|wizardlm-70b
+LegacyLMArena|reka-core-20240501
+LegacyLMArena|amazon-nova-lite-v1.0
+LegacyLMArena|phi-3-mini-128k-instruct
+LegacyLMArena|claude-3-5-sonnet-20240620
+LegacyLMArena|vicuna-13b
+LegacyLMArena|qwen2.5-coder-32b-instruct
+LegacyLMArena|mistral-medium
+LegacyLMArena|gpt-3.5-turbo-0613
+LegacyLMArena|gpt-4-1106-preview
+LegacyLMArena|starling-lm-7b-beta
+LegacyLMArena|gemini-1.5-pro-002
+LegacyLMArena|gpt-4-0125-preview
+LegacyLMArena|llama-3-8b-instruct
+LegacyLMArena|llama-3.1-405b-instruct-fp8
+LegacyLMArena|qwen1.5-7b-chat
+LegacyLMArena|mixtral-8x22b-instruct-v0.1
+LegacyLMArena|vicuna-33b
+LegacyLMArena|mistral-7b-instruct
+LegacyLMArena|chatglm-6b
+LegacyLMArena|claude-3-opus-20240229
+LegacyLMArena|qwq-32b-preview
+LegacyLMArena|pplx-70b-online
+LegacyLMArena|qwen-14b-chat
+LegacyLMArena|llama-4-maverick-03-26-experimental
+LegacyLMArena|gemini-exp-1114
+LegacyLMArena|grok-2-2024-08-13
+LegacyLMArena|llama-3.3-70b-instruct
+LegacyLMArena|oasst-pythia-12b
+LegacyLMArena|command-r-plus
+LegacyLMArena|qwen2-72b-instruct
+LegacyLMArena|athene-70b-0725
+LegacyLMArena|snowflake-arctic-instruct
+LegacyLMArena|amazon-nova-pro-v1.0
+LegacyLMArena|hunyuan-standard-256k
+LegacyLMArena|glm-4-0520
+LegacyLMArena|llama-4-maverick-17b-128e-instruct
+LegacyLMArena|codellama-34b-instruct
+LegacyLMArena|gemini-1.5-pro-001
+LegacyLMArena|nous-hermes-2-mixtral-8x7b-dpo
+LegacyLMArena|falcon-180b-chat
+LegacyLMArena|claude-2.0
 LegacyLMArena|yi-large
+LegacyLMArena|command-r
+LegacyLMArena|deepseek-v2-api-0628
+LegacyLMArena|glm-4-0116
+LegacyLMArena|llama-2-13b-chat
+LegacyLMArena|c4ai-aya-expanse-8b
+LegacyLMArena|qwen-plus-0828
+LegacyLMArena|nemotron-4-340b-instruct
+LegacyLMArena|gemini-1.5-flash-8b-exp-0827
+LegacyLMArena|llama-3.1-nemotron-51b-instruct
+LegacyLMArena|bard-jan-24-gemini-pro
+LegacyLMArena|openchat-3.5-0106
+LegacyLMArena|chatgpt-4o-latest-20240903
+LegacyLMArena|glm-4-plus
+LegacyLMArena|reka-flash-21b-20240226
+LegacyLMArena|reka-core-20240904
+LegacyLMArena|gemini-1.5-pro-exp-0827
+LegacyLMArena|reka-flash-21b-20240226-online
+LegacyLMArena|step-2-16k-exp-202412
+LegacyLMArena|gemma-2-27b-it
+LegacyLMArena|yi-1.5-34b-chat
+LegacyLMArena|granite-3.1-2b-instruct
+LegacyLMArena|dolphin-2.2.1-mistral-7b
+LegacyLMArena|mpt-30b-chat
+LegacyLMArena|gpt-4.1-2025-04-14
+LegacyLMArena|o3-mini-high
+LegacyLMArena|claude-2.1
+LegacyLMArena|mistral-large-2402
+LegacyLMArena|qwen1.5-4b-chat
+LegacyLMArena|gemini-exp-1121
+LegacyLMArena|o1-2024-12-17
+LegacyLMArena|deepseek-v3
 MetaAI|meta-ai
 MetaAIAccount|meta-ai
 MicrosoftDesigner|dall-e-3
@@ -1847,323 +1738,327 @@ OpenAIFM|nova
 OpenAIFM|sage
 OpenAIFM|shimmer
 OpenAIFM|verse
-OpenRouter|Agentica: Deepcoder 14B Preview
-OpenRouter|Agentica: Deepcoder 14B Preview (free)
-OpenRouter|AionLabs: Aion-1.0
-OpenRouter|AionLabs: Aion-1.0-Mini
-OpenRouter|AionLabs: Aion-RP 1.0 (8B)
-OpenRouter|AlfredPros: CodeLLaMa 7B Instruct Solidity
-OpenRouter|Amazon: Nova Lite 1.0
-OpenRouter|Amazon: Nova Micro 1.0
-OpenRouter|Amazon: Nova Pro 1.0
-OpenRouter|Anthropic: Claude 3 Haiku
-OpenRouter|Anthropic: Claude 3 Haiku (self-moderated)
-OpenRouter|Anthropic: Claude 3 Opus
-OpenRouter|Anthropic: Claude 3 Opus (self-moderated)
-OpenRouter|Anthropic: Claude 3.5 Haiku
-OpenRouter|Anthropic: Claude 3.5 Haiku (2024-10-22)
-OpenRouter|Anthropic: Claude 3.5 Haiku (self-moderated)
-OpenRouter|Anthropic: Claude 3.5 Sonnet
-OpenRouter|Anthropic: Claude 3.5 Sonnet (2024-06-20)
-OpenRouter|Anthropic: Claude 3.5 Sonnet (2024-06-20) (self-moderated)
-OpenRouter|Anthropic: Claude 3.5 Sonnet (self-moderated)
-OpenRouter|Anthropic: Claude 3.7 Sonnet
-OpenRouter|Anthropic: Claude 3.7 Sonnet (self-moderated)
-OpenRouter|Anthropic: Claude 3.7 Sonnet (thinking)
-OpenRouter|Anthropic: Claude Opus 4
-OpenRouter|Anthropic: Claude Opus 4.1
-OpenRouter|Anthropic: Claude Sonnet 4
-OpenRouter|Arcee AI: Coder Large
-OpenRouter|Arcee AI: Maestro Reasoning
-OpenRouter|Arcee AI: Spotlight
-OpenRouter|Arcee AI: Virtuoso Large
-OpenRouter|ArliAI: QwQ 32B RpR v1
-OpenRouter|ArliAI: QwQ 32B RpR v1 (free)
-OpenRouter|Auto Router
-OpenRouter|Baidu: ERNIE 4.5 300B A47B 
-OpenRouter|Bytedance: UI-TARS 7B 
-OpenRouter|Cohere: Command
-OpenRouter|Cohere: Command A
-OpenRouter|Cohere: Command R
-OpenRouter|Cohere: Command R (03-2024)
-OpenRouter|Cohere: Command R (08-2024)
-OpenRouter|Cohere: Command R+
-OpenRouter|Cohere: Command R+ (04-2024)
-OpenRouter|Cohere: Command R+ (08-2024)
-OpenRouter|Cohere: Command R7B (12-2024)
-OpenRouter|DeepSeek: DeepSeek Prover V2
-OpenRouter|DeepSeek: DeepSeek V3
-OpenRouter|DeepSeek: DeepSeek V3 0324
-OpenRouter|DeepSeek: DeepSeek V3 0324 (free)
-OpenRouter|DeepSeek: DeepSeek V3 Base
-OpenRouter|DeepSeek: Deepseek R1 0528 Qwen3 8B
-OpenRouter|DeepSeek: Deepseek R1 0528 Qwen3 8B (free)
-OpenRouter|DeepSeek: R1
-OpenRouter|DeepSeek: R1 (free)
-OpenRouter|DeepSeek: R1 0528
-OpenRouter|DeepSeek: R1 0528 (free)
-OpenRouter|DeepSeek: R1 Distill Llama 70B
-OpenRouter|DeepSeek: R1 Distill Llama 70B (free)
-OpenRouter|DeepSeek: R1 Distill Llama 8B
-OpenRouter|DeepSeek: R1 Distill Qwen 1.5B
-OpenRouter|DeepSeek: R1 Distill Qwen 14B
-OpenRouter|DeepSeek: R1 Distill Qwen 14B (free)
-OpenRouter|DeepSeek: R1 Distill Qwen 32B
-OpenRouter|DeepSeek: R1 Distill Qwen 7B
-OpenRouter|Dolphin 2.9.2 Mixtral 8x22B 🐬
-OpenRouter|Dolphin3.0 Mistral 24B
-OpenRouter|Dolphin3.0 Mistral 24B (free)
-OpenRouter|Dolphin3.0 R1 Mistral 24B
-OpenRouter|Dolphin3.0 R1 Mistral 24B (free)
-OpenRouter|EleutherAI: Llemma 7b
-OpenRouter|Goliath 120B
-OpenRouter|Google: Gemini 1.5 Flash 
-OpenRouter|Google: Gemini 1.5 Flash 8B
-OpenRouter|Google: Gemini 1.5 Pro
-OpenRouter|Google: Gemini 2.0 Flash
-OpenRouter|Google: Gemini 2.0 Flash Experimental (free)
-OpenRouter|Google: Gemini 2.0 Flash Lite
-OpenRouter|Google: Gemini 2.5 Flash
-OpenRouter|Google: Gemini 2.5 Flash Lite
-OpenRouter|Google: Gemini 2.5 Flash Lite Preview 06-17
-OpenRouter|Google: Gemini 2.5 Pro
-OpenRouter|Google: Gemini 2.5 Pro Experimental
-OpenRouter|Google: Gemini 2.5 Pro Preview 05-06
-OpenRouter|Google: Gemini 2.5 Pro Preview 06-05
-OpenRouter|Google: Gemma 2 27B
-OpenRouter|Google: Gemma 2 9B
-OpenRouter|Google: Gemma 2 9B (free)
-OpenRouter|Google: Gemma 3 12B
-OpenRouter|Google: Gemma 3 12B (free)
-OpenRouter|Google: Gemma 3 27B
-OpenRouter|Google: Gemma 3 27B (free)
-OpenRouter|Google: Gemma 3 4B
-OpenRouter|Google: Gemma 3 4B (free)
-OpenRouter|Google: Gemma 3n 2B (free)
-OpenRouter|Google: Gemma 3n 4B
-OpenRouter|Google: Gemma 3n 4B (free)
-OpenRouter|Inception: Mercury
-OpenRouter|Inception: Mercury Coder
-OpenRouter|Infermatic: Mistral Nemo Inferor 12B
-OpenRouter|Inflection: Inflection 3 Pi
-OpenRouter|Inflection: Inflection 3 Productivity
-OpenRouter|Kimi Dev 72b (free)
-OpenRouter|Liquid: LFM 3B
-OpenRouter|Liquid: LFM 40B MoE
-OpenRouter|Liquid: LFM 7B
-OpenRouter|Llama Guard 3 8B
-OpenRouter|Magnum v2 72B
-OpenRouter|Magnum v4 72B
-OpenRouter|Mancer: Weaver (alpha)
-OpenRouter|Meta: Llama 3 70B Instruct
-OpenRouter|Meta: Llama 3 8B Instruct
-OpenRouter|Meta: Llama 3.1 405B (base)
-OpenRouter|Meta: Llama 3.1 405B Instruct
-OpenRouter|Meta: Llama 3.1 405B Instruct (free)
-OpenRouter|Meta: Llama 3.1 70B Instruct
-OpenRouter|Meta: Llama 3.1 8B Instruct
-OpenRouter|Meta: Llama 3.2 11B Vision Instruct
-OpenRouter|Meta: Llama 3.2 11B Vision Instruct (free)
-OpenRouter|Meta: Llama 3.2 1B Instruct
-OpenRouter|Meta: Llama 3.2 3B Instruct
-OpenRouter|Meta: Llama 3.2 3B Instruct (free)
-OpenRouter|Meta: Llama 3.2 90B Vision Instruct
-OpenRouter|Meta: Llama 3.3 70B Instruct
-OpenRouter|Meta: Llama 3.3 70B Instruct (free)
-OpenRouter|Meta: Llama 4 Maverick
-OpenRouter|Meta: Llama 4 Scout
-OpenRouter|Meta: Llama Guard 4 12B
-OpenRouter|Meta: LlamaGuard 2 8B
-OpenRouter|Microsoft: MAI DS R1
-OpenRouter|Microsoft: MAI DS R1 (free)
-OpenRouter|Microsoft: Phi 4
-OpenRouter|Microsoft: Phi 4 Multimodal Instruct
-OpenRouter|Microsoft: Phi 4 Reasoning Plus
-OpenRouter|Microsoft: Phi-3 Medium 128K Instruct
-OpenRouter|Microsoft: Phi-3 Mini 128K Instruct
-OpenRouter|Microsoft: Phi-3.5 Mini 128K Instruct
-OpenRouter|Midnight Rose 70B
-OpenRouter|MiniMax: MiniMax M1
-OpenRouter|MiniMax: MiniMax-01
-OpenRouter|Mistral Large
-OpenRouter|Mistral Large 2407
-OpenRouter|Mistral Large 2411
-OpenRouter|Mistral Small
-OpenRouter|Mistral Tiny
-OpenRouter|Mistral: Codestral 2501
-OpenRouter|Mistral: Codestral 2508
-OpenRouter|Mistral: Devstral Medium
-OpenRouter|Mistral: Devstral Small 1.1
-OpenRouter|Mistral: Devstral Small 2505
-OpenRouter|Mistral: Devstral Small 2505 (free)
-OpenRouter|Mistral: Magistral Medium 2506
-OpenRouter|Mistral: Magistral Medium 2506 (thinking)
-OpenRouter|Mistral: Magistral Small 2506
-OpenRouter|Mistral: Ministral 3B
-OpenRouter|Mistral: Ministral 8B
-OpenRouter|Mistral: Mistral 7B Instruct
-OpenRouter|Mistral: Mistral 7B Instruct (free)
-OpenRouter|Mistral: Mistral 7B Instruct v0.1
-OpenRouter|Mistral: Mistral 7B Instruct v0.2
-OpenRouter|Mistral: Mistral 7B Instruct v0.3
-OpenRouter|Mistral: Mistral Medium 3
-OpenRouter|Mistral: Mistral Nemo
-OpenRouter|Mistral: Mistral Nemo (free)
-OpenRouter|Mistral: Mistral Small 3
-OpenRouter|Mistral: Mistral Small 3 (free)
-OpenRouter|Mistral: Mistral Small 3.1 24B
-OpenRouter|Mistral: Mistral Small 3.1 24B (free)
-OpenRouter|Mistral: Mistral Small 3.2 24B
-OpenRouter|Mistral: Mistral Small 3.2 24B (free)
-OpenRouter|Mistral: Mixtral 8x22B Instruct
-OpenRouter|Mistral: Mixtral 8x7B Instruct
-OpenRouter|Mistral: Pixtral 12B
-OpenRouter|Mistral: Pixtral Large 2411
-OpenRouter|Mistral: Saba
-OpenRouter|Moonshot AI: Kimi VL A3B Thinking
-OpenRouter|Moonshot AI: Kimi VL A3B Thinking (free)
-OpenRouter|MoonshotAI: Kimi K2
-OpenRouter|MoonshotAI: Kimi K2 (free)
-OpenRouter|Morph: Morph V3 Fast
-OpenRouter|Morph: Morph V3 Large
-OpenRouter|MythoMax 13B
-OpenRouter|NVIDIA: Llama 3.1 Nemotron 70B Instruct
-OpenRouter|NVIDIA: Llama 3.1 Nemotron Ultra 253B v1
-OpenRouter|NVIDIA: Llama 3.1 Nemotron Ultra 253B v1 (free)
-OpenRouter|NVIDIA: Llama 3.3 Nemotron Super 49B v1
-OpenRouter|NeverSleep: Llama 3 Lumimaid 70B
-OpenRouter|NeverSleep: Lumimaid v0.2 8B
-OpenRouter|Noromaid 20B
-OpenRouter|Nous: DeepHermes 3 Llama 3 8B Preview (free)
-OpenRouter|Nous: DeepHermes 3 Mistral 24B Preview
-OpenRouter|Nous: Hermes 2 Mixtral 8x7B DPO
-OpenRouter|Nous: Hermes 3 405B Instruct
-OpenRouter|Nous: Hermes 3 70B Instruct
-OpenRouter|NousResearch: Hermes 2 Pro - Llama-3 8B
-OpenRouter|OpenAI: ChatGPT-4o
-OpenRouter|OpenAI: Codex Mini
-OpenRouter|OpenAI: GPT-3.5 Turbo
-OpenRouter|OpenAI: GPT-3.5 Turbo (older v0613)
-OpenRouter|OpenAI: GPT-3.5 Turbo 16k
-OpenRouter|OpenAI: GPT-3.5 Turbo Instruct
-OpenRouter|OpenAI: GPT-4
-OpenRouter|OpenAI: GPT-4 (older v0314)
-OpenRouter|OpenAI: GPT-4 Turbo
-OpenRouter|OpenAI: GPT-4 Turbo (older v1106)
-OpenRouter|OpenAI: GPT-4 Turbo Preview
-OpenRouter|OpenAI: GPT-4.1
-OpenRouter|OpenAI: GPT-4.1 Mini
-OpenRouter|OpenAI: GPT-4.1 Nano
-OpenRouter|OpenAI: GPT-4o
-OpenRouter|OpenAI: GPT-4o (2024-05-13)
-OpenRouter|OpenAI: GPT-4o (2024-08-06)
-OpenRouter|OpenAI: GPT-4o (2024-11-20)
-OpenRouter|OpenAI: GPT-4o (extended)
-OpenRouter|OpenAI: GPT-4o Search Preview
-OpenRouter|OpenAI: GPT-4o-mini
-OpenRouter|OpenAI: GPT-4o-mini (2024-07-18)
-OpenRouter|OpenAI: GPT-4o-mini Search Preview
-OpenRouter|OpenAI: GPT-5
-OpenRouter|OpenAI: GPT-5 Chat
-OpenRouter|OpenAI: GPT-5 Mini
-OpenRouter|OpenAI: GPT-5 Nano
-OpenRouter|OpenAI: gpt-oss-120b
-OpenRouter|OpenAI: gpt-oss-20b
-OpenRouter|OpenAI: gpt-oss-20b (free)
-OpenRouter|OpenAI: o1
-OpenRouter|OpenAI: o1-mini
-OpenRouter|OpenAI: o1-mini (2024-09-12)
-OpenRouter|OpenAI: o1-pro
-OpenRouter|OpenAI: o3
-OpenRouter|OpenAI: o3 Mini
-OpenRouter|OpenAI: o3 Mini High
-OpenRouter|OpenAI: o3 Pro
-OpenRouter|OpenAI: o4 Mini
-OpenRouter|OpenAI: o4 Mini High
-OpenRouter|OpenGVLab: InternVL3 14B
-OpenRouter|Perplexity: R1 1776
-OpenRouter|Perplexity: Sonar
-OpenRouter|Perplexity: Sonar Deep Research
-OpenRouter|Perplexity: Sonar Pro
-OpenRouter|Perplexity: Sonar Reasoning
-OpenRouter|Perplexity: Sonar Reasoning Pro
-OpenRouter|Pygmalion: Mythalion 13B
-OpenRouter|Qrwkv 72B (free)
-OpenRouter|Qwen 2 72B Instruct
-OpenRouter|Qwen2.5 72B Instruct
-OpenRouter|Qwen2.5 72B Instruct (free)
-OpenRouter|Qwen2.5 7B Instruct
-OpenRouter|Qwen2.5 Coder 32B Instruct
-OpenRouter|Qwen2.5 Coder 32B Instruct (free)
-OpenRouter|Qwen: QwQ 32B
-OpenRouter|Qwen: QwQ 32B (free)
-OpenRouter|Qwen: QwQ 32B Preview
-OpenRouter|Qwen: Qwen VL Max
-OpenRouter|Qwen: Qwen VL Plus
-OpenRouter|Qwen: Qwen-Max 
-OpenRouter|Qwen: Qwen-Plus
-OpenRouter|Qwen: Qwen-Turbo
-OpenRouter|Qwen: Qwen2.5 VL 32B Instruct
-OpenRouter|Qwen: Qwen2.5 VL 32B Instruct (free)
-OpenRouter|Qwen: Qwen2.5 VL 72B Instruct
-OpenRouter|Qwen: Qwen2.5 VL 72B Instruct (free)
-OpenRouter|Qwen: Qwen2.5-VL 7B Instruct
-OpenRouter|Qwen: Qwen3 14B
-OpenRouter|Qwen: Qwen3 14B (free)
-OpenRouter|Qwen: Qwen3 235B A22B
-OpenRouter|Qwen: Qwen3 235B A22B (free)
-OpenRouter|Qwen: Qwen3 235B A22B Instruct 2507
-OpenRouter|Qwen: Qwen3 235B A22B Thinking 2507
-OpenRouter|Qwen: Qwen3 30B A3B
-OpenRouter|Qwen: Qwen3 30B A3B (free)
-OpenRouter|Qwen: Qwen3 30B A3B Instruct 2507
-OpenRouter|Qwen: Qwen3 32B
-OpenRouter|Qwen: Qwen3 4B (free)
-OpenRouter|Qwen: Qwen3 8B
-OpenRouter|Qwen: Qwen3 8B (free)
-OpenRouter|Qwen: Qwen3 Coder 
-OpenRouter|Qwen: Qwen3 Coder  (free)
-OpenRouter|ReMM SLERP 13B
-OpenRouter|Reka: Flash 3 (free)
-OpenRouter|Sao10K: Llama 3 8B Lunaris
-OpenRouter|Sao10K: Llama 3.1 Euryale 70B v2.2
-OpenRouter|Sao10K: Llama 3.3 Euryale 70B
-OpenRouter|Sao10k: Llama 3 Euryale 70B v2.1
-OpenRouter|Sarvam AI: Sarvam-M (free)
-OpenRouter|Shisa AI: Shisa V2 Llama 3.3 70B 
-OpenRouter|Shisa AI: Shisa V2 Llama 3.3 70B  (free)
-OpenRouter|SorcererLM 8x22B
-OpenRouter|Switchpoint Router
-OpenRouter|THUDM: GLM 4 32B
-OpenRouter|THUDM: GLM 4.1V 9B Thinking
-OpenRouter|THUDM: GLM Z1 32B (free)
-OpenRouter|TNG: DeepSeek R1T Chimera
-OpenRouter|TNG: DeepSeek R1T Chimera (free)
-OpenRouter|TNG: DeepSeek R1T2 Chimera (free)
-OpenRouter|Tencent: Hunyuan A13B Instruct
-OpenRouter|Tencent: Hunyuan A13B Instruct (free)
-OpenRouter|TheDrummer: Anubis 70B V1.1
-OpenRouter|TheDrummer: Anubis Pro 105B V1
-OpenRouter|TheDrummer: Rocinante 12B
-OpenRouter|TheDrummer: Skyfall 36B V2
-OpenRouter|TheDrummer: UnslopNemo 12B
-OpenRouter|TheDrummer: Valkyrie 49B V1
-OpenRouter|Typhoon2 70B Instruct
-OpenRouter|Venice: Uncensored (free)
-OpenRouter|WizardLM-2 8x22B
-OpenRouter|Z.AI: GLM 4 32B 
-OpenRouter|Z.AI: GLM 4.5
-OpenRouter|Z.AI: GLM 4.5 Air
-OpenRouter|Z.AI: GLM 4.5 Air (free)
-OpenRouter|xAI: Grok 2 1212
-OpenRouter|xAI: Grok 2 Vision 1212
-OpenRouter|xAI: Grok 3
-OpenRouter|xAI: Grok 3 Beta
-OpenRouter|xAI: Grok 3 Mini
-OpenRouter|xAI: Grok 3 Mini Beta
-OpenRouter|xAI: Grok 4
-OpenRouter|xAI: Grok Vision Beta
+OpenRouter|agentica-org/deepcoder-14b-preview
+OpenRouter|agentica-org/deepcoder-14b-preview:free
+OpenRouter|ai21/jamba-large-1.7
+OpenRouter|ai21/jamba-mini-1.7
+OpenRouter|aion-labs/aion-1.0
+OpenRouter|aion-labs/aion-1.0-mini
+OpenRouter|aion-labs/aion-rp-llama-3.1-8b
+OpenRouter|alfredpros/codellama-7b-instruct-solidity
+OpenRouter|alpindale/goliath-120b
+OpenRouter|amazon/nova-lite-v1
+OpenRouter|amazon/nova-micro-v1
+OpenRouter|amazon/nova-pro-v1
+OpenRouter|anthracite-org/magnum-v2-72b
+OpenRouter|anthracite-org/magnum-v4-72b
+OpenRouter|anthropic/claude-3-haiku
+OpenRouter|anthropic/claude-3-haiku:beta
+OpenRouter|anthropic/claude-3-opus
+OpenRouter|anthropic/claude-3-opus:beta
+OpenRouter|anthropic/claude-3.5-haiku
+OpenRouter|anthropic/claude-3.5-haiku-20241022
+OpenRouter|anthropic/claude-3.5-haiku:beta
+OpenRouter|anthropic/claude-3.5-sonnet
+OpenRouter|anthropic/claude-3.5-sonnet-20240620
+OpenRouter|anthropic/claude-3.5-sonnet-20240620:beta
+OpenRouter|anthropic/claude-3.5-sonnet:beta
+OpenRouter|anthropic/claude-3.7-sonnet
+OpenRouter|anthropic/claude-3.7-sonnet:beta
+OpenRouter|anthropic/claude-3.7-sonnet:thinking
+OpenRouter|anthropic/claude-opus-4
+OpenRouter|anthropic/claude-opus-4.1
+OpenRouter|anthropic/claude-sonnet-4
+OpenRouter|arcee-ai/coder-large
+OpenRouter|arcee-ai/maestro-reasoning
+OpenRouter|arcee-ai/spotlight
+OpenRouter|arcee-ai/virtuoso-large
+OpenRouter|arliai/qwq-32b-arliai-rpr-v1
+OpenRouter|arliai/qwq-32b-arliai-rpr-v1:free
+OpenRouter|baidu/ernie-4.5-300b-a47b
+OpenRouter|bytedance/ui-tars-1.5-7b
+OpenRouter|cognitivecomputations/dolphin-mistral-24b-venice-edition:free
+OpenRouter|cognitivecomputations/dolphin-mixtral-8x22b
+OpenRouter|cognitivecomputations/dolphin3.0-mistral-24b
+OpenRouter|cognitivecomputations/dolphin3.0-mistral-24b:free
+OpenRouter|cognitivecomputations/dolphin3.0-r1-mistral-24b
+OpenRouter|cognitivecomputations/dolphin3.0-r1-mistral-24b:free
+OpenRouter|cohere/command
+OpenRouter|cohere/command-a
+OpenRouter|cohere/command-r
+OpenRouter|cohere/command-r-03-2024
+OpenRouter|cohere/command-r-08-2024
+OpenRouter|cohere/command-r-plus
+OpenRouter|cohere/command-r-plus-04-2024
+OpenRouter|cohere/command-r-plus-08-2024
+OpenRouter|cohere/command-r7b-12-2024
+OpenRouter|deepseek/deepseek-chat
+OpenRouter|deepseek/deepseek-chat-v3-0324
+OpenRouter|deepseek/deepseek-chat-v3-0324:free
+OpenRouter|deepseek/deepseek-prover-v2
+OpenRouter|deepseek/deepseek-r1
+OpenRouter|deepseek/deepseek-r1-0528
+OpenRouter|deepseek/deepseek-r1-0528-qwen3-8b
+OpenRouter|deepseek/deepseek-r1-0528-qwen3-8b:free
+OpenRouter|deepseek/deepseek-r1-0528:free
+OpenRouter|deepseek/deepseek-r1-distill-llama-70b
+OpenRouter|deepseek/deepseek-r1-distill-llama-70b:free
+OpenRouter|deepseek/deepseek-r1-distill-llama-8b
+OpenRouter|deepseek/deepseek-r1-distill-qwen-1.5b
+OpenRouter|deepseek/deepseek-r1-distill-qwen-14b
+OpenRouter|deepseek/deepseek-r1-distill-qwen-14b:free
+OpenRouter|deepseek/deepseek-r1-distill-qwen-32b
+OpenRouter|deepseek/deepseek-r1-distill-qwen-7b
+OpenRouter|deepseek/deepseek-r1:free
+OpenRouter|deepseek/deepseek-v3-base
+OpenRouter|eleutherai/llemma_7b
+OpenRouter|featherless/qwerky-72b:free
+OpenRouter|google/gemini-2.0-flash-001
+OpenRouter|google/gemini-2.0-flash-exp:free
+OpenRouter|google/gemini-2.0-flash-lite-001
+OpenRouter|google/gemini-2.5-flash
+OpenRouter|google/gemini-2.5-flash-lite
+OpenRouter|google/gemini-2.5-flash-lite-preview-06-17
+OpenRouter|google/gemini-2.5-pro
+OpenRouter|google/gemini-2.5-pro-exp-03-25
+OpenRouter|google/gemini-2.5-pro-preview
+OpenRouter|google/gemini-2.5-pro-preview-05-06
+OpenRouter|google/gemini-flash-1.5
+OpenRouter|google/gemini-flash-1.5-8b
+OpenRouter|google/gemini-pro-1.5
+OpenRouter|google/gemma-2-27b-it
+OpenRouter|google/gemma-2-9b-it
+OpenRouter|google/gemma-2-9b-it:free
+OpenRouter|google/gemma-3-12b-it
+OpenRouter|google/gemma-3-12b-it:free
+OpenRouter|google/gemma-3-27b-it
+OpenRouter|google/gemma-3-27b-it:free
+OpenRouter|google/gemma-3-4b-it
+OpenRouter|google/gemma-3-4b-it:free
+OpenRouter|google/gemma-3n-e2b-it:free
+OpenRouter|google/gemma-3n-e4b-it
+OpenRouter|google/gemma-3n-e4b-it:free
+OpenRouter|gryphe/mythomax-l2-13b
+OpenRouter|inception/mercury
+OpenRouter|inception/mercury-coder
+OpenRouter|infermatic/mn-inferor-12b
+OpenRouter|inflection/inflection-3-pi
+OpenRouter|inflection/inflection-3-productivity
+OpenRouter|liquid/lfm-3b
+OpenRouter|liquid/lfm-40b
+OpenRouter|liquid/lfm-7b
+OpenRouter|mancer/weaver
+OpenRouter|meta-llama/llama-3-70b-instruct
+OpenRouter|meta-llama/llama-3-8b-instruct
+OpenRouter|meta-llama/llama-3.1-405b
+OpenRouter|meta-llama/llama-3.1-405b-instruct
+OpenRouter|meta-llama/llama-3.1-405b-instruct:free
+OpenRouter|meta-llama/llama-3.1-70b-instruct
+OpenRouter|meta-llama/llama-3.1-8b-instruct
+OpenRouter|meta-llama/llama-3.2-11b-vision-instruct
+OpenRouter|meta-llama/llama-3.2-11b-vision-instruct:free
+OpenRouter|meta-llama/llama-3.2-1b-instruct
+OpenRouter|meta-llama/llama-3.2-3b-instruct
+OpenRouter|meta-llama/llama-3.2-3b-instruct:free
+OpenRouter|meta-llama/llama-3.2-90b-vision-instruct
+OpenRouter|meta-llama/llama-3.3-70b-instruct
+OpenRouter|meta-llama/llama-3.3-70b-instruct:free
+OpenRouter|meta-llama/llama-4-maverick
+OpenRouter|meta-llama/llama-4-scout
+OpenRouter|meta-llama/llama-guard-2-8b
+OpenRouter|meta-llama/llama-guard-3-8b
+OpenRouter|meta-llama/llama-guard-4-12b
+OpenRouter|microsoft/mai-ds-r1
+OpenRouter|microsoft/mai-ds-r1:free
+OpenRouter|microsoft/phi-3-medium-128k-instruct
+OpenRouter|microsoft/phi-3-mini-128k-instruct
+OpenRouter|microsoft/phi-3.5-mini-128k-instruct
+OpenRouter|microsoft/phi-4
+OpenRouter|microsoft/phi-4-multimodal-instruct
+OpenRouter|microsoft/phi-4-reasoning-plus
+OpenRouter|microsoft/wizardlm-2-8x22b
+OpenRouter|minimax/minimax-01
+OpenRouter|minimax/minimax-m1
+OpenRouter|mistralai/codestral-2501
+OpenRouter|mistralai/codestral-2508
+OpenRouter|mistralai/devstral-medium
+OpenRouter|mistralai/devstral-small
+OpenRouter|mistralai/devstral-small-2505
+OpenRouter|mistralai/devstral-small-2505:free
+OpenRouter|mistralai/magistral-medium-2506
+OpenRouter|mistralai/magistral-medium-2506:thinking
+OpenRouter|mistralai/magistral-small-2506
+OpenRouter|mistralai/ministral-3b
+OpenRouter|mistralai/ministral-8b
+OpenRouter|mistralai/mistral-7b-instruct
+OpenRouter|mistralai/mistral-7b-instruct-v0.1
+OpenRouter|mistralai/mistral-7b-instruct-v0.2
+OpenRouter|mistralai/mistral-7b-instruct-v0.3
+OpenRouter|mistralai/mistral-7b-instruct:free
+OpenRouter|mistralai/mistral-large
+OpenRouter|mistralai/mistral-large-2407
+OpenRouter|mistralai/mistral-large-2411
+OpenRouter|mistralai/mistral-medium-3
+OpenRouter|mistralai/mistral-nemo
+OpenRouter|mistralai/mistral-nemo:free
+OpenRouter|mistralai/mistral-saba
+OpenRouter|mistralai/mistral-small
+OpenRouter|mistralai/mistral-small-24b-instruct-2501
+OpenRouter|mistralai/mistral-small-24b-instruct-2501:free
+OpenRouter|mistralai/mistral-small-3.1-24b-instruct
+OpenRouter|mistralai/mistral-small-3.1-24b-instruct:free
+OpenRouter|mistralai/mistral-small-3.2-24b-instruct
+OpenRouter|mistralai/mistral-small-3.2-24b-instruct:free
+OpenRouter|mistralai/mistral-tiny
+OpenRouter|mistralai/mixtral-8x22b-instruct
+OpenRouter|mistralai/mixtral-8x7b-instruct
+OpenRouter|mistralai/pixtral-12b
+OpenRouter|mistralai/pixtral-large-2411
+OpenRouter|moonshotai/kimi-dev-72b:free
+OpenRouter|moonshotai/kimi-k2
+OpenRouter|moonshotai/kimi-k2:free
+OpenRouter|moonshotai/kimi-vl-a3b-thinking
+OpenRouter|moonshotai/kimi-vl-a3b-thinking:free
+OpenRouter|morph/morph-v3-fast
+OpenRouter|morph/morph-v3-large
+OpenRouter|neversleep/llama-3-lumimaid-70b
+OpenRouter|neversleep/llama-3.1-lumimaid-8b
+OpenRouter|neversleep/noromaid-20b
+OpenRouter|nousresearch/deephermes-3-llama-3-8b-preview:free
+OpenRouter|nousresearch/deephermes-3-mistral-24b-preview
+OpenRouter|nousresearch/hermes-2-pro-llama-3-8b
+OpenRouter|nousresearch/hermes-3-llama-3.1-405b
+OpenRouter|nousresearch/hermes-3-llama-3.1-70b
+OpenRouter|nousresearch/nous-hermes-2-mixtral-8x7b-dpo
+OpenRouter|nvidia/llama-3.1-nemotron-70b-instruct
+OpenRouter|nvidia/llama-3.1-nemotron-ultra-253b-v1
+OpenRouter|nvidia/llama-3.1-nemotron-ultra-253b-v1:free
+OpenRouter|nvidia/llama-3.3-nemotron-super-49b-v1
+OpenRouter|openai/chatgpt-4o-latest
+OpenRouter|openai/codex-mini
+OpenRouter|openai/gpt-3.5-turbo
+OpenRouter|openai/gpt-3.5-turbo-0613
+OpenRouter|openai/gpt-3.5-turbo-16k
+OpenRouter|openai/gpt-3.5-turbo-instruct
+OpenRouter|openai/gpt-4
+OpenRouter|openai/gpt-4-0314
+OpenRouter|openai/gpt-4-1106-preview
+OpenRouter|openai/gpt-4-turbo
+OpenRouter|openai/gpt-4-turbo-preview
+OpenRouter|openai/gpt-4.1
+OpenRouter|openai/gpt-4.1-mini
+OpenRouter|openai/gpt-4.1-nano
+OpenRouter|openai/gpt-4o
+OpenRouter|openai/gpt-4o-2024-05-13
+OpenRouter|openai/gpt-4o-2024-08-06
+OpenRouter|openai/gpt-4o-2024-11-20
+OpenRouter|openai/gpt-4o-mini
+OpenRouter|openai/gpt-4o-mini-2024-07-18
+OpenRouter|openai/gpt-4o-mini-search-preview
+OpenRouter|openai/gpt-4o-search-preview
+OpenRouter|openai/gpt-4o:extended
+OpenRouter|openai/gpt-5
+OpenRouter|openai/gpt-5-chat
+OpenRouter|openai/gpt-5-mini
+OpenRouter|openai/gpt-5-nano
+OpenRouter|openai/gpt-oss-120b
+OpenRouter|openai/gpt-oss-20b
+OpenRouter|openai/gpt-oss-20b:free
+OpenRouter|openai/o1
+OpenRouter|openai/o1-mini
+OpenRouter|openai/o1-mini-2024-09-12
+OpenRouter|openai/o1-pro
+OpenRouter|openai/o3
+OpenRouter|openai/o3-mini
+OpenRouter|openai/o3-mini-high
+OpenRouter|openai/o3-pro
+OpenRouter|openai/o4-mini
+OpenRouter|openai/o4-mini-high
+OpenRouter|opengvlab/internvl3-14b
+OpenRouter|openrouter/auto
+OpenRouter|perplexity/r1-1776
+OpenRouter|perplexity/sonar
+OpenRouter|perplexity/sonar-deep-research
+OpenRouter|perplexity/sonar-pro
+OpenRouter|perplexity/sonar-reasoning
+OpenRouter|perplexity/sonar-reasoning-pro
+OpenRouter|pygmalionai/mythalion-13b
+OpenRouter|qwen/qwen-2-72b-instruct
+OpenRouter|qwen/qwen-2.5-72b-instruct
+OpenRouter|qwen/qwen-2.5-72b-instruct:free
+OpenRouter|qwen/qwen-2.5-7b-instruct
+OpenRouter|qwen/qwen-2.5-coder-32b-instruct
+OpenRouter|qwen/qwen-2.5-coder-32b-instruct:free
+OpenRouter|qwen/qwen-2.5-vl-7b-instruct
+OpenRouter|qwen/qwen-max
+OpenRouter|qwen/qwen-plus
+OpenRouter|qwen/qwen-turbo
+OpenRouter|qwen/qwen-vl-max
+OpenRouter|qwen/qwen-vl-plus
+OpenRouter|qwen/qwen2.5-vl-32b-instruct
+OpenRouter|qwen/qwen2.5-vl-32b-instruct:free
+OpenRouter|qwen/qwen2.5-vl-72b-instruct
+OpenRouter|qwen/qwen2.5-vl-72b-instruct:free
+OpenRouter|qwen/qwen3-14b
+OpenRouter|qwen/qwen3-14b:free
+OpenRouter|qwen/qwen3-235b-a22b
+OpenRouter|qwen/qwen3-235b-a22b-2507
+OpenRouter|qwen/qwen3-235b-a22b-thinking-2507
+OpenRouter|qwen/qwen3-235b-a22b:free
+OpenRouter|qwen/qwen3-30b-a3b
+OpenRouter|qwen/qwen3-30b-a3b-instruct-2507
+OpenRouter|qwen/qwen3-30b-a3b:free
+OpenRouter|qwen/qwen3-32b
+OpenRouter|qwen/qwen3-4b:free
+OpenRouter|qwen/qwen3-8b
+OpenRouter|qwen/qwen3-8b:free
+OpenRouter|qwen/qwen3-coder
+OpenRouter|qwen/qwen3-coder:free
+OpenRouter|qwen/qwq-32b
+OpenRouter|qwen/qwq-32b-preview
+OpenRouter|qwen/qwq-32b:free
+OpenRouter|raifle/sorcererlm-8x22b
+OpenRouter|rekaai/reka-flash-3:free
+OpenRouter|sao10k/l3-euryale-70b
+OpenRouter|sao10k/l3-lunaris-8b
+OpenRouter|sao10k/l3.1-euryale-70b
+OpenRouter|sao10k/l3.3-euryale-70b
+OpenRouter|sarvamai/sarvam-m:free
+OpenRouter|scb10x/llama3.1-typhoon2-70b-instruct
+OpenRouter|shisa-ai/shisa-v2-llama3.3-70b
+OpenRouter|shisa-ai/shisa-v2-llama3.3-70b:free
+OpenRouter|sophosympatheia/midnight-rose-70b
+OpenRouter|switchpoint/router
+OpenRouter|tencent/hunyuan-a13b-instruct
+OpenRouter|tencent/hunyuan-a13b-instruct:free
+OpenRouter|thedrummer/anubis-70b-v1.1
+OpenRouter|thedrummer/anubis-pro-105b-v1
+OpenRouter|thedrummer/rocinante-12b
+OpenRouter|thedrummer/skyfall-36b-v2
+OpenRouter|thedrummer/unslopnemo-12b
+OpenRouter|thedrummer/valkyrie-49b-v1
+OpenRouter|thudm/glm-4-32b
+OpenRouter|thudm/glm-4.1v-9b-thinking
+OpenRouter|thudm/glm-z1-32b:free
+OpenRouter|tngtech/deepseek-r1t-chimera
+OpenRouter|tngtech/deepseek-r1t-chimera:free
+OpenRouter|tngtech/deepseek-r1t2-chimera:free
+OpenRouter|undi95/remm-slerp-l2-13b
+OpenRouter|x-ai/grok-2-1212
+OpenRouter|x-ai/grok-2-vision-1212
+OpenRouter|x-ai/grok-3
+OpenRouter|x-ai/grok-3-beta
+OpenRouter|x-ai/grok-3-mini
+OpenRouter|x-ai/grok-3-mini-beta
+OpenRouter|x-ai/grok-4
+OpenRouter|x-ai/grok-vision-beta
+OpenRouter|z-ai/glm-4-32b
+OpenRouter|z-ai/glm-4.5
+OpenRouter|z-ai/glm-4.5-air
+OpenRouter|z-ai/glm-4.5-air:free
 OpenaiAccount|auto
+OpenaiAccount|gpt-5
+OpenaiAccount|gpt-5-thinking
 OpenaiAccount|gpt-4
 OpenaiAccount|gpt-4.1
 OpenaiAccount|gpt-4.1-mini
@@ -2176,8 +2071,10 @@ OpenaiAccount|o3-mini
 OpenaiAccount|o3-mini-high
 OpenaiAccount|o4-mini
 OpenaiAccount|o4-mini-high
-OpenaiAccount|dall-e-3
+OpenaiAccount|gpt-image
 OpenaiChat|auto
+OpenaiChat|gpt-5
+OpenaiChat|gpt-5-thinking
 OpenaiChat|gpt-4
 OpenaiChat|gpt-4.1
 OpenaiChat|gpt-4.1-mini
@@ -2190,7 +2087,7 @@ OpenaiChat|o3-mini
 OpenaiChat|o3-mini-high
 OpenaiChat|o4-mini
 OpenaiChat|o4-mini-high
-OpenaiChat|dall-e-3
+OpenaiChat|gpt-image
 OperaAria|aria
 PerplexityApi|llama-3-sonar-small-32k-chat
 PerplexityApi|llama-3-sonar-large-32k-online
@@ -2206,8 +2103,6 @@ PerplexityLabs|sonar-reasoning-pro
 PollinationsAI|openai
 PollinationsAI|evil
 PollinationsAI|deepseek-r1
-PollinationsAI|gemini
-PollinationsAI|geminisearch
 PollinationsAI|glm
 PollinationsAI|gpt-5-nano
 PollinationsAI|llama-fast-roblox
@@ -2477,18 +2372,32 @@ PuterJS|qwerky-72b
 PuterJS|lfm-7b
 PuterJS|lfm-3b
 PuterJS|lfm-40b
+Qwen|qwen3-235b-a22b
+Qwen|qwen3-coder-plus
+Qwen|qwen3-30b-a3b
+Qwen|qwen3-coder-30b-a3b-instruct
+Qwen|qwen-max-latest
+Qwen|qwen-plus-2025-01-25
+Qwen|qwq-32b
+Qwen|qwen-turbo-2025-02-11
+Qwen|qwen2.5-omni-7b
+Qwen|qvq-72b-preview-0310
+Qwen|qwen2.5-vl-32b-instruct
+Qwen|qwen2.5-14b-instruct-1m
+Qwen|qwen2.5-coder-32b-instruct
+Qwen|qwen2.5-72b-instruct
 Qwen_Qwen_2_5|qwen-2.5
 Qwen_Qwen_2_5M|qwen-2.5-1m
 Qwen_Qwen_2_5_Max|qwen-2.5-max
 Qwen_Qwen_2_72B|qwen-2-72b
-Qwen_Qwen_3|qwen-3-8b
-Qwen_Qwen_3|qwen-3-235b
-Qwen_Qwen_3|qwen-3-14b
+Qwen_Qwen_3|qwen-3-1.7b
 Qwen_Qwen_3|qwen-3-4b
 Qwen_Qwen_3|qwen-3-0.6b
-Qwen_Qwen_3|qwen-3-1.7b
-Qwen_Qwen_3|qwen-3-32b
+Qwen_Qwen_3|qwen-3-235b
+Qwen_Qwen_3|qwen-3-14b
+Qwen_Qwen_3|qwen-3-8b
 Qwen_Qwen_3|qwen-3-30b-a3b
+Qwen_Qwen_3|qwen-3-32b
 Replicate|meta/meta-llama-3-70b-instruct
 StabilityAI_SD35Large|sd-3.5-large
 TeachAnything|gemini-1.5-pro
@@ -2660,11 +2569,11 @@ AnyProvider|flux-canny
 AnyProvider|flux-kontext
 AnyProvider|flux-dev-lora
 AnyProvider|auto
+AnyProvider|gpt-5
+AnyProvider|gpt-5-thinking
 AnyProvider|PollinationsAI:openai
 AnyProvider|PollinationsAI:evil
 AnyProvider|PollinationsAI:deepseek-r1
-AnyProvider|PollinationsAI:gemini
-AnyProvider|PollinationsAI:geminisearch
 AnyProvider|PollinationsAI:glm
 AnyProvider|PollinationsAI:gpt-5-nano
 AnyProvider|PollinationsAI:llama-fast-roblox
@@ -2707,195 +2616,212 @@ AnyProvider|PollinationsAI:dan
 AnyProvider|grok-3-mini-high
 AnyProvider|grok-3-thinking
 AnyProvider|model-router
-AnyProvider|gpt-5
 AnyProvider|flux-1.1-pro
 AnyProvider|flux-kontext-pro
+AnyProvider|qwen-3235b-a22b
+AnyProvider|qwen-3coder-plus
+AnyProvider|qwen-330b-a3b
+AnyProvider|qwen-3coder-30b-a3b
+AnyProvider|qwen-max-latest
+AnyProvider|qwen-plus
+AnyProvider|qwen-turbo
+AnyProvider|qwen2.5-omni-7b
+AnyProvider|qvq-72b-preview-0310
+AnyProvider|qwen2.5-vl-32b
+AnyProvider|qwen2.5-14b-instruct-1m
+AnyProvider|qwen2.5-coder-32b
+AnyProvider|qwen2.5-72b
+AnyProvider|gpt-4o-mini-image
+AnyProvider|gpt-4o-research
+AnyProvider|glm-4.5
+AnyProvider|glm-4.5-air
+AnyProvider|glm-4-32b
+AnyProvider|glm-4.1v-9b-thinking
+AnyProvider|z1-rumination
+AnyProvider|z1-32b
+AnyProvider|任务专用
 AnyProvider|chatgpt-4o-latest
-AnyProvider|qwen-272b
-AnyProvider|gemini-2.0-flash-thinking-exp
-AnyProvider|openhermes-2.5-mistral-7b
-AnyProvider|step-2-16k-exp-202412
-AnyProvider|llama-3.1-tulu-3-70b
-AnyProvider|llama2-70b-steerlm
-AnyProvider|gpt-4-0613
-AnyProvider|mistral-small-24b-instruct-2501
-AnyProvider|gpt-4-turbo
-AnyProvider|gemma-1.1-2b-it
-AnyProvider|deepseek-coder-v2-0724
-AnyProvider|smollm2-1.7b
-AnyProvider|gemini-2.0-flash-exp
-AnyProvider|gpt-3.5-turbo-0314
-AnyProvider|gemini-exp-1114
-AnyProvider|glm-4-0520
-AnyProvider|stablelm-tuned-alpha-7b
-AnyProvider|deepseek-v2.5
-AnyProvider|claude-3-5-sonnet
-AnyProvider|mixtral-8x7b-instruct-v0.1
-AnyProvider|koala-13b
-AnyProvider|vicuna-7b
-AnyProvider|oasst-pythia-12b
-AnyProvider|llama-3.1-405b-instruct
-AnyProvider|qwen1.5-14b
-AnyProvider|athene-v2
-AnyProvider|nemotron-4-340b
-AnyProvider|mistral-large-2402
-AnyProvider|mpt-7b
-AnyProvider|snowflake-arctic
-AnyProvider|glm-4-plus-0111
-AnyProvider|solar-10.7b-instruct-v1.0
 AnyProvider|rwkv-4-raven-14b
 AnyProvider|llama-4-scout-17b-16e
-AnyProvider|claude-3-opus
-AnyProvider|reka-flash-21b
-AnyProvider|reka-core
-AnyProvider|gemma-2-9b-it
-AnyProvider|deepseek-v2-api-0628
-AnyProvider|gemini-1.5-pro-exp-0827
-AnyProvider|phi-3-mini-4k
-AnyProvider|command-r24
-AnyProvider|qwen-max-0919
-AnyProvider|yi-lightning-lite
-AnyProvider|gemini-2.0-flash-lite
-AnyProvider|claude-3-5-haiku
+AnyProvider|claude-1
+AnyProvider|gpt-3.5-turbo-0613
+AnyProvider|qwen-max-0428
+AnyProvider|fastchat-t5-3b
+AnyProvider|gemma-1.1-7b-it
+AnyProvider|aya-expanse-8b
+AnyProvider|smollm2-1.7b
+AnyProvider|gemini-2.0-pro-exp
+AnyProvider|nemotron-4-340b
+AnyProvider|reka-flash-21b-20240226-online
+AnyProvider|gemma-7b-it
+AnyProvider|athene-70b-0725
+AnyProvider|amazon-nova-pro-v1.0
+AnyProvider|gemma-2-9b-it-simpo
+AnyProvider|gpt-3.5-turbo-0125
+AnyProvider|gemini-2.0-flash-001
+AnyProvider|gemini-1.5-pro-002
+AnyProvider|gemma-3-27b-it
+AnyProvider|pplx-7b-online
 AnyProvider|gemini-1.5-flash-8b-exp-0827
 AnyProvider|reka-flash
-AnyProvider|gemini-1.5-pro-api-0409
-AnyProvider|gemma-2-2b-it
-AnyProvider|gemini-exp-1206
-AnyProvider|phi-3-medium-4k
-AnyProvider|zephyr-7b-beta
-AnyProvider|mpt-30b
+AnyProvider|snowflake-arctic
+AnyProvider|command-r24
+AnyProvider|mistral-large-2402
+AnyProvider|llama-3.1-nemotron-70b
+AnyProvider|glm-4-plus-0111
+AnyProvider|jamba-1.5-large
+AnyProvider|athene-v2
+AnyProvider|glm-4-0520
+AnyProvider|granite-3.0-8b
+AnyProvider|glm-4-0116
 AnyProvider|codellama-34b
-AnyProvider|vicuna-13b
-AnyProvider|falcon-180b
-AnyProvider|qwen-3235b-a22b
-AnyProvider|qwen-plus-0828
-AnyProvider|dolphin-2.2.1-mistral-7b
-AnyProvider|claude-3-7-sonnet-20250219-thinking-32k
-AnyProvider|gemini-pro
+AnyProvider|claude-3-haiku
+AnyProvider|openhermes-2.5-mistral-7b
+AnyProvider|gemma-3-12b-it
+AnyProvider|mixtral-8x22b-instruct-v0.1
+AnyProvider|qwen-plus-0125
+AnyProvider|granite-3.1-2b
+AnyProvider|vicuna-33b
+AnyProvider|starling-lm-7b-beta
+AnyProvider|gpt-4-turbo
+AnyProvider|gpt-3.5-turbo-0314
+AnyProvider|koala-13b
+AnyProvider|gemma-3-4b-it
+AnyProvider|chatglm2-6b
+AnyProvider|gemma-2-9b-it
+AnyProvider|mistral-small-24b-instruct-2501
 AnyProvider|qwen1.5-110b
-AnyProvider|mistral-next
-AnyProvider|reka-flash-21b-20240226-online
-AnyProvider|gemma-3-27b-it
-AnyProvider|gemma-7b-it
-AnyProvider|amazon-nova-pro-v1.0
-AnyProvider|jamba-1.5-mini
-AnyProvider|granite-3.0-2b
-AnyProvider|gpt-4-0125
-AnyProvider|gemini-advanced-0514
-AnyProvider|mistral-large-2407
+AnyProvider|qwen1.5-72b
+AnyProvider|reka-core
+AnyProvider|yi-lightning
+AnyProvider|gemini-1.5-flash-001
+AnyProvider|gemma-2-27b-it
+AnyProvider|yi-large
+AnyProvider|phi-3-mini-4k-instruct-june-2024
+AnyProvider|phi-3-small-8k
+AnyProvider|deepseek-v2.5
+AnyProvider|internlm2.5-20b
+AnyProvider|gpt-4-0613
+AnyProvider|llama-4-maverick-17b-128e
+AnyProvider|bard-jan-24-gemini-pro
+AnyProvider|gemini-exp-1114
+AnyProvider|command-r-plus24
+AnyProvider|deepseek
+AnyProvider|pplx-70b-online
+AnyProvider|mpt-30b
+AnyProvider|gemini-2.0-flash-thinking-exp
+AnyProvider|yi-1.5-34b
+AnyProvider|llama-3.1-tulu-3-70b
+AnyProvider|mpt-7b
+AnyProvider|claude-2.0
+AnyProvider|qwen-272b
+AnyProvider|qwen2.5-max
+AnyProvider|gemini-2.0-flash-exp
+AnyProvider|olmo-7b
+AnyProvider|deepseek-coder
+AnyProvider|qwen-plus-0828
+AnyProvider|zephyr-orpo-141b-a35b-v0.1
+AnyProvider|qwen1.5-14b
+AnyProvider|alpaca-13b
 AnyProvider|mistral-medium
 AnyProvider|qwen1.5-7b
-AnyProvider|olmo-7b
-AnyProvider|gemma-2b-it
-AnyProvider|starling-lm-7b-alpha
-AnyProvider|gemini-1.5-pro-001
-AnyProvider|gemini-1.5-flash-001
-AnyProvider|glm-4-plus
-AnyProvider|mistral-large-2411
-AnyProvider|mistral-7b-instruct-v0.2
-AnyProvider|claude-3-haiku
-AnyProvider|qwen2.5-plus-1127
-AnyProvider|gpt-4-1106
-AnyProvider|yi-large
-AnyProvider|claude-2.1
-AnyProvider|zephyr-orpo-141b-a35b-v0.1
-AnyProvider|gemini-1.5-pro-002
-AnyProvider|gemma-3-12b-it
-AnyProvider|gemma-3-4b-it
-AnyProvider|gemini-1.5-flash-002
-AnyProvider|dolly-v2-12b
-AnyProvider|alpaca-13b
-AnyProvider|fastchat-t5-3b
-AnyProvider|claude-3-7-sonnet
-AnyProvider|gpt-4-0314
-AnyProvider|aya-expanse-32b
-AnyProvider|internlm2.5-20b
-AnyProvider|command-r-plus24
-AnyProvider|openchat-3.5-0106
-AnyProvider|vicuna-33b
-AnyProvider|stripedhyena-nous-7b
-AnyProvider|early-grok-3
-AnyProvider|pplx-70b-online
-AnyProvider|yi-34b
-AnyProvider|pplx-7b-online
-AnyProvider|llama-3.1-tulu-3-8b
-AnyProvider|starling-lm-7b-beta
-AnyProvider|llama-2-13b
-AnyProvider|qwen2.5-max
-AnyProvider|phi-3-mini-128k
-AnyProvider|aya-expanse-8b
-AnyProvider|yi-1.5-34b
-AnyProvider|qwen-14b
-AnyProvider|gemini-exp-1121
-AnyProvider|granite-3.0-8b
-AnyProvider|deepseek-llm-67b
-AnyProvider|gemma-1.1-7b-it
-AnyProvider|gemini-1.5-flash-exp-0827
-AnyProvider|gemini-1.5-flash-8b-001
-AnyProvider|claude-1
-AnyProvider|gemini-pro-dev-api
-AnyProvider|grok-2-mini
-AnyProvider|phi-3-small-8k
-AnyProvider|chatglm3-6b
-AnyProvider|o3
-AnyProvider|jamba-1.5-large
-AnyProvider|qwen-plus-0125
-AnyProvider|claude-2.0
-AnyProvider|llama-3.1-nemotron-51b
-AnyProvider|granite-3.1-2b
-AnyProvider|deepseek-v2.5-1210
-AnyProvider|tulu-2-dpo-70b
-AnyProvider|codellama-70b
-AnyProvider|claude-3-sonnet
-AnyProvider|gemini-2.0-flash-001
-AnyProvider|claude-instant-1
-AnyProvider|wizardlm-70b
-AnyProvider|guanaco-33b
-AnyProvider|palm-2
-AnyProvider|gpt4all-13b-snoozy
-AnyProvider|gpt-3.5-turbo-0613
-AnyProvider|granite-3.1-8b
-AnyProvider|qwen-max-0428
-AnyProvider|chatglm2-6b
-AnyProvider|mistral-medium-2505
-AnyProvider|yi-lightning
-AnyProvider|deepseek-coder
-AnyProvider|qwen1.5-72b
-AnyProvider|qwen1.5-4b
-AnyProvider|llama-13b
-AnyProvider|phi-3-mini-4k-instruct-june-2024
-AnyProvider|gemma-2-9b-it-simpo
-AnyProvider|qwen2.5-72b
-AnyProvider|bard-jan-24-gemini-pro
-AnyProvider|llama-3.1-nemotron-70b
-AnyProvider|gemini-1.5-pro-exp-0801
-AnyProvider|gemma-2-27b-it
-AnyProvider|amazon-nova-lite-v1.0
-AnyProvider|mixtral-8x22b-instruct-v0.1
-AnyProvider|athene-70b-0725
-AnyProvider|glm-4-0116
-AnyProvider|gpt-3.5-turbo-1106
-AnyProvider|ministral-8b-2410
-AnyProvider|nous-hermes-2-mixtral-8x7b-dpo
-AnyProvider|gpt-3.5-turbo-0125
-AnyProvider|gemini-2.0-flash-thinking-exp-1219
-AnyProvider|wizardlm-13b
 AnyProvider|zephyr-7b-alpha
-AnyProvider|llama-4-maverick-17b-128e
-AnyProvider|deepseek
-AnyProvider|chatglm-6b
-AnyProvider|dbrx-instruct
-AnyProvider|openchat-3.5
-AnyProvider|qwen2.5-coder-32b
+AnyProvider|qwen-14b
+AnyProvider|qwen1.5-4b
+AnyProvider|gemini-1.5-flash-002
+AnyProvider|starling-lm-7b-alpha
+AnyProvider|gemini-2.0-flash-lite
+AnyProvider|gemini-1.5-pro-exp-0801
+AnyProvider|deepseek-llm-67b
+AnyProvider|claude-3-7-sonnet-20250219-thinking-32k
+AnyProvider|gemini-exp-1121
+AnyProvider|llama-3.1-405b-instruct
+AnyProvider|tulu-2-dpo-70b
 AnyProvider|qwen1.5-32b
-AnyProvider|gemini-2.0-pro-exp
-AnyProvider|hunyuan-standard-256k
+AnyProvider|claude-3-5-sonnet
+AnyProvider|claude-3-5-haiku
+AnyProvider|stablelm-tuned-alpha-7b
+AnyProvider|ministral-8b-2410
+AnyProvider|solar-10.7b-instruct-v1.0
+AnyProvider|gemini-advanced-0514
+AnyProvider|claude-3-opus
+AnyProvider|llama-3.1-tulu-3-8b
+AnyProvider|claude-2.1
+AnyProvider|reka-flash-21b
+AnyProvider|dbrx-instruct
+AnyProvider|gemini-pro-dev-api
+AnyProvider|claude-3-7-sonnet
+AnyProvider|step-2-16k-exp-202412
+AnyProvider|aya-expanse-32b
+AnyProvider|palm-2
+AnyProvider|deepseek-v2.5-1210
+AnyProvider|chatglm-6b
+AnyProvider|wizardlm-13b
+AnyProvider|dolphin-2.2.1-mistral-7b
+AnyProvider|openchat-3.5-0106
+AnyProvider|gemini-1.5-pro-exp-0827
 AnyProvider|amazon-nova-micro-v1.0
+AnyProvider|qwen2.5-plus-1127
+AnyProvider|llama-3.1-nemotron-51b
+AnyProvider|llama-13b
+AnyProvider|yi-34b
+AnyProvider|claude-3-sonnet
+AnyProvider|yi-lightning-lite
+AnyProvider|qwen-max-0919
+AnyProvider|falcon-180b
+AnyProvider|mistral-medium-2505
+AnyProvider|nous-hermes-2-mixtral-8x7b-dpo
+AnyProvider|llama-2-13b
+AnyProvider|claude-instant-1
+AnyProvider|gemini-exp-1206
+AnyProvider|amazon-nova-lite-v1.0
+AnyProvider|mistral-large-2407
+AnyProvider|early-grok-3
+AnyProvider|gpt-4-1106
+AnyProvider|gpt-4-0314
+AnyProvider|mistral-7b-instruct-v0.2
+AnyProvider|deepseek-v2-api-0628
+AnyProvider|chatglm3-6b
+AnyProvider|llama2-70b-steerlm
+AnyProvider|oasst-pythia-12b
+AnyProvider|glm-4-plus
+AnyProvider|gemini-pro
+AnyProvider|codellama-70b
+AnyProvider|gemini-1.5-flash-8b-001
+AnyProvider|gemma-2b-it
+AnyProvider|gpt-4-0125
+AnyProvider|stripedhyena-nous-7b
+AnyProvider|mistral-large-2411
+AnyProvider|gemini-2.0-flash-thinking-exp-1219
+AnyProvider|grok-2-mini
+AnyProvider|mixtral-8x7b-instruct-v0.1
+AnyProvider|phi-3-medium-4k
+AnyProvider|vicuna-7b
+AnyProvider|gpt-3.5-turbo-1106
+AnyProvider|wizardlm-70b
+AnyProvider|granite-3.1-8b
+AnyProvider|granite-3.0-2b
+AnyProvider|guanaco-33b
+AnyProvider|phi-3-mini-128k
+AnyProvider|dolly-v2-12b
+AnyProvider|o3
+AnyProvider|deepseek-coder-v2-0724
+AnyProvider|vicuna-13b
+AnyProvider|hunyuan-standard-256k
+AnyProvider|zephyr-7b-beta
+AnyProvider|gpt4all-13b-snoozy
+AnyProvider|phi-3-mini-4k
+AnyProvider|gemini-1.5-pro-001
+AnyProvider|gemini-1.5-pro-api-0409
+AnyProvider|gemma-2-2b-it
+AnyProvider|jamba-1.5-mini
+AnyProvider|openchat-3.5
+AnyProvider|mistral-next
+AnyProvider|gemma-1.1-2b-it
+AnyProvider|gemini-1.5-flash-exp-0827
 AnyProvider|claude-3.7-sonnet
 AnyProvider|claude-3.7-sonnet-thinking
 AnyProvider|gemini-2.0-pro
-AnyProvider|qwen-plus
 AnyProvider|claude-3.5-sonnet
 AnyProvider|qwen-2.5-plus
 AnyProvider|qwen-max
@@ -2940,12 +2866,9 @@ AnyProvider|hermes-3-405b
 AnyProvider|gpt-oss-20b
 AnyProvider|qwen-3coder-480b-a35b-instruct-turbo
 AnyProvider|olmocr-7b-0725
-AnyProvider|glm-4.5
 AnyProvider|qwen-3235b-a22b-thinking-2507
 AnyProvider|qwen-3coder-480b-a35b
-AnyProvider|glm-4.5-air
 AnyProvider|qwen-3235b-a22b-instruct-2507
-AnyProvider|qwen-330b-a3b
 AnyProvider|qwen-314b
 AnyProvider|llama-4-maverick-17b-128e-instruct-turbo
 AnyProvider|devstral-small-2507
@@ -2954,15 +2877,14 @@ AnyProvider|llama-guard-4-12b
 AnyProvider|claude-4-opus
 AnyProvider|claude-4-sonnet
 AnyProvider|llama-3.3-70b-instruct-turbo
-AnyProvider|qwen-3coder-30b-a3b
 AnyProvider|qwen-34b-thinking-2507
 AnyProvider|qwen-34b-instruct-2507
-AnyProvider|qwen-38b
 AnyProvider|smollm3-3b
+AnyProvider|qwen-38b
 AnyProvider|qwen-34b
-AnyProvider|qwen-31.7b
 AnyProvider|dolphin-mistral-24b-venice-edition
 AnyProvider|qwen-3coder-480b-a35b-instruct
+AnyProvider|qwen-31.7b
 AnyProvider|llama-3.2-11b-vision
 AnyProvider|qwen-2vl-7b
 AnyProvider|llama-3.1-nemotron-70b-instruct
@@ -2971,11 +2893,13 @@ AnyProvider|phi-3.5-mini
 AnyProvider|qwen-image
 AnyProvider|flux-krea-dev
 AnyProvider|qwen-image-gguf
-AnyProvider|nunchaku-flux-krea-dev
 AnyProvider|flux-krea-blaze
+AnyProvider|nunchaku-flux-krea-dev
 AnyProvider|flux-krea-dev-gguf
-AnyProvider|stable-diffusion-3.5-small-preview1
 AnyProvider|stable-diffusion-xl-base-1.0
+AnyProvider|stable-diffusion-3.5-small-preview1
+AnyProvider|qwen-image-realism-lora
+AnyProvider|chroma1-hd
 AnyProvider|stable-diffusion-v1-5
 AnyProvider|llama-3
 AnyProvider|qvq-72b
@@ -2985,8 +2909,8 @@ AnyProvider|wan2.2-ti2v-5b
 AnyProvider|wan2.2-t2v-a14b
 AnyProvider|wan2.2-t2v-a14b-diffusers
 AnyProvider|hunyuanvideo
-AnyProvider|wan2.1-t2v-14b
 AnyProvider|wan2.1-t2v-1.3b
+AnyProvider|wan2.1-t2v-14b
 AnyProvider|cogvideox-5b
 AnyProvider|mochi-1
 AnyProvider|ltx-video-0.9.7-dev
@@ -3112,7 +3036,6 @@ AnyProvider|mai-ds-r1
 AnyProvider|claude-2
 AnyProvider|command
 AnyProvider|qwen-vl-plus
-AnyProvider|qwen-turbo
 AnyProvider|qwen-2.5-vl-7b
 AnyProvider|qwen-3-8b
 AnyProvider|qwen-2.5-coder-7b
@@ -3127,7 +3050,6 @@ AnyProvider|grok
 AnyProvider|sonar-deep-research
 AnyProvider|llama-3.1-sonar-small-online
 AnyProvider|llama-3.1-sonar-large-online
-AnyProvider|glm-4-32b
 AnyProvider|glm-z1-32b
 AnyProvider|glm-4-9b
 AnyProvider|glm-z1-9b
