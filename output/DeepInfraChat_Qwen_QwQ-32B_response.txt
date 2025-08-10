@@ -1,3 +1,1 @@
-Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation that I'm operational.
-
-First, I need to acknowledge their greeting. But the main request is to
+Okay, the user just wrote, "Hello, are you working? Reply with 'Yes' if you can respond." Alright, I need to figure out how to reply. Let me start by understanding the query. The user is checking if I'm

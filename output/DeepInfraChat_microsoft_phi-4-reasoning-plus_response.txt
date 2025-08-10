@@ -1,1 +1,1 @@
-User's query: "Hello, are you working? Reply with 'Yes' if you can respond." So what is requested? The user says: "Hello, are you working? Reply with 'Yes' if you can respond." Possibly meaning
+User query: "Hello, are you working? Reply with 'Yes' if you can respond." Instructions: "are you working?" And "Reply with 'Yes' if you can respond." So what's expected? We have a message from

@@ -1,4 +1,4 @@
 <think>
-Okay, the user just asked if I'm working and requested a 'Yes' reply if capable. Hmm, such a simple greeting feels like they might be testing bot responsiveness or confirming real-time functionality.  
+Hmm, the user greeted me and asked if I'm working. They want a simple 'Yes' confirmation if I'm operational.
 
-The phrasing "
+This seems straightforward - they're likely testing my availability or connection status, maybe due to previous

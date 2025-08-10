@@ -1,1 +1,1 @@
-User message: "Hello, are you working? Reply with 'Yes' if you can respond." The conversation is short. I need to check instructions. The conversation: "Hello, are you working? Reply with 'Yes' if you can
+User's question: "Hello, are you working? Reply with 'Yes' if you can respond." We need to respond with 'Yes' if I can respond. The user instructs: "Reply with 'Yes' if you can respond

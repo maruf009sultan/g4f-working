@@ -1,4 +1,4 @@
 <think>
-Okay, user just checked if I'm active with a simple "Hello, are you working?" and asked for a 'Yes' confirmation. 
+Hmm, the user just sent a simple greeting and asked if I'm working. They specifically requested to reply with "Yes" if I can respond. 
 
-Hmm, this feels like a connectivity test - maybe they've experienced dead chatbots before or
+Okay let me break this down. The greeting "Hello" suggests polite initiation

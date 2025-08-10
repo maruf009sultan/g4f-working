@@ -1,2 +1,4 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to make sure I follow their instruction correctly. They want a 'Yes' if I can respond. Since I'm
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to handle this.
+
+First, I need to confirm if I can respond. The user wants a '

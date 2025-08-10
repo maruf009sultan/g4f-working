@@ -1,5 +1,2 @@
-Yes
-
-```
-  ______       ______     __  __     ______     __         ______
- /      \     /      \   /  \/  \   /      \   /  \       /     
+502 Bad Gateway
+Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared

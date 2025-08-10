@@ -1,2 +1,2 @@
 <think>
-Okay, the user just asked me to respond with 'Yes' if I can. I need to make sure I follow that instruction exactly. They might be testing if I'm operational. I'll confirm with a simple 'Yes' without any
+Okay, the user greeted me with "Hello, are you working?" and asked to reply with 'Yes' if I can respond. I need to confirm if I'm operational. Since I can respond, I should answer with 'Yes'.

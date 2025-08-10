@@ -1,2 +1,4 @@
 <think>
-Hmm, the user greeted me and asked if I'm working. They want me to reply with just "Yes" if I can respond. That's straightforward. I imagine they might be testing if I'm online or checking my availability—
+Hmm, the user is greeting me and asking if I'm working. A simple "Hello" with a direct request - they want confirmation that I can respond.  
+
+The phrasing feels polite but slightly formal, like someone testing a new
