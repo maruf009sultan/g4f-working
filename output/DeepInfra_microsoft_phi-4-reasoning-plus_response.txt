@@ -1,1 +1,1 @@
-User says: "Hello, are you working? Reply with 'Yes' if you can respond." It's a simple query. The instructions: "Hello, are you working? Reply with 'Yes' if you can respond." I need to
+Yes, I'm here and ready to help! How can I assist you today?

@@ -1,4 +1,4 @@
 <think>
-Okay, the user just greeted me and asked if I'm working, with a specific instruction to reply 'Yes' if I can respond. Hmm, this seems like a straightforward check to confirm my availability.  
+Hmm, the user greeted me and asked if I'm working. They seem to want a simple confirmation that I'm available to respond.  
 
-The phrasing is polite
+The phrasing "Reply with 'Yes'" suggests they might be testing system functionality or prefer minimal

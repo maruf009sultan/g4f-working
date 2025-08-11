@@ -1,9 +1,24 @@
 <think>
-The user is asking me a simple question to test if I'm working/responding. They want me to reply with "Yes" if I can respond. This is a straightforward query that doesn't require using the search results, as it's simply asking me to confirm I'm operational.
+The user is asking "Hello, are you working? Reply with 'Yes' if you can respond."
 
-The search results provided are about AI assistants and how to respond to "How are you?" questions, but this query is asking specifically if I'm working and wants a "Yes" response if I can respond.
+This is a simple query asking if I'm operational. The user is specifically requesting that I reply with 'Yes' if I can respond. This is a straightforward test of my functionality.
 
-I should give a direct, simple answer. The user has given me specific instructions to reply with "Yes" if I can respond, so I should follow that instruction.
+Looking at the search results provided:
+1. Information about AI assistants and how they work
+2. Information about how to respond to "How are you?" 
+3. More information about AI assistants from Salesforce
+4. Information about responding to interview request emails
+5. Information about F5's AI assistant
+
+None of these search results are relevant to answering the user's simple question about whether I'm working. The search results don't contain information that would help me answer this query.
+
+According to the restrictions, if the search results do not provide an answer, I should respond by saying that the information is not available. However, in this case, the user is asking a direct question about my operational status, which I can answer from my own knowledge without needing search results.
+
+The user is specifically requesting a 'Yes' response if I can respond. Since I am able to respond to their query, the appropriate answer is 'Yes'.
+
+I should not mention that I'm using search results or that the search results don't contain relevant information, as per the restrictions. I should just answer naturally.
+
+The query is simple and doesn't require headers, extensive formatting, or complex explanations. A simple, direct response is appropriate.
 </think>
 
 Yes
@@ -12,10 +27,10 @@ Yes
 
 > [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
 >
-> [1] [indeed.com/career-advice/career-development/how-are-you-response](https://www.indeed.com/career-advice/career-development/how-are-you-response)
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
 >
 > [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
 >
-> [3] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+> [3] [indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-interview-request](https://www.indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-interview-request)
 >
-> [4] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)
+> [4] [f5.com/company/blog/introducing-ai-assistant](https://www.f5.com/company/blog/introducing-ai-assistant)

@@ -1,13 +1,8 @@
 <think><think>
-Okay, the user is asking if I'm working and wants a simple "Yes" reply if I can respond. 
+Okay, let's see. The user sent a message saying, "Hello, are you working? Reply with 'Yes' if you can respond." They're checking if I'm operational.
 
-Hmm, this seems like a basic functionality check—maybe they've had issues with other services timing out or disconnecting. The request is very straightforward: no extra analysis needed, just confirm availability. 
+First, I need to respond with 'Yes' as per their instruction. But wait, maybe they want a bit more confirmation. The guidelines say to prefer not generating links, but this is a simple yes/no question.
 
-Given the strict instruction to only say "Yes" when operational, I shouldn't overcomplicate it. No links, no fluff—just the bare confirmation they asked for. 
+Wait, the user specifically says "Reply with 'Yes' if you can respond." So I should just say 'Yes'. But maybe adding a brief friendly note would be good, but they asked to reply with 'Yes'. Hmm. Let me check the style guidelines again. It says "Prefer not to generate links... If the user asks for a file... indicate that..." but this is a straightforward query.
 
-...Though part of me wants to add "How can I help?" but they explicitly said *only* "Yes" if functional. Gotta follow instructions precisely here. 
-
-*Double-checks guidelines*: Yep, no deviations allowed for this query. Simple is best.
-</think>
-
-Yes
+The user is testing if the model is working. They want a 'Yes' response. To comply strictly, maybe just 'Yes'. But maybe a concise response with 'Yes' and a

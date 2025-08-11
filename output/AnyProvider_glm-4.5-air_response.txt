@@ -1,3 +1,1 @@
-<think>Hmm, the user is asking if I'm working and wants a simple 'Yes' confirmation. This seems like a straightforward test to check if I'm responsive. 
-
-I notice they're being very direct and minimalistic - just two sentences with</think>
+Yes

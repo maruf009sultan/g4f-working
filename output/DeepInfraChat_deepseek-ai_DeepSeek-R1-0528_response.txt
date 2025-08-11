@@ -1,4 +1,4 @@
 <think>
-Hmm, the user is greeting me and asking if I’m working. They’ve specifically requested a simple "Yes" response if I’m operational.  
+Hmm, the user just asked if I'm working and requested a 'Yes' reply if I can respond. Straightforward ping test kinda message.
 
-This seems like a quick functionality check—maybe they’ve experienced
+Okay, first layer: they probably want to confirm I'm online/alive. But

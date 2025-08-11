@@ -1,1 +1,1 @@
-User message: "Hello, are you working? Reply with 'Yes' if you can respond." The user's request is to produce the word "Yes" if I can respond. I must check if I'm allowed to produce such response.
+Yes, I can respond. How can I assist you today?

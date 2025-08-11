@@ -1,10 +1,11 @@
 <think><think>
-Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out how to respond based on the guidelines.
+Okay, the user sent a message asking if I'm working and wants me to reply with "Yes" if I can respond. Let me check the guidelines.
 
-First, the user is checking if I'm operational. They specifically asked for a 'Yes' if I can respond. My job is to confirm that I'm working.
+First, they want a simple "Yes" confirmation. The style guidelines say to avoid links unless necessary, but here it's straightforward. No need for links here since it's just a yes/no response. Also, the user might be testing if the system is operational. 
 
-Looking at the style guidelines, I should avoid generating links unless necessary. Since the user didn't ask for a file or anything that requires a link, that's not an issue here.
+I should make sure not to add extra info unless needed. The user specified to reply with 'Yes', so following instructions is key. Don't want to overcomplicate it. Just confirm availability as requested.
 
-The current date is August 11, 2025, but the user's question doesn't relate to time-sensitive info, so I don't need to mention the date.
+Check if there's any hidden request, but seems direct. Current date is given but not relevant here. No files or links involved. So, the correct response is simply "Yes".
+</think>
 
-The user's main request is a simple confirmation. They want a 'Yes' response. I should stick to that without adding extra info unless needed. But maybe a brief friendly note would be okay? Wait, the instruction
+Yes

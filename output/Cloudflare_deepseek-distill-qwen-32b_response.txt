@@ -1,3 +1,0 @@
-<think>
-Okay, so I'm trying to figure out how to respond to the user's query. The user wrote, "Hello, are you working? Reply with 'Yes' if you can respond." Then the assistant replied with "Yes." 
-

@@ -1,4 +1,4 @@
 <think>
-Okay, the user just sent a greeting and asked if I'm working, requesting a simple 'Yes' reply to confirm availability.  
+Hmm, the user just greeted me and asked if I'm working, with a specific instruction to reply with "Yes" if I can respond.  
 
-Hmm, seems like a straightforward check to see if I'm online and responsive. The tone is polite
+Okay, let's break this down. The greeting is polite ("Hello"), and

@@ -1,20 +1,19 @@
 <think>
-I need to respond to the query "Hello, are you working? Reply with 'Yes' if you can respond."
+Let me analyze the current query and search results to provide an appropriate response.
 
-Let me analyze the instructions and search results provided:
+The query is: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-The query is asking me to confirm if I'm working/operational by responding with "Yes" if I can respond.
+This is a simple test query asking:
+1. If I'm working/operational
+2. Specifically requesting a "Yes" response if I can respond
 
-Looking at the search results, they mostly contain information about:
-1. What AI assistants are and how they work
-2. How to answer the question "How are you?"
-3. More technical information about AI assistants
-4. A YouTube video about responding to "How are you?"
-5. Information about adding AI assistant responses
+This appears to be a basic functionality check - someone testing if the AI assistant is active and able to respond.
 
-None of the search results directly address how to respond specifically to the question "are you working?" with a simple "Yes" affirmation. The query is specifically asking me to reply with 'Yes' if I can respond.
+Looking at the search results:
+- Results [1], [3], and [5] discuss what AI assistants are and how they work
+- Result [2] is about how to reply to a job offer
+- Result [4] is about how to respond to "How are you?"
 
-In this case, it seems like the user wants a very simple confirmation that:
-1. I've received their message
-2. I'm operational
-3. I can
+None of the search results directly address this specific query format where someone is asking "are you working?" and requesting a "Yes" response. This is simply someone checking if the AI is operational.
+
+According to the query instructions, I should reply with 'Yes' if I can respond. Since I am able to process this query and generate a response, the appropriate

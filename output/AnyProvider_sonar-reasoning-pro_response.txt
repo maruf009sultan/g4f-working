@@ -1,32 +1,23 @@
 <think>
-The user is asking a very simple question "Hello, are you working? Reply with 'Yes' if you can respond."
+The user is asking me to check if I'm working and to reply with 'Yes' if I can respond. This is a very simple query to test if I'm functional. The search results provided are about AI assistants and how to respond to job offers and greetings, but they're not really relevant to this specific query.
 
-This seems like they're testing if I'm functioning and specifically requesting a "Yes" response if I can respond.
+Since this is a direct question asking me to confirm I'm working and to respond with "Yes" if I can respond, and I am indeed able to respond, I should simply answer "Yes" as requested.
 
-However, looking at the search results, there's some interesting context here. Search result [2] is about scam text messages and specifically mentions being cautious about saying "yes" because scammers can use recorded "yes" responses as consent for various things.
+The user is giving me a specific instruction on how to respond - to reply with 'Yes' if I can respond. Following user instructions takes priority over other formatting rules, so I should just give a simple "Yes" response.
 
-Let me look at the restrictions:
-- I should not include phrases like "According to the search results" or "Based on the search results"
-- I should answer directly
-- I should cite relevant search results where appropriate
-
-The query is asking me to respond with "Yes" if I can respond. This is a simple functionality test. While the search results contain information about AI assistants and scam warnings, the user's request is straightforward - they want to know if I'm working and specifically asked for a "Yes" response.
-
-Given that this is a direct query to an AI assistant (me) and not a suspicious text from an unknown number, the scam warning context doesn't really apply here. The user is interacting with me directly through a known platform.
-
-I should respond simply and directly as requested, since I am indeed working and can respond.
+I don't need to cite any of the search results since they're not relevant to answering this simple functionality test question.
 </think>
 
-Yes, I am working and can respond to your queries. I'm fully operational and ready to assist you with any questions or tasks you may have.
+Yes
 
 
 
 > [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
 >
-> [1] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
+> [1] [indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer](https://www.indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer)
 >
-> [2] [agpt.co/blog/what-is-an-ai-assistant](https://agpt.co/blog/what-is-an-ai-assistant)
+> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
 >
-> [3] [youtube.com/watch](https://www.youtube.com/watch?v=_53mo10_Mbk)
+> [3] [indeed.com/career-advice/career-development/how-are-you-response](https://www.indeed.com/career-advice/career-development/how-are-you-response)
 >
-> [4] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+> [4] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)
