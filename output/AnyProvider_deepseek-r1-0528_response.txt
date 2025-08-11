@@ -1,4 +1,4 @@
 <think>
-Hmm, the user is greeting me and asking if I'm working. A simple "Hello" with a direct request - they want confirmation that I can respond.  
+Okay, the user just sent a greeting and asked if I'm working, requesting a simple 'Yes' reply to confirm availability.  
 
-The phrasing feels polite but slightly formal, like someone testing a new
+Hmm, seems like a straightforward check to see if I'm online and responsive. The tone is polite

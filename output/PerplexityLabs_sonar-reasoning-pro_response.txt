@@ -1,13 +1,9 @@
 <think>
-The user is asking a very simple query asking if I'm "working" and specifically requesting I reply with "Yes" if I can respond. This is a basic functionality check.
+The user is asking me a simple question to test if I'm working/responding. They want me to reply with "Yes" if I can respond. This is a straightforward query that doesn't require using the search results, as it's simply asking me to confirm I'm operational.
 
-Looking at the search results, they contain information about AI assistants, how they work, communication abilities, and some unrelated content about responding to recruiters and general conversation responses. However, none of this is really relevant to the specific query being asked.
+The search results provided are about AI assistants and how to respond to "How are you?" questions, but this query is asking specifically if I'm working and wants a "Yes" response if I can respond.
 
-The user is asking me to simply confirm that I'm operational and can respond. They've specifically requested I reply with "Yes" if I can respond. This is a straightforward request that doesn't require citing search results since none of them are directly relevant to answering whether I'm currently working/functioning.
-
-According to the restrictions, if search results don't provide an answer, I should respond appropriately. In this case, the search results are about AI assistants in general but don't address the specific question of whether I'm currently operational. However, I can clearly respond to demonstrate that I am working.
-
-The user has given me a specific instruction to reply with "Yes" if I can respond, so I should follow that instruction as mentioned in rule 8 that following user instruction takes priority.
+I should give a direct, simple answer. The user has given me specific instructions to reply with "Yes" if I can respond, so I should follow that instruction.
 </think>
 
 Yes
@@ -16,10 +12,10 @@ Yes
 
 > [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
 >
-> [1] [indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter](https://www.indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter)
+> [1] [indeed.com/career-advice/career-development/how-are-you-response](https://www.indeed.com/career-advice/career-development/how-are-you-response)
 >
-> [2] [agpt.co/blog/what-is-an-ai-assistant](https://agpt.co/blog/what-is-an-ai-assistant)
+> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
 >
 > [3] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
 >
-> [4] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+> [4] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)

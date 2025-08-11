@@ -1,2 +1,3 @@
 <think>
-Okay, the user greeted me with "Hello, are you working?" and asked to reply with 'Yes' if I can respond. I need to confirm if I'm operational. Since I can respond, I should answer with 'Yes'.
+Okay, so I'm trying to figure out how to respond to the user's query. The user wrote, "Hello, are you working? Reply with 'Yes' if you can respond." Then the assistant replied with "Yes." 
+

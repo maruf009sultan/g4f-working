@@ -1,11 +1,10 @@
 <think><think>
-Okay, the user just greeted me with "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, this seems like a simple system check—they're probably verifying if I'm operational before asking real questions.  
+Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out how to respond based on the guidelines.
 
-I notice they specifically demanded a one-word reply ("Yes"), which is unusual since most users expect fuller responses. Maybe they're testing strict instruction-following? Or copying a pattern from other bots? Either way, I should respect the request precisely to build trust.  
+First, the user is checking if I'm operational. They specifically asked for a 'Yes' if I can respond. My job is to confirm that I'm working.
 
-*Checks guidelines*: No links needed here since it's a binary confirmation. Also, my status is clearly "online" per the prompt—I just processed their message after all.  
+Looking at the style guidelines, I should avoid generating links unless necessary. Since the user didn't ask for a file or anything that requires a link, that's not an issue here.
 
-*Decision*: Straight "Yes" it is. No fluff. They'll likely follow up with actual queries once confirmed. Keeping it minimal aligns with their ask and avoids overcomplicating a check-in.
-</think>
+The current date is August 11, 2025, but the user's question doesn't relate to time-sensitive info, so I don't need to mention the date.
 
-Yes
+The user's main request is a simple confirmation. They want a 'Yes' response. I should stick to that without adding extra info unless needed. But maybe a brief friendly note would be okay? Wait, the instruction

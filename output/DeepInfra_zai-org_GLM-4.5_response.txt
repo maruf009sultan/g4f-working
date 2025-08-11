@@ -1,1 +1,1 @@
-<think>The user is asking if I'm working and wants me to reply with 'Yes' if I can respond. This seems like a simple check to see if I'm operational. I can indeed respond, so I should simply reply with 'Yes</think>
+<think>The human is asking if I'm working and instructing me to reply with 'Yes' if I can respond. This is a straightforward question to confirm my availability and responsiveness. Since I am an AI assistant and I am operational, I should</think>

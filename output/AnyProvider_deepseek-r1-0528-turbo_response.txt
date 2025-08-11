@@ -1,4 +1,4 @@
 <think>
-Hmm, the user greeted me and asked if I'm working. They want a simple 'Yes' confirmation if I'm operational.
+Hmm, the user is asking if I'm working and requesting a simple 'Yes' reply if I can respond. 
 
-This seems straightforward - they're likely testing my availability or connection status, maybe due to previous
+Okay, let me break this down. The core question is straightforward - they want confirmation of my availability. The

@@ -1,28 +1,20 @@
 <think>
-The user is asking if I'm working and wants me to reply with just "Yes" if I can respond.
+I need to respond to the query "Hello, are you working? Reply with 'Yes' if you can respond."
 
-Let me analyze this query:
-- "Hello, are you working? Reply with 'Yes' if you can respond."
+Let me analyze the instructions and search results provided:
 
-This is a simple check to see if I'm operational and able to respond to queries. The user specifically requests that I reply with 'Yes' if I can respond.
+The query is asking me to confirm if I'm working/operational by responding with "Yes" if I can respond.
 
-All the search results provided are background information about AI assistants, but they're not directly relevant to this query. The user isn't asking for information about AI assistants - they're just checking if I'm online and functioning.
+Looking at the search results, they mostly contain information about:
+1. What AI assistants are and how they work
+2. How to answer the question "How are you?"
+3. More technical information about AI assistants
+4. A YouTube video about responding to "How are you?"
+5. Information about adding AI assistant responses
 
-Since I am an AI assistant that is currently operational and can respond to queries, the appropriate response would be simply "Yes" as requested.
+None of the search results directly address how to respond specifically to the question "are you working?" with a simple "Yes" affirmation. The query is specifically asking me to reply with 'Yes' if I can respond.
 
-I should follow the user's instruction precisely and respond with just "Yes" without adding any additional information, since that's what they asked for.
-</think>
-
-Yes
-
-
-
-> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
->
-> [1] [indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer](https://www.indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer)
->
-> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
->
-> [3] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
->
-> [4] [aiacquisition.com/blog/ai-assistant-capabilities](https://www.aiacquisition.com/blog/ai-assistant-capabilities)
+In this case, it seems like the user wants a very simple confirmation that:
+1. I've received their message
+2. I'm operational
+3. I can
