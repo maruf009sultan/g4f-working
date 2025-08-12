@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just asked if I'm working and requested a 'Yes' reply if I can respond. Straightforward ping test kinda message.
+Hmm, a user greeted me with "Hello, are you working?" followed by a specific instruction to reply with 'Yes' if able to respond.  
 
-Okay, first layer: they probably want to confirm I'm online/alive. But
+This appears to be a connection test - likely checking if I'm online and

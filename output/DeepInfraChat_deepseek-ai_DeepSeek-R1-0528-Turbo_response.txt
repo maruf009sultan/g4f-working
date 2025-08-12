@@ -1,4 +1,4 @@
 <think>
-Hmm, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. This seems like a straightforward query to verify if I'm active and ready to interact. 
+Hmm, the user is asking if I'm working and wants a simple 'Yes' reply if I can respond. Okay, this seems straightforward.  
 
-The phrasing
+They might be testing if I'm active or just checking before asking a real

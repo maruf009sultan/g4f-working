@@ -1,0 +1,4 @@
+<think>
+Hmm, the user just greeted me with "Hello" and asked if I'm working, requesting a specific "Yes" reply if available. 
+
+This seems like a simple availability check - they're probably testing if I'm active before

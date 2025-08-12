@@ -1,4 +1,4 @@
 <think>
-Hmm, the user greeted me and asked if I'm working. They seem to want a simple confirmation that I'm available to respond.  
+Hmm, the user is asking if I'm working and wants a simple 'Yes' reply if I can respond. 
 
-The phrasing "Reply with 'Yes'" suggests they might be testing system functionality or prefer minimal
+Okay, let me quickly check what they need here. The greeting "Hello" suggests they're polite, and

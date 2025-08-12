@@ -1,8 +1,13 @@
 <think><think>
-Okay, let's see. The user sent a message saying, "Hello, are you working? Reply with 'Yes' if you can respond." They're checking if I'm operational.
+Okay, the user is asking if I'm working and wants a simple "Yes" reply if I can respond. Let me check the instructions again.
 
-First, I need to respond with 'Yes' as per their instruction. But wait, maybe they want a bit more confirmation. The guidelines say to prefer not generating links, but this is a simple yes/no question.
+My style guidelines say not to generate links and to be honest if I don't have access to files. But this is a straightforward question.
 
-Wait, the user specifically says "Reply with 'Yes' if you can respond." So I should just say 'Yes'. But maybe adding a brief friendly note would be good, but they asked to reply with 'Yes'. Hmm. Let me check the style guidelines again. It says "Prefer not to generate links... If the user asks for a file... indicate that..." but this is a straightforward query.
+The user's message is a basic availability check - "Hello, are you working? Reply with 'Yes' if you can respond."
 
-The user is testing if the model is working. They want a 'Yes' response. To comply strictly, maybe just 'Yes'. But maybe a concise response with 'Yes' and a
+I'm clearly able to respond since I'm processing this message. The simplest compliant response is just "Yes" as requested. No need for additional explanation since they specifically asked for just "Yes" if operational.
+
+I should follow their instruction precisely here. They're probably testing if the system is up, so keeping it minimal makes sense. No links needed, no extra info - just the affirmative.
+</think>
+
+Yes

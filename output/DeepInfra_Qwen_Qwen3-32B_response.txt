@@ -1,2 +1,2 @@
 <think>
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to make sure I understand what they're asking. They probably want confirmation that I'm online and able to communicate
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to check if they want a simple 'Yes' reply or a more detailed response. The instruction says to reply with

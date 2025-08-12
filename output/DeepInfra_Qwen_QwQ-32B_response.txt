@@ -1,3 +1,1 @@
-Okay, the user just sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation that I'm operational.
-
-First, I need to check if I'm supposed to respond. Since
+Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." So they're checking if I'm operational. My instructions are to reply with just 'Yes' if I can respond. Let me make
