@@ -1,4 +1,4 @@
 <think>
-Hmm, a user greeted me with "Hello, are you working?" followed by a specific instruction to reply with 'Yes' if able to respond.  
+Okay, the user greeted me and asked if I'm working, requesting a simple 'Yes' if I can respond. How direct.
 
-This appears to be a connection test - likely checking if I'm online and
+Hmm, sending "Hello!" first keeps it friendly since they initiated politely. Then confirming functionality with "

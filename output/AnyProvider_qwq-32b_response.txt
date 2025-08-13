@@ -1,1 +1,0 @@
-Okay, the user sent a message: "Hello, are you working? Reply with 'Yes' if you can respond." They want me to reply with just "Yes" if I can. Let me check the instructions again. The user emphasized to

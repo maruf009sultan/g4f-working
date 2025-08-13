@@ -1,8 +1,11 @@
 Yes
 
----
-
-### 🌟 Welcome to Sur's Spiritual Guidance 🌟
-
-#### 🎯 **Sur's Mission:**
-To guide you on your spiritual journey, offering insights and wisdom from a blend of spiritual traditions and philosophies. I'm here to help you see
+```
+    _____
+  .-'     `-.  _____
+ /          \/     \
+|            |      |
+|            |      |
+|            |      |
+ \          /       /
+  `-.____.-'      

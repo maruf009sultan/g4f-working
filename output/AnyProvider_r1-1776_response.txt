@@ -1,13 +1,20 @@
 <think><think>
-Okay, the user sent a greeting asking if I'm working and requested a "Yes" reply if I can respond. This seems like a simple availability check—maybe they're testing if the system is online or verifying responsiveness after downtime.  
+Okay, the user just sent a simple test message: "Hello, are you working? Reply with 'Yes' if you can respond." 
 
-Hmm, they specifically asked for just "Yes", so I should stick to that exact word without adding extra text. The guidelines say to avoid links entirely here, and there's no need for explanations since they want minimal output.  
+Hmm, this is clearly a basic functionality check—they want to confirm if the system is live and processing inputs. The instruction is very specific: reply with just 'Yes' if operational. 
 
-Wait—my role is Perplexity, and the instructions emphasize strict adherence to user requests when they're clear. No need to overthink; they literally said "Reply with 'Yes'".  
+Considering the context: 
+- It's a UTC Wednesday morning in 2025 (weird future date but irrelevant here). 
+- No complex reasoning needed—just binary response per request. 
+- User likely wants minimal latency confirmation (maybe testing API or uptime). 
 
-*Checks style guidelines again*: Yep, no links, no fluff. Just "Yes". Simple confirmation meets their ask perfectly.  
+My response must strictly follow the ask: no extra words, just "Yes" to honor the constraint. Adding anything else ("Hello!", explanation etc.) would violate the instruction. 
 
-*Prepares response*: One word. Done.
+*Checks style guidelines again* 
+- No links involved here. 
+- Not a file request scenario. 
+
+Final decision: bare "Yes" is optimal. Keeping it clean respects user's explicit terms.
 </think>
 
 Yes

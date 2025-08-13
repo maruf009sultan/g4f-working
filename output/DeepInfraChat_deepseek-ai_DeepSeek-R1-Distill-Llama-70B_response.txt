@@ -1,2 +1,2 @@
 <think>
-Okay, so I've got this question: "What is 5 times 11?" Alright, let's see. I'm just starting to learn multiplication, so I'm a bit nervous but excited. Multiplication is like adding a number
+Okay, so I'm trying to figure out how to solve this problem where I need to calculate the probability of drawing a certain number of red and blue balls from an urn without replacement. The urn has 10 red balls and 15 blue

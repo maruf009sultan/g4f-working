@@ -1,2 +1,4 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to check if they want a simple 'Yes' reply or a more detailed response. The instruction says to reply with
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out the best way to respond. Let me break this down.
+
+First, the user is checking if

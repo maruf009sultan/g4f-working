@@ -1,2 +1,4 @@
 <think>
-Okay, the user just greeted me and asked if I'm working, requesting a simple 'Yes' reply if I can respond. This seems like a basic connectivity check – maybe they've experienced bot failures before or just want confirmation before proceeding
+Hmm, the user just greeted me with a simple check: "Hello, are you working? Reply with 'Yes' if you can respond."  
+
+This seems like a basic connectivity test - maybe they're verifying if I'm online or

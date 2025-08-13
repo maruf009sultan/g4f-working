@@ -1,4 +1,6 @@
 <think>
-Hmm, the user is asking if I'm working and wants a simple 'Yes' reply if I can respond. Okay, this seems straightforward.  
+Hmm, the user asked if I'm working and requested a 'Yes' reply if responsive. 
 
-They might be testing if I'm active or just checking before asking a real
+Okay this seems like a connectivity test - they're probably checking if the system is live. Direct and simple. 
+
+The phrasing

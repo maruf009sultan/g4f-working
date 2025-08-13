@@ -1,3 +1,1 @@
-<think>The user has asked if I'm working and requested a simple "Yes" response if I can respond. This is a straightforward request to confirm that I'm operational.
-
-I should follow their instructions and reply with just "Yes" since I am</think>
+Yes

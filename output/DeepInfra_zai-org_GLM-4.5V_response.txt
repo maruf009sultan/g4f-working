@@ -1,1 +1,2 @@
-<think>I need to respond to the user's question about whether I'm working. The user specifically asked to reply with 'Yes' if I can respond. Since I'm an AI assistant and can process and respond to messages, I should answer affirmatively
+<think>I need to respond to this query. The user is asking if I'm working and wants a "Yes" response if I can reply. I should acknowledge that I'm available and ready to help.</think>
+Yes

@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out whether I should switch to a plant-based diet. I've heard a lot about it lately, and some people say it's really healthy, while others claim it's not for everyone. I'm
+Alright, the user asked "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond appropriately. Since the user specifically asked to reply with 'Yes', I should follow that instruction. But maybe I
