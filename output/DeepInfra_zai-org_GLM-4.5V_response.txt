@@ -1,2 +1,1 @@
-<think>I need to respond to this query. The user is asking if I'm working and wants a "Yes" response if I can reply. I should acknowledge that I'm available and ready to help.</think>
-Yes
+<think>I need to determine if I can respond to the user's query. The user is asking if I'm working and wants a simple "Yes" if I can respond. As an AI language model, I'm designed to be available and responsive to

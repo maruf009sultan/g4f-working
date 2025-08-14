@@ -1,2 +1,2 @@
 <think>
-Alright, the user asked "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond appropriately. Since the user specifically asked to reply with 'Yes', I should follow that instruction. But maybe I
+Okay, so I have this question: "What became of the colony at Roanoke?" Hmm, I remember hearing about Roanoke in school, but I'm a bit fuzzy on the details. Let me try to piece this together

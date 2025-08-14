@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just sent a greeting asking if I'm working and wants me to reply 'Yes' if available. 
+Hmm, the user is asking if I'm working and wants me to reply with "Yes" if I can respond. 
 
-Okay, let's break this down: The phrasing feels like they might be testing if I'm active or
+I wonder if they're testing if I'm active. Maybe they've had issues with unresponsive bots before

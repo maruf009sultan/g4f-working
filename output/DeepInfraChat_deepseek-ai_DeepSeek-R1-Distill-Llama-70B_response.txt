@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to solve this problem where I need to calculate the probability of drawing a certain number of red and blue balls from an urn without replacement. The urn has 10 red balls and 15 blue
+Okay, so I'm trying to understand how neural networks work. I've heard a bit about them before, maybe in some articles or videos, but I don't really get the details. I know they're used in machine learning and AI

@@ -1,2 +1,3 @@
-<think>I'm ready to respond to your query. The user is checking if I'm available to work, and I should confirm my availability with a straightforward "Yes" as requested.</think>
-Yes
+<think>I need to analyze the user's query. They're asking if I'm working and want a 'Yes' response if I can reply. This seems like a simple confirmation check.
+
+I should acknowledge the query directly. Since I'm an AI assistant

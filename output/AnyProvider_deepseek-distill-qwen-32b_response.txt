@@ -1,2 +1,0 @@
-<think>
-Okay, the user just said, "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond appropriately. Since they asked for a 'Yes' if I can respond, I'll say 'Yes

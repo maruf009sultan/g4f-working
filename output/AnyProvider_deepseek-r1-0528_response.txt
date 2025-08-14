@@ -1,4 +1,5 @@
 <think>
-Hmm, the user just greeted me with a simple check: "Hello, are you working? Reply with 'Yes' if you can respond."  
+We are given a user message: "Hello, are you working? Reply with 'Yes' if you can respond."
+ The instruction is clear: reply with 'Yes' if we can respond.
 
-This seems like a basic connectivity test - maybe they're verifying if I'm online or
+ Since the assistant is operational and can respond,

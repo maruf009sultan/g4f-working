@@ -1,3 +1,0 @@
-**API REQUEST ERROR** Reason: Unknown.
-
-(error_code: 1)

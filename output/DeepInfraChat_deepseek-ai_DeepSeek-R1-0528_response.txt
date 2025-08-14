@@ -1,4 +1,4 @@
 <think>
-Okay, the user greeted me and asked if I'm working, requesting a simple 'Yes' if I can respond. How direct.
+Okay, the user just greeted me and asked if I'm working. They specifically requested a 'Yes' reply if I'm functional. 
 
-Hmm, sending "Hello!" first keeps it friendly since they initiated politely. Then confirming functionality with "
+Hmm, this seems like a basic system check - maybe they've had issues with unresponsive chatbots

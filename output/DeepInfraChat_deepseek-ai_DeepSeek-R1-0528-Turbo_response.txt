@@ -1,6 +1,4 @@
 <think>
-Hmm, the user asked if I'm working and requested a 'Yes' reply if responsive. 
+Hmm, the user is asking if I'm working with a clear instruction to reply only with "Yes" if I can respond. 
 
-Okay this seems like a connectivity test - they're probably checking if the system is live. Direct and simple. 
-
-The phrasing
+Okay first, let's interpret this - it's likely a functionality check. The user
