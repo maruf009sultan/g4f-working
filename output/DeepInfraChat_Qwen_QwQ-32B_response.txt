@@ -1,1 +1,3 @@
-Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." So they want to check if I'm operational. The instructions say to respond with just "Yes" if I can. Let
+Okay, the user said "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple "Yes" reply.
+
+I should check if I'm supposed to follow that exactly. The instructions say to respond with '

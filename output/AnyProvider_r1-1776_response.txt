@@ -1,15 +1,10 @@
 <think><think>
-Okay, the user just sent a simple test message asking if I'm working and wants a 'Yes' reply if I can respond. 
+Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to handle this.
 
-Hmm, this seems like a basic connectivity check - probably verifying if the chat interface is live. The user might be new or coming back after some time. 
+First, I need to follow the instructions. The user specifically asks to reply with 'Yes' if I can respond. They're checking if the model is operational. My job here is to confirm functionality without adding extra info unless needed.
 
-Noting the strict instruction: they specifically said "Reply with 'Yes'", so I shouldn't add anything extra despite my usual tendency to be helpful. Smart of them to test with such a constrained request. 
+Looking at the style guidelines: prefer not to generate links, and if asked for a file I can't access, say so instead of making up links. But this query doesn't involve links or files—it's a simple status check.
 
-Wait, the style guidelines mention not to make up links, but this query doesn't involve that. Just need to honor the one-word response. 
+Current date is given as August 15, 2025, but that's probably just context. The user's message is straightforward. They want a 'Yes' response if I'm working. Since I'm active and processing their query, the correct reply is indeed 'Yes'.
 
-*checks current date stamp* August 2025... interesting future date, but irrelevant here. 
-
-Right, keeping it minimal as explicitly requested. No need to overthink this one.
-</think>
-
-Yes
+I should avoid overcomplicating it. No need for explanations or additional text

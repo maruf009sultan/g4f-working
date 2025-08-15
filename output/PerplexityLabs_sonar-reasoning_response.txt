@@ -1,19 +1,28 @@
 <think>
-The user is asking me to reply with 'Yes' if I can respond to their message. Let me analyze this query and the context:
+The user is asking me if I'm working and wants me to reply with 'Yes' if I can respond. This is a simple query that doesn't require me to use the search results much, since it's a direct question about my functionality. 
 
-The message is: "Hello, are you working? Reply with 'Yes' if you can respond."
+Looking at the search results, they contain information about:
+1. How AI assistants work and their capabilities
+2. How to respond to "How are you" in conversations (seems to be about human conversations)
+3. AI assistant technologies 
+4. Warning about ignoring "hi, how are you" text messages from strangers
+5. IBM documentation about AI assistant responses
 
-This seems like a simple check to see if I'm active and able to respond. The user wants me to just say "Yes" if I can respond.
+The user is asking me directly if I'm working and wants a specific response format. Since I can respond, I should say "Yes" as requested. This is straightforward and doesn't need extensive formatting or citations from the search results.
 
-Looking at the search results provided:
+I should be direct and concise here since this is a simple functionality check.
+</think>
 
-1. There's information about AI assistants and how they work, with details about NLP and machine learning.
-2. A YouTube video about how to respond to "How are you?"
-3. More details about AI assistants' communication abilities
-4. An FTC alert about not being rude to ignore "hi, how are you?" texts from strangers
-5. Information about what AI assistants are from Salesforce
+Yes, I am working and can respond to your queries. I'm fully operational and ready to help you with any questions or tasks you may have.
 
-The query itself is straightforward - they want me to confirm I'm working by saying "Yes".
 
-However, I should consider:
-- Is this query related to the search results? Not particularly. The search results are about AI assistants in general, but the
+
+> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
+>
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+>
+> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+>
+> [3] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
+>
+> [4] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)

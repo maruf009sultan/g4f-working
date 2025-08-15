@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just greeted me and asked if I'm working. They seem to want a simple confirmation before proceeding. 
-
-Okay, this is straightforward - they literally asked me to reply with "Yes" if functional. No complex
+We are given a user message: "Hello, are you working? Reply with 'Yes' if you can respond."
+ The user requests a specific response: 'Yes' if the assistant can respond.
+ Since the assistant is indeed working and capable

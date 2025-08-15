@@ -1,3 +1,3 @@
-Okay, the user sent a message: "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple "Yes" reply if I can respond. Let me check the instructions.
+Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation that I'm operational.
 
-The user specified to reply with
+First, I need to check if I can respond. Since I'm active

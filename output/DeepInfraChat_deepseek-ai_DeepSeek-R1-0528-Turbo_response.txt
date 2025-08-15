@@ -1,4 +1,4 @@
 <think>
-Hmm, the user is asking if I'm working with a clear instruction to reply only with "Yes" if I can respond. 
+Hmm, the user just asked if I'm working and requested a simple 'Yes' reply if available. This seems like a connectivity test or system check. 
 
-Okay first, let's interpret this - it's likely a functionality check. The user
+The phrasing feels somewhat formal - maybe they're unfamiliar with AI

@@ -1,4 +1,4 @@
 <think>
-Okay, the user just greeted me and asked if I'm working. They specifically requested a 'Yes' reply if I'm functional. 
+Hmm, the user just greeted me and asked if I'm working, requesting a 'Yes' reply if I can respond. 
 
-Hmm, this seems like a basic system check - maybe they've had issues with unresponsive chatbots
+Okay, this seems like a simple availability check—maybe they're testing if I'm online or just starting

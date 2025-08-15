@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to solve this problem. The user just said "Hello, are you working? Reply with 'Yes' if you can respond." And the assistant responded with "Yes". I'm a bit
+Okay, so I need to figure out how to solve this problem. Let's see what it's about. The user mentioned they have a problem to solve, but they haven't specified it yet. They just asked if I'm working and
