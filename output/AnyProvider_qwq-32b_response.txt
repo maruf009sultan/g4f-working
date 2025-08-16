@@ -1,1 +1,3 @@
-Yes
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me parse this. They want a simple "Yes" if I can answer. But I should check the guidelines.
+
+First,

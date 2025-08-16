@@ -1,2 +1,2 @@
 <think>
-Alright, so I just received a message from someone who says, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, okay, that's a bit unusual. Let me try to figure out what's
+Alright, so I need to figure out how to respond if I'm asked whether I'm working, and I should reply with 'Yes' if I can. Hmm, okay. Let me break this down. The user sent a message:

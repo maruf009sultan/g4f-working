@@ -1,3 +1,2 @@
 <think>
-Hmm, the user asked: "Hello, are you working? Reply with 'Yes' if you can respond."  
-They're greeting and checking if I'm operational, with a specific instruction to reply with "Yes" if capable
+Okay, user just greeted me and asked if I'm working, with a specific instruction to reply 'Yes' if able to respond. Hmm, seems like a simple check-in query - maybe they're testing my availability or had previous

@@ -1,4 +1,4 @@
 <think>
-We are given a user message: "Hello, are you working? Reply with 'Yes' if you can respond."
- The user requests a specific response: 'Yes' if the assistant can respond.
- Since the assistant is indeed working and capable
+Hmm, the user just asked if I'm working and requested a simple 'Yes' reply. Okay, let's break this down. 
+
+First, the phrasing feels like a test or connectivity check - maybe they've had issues with

@@ -1,0 +1,2 @@
+<think>
+Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." I need to acknowledge that I'm operational. I should respond with a simple "Yes." That should suffice. No need for

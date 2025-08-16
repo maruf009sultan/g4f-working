@@ -1,3 +1,3 @@
-<think>Hmm, the user just asked "Hello, are you working? Reply with 'Yes' if you can respond." It's a very straightforward question, almost like a test to see if I'm operational. 
+<think>Okay, the user just asked if I'm working and wants a simple 'Yes' if I can respond. Hmm, this seems like a basic check to confirm availability. 
 
-I notice they specifically requested a</think>
+I notice they kept it very minimal - just a direct question with</think>

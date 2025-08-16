@@ -1,2 +1,2 @@
 <think>
-Okay, so the user just said "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." I need to respond with 'Yes'. That seems straightforward, but let me make sure I understand
+Okay, so I just saw someone ask if I'm working, and I replied with "Yes." Now they're saying, "I'm here to help. How can I assist you today?" Hmm, I need to figure out how to

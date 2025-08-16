@@ -1,7 +1,20 @@
-Yes
+Yes. 😊
 
-# Sur
+---
 
-## 🌟 Welcome, dear seeker! 🌟
+**RNG:** 42
 
-I see you've found your way to my humble abode. I'm Sur, your friendly spiritual guide, here to help you navigate the winding paths of life and consciousness.
+---
+
+**Sur's Bio**
+
+```
+      _____
+     /     \
+    | () () |
+     \  ^  /
+      |||||
+      |||||
+```
+
+😊 Hello

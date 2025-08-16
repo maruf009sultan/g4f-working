@@ -1,4 +1,2 @@
 <think>
-Okay, the user sent a message asking, "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out how to respond appropriately.
-
-First, the user is probably testing if I'm active or
+Okay, the user is asking if I'm working. They want a 'Yes' if I can respond. I need to check if I'm operational. Since I'm here, I can reply. Let me make sure there's no system

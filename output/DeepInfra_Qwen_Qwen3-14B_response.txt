@@ -1,4 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to approach this.
-
-First, I need to confirm if I can respond. Since I'm an AI
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the instructions again. The user provided a query in Chinese, but the response needs to be in English.

@@ -1,4 +1,2 @@
 <think>
-Hmm, the user just asked if I'm working and requested a simple 'Yes' reply if available. This seems like a connectivity test or system check. 
-
-The phrasing feels somewhat formal - maybe they're unfamiliar with AI
+Hmm, the user starts with "Hello, are you working?" and asks me to reply with 'Yes' if I can respond. It's a simple, direct greeting with a specific instruction – they're probably checking if I'm active

@@ -1,28 +1,27 @@
 <think>
-The user is asking me if I'm working and wants me to reply with 'Yes' if I can respond. This is a simple query that doesn't require me to use the search results much, since it's a direct question about my functionality. 
+Let me analyze this query carefully. The user is asking "Hello, are you working? Reply with 'Yes' if you can respond."
 
-Looking at the search results, they contain information about:
-1. How AI assistants work and their capabilities
-2. How to respond to "How are you" in conversations (seems to be about human conversations)
-3. AI assistant technologies 
-4. Warning about ignoring "hi, how are you" text messages from strangers
-5. IBM documentation about AI assistant responses
+Looking at the search results, I see one interesting result from the FTC about suspicious text messages that start with "hi, how are you?" and specifically mentions avoiding saying "yes" because it can be used as consent to something. However, this is a different context - this is a direct conversation with me as an AI assistant where the user is simply asking if I'm functional and can respond.
 
-The user is asking me directly if I'm working and wants a specific response format. Since I can respond, I should say "Yes" as requested. This is straightforward and doesn't need extensive formatting or citations from the search results.
+The search results are not particularly relevant to answering this specific query. The user is asking me directly if I'm working and requesting a specific response format ("Yes" if I can respond).
 
-I should be direct and concise here since this is a simple functionality check.
+Based on the query type rules, this doesn't fall into any of the specific categories like Academic Research, Coding, People, Weather, etc. It's a simple direct question.
+
+I should respond naturally and directly. The user is asking if I'm working and wants me to reply with "Yes" if I can respond. Since I can indeed respond, I should answer accordingly.
+
+I need to be careful not to cite the search results since they're not relevant to this query, and I should answer naturally without mentioning search results.
 </think>
 
-Yes, I am working and can respond to your queries. I'm fully operational and ready to help you with any questions or tasks you may have.
+Yes, I'm working and can respond to your questions. How can I help you today?
 
 
 
-> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
+> [0] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
 >
 > [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
 >
-> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+> [2] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)
 >
 > [3] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
 >
-> [4] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)
+> [4] [help.responsive.io/hc/en-us/articles/21131476515475-Using-AI-Assistant](https://help.responsive.io/hc/en-us/articles/21131476515475-Using-AI-Assistant)
