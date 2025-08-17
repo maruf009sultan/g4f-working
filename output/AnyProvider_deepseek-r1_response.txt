@@ -1,4 +1,0 @@
-<think>
-Okay, the user sent a greeting and asked if I'm working, requesting a 'Yes' reply if available.  
-
-Hmm, this seems like a basic functionality check—maybe they're testing the connection or confirming I'm responsive. The

@@ -1,3 +1,2 @@
-<think>I need to respond to a user's query asking if I'm working and to reply with 'Yes' if I can respond. The user is checking my availability.
-
-Looking at the user's message, they're asking me to confirm if I'm
+<think>The user is asking if I am working and wants a 'Yes' response if I can reply. As an AI, I am always available to assist, so I should respond affirmatively.</think>
+<|begin_of_box|>Yes<|end_of_box|>

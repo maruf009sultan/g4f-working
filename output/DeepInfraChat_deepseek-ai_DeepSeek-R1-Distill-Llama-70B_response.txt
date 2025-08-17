@@ -1,2 +1,4 @@
 <think>
-Alright, so I need to figure out how to respond if I'm asked whether I'm working, and I should reply with 'Yes' if I can. Hmm, okay. Let me break this down. The user sent a message:
+Okay, the user just asked me to reply with 'Yes' if I'm working. I responded with a friendly greeting and an offer to help.
+
+I need to make sure I'm ready to assist them with whatever they need. I'll

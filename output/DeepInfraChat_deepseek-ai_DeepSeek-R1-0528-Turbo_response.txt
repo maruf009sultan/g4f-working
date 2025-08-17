@@ -1,2 +1,2 @@
 <think>
-Hmm, the user starts with "Hello, are you working?" and asks me to reply with 'Yes' if I can respond. It's a simple, direct greeting with a specific instruction – they're probably checking if I'm active
+Hmm, the user is just asking if I'm operational - seems like a basic availability check. The phrasing "Hello, are you working?" feels polite but slightly formal, maybe from someone testing the system or unfamiliar with chatbots

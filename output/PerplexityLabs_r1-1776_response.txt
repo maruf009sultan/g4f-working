@@ -1,14 +1,10 @@
 <think><think>
-Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." 
+Okay, the user is greeting me and asking if I'm working, with a specific instruction to reply with just 'Yes' if I can respond. Let me think about how to approach this.
 
-Hmm, this seems like a basic availability check. They want a very simple confirmation that the system is operational. The phrasing is literal - they specifically asked for just 'Yes' if functional. 
+First, I need to check if I'm operational. Since I'm responding right now, obviously I am working. The user seems to be testing if I'm active - maybe they've had issues with other services before, or just want a quick confirmation. 
 
-Noting the style guideline about not generating links, but this request doesn't involve any links anyway. It's purely a status check. 
+Hmm, they specifically said "Reply with 'Yes'", so I should respect that instruction precisely. No extra fluff, just the word they requested. Over-answering might annoy them if they're just checking status. 
 
-The user might be testing response latency or verifying connection integrity. Could be a developer debugging integration, or just someone cautious after previous AI timeouts. 
+Wait, but is there any reason not to say yes? Like if I was actually down... but I'm clearly functioning here. No errors in processing the query. Better keep it simple - they didn't ask for troubleshooting or explanations. 
 
-Since I'm fully operational right now, the correct response is literally just "Yes" as instructed. No additional commentary needed - they were explicit about the desired format. 
-
-...Though part of me wants to add "How can I help?" but that would violate their precise request. Strict compliance is better here. 
-
-Timestamp shows it's mid-August 2025 - wonder if
+*Mental note*: User seems direct and technical. Probably values efficiency. Don't waste their time.

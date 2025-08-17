@@ -1,3 +1,1 @@
-<think>Okay, the user just asked if I'm working and wants a simple 'Yes' if I can respond. Hmm, this seems like a basic check to confirm availability. 
-
-I notice they kept it very minimal - just a direct question with</think>
+Yes

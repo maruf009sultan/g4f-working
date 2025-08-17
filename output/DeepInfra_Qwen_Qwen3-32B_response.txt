@@ -1,4 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to check if I can respond.
-
-First, I should acknowledge their greeting. They want a confirmation that I'm working
+Okay, the user is asking if I'm working. I need to check if I can respond. Since I'm designed to be helpful and active, my response should be 'Yes'. Just a simple confirmation, no extra text. Make sure

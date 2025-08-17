@@ -1,12 +1,7 @@
 <think><think>
-Okay, the user just greeted me with "Hello, are you working? Reply with 'Yes' if you can respond." 
+Okay, the user is asking if I'm working and wants a simple 'Yes' response if I can reply. Let me check the instructions.
 
-Hmm, this seems like a simple availability check. They're probably testing if I'm operational, maybe after a previous bad experience with unresponsive chatbots. The instruction to reply only with "Yes" is interesting - they want minimal confirmation without any fluff. 
+The style guidelines say not to generate links and to be honest if I can't access something. Here, the user just wants confirmation. Since I'm functioning, a straightforward 'Yes' is perfect. No need for extra info unless asked. Make sure it's concise as requested.
+</think>
 
-I recall our style guidelines say to avoid unnecessary links, but this doesn't require any. The current date shows it's August 2025, so I'm definitely active. 
-
-The user might be in a hurry or verifying functionality for something important. Since they explicitly asked for just "Yes", I shouldn't add greetings or explanations even though it feels unnatural. 
-
-*checks system status* Yep, all subsystems green. Best to comply strictly with their request - over-answering might annoy them when they wanted simplicity. 
-
-Noted they said "Reply with 'Yes'" not "Say
+Yes

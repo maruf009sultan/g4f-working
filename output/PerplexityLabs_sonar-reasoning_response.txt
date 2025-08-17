@@ -1,15 +1,21 @@
 <think>
-Let me analyze this query carefully. The user is asking "Hello, are you working? Reply with 'Yes' if you can respond."
+The user is asking a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-Looking at the search results, I see one interesting result from the FTC about suspicious text messages that start with "hi, how are you?" and specifically mentions avoiding saying "yes" because it can be used as consent to something. However, this is a different context - this is a direct conversation with me as an AI assistant where the user is simply asking if I'm functional and can respond.
+This seems like a straightforward query where the user wants to know if I'm functional and can respond. They specifically ask me to reply with "Yes" if I can respond.
 
-The search results are not particularly relevant to answering this specific query. The user is asking me directly if I'm working and requesting a specific response format ("Yes" if I can respond).
+Looking at the search results:
+- The search results are mostly about AI assistants in general, how to respond to "how are you" questions, and some technical documentation about AI assistant responses
+- There's one search result about why it's not rude to ignore "hi, how are you?" text messages from strangers, which mentions being cautious about saying "yes" because it can be used as consent
 
-Based on the query type rules, this doesn't fall into any of the specific categories like Academic Research, Coding, People, Weather, etc. It's a simple direct question.
+However, this is a legitimate interaction where the user is simply testing if I'm working/responsive. The user is directly asking me to respond with "Yes" if I can respond, which is exactly what they want me to do.
 
-I should respond naturally and directly. The user is asking if I'm working and wants me to reply with "Yes" if I can respond. Since I can indeed respond, I should answer accordingly.
+The search results don't really contain information that directly answers this query - this is more of a direct interaction test rather than something that needs research. The user wants a simple confirmation that I'm working.
 
-I need to be careful not to cite the search results since they're not relevant to this query, and I should answer naturally without mentioning search results.
+Given the restrictions, I should not mention that I'm using search results, and I should answer directly. Since this is a simple functional test, I should just respond as requested.
+
+Looking at the query type rules, this doesn't fall into any specific category like academic research, coding, people, weather, etc. It's just a simple interaction test.
+
+The user specifically requested that I reply with "Yes" if I can respond, so that's what I should do.
 </think>
 
 Yes, I'm working and can respond to your questions. How can I help you today?
