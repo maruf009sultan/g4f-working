@@ -1,1 +1,1 @@
-Okay, the user said, "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple "Yes" reply. Let me check if there's any context I should consider. The user might be testing if
+Okay, the user sent a message: "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation. The instructions say to reply with just "Yes" if I can respond. Let me check if

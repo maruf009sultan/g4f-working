@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to solve this problem about electric fields. The question is, "Two point charges, each with charge Q, are placed symmetrically along the x-axis at (a, 0) and
+Okay, so I'm trying to figure out how to solve this problem where I need to visualize the graph of the function f(x) = x³ - 6x² + 9x + 3. Hmm, where do I

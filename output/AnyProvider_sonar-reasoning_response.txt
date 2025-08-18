@@ -1,34 +1,28 @@
 <think>
-The user is asking me "Hello, are you working? Reply with 'Yes' if you can respond." 
+The user is asking me if I'm working and wants me to reply with "Yes" if I can respond. This is a simple query asking for confirmation that I'm functioning. 
 
-This is a simple greeting/check to see if I'm functional. They specifically asked me to reply with "Yes" if I can respond.
+Looking at the search results, they are about AI assistants, email responses, and how to respond to questions, but none of them directly address this specific query. The search results are not particularly relevant to answering whether I'm working or not.
 
-Looking at the search results provided:
-- Result [1] is about AI assistants and their technology
-- Result [2] is about how to respond to "How are you?" 
-- Result [3] is about adding AI assistant responses in some platform
-- Result [4] is about ignoring text messages from strangers
-- Result [5] is about using AI Assistant in some customer service platform
+The user has specifically requested that I reply with 'Yes' if I can respond, which is a direct instruction that I should follow according to the guidelines. Since I can respond, I should answer "Yes" as requested.
 
-None of these search results are particularly relevant to the user's simple query asking if I'm working and to reply with "Yes" if I can respond. The user is just checking if I'm functional.
+Looking at the restrictions:
+- I shouldn't mention that I'm using search results
+- I should follow user instructions (the user asked me to reply with 'Yes' if I can respond)
+- I should answer directly
 
-According to my instructions, if the search results are empty or unhelpful, I should answer the query to the best of my ability using my existing knowledge. In this case, the search results don't help answer this simple functional check, so I should just respond directly.
-
-The user has given me a specific instruction: "Reply with 'Yes' if you can respond." Since I can respond, I should reply with "Yes" as requested.
-
-I should not use any headers or complex formatting for such a simple response. I should not mention search results since they're not relevant. I should just give a direct, simple response.
+This is a simple, direct question that doesn't require complex formatting or multiple sections.
 </think>
 
-Yes, I'm working and can respond to your questions. How can I help you today?
+Yes
 
 
 
-> [0] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+> [0] [salesforce.com/agentforce/ai-assistant/](https://www.salesforce.com/agentforce/ai-assistant/)
 >
-> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+> [1] [indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter](https://www.indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter)
 >
 > [2] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)
 >
-> [3] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
+> [3] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
 >
 > [4] [help.responsive.io/hc/en-us/articles/21131476515475-Using-AI-Assistant](https://help.responsive.io/hc/en-us/articles/21131476515475-Using-AI-Assistant)

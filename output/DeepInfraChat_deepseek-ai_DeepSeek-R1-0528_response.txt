@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just greeted me and asked if I'm working, requesting a simple 'Yes' reply if I can respond. Okay, this is straightforward. 
+Hmm, the user starts with a simple greeting and asks if I'm working, requesting a 'yes' response confirmation. This feels like a connection test - they might be checking if I'm active or assessing response quality.  
 
-Let me break this down: They're clearly checking if I'm
+The phrasing

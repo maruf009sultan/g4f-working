@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking if I'm working. I need to check if I can respond. Since I'm designed to be helpful and active, my response should be 'Yes'. Just a simple confirmation, no extra text. Make sure
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me parse that. They want to check if I'm active and can respond. The instruction is to reply with '

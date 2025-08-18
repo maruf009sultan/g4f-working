@@ -1,28 +1,27 @@
 <think>
-The user is asking a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
+The user is asking me if I'm working and asking me to reply with 'Yes' if I can respond. This seems like a simple query to check if I'm available and functioning. 
 
-This seems like a straightforward query where the user wants to know if I'm functional and can respond. They specifically ask me to reply with "Yes" if I can respond.
+Looking at the search results, they contain information about:
+1. What AI assistants are and how they work
+2. How to respond to "How are you?" questions in conversation
+3. IBM documentation about AI assistant responses
+4. FTC consumer alert about ignoring texts from strangers
+5. Documentation about using an AI Assistant tool
 
-Looking at the search results:
-- The search results are mostly about AI assistants in general, how to respond to "how are you" questions, and some technical documentation about AI assistant responses
-- There's one search result about why it's not rude to ignore "hi, how are you?" text messages from strangers, which mentions being cautious about saying "yes" because it can be used as consent
+The search results don't directly relate to the user's query about whether I'm working. The user is simply checking if I can respond, and they've specifically requested I reply with 'Yes' if I can respond.
 
-However, this is a legitimate interaction where the user is simply testing if I'm working/responsive. The user is directly asking me to respond with "Yes" if I can respond, which is exactly what they want me to do.
+According to the restrictions, I should follow user instructions, and the user has specifically requested that I reply with 'Yes' if I can respond. Since I can respond, I should reply with 'Yes' as requested.
 
-The search results don't really contain information that directly answers this query - this is more of a direct interaction test rather than something that needs research. The user wants a simple confirmation that I'm working.
+I should not cite the search results since they don't contain information relevant to answering whether I'm working or can respond. The search results are about AI assistants in general, conversation responses, and documentation for various AI tools, but none directly address the user's specific query.
 
-Given the restrictions, I should not mention that I'm using search results, and I should answer directly. Since this is a simple functional test, I should just respond as requested.
-
-Looking at the query type rules, this doesn't fall into any specific category like academic research, coding, people, weather, etc. It's just a simple interaction test.
-
-The user specifically requested that I reply with "Yes" if I can respond, so that's what I should do.
+The user instruction is clear and takes priority over other formatting rules as stated in rule 8 of the instructions.
 </think>
 
-Yes, I'm working and can respond to your questions. How can I help you today?
+Yes
 
 
 
-> [0] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+> [0] [salesforce.com/agentforce/ai-assistant/](https://www.salesforce.com/agentforce/ai-assistant/)
 >
 > [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
 >

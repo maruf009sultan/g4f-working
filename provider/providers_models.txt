@@ -518,494 +518,9 @@ Provider: FenayAI
 ------------------------------
 URL: https://fenayai.com
 Label: None
-Model Count: 486
+Model Count: 0
 Models:
- - 89sm-llm-q3
- - ALIENTELLIGENCE/cybersecuritythreatanalysisv2
- - MeID|o
- - Mistral
- - agatahl
- - agente-guarani
- - agente-isabel
- - agente-luis
- - agente-santa-teresa
- - ahdian
- - aliafshar/gemma3-it-qat-tools|27b
- - alize
- - arch-function-3b
- - arcuri
- - argus
- - aruana-reflex
- - athene
- - aya-32b
- - aya-8b
- - aya-expanse
- - ayla-light-v2
- - bard
- - basicxii
- - bespoke-minicheck
- - bggpt-27b
- - bggpt-2b
- - bggpt-7b
- - bggpt-9b
- - bielik-11b
- - binary-detector
- - biomistral-7b
- - bise
- - bisethink
- - blackhatbadshah
- - blaifa/InternVL3
- - bllossom-korean
- - bourse-analyse
- - categorizer
- - cg2lab-en
- - chatbot-erpskrip
- - chronos-gold
- - claude-3.7
- - cloudgem3c90tc
- - codegeex4
- - codegeex4-9b
- - codegemma
- - codegemma-2b
- - codegemma-7b
- - codellama
- - codellama-13b
- - codellama-34b
- - codellama-7b
- - codeqwen
- - codeqwen-7b
- - codeqwen|7b
- - codestral
- - cogito-14b
- - cogito-3b
- - cogito-8b
- - command-r
- - command-r-35b
- - command-r7b
- - correctag
- - crypto-ai
- - cw
- - deepcoder
- - deepcogito-14b
- - deepscaler
- - deepseek-30b
- - deepseek-8bsm42201
- - deepseek-cd
- - deepseek-cdiscount
- - deepseek-coder
- - deepseek-coder-1.3b
- - deepseek-coder-33b
- - deepseek-coder-6.7b
- - deepseek-coder-v2
- - deepseek-coder-v2-fixed
- - deepseek-coder-v2|236b-base-q2_K
- - deepseek-janus-pro-7b
- - deepseek-llm-7b
- - deepseek-r1-0528-8b
- - deepseek-r1-1.5b
- - deepseek-r1-14b
- - deepseek-r1-32b
- - deepseek-r1-32b-medical
- - deepseek-r1-70b
- - deepseek-r1-70b-abliterated
- - deepseek-r1-7b
- - deepseek-r1-7b-abliterated
- - deepseek-r1-8b
- - deepseek-r1-8b-0528
- - deepseek-r1-8b-ctx8k
- - deepseek-r1-F16-02
- - deepseek-r1-abliterated-8b
- - deepseek-r1-claude-3.7
- - deepseek-r1-coder-8b
- - deepseek-r1-goose
- - deepseek-r1-ja-32b
- - deepseek-r1-new-14b
- - deepseek-r1-sm-q8-06
- - deepseek-v2
- - deepseek-v2-16b
- - deepseek-v3
- - deepseek8bq3
- - deepsex-14b
- - deepsex-7b
- - demandvaluesv1
- - densedlt
- - description
- - devstral
- - devstral-small
- - dna
- - dolphin-llama3
- - dolphin-mistral
- - dolphin-mistral-7b
- - dolphin-mixtral
- - dolphin-mixtral-8x22b
- - dolphin-mixtral-8x7b
- - dolphin-phi
- - dolphin3
- - dolphin3-8b
- - dolphincoder
- - eeve
- - eeve-10.8b
- - eeve-korean-10.8b
- - elyza-jp
- - elyza-jp7b
- - eris
- - eurollm-9b
- - evan2-extana
- - exaone-deep
- - exaone-deep-32b
- - exaone3.5
- - exaone3.5-32b
- - falcon
- - falcon-7b
- - falcon3
- - falcon3-10b
- - frida
- - gemma
- - gemma-12b-claude
- - gemma-2b-vikhr
- - gemma-3-27b-it
- - gemma-3n-e2b
- - gemma-7b
- - gemma-medical
- - gemma-sls
- - gemma2
- - gemma2-27b
- - gemma2-2b
- - gemma2-9b
- - gemma3-12b
- - gemma3-12b-gpt-4.5
- - gemma3-1b
- - gemma3-27b
- - gemma3-27b-it-qat-tools
- - gemma3-4b
- - gemma3-4b-abliterated
- - gemma3-instant
- - gemma3-kid-friendly
- - gemma3-medical
- - gemma3.5
- - gemma3n
- - gemma3n-e2b
- - general
- - generation-mail
- - glm4
- - gpt-3.5-turbo
- - gpt-32b
- - gpt-oss-120b
- - gpt-oss-20b
- - granite3-dense
- - granite3.1
- - granite3.1-1b
- - granite3.1-8b
- - granite3.1-dense
- - granite3.1-dense-2b
- - granite3.1-dense-8b
- - granite3.2
- - granite3.2-vision
- - granite3.3
- - grok3-gemma
- - guo
- - hado-ds1
- - hb-service-mistral
- - hermes-8b
- - hermes3
- - hermes3-3b
- - hf.co/mlabonne/Qwen3-0.6B-abliterated-GGUF|Q4_K_M
- - hf.co/mradermacher/Roleplay-9B-lora-800-porn-i1-GGUF
- - hhao/qwen2.5-coder-tools|14b
- - hispai-mistral
- - home-1b
- - hyperclovax
- - hyperclovax-1.5b
- - identify-data
- - jan-nano
- - jan-nano-abliterated
- - janus-pro
- - jexi-prime-mistral
- - kachopoking
- - kanana1.5-2.1b
- - kate
- - keez
- - keez-check
- - kimi-dev-72b
- - kirch-medium
- - kirch-mini
- - kirch-xlarge
- - l3.2-1b
- - lcm-full-3b
- - legal-analyzer
- - linkbricks-hermes3-llama3.1-8b
- - llama-korean-consitution
- - llama2
- - llama2-13b
- - llama2-7b
- - llama2-7b-uncensored
- - llama2-medical
- - llama2-uncensored
- - llama3
- - llama3-70b
- - llama3-8b
- - llama3-8b-categorizer
- - llama3-8b-description
- - llama3-8b-lexi-uncensored
- - llama3-8b-sqlcoder
- - llama3-8b-title
- - llama3-bft
- - llama3-chatqa
- - llama3-chatqa-8b
- - llama3-friend
- - llama3-groq
- - llama3-hermes2-pro-8b
- - llama3-lexi-uncensored
- - llama3-python
- - llama3-unc
- - llama3-xr
- - llama3.1
- - llama3.1-40k
- - llama3.1-70b
- - llama3.1-8b
- - llama3.1-8b-abliterated
- - llama3.1-claude
- - llama3.1-dolphin3
- - llama3.1-korean-8b
- - llama3.1-uncensored-8b
- - llama3.2
- - llama3.2-1b
- - llama3.2-3b
- - llama3.2-3b-uncensord
- - llama3.2-8b
- - llama3.2-8x3b-dark-champion
- - llama3.2-better-prompts
- - llama3.2-claude
- - llama3.2-korean
- - llama3.2-korean-1b
- - llama3.2-optimized
- - llama3.2-uncensored
- - llama3.2-vision
- - llama3.2-ypartners
- - llama3.3
- - llama3.3-70b
- - llama4-maverick
- - llama4-scout
- - llamaguard-3
- - llamax3-8b-alpaca
- - llava
- - llava-llama3
- - llava-medical
- - llava-mistral-7b
- - llava-next-video
- - llava|7b-v1.6
- - magistral
- - mario
- - mathstral
- - medix-ph
- - mellum-4b
- - minicpm-4
- - minicpm-v
- - minicpmv-8b
- - mistral
- - mistral-7b
- - mistral-finetune
- - mistral-moderator
- - mistral-nemo
- - mistral-nemo-uncensored
- - mistral-small
- - mistral-small3.1
- - mistral-small3.1-24b
- - mistral-small3.2
- - mistrallite-story
- - mistress-ashley
- - mixtral
- - modelfile
- - modelo-spanish-pro
- - moondream
- - mw
- - my-rpg-gm
- - myq
- - nanonets-ocr
- - narrator-gm
- - nemo-local
- - netal
- - nidum-gemma3-27b-uncensored
- - nous-hermes
- - nous-hermes2
- - nous-hermes|13b
- - novelist
- - nsfw-3b
- - nsfw-monika
- - nsfw-panda-local
- - nutrizionista
- - nutry
- - nvm-application
- - okamototk/deepseek-r1|8b
- - ollama.com/library/dolphin3
- - ollama.com/library/hermes3
- - ollamav2.1
- - ollamav2.4
- - ollamav2.5
- - ollamav3.1
- - olmo-2
- - olmo2
- - olmo2-13b
- - omega-darker-gaslight-fever-dream
- - ongoing
- - open-insurance-llm
- - openchat
- - opencoder
- - openhermes
- - openhermes-2.5-mistral
- - openorca-law
- - openthinker
- - openthinker-7b
- - orca2
- - osmosis
- - pek
- - pentesting-smart
- - phi
- - phi-2.7b
- - phi-4-liaplus-4.0
- - phi2-insurance
- - phi3
- - phi3-mini
- - phi3.5
- - phi3.5-3.8b
- - phi3.5-mini
- - phi4
- - phi4-mini
- - phi4-mini-3.8b
- - phi4-mini-reasoning
- - phi4-reasoning
- - phi4-reasoning-plus
- - phogpt-4b
- - picap-vision
- - pymentor-7b
- - qualcampus
- - qwen
- - qwen-0.5b
- - qwen-14b
- - qwen-7b
- - qwen-coder
- - qwen2
- - qwen2-0.5b
- - qwen2-1.5b
- - qwen2-7b
- - qwen2-math
- - qwen2-math-1.5b
- - qwen2.5
- - qwen2.5-0.5b
- - qwen2.5-1.5b
- - qwen2.5-1.5b-uncensored
- - qwen2.5-14b
- - qwen2.5-14b-sex
- - qwen2.5-32b
- - qwen2.5-32b-ght
- - qwen2.5-3b
- - qwen2.5-72b
- - qwen2.5-7b
- - qwen2.5-abliterated
- - qwen2.5-abliterated-3b
- - qwen2.5-coder
- - qwen2.5-coder-1.5b
- - qwen2.5-coder-cline
- - qwen2.5-goonsai-3b
- - qwen2.5-nsfw-10k-1.5b
- - qwen2.5vl
- - qwen2.5vl-72b
- - qwen3
- - qwen3-0.6b
- - qwen3-1.7b
- - qwen3-14b
- - qwen3-14b-nothink
- - qwen3-14b-omega-directive
- - qwen3-235b
- - qwen3-30b
- - qwen3-30b-3bmoe-8k-nt
- - qwen3-30b-a3b
- - qwen3-30b-a3b-abliterated
- - qwen3-30b-abliterated
- - qwen3-30b-medical
- - qwen3-32b
- - qwen3-4b
- - qwen3-8b
- - qwen3-8b-cline
- - qwen3-8b-nothink
- - qwen3-8b-uncensored
- - qwen3-abliterated-32b
- - qwen3-coder
- - qwen3-coder-30b
- - qwen3-coder-full
- - qwen3-dao-gas
- - qwen3-reranker
- - qwen3-reranker-8b
- - qwen38blora-gas2
- - qwen38blora-gas3
- - qwen38bloraq4km-dao
- - qwenlong-abliterated
- - qwq
- - qwq-32b-abliterated
- - qwq-abliterated-32b
- - rwkv-1.5b
- - saaam-is-a-wizard
- - salamandra-7b
- - scooter-model
- - seoassistant
- - shieldgemma-9b
- - size-and-weight-guesser
- - smallthinker
- - smollm
- - smollm2
- - smolvlm
- - solar-uncensored
- - sqlcoder
- - sqlcoder-15b
- - stable-code
- - stablelm-zephyr
- - starcoder
- - starcoder-1b
- - starcoder2
- - starcoder2-15b
- - starcoder2-3b
- - starcoder2-7b
- - surya-1
- - surya-sense
- - systemar-rag
- - t-lite-q
- - t-pro
- - tamanh-faq
- - test
- - test-deepseek1.5b
- - test01
- - teuken-7b
- - theia
- - tiny-agent
- - tinydolphin
- - tinyllama
- - tinyllama-1.1b
- - tinyllama-1b
- - tinystories
- - titan-assistant
- - title-rewriter
- - toulmin-llama2-13b
- - trillion-7b-preview
- - tuned-supervisor
- - typhoon-ocr
- - typhoon-translate-4b
- - ubion-rule-model
- - umpa-beta
- - varco-8b
- - vicuna
- - wakoo-3.2
- - watt-tool-70b
- - weather
- - wendy
- - whiterabbitneo
- - wizard
- - wizard-vicuna-uncensored
- - wizardlm2
- - wizardlm2-7b
- - yi|6b
- - zephyr
- - zephyr-7b
- - zyh-llm-qwen2.5-14b
+ No models available
 
 ==================================================
 
@@ -1203,231 +718,231 @@ Label: LMArena (Har)
 Model Count: 226
 Models:
  - chatgpt-4o-latest-20250326
- - chatglm2-6b
- - o3-mini-high
- - reka-flash-preview-20240611
- - openchat-3.5
- - gpt-3.5-turbo-0314
- - reka-flash-20240904
- - mistral-7b-instruct-v0.2
- - qwen-max-0919
- - gpt-4-0314
- - yi-large
- - command-r-plus
- - gemini-1.5-flash-exp-0827
- - tulu-2-dpo-70b
- - vicuna-33b
- - starling-lm-7b-alpha
- - gpt-3.5-turbo-1106
- - gemma-1.1-2b-it
- - fastchat-t5-3b
- - internlm2_5-20b-chat
- - athene-70b-0725
- - wizardlm-13b
- - gemini-2.0-flash-thinking-exp-01-21
- - claude-3-5-haiku-20241022
- - phi-3-mini-128k-instruct
- - amazon-nova-lite-v1.0
- - reka-flash-21b-20240226
- - granite-3.1-8b-instruct
- - deepseek-v2.5-1210
- - qwq-32b-preview
- - phi-3-small-8k-instruct
- - early-grok-3
- - qwen2.5-max
- - zephyr-7b-beta
- - llama-3.1-405b-instruct-fp8
- - reka-flash-20240722
- - gemini-2.5-flash-preview-04-17
- - gemini-1.5-pro-api-0409-preview
- - llama-3.1-70b-instruct
- - gemma-2-27b-it
- - gemini-1.5-flash-8b-001
- - c4ai-aya-expanse-32b
- - o3-2025-04-16
- - mistral-medium
- - stablelm-tuned-alpha-7b
- - chatglm-6b
- - grok-2-2024-08-13
- - granite-3.0-2b-instruct
- - gemini-1.5-pro-002
- - chatgpt-4o-latest-20250129
- - llama-2-70b-chat
- - jamba-1.5-large
- - claude-2.1
- - gemini-2.0-flash-exp
- - o1-mini
  - phi-4
- - o1-2024-12-17
- - qwen2-72b-instruct
- - wizardlm-70b
- - snowflake-arctic-instruct
- - reka-core-20240904
- - chatgpt-4o-latest-20240903
- - chatgpt-4o-latest-20240808
- - pplx-70b-online
- - vicuna-13b
- - mistral-large-2402
- - gpt-4-1106-preview
- - gemini-exp-1206
- - gpt-4-turbo-2024-04-09
- - mistral-large-2407
- - gpt-4.1-mini-2025-04-14
- - granite-3.1-2b-instruct
+ - c4ai-aya-expanse-32b
+ - gemma-2b-it
+ - gpt-4.1-2025-04-14
+ - olmo-7b-instruct
  - gemini-1.5-flash-002
- - zephyr-orpo-141b-A35b-v0.1
- - qwen1.5-110b-chat
- - qwen-plus-0828
- - llama-3.1-tulu-3-70b
- - claude-instant-1
- - gemini-pro
- - claude-3-sonnet-20240229
- - llama-3.1-405b-instruct-bf16
- - gemini-advanced-0514
+ - chatgpt-4o-latest-20240808
+ - qwen2.5-72b-instruct
+ - mistral-large-2407
+ - openhermes-2.5-mistral-7b
+ - glm-4-0520
+ - mistral-next
  - gemma-2-2b-it
- - grok-2-mini-2024-08-13
- - llama-3-8b-instruct
- - deepseek-v3-0324
- - solar-10.7b-instruct-v1.0
- - reka-flash-21b-20240226-online
- - claude-3-7-sonnet-20250219-thinking-32k
- - mistral-small-24b-instruct-2501
- - llama-3.1-nemotron-51b-instruct
- - llama-3.1-tulu-3-8b
- - llama-3.2-3b-instruct
- - qwen1.5-72b-chat
- - gpt-4.1-nano-2025-04-14
- - jamba-1.5-mini
- - granite-3.0-8b-instruct
- - gemini-1.5-pro-001
- - smollm2-1.7b-instruct
- - oasst-pythia-12b
- - gemma-3-12b-it
- - command-r-08-2024
- - gemini-1.5-pro-exp-0801
  - c4ai-aya-expanse-8b
+ - mistral-small-24b-instruct-2501
+ - gemini-advanced-0514
+ - o1-preview
+ - gemini-1.5-flash-001
+ - qwen1.5-110b-chat
+ - qwen2-72b-instruct
+ - phi-3-mini-128k-instruct
+ - gemini-pro-dev-api
+ - qwen-max-0428
+ - jamba-1.5-large
+ - ministral-8b-2410
+ - llama-4-scout-17b-16e-instruct
+ - gemini-2.5-flash-preview-04-17
+ - claude-3-5-sonnet-20240620
+ - llama-4-maverick-03-26-experimental
+ - o3-2025-04-16
+ - nemotron-4-340b-instruct
+ - gemini-2.0-pro-exp-02-05
+ - granite-3.1-8b-instruct
+ - stripedhyena-nous-7b
+ - gemma-3-27b-it
+ - llama-3-70b-instruct
+ - dolly-v2-12b
+ - RWKV-4-Raven-14B
+ - phi-3-medium-4k-instruct
+ - llama-3.1-tulu-3-8b
+ - o3-mini
+ - yi-lightning-lite
+ - qwen2.5-plus-1127
+ - gemini-2.0-flash-thinking-exp-1219
  - llama-3.2-1b-instruct
- - pplx-7b-online
- - palm-2
+ - gpt4all-13b-snoozy
+ - wizardlm-70b
+ - llama-3.1-405b-instruct-fp8
+ - yi-34b-chat
+ - deepseek-v2.5
+ - qwen-max-0919
+ - chatglm2-6b
+ - claude-2.0
+ - reka-flash-20240722
+ - llama-3.3-70b-instruct
+ - mistral-7b-instruct-v0.2
+ - dolphin-2.2.1-mistral-7b
+ - step-2-16k-exp-202412
+ - qwen2.5-coder-32b-instruct
+ - qwen-plus-0125
+ - wizardlm-13b
+ - llama-13b
+ - deepseek-v3-0324
+ - mixtral-8x7b-instruct-v0.1
+ - gemma-3-12b-it
+ - phi-3-mini-4k-instruct-june-2024
+ - gemini-exp-1206
+ - glm-4-plus
+ - claude-3-7-sonnet-20250219-thinking-32k
+ - command-r-08-2024
+ - chatglm-6b
+ - gpt-4-1106-preview
+ - llama-4-maverick-17b-128e-instruct
+ - gemini-1.5-pro-exp-0801
+ - mistral-medium
+ - phi-3-mini-4k-instruct
+ - chatgpt-4o-latest-20241120
+ - o4-mini-2025-04-16
+ - gemini-2.0-flash-001
+ - reka-core-20240904
+ - gemma-1.1-7b-it
+ - gemini-1.5-flash-8b-exp-0827
+ - llama2-70b-steerlm-chat
+ - reka-flash-preview-20240611
+ - starling-lm-7b-beta
+ - dbrx-instruct-preview
+ - gemini-2.5-pro-preview-05-06
+ - grok-3-preview-02-24
+ - jamba-1.5-mini
+ - llama-3.1-8b-instruct
+ - qwen1.5-7b-chat
+ - fastchat-t5-3b
+ - llama-3-8b-instruct
+ - deepseek-coder-v2-0724
+ - gemini-2.0-flash-lite-preview-02-05
+ - yi-1.5-34b-chat
+ - gemini-2.0-flash-exp
+ - llama-3.1-tulu-3-70b
+ - deepseek-coder-v2
+ - guanaco-33b
+ - gpt-4-0613
  - mpt-30b-chat
  - koala-13b
- - claude-3-haiku-20240307
- - deepseek-llm-67b-chat
- - gpt-3.5-turbo-0613
- - gemini-exp-1121
- - gemini-2.0-flash-lite-preview-02-05
- - athene-v2-chat
- - command-r
- - gemini-1.5-pro-exp-0827
- - llama-4-scout-17b-16e-instruct
- - llama-3.3-70b-instruct
- - starling-lm-7b-beta
- - yi-lightning-lite
- - gemma-7b-it
- - yi-large-preview
- - phi-3-mini-4k-instruct-june-2024
- - glm-4-plus
- - llama-3-70b-instruct
- - gemma-2-9b-it
- - codellama-34b-instruct
- - command-r-plus-08-2024
- - gpt-4o-mini-2024-07-18
- - qwen1.5-14b-chat
- - deepseek-v2-api-0628
- - olmo-7b-instruct
- - claude-1
- - claude-3-5-sonnet-20240620
- - nemotron-4-340b-instruct
- - claude-3-opus-20240229
- - o4-mini-2025-04-16
- - gemini-2.0-pro-exp-02-05
- - o1-preview
- - gemini-pro-dev-api
- - zephyr-7b-alpha
- - deepseek-v2.5
- - mixtral-8x22b-instruct-v0.1
- - gemma-1.1-7b-it
- - ministral-8b-2410
- - mistral-large-2411
- - mistral-next
- - step-2-16k-exp-202412
- - phi-3-medium-4k-instruct
- - deepseek-coder-v2-0724
- - hunyuan-standard-256k
- - qwen-max-0428
- - gemma-2-9b-it-simpo
- - amazon-nova-micro-v1.0
- - codellama-70b-instruct
- - falcon-180b-chat
- - gemini-2.0-flash-thinking-exp-1219
- - yi-34b-chat
- - glm-4-plus-0111
- - mpt-7b-chat
- - reka-core-20240501
- - phi-3-mini-4k-instruct
- - glm-4-0520
- - gemini-2.5-pro-preview-05-06
- - claude-3-5-sonnet-20241022
- - vicuna-7b
- - gpt-4.1-2025-04-14
+ - snowflake-arctic-instruct
  - llama-2-7b-chat
- - gemini-2.0-flash-001
- - gemini-1.5-flash-001
- - o3-mini
- - alpaca-13b
- - mistral-medium-2505
- - gemma-3-4b-it
- - deepseek-coder-v2
- - bard-jan-24-gemini-pro
- - mistral-7b-instruct
- - qwen2.5-plus-1127
- - amazon-nova-pro-v1.0
- - RWKV-4-Raven-14B
- - deepseek-r1
- - gpt-4-0125-preview
- - openhermes-2.5-mistral-7b
- - gemini-1.5-flash-8b-exp-0827
- - gpt-4o-2024-05-13
- - qwen1.5-32b-chat
- - llama-2-13b-chat
- - reka-core-20240722
- - llama-13b
- - yi-lightning
+ - gpt-3.5-turbo-1106
+ - qwq-32b-preview
+ - gemma-7b-it
  - qwen3-235b-a22b
- - qwen1.5-4b-chat
- - nous-hermes-2-mixtral-8x7b-dpo
- - qwen2.5-coder-32b-instruct
- - claude-2.0
- - qwen1.5-7b-chat
- - grok-3-preview-02-24
- - dolly-v2-12b
- - gemma-2b-it
- - claude-3-7-sonnet-20250219
- - qwen-14b-chat
- - dbrx-instruct-preview
- - gpt-4o-2024-08-06
- - llama-3.1-8b-instruct
- - deepseek-v3
- - chatglm3-6b
- - gemini-exp-1114
- - glm-4-0116
- - llama-4-maverick-17b-128e-instruct
- - chatgpt-4o-latest-20241120
- - qwen-plus-0125
- - llama-3.1-nemotron-70b-instruct
- - dolphin-2.2.1-mistral-7b
- - llama-4-maverick-03-26-experimental
- - stripedhyena-nous-7b
- - gpt4all-13b-snoozy
- - yi-1.5-34b-chat
- - guanaco-33b
- - gemma-3-27b-it
- - gpt-4-0613
- - mixtral-8x7b-instruct-v0.1
- - gpt-3.5-turbo-0125
- - llama2-70b-steerlm-chat
+ - llama-3.1-405b-instruct-bf16
+ - gemma-3-4b-it
  - openchat-3.5-0106
- - qwen2.5-72b-instruct
+ - qwen1.5-72b-chat
+ - gemini-1.5-pro-001
+ - zephyr-orpo-141b-A35b-v0.1
+ - grok-2-mini-2024-08-13
+ - mistral-7b-instruct
+ - grok-2-2024-08-13
+ - gemini-pro
+ - glm-4-plus-0111
+ - mixtral-8x22b-instruct-v0.1
+ - command-r
+ - amazon-nova-pro-v1.0
+ - gpt-4.1-nano-2025-04-14
+ - chatgpt-4o-latest-20250129
+ - yi-large-preview
+ - athene-v2-chat
+ - gpt-4o-mini-2024-07-18
+ - reka-flash-21b-20240226-online
+ - athene-70b-0725
+ - gpt-3.5-turbo-0125
+ - palm-2
+ - llama-3.1-nemotron-51b-instruct
+ - qwen-plus-0828
+ - mistral-large-2411
+ - nous-hermes-2-mixtral-8x7b-dpo
+ - starling-lm-7b-alpha
+ - claude-3-5-haiku-20241022
+ - codellama-70b-instruct
+ - granite-3.1-2b-instruct
+ - claude-3-7-sonnet-20250219
+ - gpt-4-0125-preview
+ - gpt-4.1-mini-2025-04-14
+ - qwen2.5-max
+ - gpt-4o-2024-08-06
+ - yi-large
+ - hunyuan-standard-256k
+ - gemma-2-27b-it
+ - pplx-7b-online
+ - mistral-medium-2505
+ - zephyr-7b-alpha
+ - reka-flash-20240904
+ - reka-core-20240501
+ - deepseek-v2.5-1210
+ - deepseek-r1
+ - llama-3.1-nemotron-70b-instruct
+ - gpt-4-0314
+ - glm-4-0116
+ - claude-1
+ - llama-2-70b-chat
+ - oasst-pythia-12b
+ - claude-3-sonnet-20240229
+ - gemma-2-9b-it
+ - pplx-70b-online
+ - command-r-plus
+ - gpt-3.5-turbo-0314
+ - gemini-1.5-pro-exp-0827
+ - vicuna-13b
+ - stablelm-tuned-alpha-7b
+ - qwen1.5-4b-chat
+ - phi-3-small-8k-instruct
+ - gemini-1.5-pro-002
+ - reka-core-20240722
+ - o1-mini
+ - internlm2_5-20b-chat
+ - llama-3.2-3b-instruct
+ - smollm2-1.7b-instruct
+ - o3-mini-high
+ - gpt-4o-2024-05-13
+ - falcon-180b-chat
+ - qwen1.5-32b-chat
+ - gemini-exp-1121
+ - mistral-large-2402
+ - mpt-7b-chat
+ - o1-2024-12-17
+ - claude-3-5-sonnet-20241022
+ - claude-instant-1
+ - tulu-2-dpo-70b
+ - zephyr-7b-beta
+ - deepseek-v2-api-0628
+ - bard-jan-24-gemini-pro
+ - gemini-2.0-flash-thinking-exp-01-21
+ - vicuna-33b
+ - claude-3-opus-20240229
+ - reka-flash-21b-20240226
+ - claude-2.1
+ - qwen1.5-14b-chat
+ - amazon-nova-lite-v1.0
+ - gemini-1.5-pro-api-0409-preview
+ - vicuna-7b
+ - chatgpt-4o-latest-20240903
+ - gemma-2-9b-it-simpo
+ - gemini-1.5-flash-8b-001
+ - command-r-plus-08-2024
+ - gpt-3.5-turbo-0613
+ - openchat-3.5
+ - llama-2-13b-chat
+ - amazon-nova-micro-v1.0
+ - granite-3.0-8b-instruct
+ - codellama-34b-instruct
+ - yi-lightning
+ - claude-3-haiku-20240307
+ - alpaca-13b
+ - qwen-14b-chat
+ - chatglm3-6b
+ - llama-3.1-70b-instruct
+ - gpt-4-turbo-2024-04-09
+ - early-grok-3
+ - gemini-exp-1114
+ - gemini-1.5-flash-exp-0827
+ - deepseek-llm-67b-chat
+ - gemma-1.1-2b-it
+ - granite-3.0-2b-instruct
+ - deepseek-v3
+ - solar-10.7b-instruct-v1.0
 
 ==================================================
 
@@ -1443,25 +958,25 @@ Models:
  - baichuan-inc/Baichuan-M2-32B
  - Qwen/Qwen3-4B-Thinking-2507
  - Qwen/Qwen3-4B-Instruct-2507
+ - moonshotai/Kimi-K2-Instruct
  - Qwen/Qwen3-Coder-480B-A35B-Instruct
  - deepseek-ai/DeepSeek-R1
- - moonshotai/Kimi-K2-Instruct
  - Qwen/Qwen3-Coder-30B-A3B-Instruct
- - zai-org/GLM-4.5-Air
  - meta-llama/Llama-3.1-8B-Instruct
+ - zai-org/GLM-4.5-Air
  - Qwen/Qwen3-235B-A22B-Instruct-2507
  - Qwen/Qwen3-8B
- - HuggingFaceTB/SmolLM3-3B
  - Qwen/Qwen3-235B-A22B-Thinking-2507
  - meta-llama/Llama-3.2-3B-Instruct
+ - HuggingFaceTB/SmolLM3-3B
  - mistralai/Mistral-7B-Instruct-v0.2
  - meta-llama/Meta-Llama-3-8B-Instruct
+ - deepseek-ai/DeepSeek-R1-0528-Qwen3-8B
  - Qwen/Qwen3-4B
  - Qwen/Qwen3-30B-A3B
- - Qwen/Qwen3-32B
- - Qwen/Qwen2.5-7B-Instruct
+ - dphn/Dolphin-Mistral-24B-Venice-Edition
  - deepseek-ai/DeepSeek-V3
- - deepseek-ai/DeepSeek-R1-0528-Qwen3-8B
+ - Qwen/Qwen3-32B
  - meta-llama/Llama-3.2-11B-Vision-Instruct
  - Qwen/Qwen2-VL-7B-Instruct
  - meta-llama/Llama-3.3-70B-Instruct
@@ -1479,12 +994,12 @@ Models:
  - lightx2v/Qwen-Image-Lightning
  - Arrexel/pattern-diffusion
  - nunchaku-tech/nunchaku-qwen-image
+ - stepfun-ai/NextStep-1-Large
+ - KBlueLeaf/HDM-xut-340M-anime
  - black-forest-labs/FLUX.1-Krea-dev
  - city96/Qwen-Image-gguf
- - KBlueLeaf/HDM-xut-340M-anime
- - stabilityai/stable-diffusion-xl-base-1.0
  - flymy-ai/qwen-image-realism-lora
- - lodestones/Chroma1-HD
+ - stabilityai/stable-diffusion-xl-base-1.0
 
 ==================================================
 
@@ -1501,86 +1016,85 @@ Models:
  - baichuan-inc/Baichuan-M2-32B
  - Qwen/Qwen3-4B-Thinking-2507
  - Qwen/Qwen3-4B-Instruct-2507
+ - moonshotai/Kimi-K2-Instruct
  - Qwen/Qwen3-Coder-480B-A35B-Instruct
  - deepseek-ai/DeepSeek-R1
- - moonshotai/Kimi-K2-Instruct
  - Qwen/Qwen3-Coder-30B-A3B-Instruct
- - zai-org/GLM-4.5-Air
  - meta-llama/Llama-3.1-8B-Instruct
  - mistralai/Mistral-7B-Instruct-v0.3
+ - zai-org/GLM-4.5-Air
  - Qwen/Qwen3-235B-A22B-Instruct-2507
- - Qwen/Qwen3-8B
  - Qwen/Qwen2.5-VL-7B-Instruct
- - google/gemma-3-27b-it
- - HuggingFaceTB/SmolLM3-3B
+ - Qwen/Qwen3-8B
  - Qwen/Qwen3-235B-A22B-Thinking-2507
  - meta-llama/Llama-3.2-3B-Instruct
- - zai-org/GLM-4.1V-9B-Thinking
+ - google/gemma-3-27b-it
+ - HuggingFaceTB/SmolLM3-3B
  - mistralai/Mistral-7B-Instruct-v0.2
+ - zai-org/GLM-4.1V-9B-Thinking
  - meta-llama/Meta-Llama-3-8B-Instruct
+ - google/gemma-3-12b-it
+ - deepseek-ai/DeepSeek-R1-0528-Qwen3-8B
  - meta-llama/Llama-4-Scout-17B-16E-Instruct
  - Qwen/Qwen3-4B
  - Qwen/Qwen3-30B-A3B
- - Qwen/Qwen3-32B
- - Qwen/Qwen2.5-7B-Instruct
- - deepseek-ai/DeepSeek-V3
- - deepseek-ai/DeepSeek-R1-0528-Qwen3-8B
- - google/gemma-3-12b-it
- - deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B
- - fdtn-ai/Foundation-Sec-8B-Instruct
- - meta-llama/Llama-3.3-70B-Instruct
- - Qwen/Qwen3-14B
  - dphn/Dolphin-Mistral-24B-Venice-Edition
+ - deepseek-ai/DeepSeek-V3
+ - Qwen/Qwen3-32B
+ - deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B
+ - Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1
+ - fdtn-ai/Foundation-Sec-8B-Instruct
+ - HuggingFaceH4/zephyr-7b-beta
+ - Qwen/Qwen2.5-7B-Instruct
+ - microsoft/phi-4
+ - Qwen/Qwen3-14B
+ - deepseek-ai/DeepSeek-R1-0528
  - TinyLlama/TinyLlama-1.1B-Chat-v1.0
  - NousResearch/Hermes-3-Llama-3.1-8B
- - Qwen/Qwen2.5-14B-Instruct
- - meta-llama/Llama-3.2-1B-Instruct
- - Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1
- - microsoft/phi-4
- - Qwen/Qwen2.5-VL-32B-Instruct
- - deepseek-ai/DeepSeek-R1-0528
- - HuggingFaceH4/zephyr-7b-beta
- - mistralai/Mixtral-8x7B-Instruct-v0.1
- - deepseek-ai/DeepSeek-R1-Distill-Llama-8B
- - deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+ - meta-llama/Llama-3.3-70B-Instruct
  - mlabonne/gemma-3-27b-it-abliterated
- - deepseek-ai/DeepSeek-V3-0324
+ - Qwen/Qwen2.5-VL-32B-Instruct
  - Qwen/Qwen3-1.7B
- - Sao10K/L3-8B-Stheno-v3.2
  - mistralai/Mistral-Nemo-Instruct-2407
+ - Qwen/Qwen2.5-14B-Instruct
+ - Qwen/QwQ-32B
+ - ytu-ce-cosmos/Turkish-Gemma-9b-v0.1
+ - baidu/ERNIE-4.5-21B-A3B-PT
+ - mistralai/Mixtral-8x7B-Instruct-v0.1
+ - Sao10K/L3-8B-Stheno-v3.2
  - meta-llama/Llama-Guard-3-8B
- - Steelskull/L3.3-MS-Nevoria-70b
- - deepseek-ai/DeepSeek-R1-Distill-Qwen-7B
+ - deepseek-ai/DeepSeek-R1-Distill-Llama-8B
  - Qwen/Qwen2.5-VL-72B-Instruct
  - NousResearch/DeepHermes-3-Llama-3-8B-Preview
- - Qwen/QwQ-32B
- - baidu/ERNIE-4.5-21B-A3B-PT
- - google/gemma-2-2b-it
- - Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2
- - Qwen/Qwen2.5-Coder-32B-Instruct
- - CohereLabs/c4ai-command-r7b-12-2024
- - LatitudeGames/Wayfarer-12B
- - deepseek-ai/DeepSeek-R1-Distill-Llama-70B
- - deepseek-ai/DeepSeek-R1-Distill-Qwen-14B
- - mistralai/Mistral-Small-3.1-24B-Instruct-2503
- - ytu-ce-cosmos/Turkish-Gemma-9b-v0.1
- - Qwen/Qwen3-8B-Base
+ - deepseek-ai/DeepSeek-V3-0324
  - darkc0de/XortronCriminalComputingConfig
- - Alibaba-NLP/WebDancer-32B
- - agentica-org/DeepSWE-Preview
+ - Intelligent-Internet/II-Medical-8B-1706
  - Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8
  - Orenguteng/Llama-3-8B-Lexi-Uncensored
+ - Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2
+ - CohereLabs/c4ai-command-r7b-12-2024
+ - LatitudeGames/Wayfarer-12B
+ - jinaai/ReaderLM-v2
+ - deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
+ - mistralai/Mistral-Small-3.1-24B-Instruct-2503
+ - Alibaba-NLP/WebDancer-32B
+ - agentica-org/DeepSWE-Preview
+ - aaditya/Llama3-OpenBioLLM-70B
  - MLP-KTLim/llama-3-Korean-Bllossom-8B
- - nvidia/Llama-3.1-8B-Instruct-FP8
+ - Sao10K/L3-8B-Lunaris-v1
+ - SeaLLMs/SeaLLMs-v3-7B-Chat
+ - google/gemma-2-2b-it
  - Qwen/Qwen2.5-7B
- - Qwen/Qwen2.5-32B
  - Qwen/Qwen2.5-72B-Instruct
  - Qwen/Qwen2.5-1.5B-Instruct
  - Qwen/Qwen2.5-Math-7B-Instruct
  - CohereLabs/aya-expanse-8b
+ - Qwen/Qwen2.5-Coder-3B-Instruct
+ - Qwen/Qwen2.5-Coder-32B-Instruct
  - Qwen/Qwen2.5-Coder-14B
  - Sao10K/70B-L3.3-Cirrus-x1
- - jinaai/ReaderLM-v2
+ - Steelskull/L3.3-MS-Nevoria-70b
+ - deepseek-ai/DeepSeek-R1-Distill-Qwen-14B
  - NaniDAO/deepseek-r1-qwen-2.5-32B-ablated
  - PocketDoc/Dans-PersonalityEngine-V1.2.0-24b
  - CohereLabs/c4ai-command-r7b-arabic-02-2025
@@ -1588,71 +1102,71 @@ Models:
  - meta-llama/Llama-4-Maverick-17B-128E-Instruct
  - zai-org/GLM-Z1-32B-0414
  - facebook/KernelLLM
+ - INSAIT-Institute/MamayLM-Gemma-2-9B-IT-v0.1
  - meta-llama/Llama-Guard-4-12B
- - Qwen/Qwen3-235B-A22B-FP8
+ - Qwen/Qwen3-8B-Base
  - deepseek-ai/DeepSeek-Prover-V2-671B
- - Intelligent-Internet/II-Medical-8B
  - nvidia/AceReason-Nemotron-14B
- - open-thoughts/OpenThinker3-7B
  - Unbabel/Tower-Plus-9B
  - MiniMaxAI/MiniMax-M1-80k
- - Intelligent-Internet/II-Medical-8B-1706
  - moonshotai/Kimi-Dev-72B
  - AI-MO/Kimina-Prover-72B
  - MegaScience/Qwen3-14B-MegaScience
  - zai-org/GLM-4.5-Air-FP8
  - HuggingFaceH4/zephyr-7b-alpha
- - alpindale/WizardLM-2-8x22B
+ - CohereLabs/c4ai-command-r-plus
  - mistralai/Mixtral-8x22B-Instruct-v0.1
  - meta-llama/Meta-Llama-3-70B-Instruct
  - unsloth/llama-3-8b-Instruct
- - aaditya/Llama3-OpenBioLLM-70B
+ - Orenguteng/Llama-3-8B-LexiFun-Uncensored-V1
  - NousResearch/Hermes-2-Theta-Llama-3-8B
  - allganize/Llama-3-Alpha-Ko-8B-Instruct
  - mlabonne/NeuralDaredevil-8B-abliterated
  - failspy/Meta-Llama-3-70B-Instruct-abliterated-v3.5
  - dphn/dolphin-2.9.2-mixtral-8x22b
+ - yentinglin/Llama-3-Taiwan-70B-Instruct
  - Qwen/Qwen2-7B-Instruct
  - Qwen/Qwen2-7B
- - google/gemma-2-9b-it
- - Sao10K/L3-8B-Lunaris-v1
- - m42-health/Llama3-Med42-70B
- - SeaLLMs/SeaLLMs-v3-7B-Chat
- - juvi21/Hermes-2-Theta-L3-Euryale-Ties-0.8-70B
- - GraySwanAI/Llama-3-8B-Instruct-RR
+ - maldv/llama-3-fantasy-writer-8b
  - pentagoniac/SEMIKONG-70B
  - meta-llama/Llama-3.1-70B-Instruct
+ - princeton-nlp/gemma-2-9b-it-SimPO
  - NousResearch/Meta-Llama-3.1-8B-Instruct
  - NousResearch/Hermes-3-Llama-3.1-405B
  - silma-ai/SILMA-9B-Instruct-v1.0
  - CohereLabs/c4ai-command-r-08-2024
+ - nvidia/Llama-3.1-8B-Instruct-FP8
  - jinaai/reader-lm-1.5b
  - nbeerbower/Lyra4-Gutenberg-12B
  - Qwen/Qwen2.5-1.5B
  - Qwen/Qwen2.5-14B
+ - Qwen/Qwen2.5-32B
  - Qwen/Qwen2.5-72B
  - Qwen/Qwen2.5-Coder-7B
  - Qwen/Qwen2.5-Math-7B
- - Qwen/Qwen2.5-32B-Instruct
  - Qwen/Qwen2.5-Coder-7B-Instruct
  - Qwen/Qwen2.5-Coder-1.5B-Instruct
+ - unsloth/Qwen2.5-7B-Instruct
  - v000000/Qwen2.5-Lumen-14B
  - Orion-zhen/Meissa-Qwen2.5-7B-Instruct
  - SEOKDONG/llama3.1_korean_v1.1_sft_by_aidx
  - AITeamVN/Vi-Qwen2-7B-RAG
  - arcee-ai/SuperNova-Medius
+ - HumanLLMs/Human-Like-Mistral-Nemo-Instruct-2407
  - shibing624/chinese-text-correction-7b
+ - Metin/Gemma-2-9b-it-TR-DPO-V1
  - CohereLabs/aya-expanse-32b
- - Qwen/Qwen2.5-Coder-3B-Instruct
  - Qwen/Qwen2.5-Coder-14B-Instruct
  - Infermatic/MN-12B-Inferor-v0.0
  - unsloth/Qwen2.5-Coder-14B-Instruct
- - FallenMerick/MN-Violet-Lotus-12B
  - oxyapi/oxy-1-small
+ - themex1380/Gemma-2-9B-Chinese-Chat-Uncensored
  - winninghealth/WiNGPT-Babel
  - SEOKDONG/llama3.2_1B_korean_v0.2_sft_by_aidx
  - Sao10K/32B-Qwen2.5-Kunou-v1
  - nvidia/AceMath-7B-Instruct
+ - deepseek-ai/DeepSeek-R1-Distill-Llama-70B
+ - deepseek-ai/DeepSeek-R1-Distill-Qwen-7B
  - unsloth/DeepSeek-R1-Distill-Llama-8B
  - unsloth/DeepSeek-R1-Distill-Qwen-7B
  - huihui-ai/DeepSeek-R1-Distill-Qwen-32B-abliterated
@@ -1664,14 +1178,12 @@ Models:
  - CohereLabs/aya-vision-32b
  - mims-harvard/TxAgent-T1-Llama-3.1-8B
  - simplescaling/s1.1-7B
- - unsloth/gemma-3-12b-it
  - featherless-ai/QRWKV-72B
  - sail/Qwen2.5-Math-7B-Oat-Zero
  - sail/Qwen2.5-Math-1.5B-Oat-Zero
  - allura-org/Gemma-3-Glitter-12B
  - all-hands/openhands-lm-32b-v0.1
  - Salesforce/Llama-xLAM-2-8b-fc-r
- - deepcogito/cogito-v1-preview-llama-8B
  - agentica-org/DeepCoder-14B-Preview
  - zai-org/GLM-4-32B-0414
  - nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
@@ -1679,27 +1191,28 @@ Models:
  - braindao/gemma-3-27b-it-uncensored
  - sleepdeprived3/Christian-Bible-Expert-v2.0-12B
  - aisingapore/Llama-SEA-LION-v3.5-8B-R
- - INSAIT-Institute/MamayLM-Gemma-2-9B-IT-v0.1
+ - DeepHat/DeepHat-V1-7B
  - Qwen/Qwen3-235B-A22B
+ - Qwen/Qwen3-14B-Base
  - XGenerationLab/XiYanSQL-QwenCoder-7B-2504
+ - Qwen/Qwen3-235B-A22B-FP8
  - allura-org/GLM4-32B-Neon-v2
  - SWE-bench/SWE-agent-LM-32B
  - SentientAGI/Dobby-Mini-Unhinged-Plus-Llama-3.1-8B
  - AITeamVN/GRPO-VI-Qwen2-7B-RAG
  - Gensyn/Qwen2.5-7B-Instruct
  - microsoft/NextCoder-32B
+ - Intelligent-Internet/II-Medical-8B
  - FractalAIResearch/Fathom-R1-14B
+ - soob3123/GrayLine-Qwen3-8B
  - zerofata/L3.3-GeneticLemonade-Unleashed-v3-70B
  - ArliAI/QwQ-32B-ArliAI-RpR-v4
- - nvidia/AceReason-Nemotron-7B
+ - open-thoughts/OpenThinker3-7B
  - unsloth/DeepSeek-R1-0528-Qwen3-8B
  - MiniMaxAI/SynLogic-Mix-3-32B
  - WisdomShell/RewardAnything-8B-v1
- - Skywork/Skywork-SWE-32B
  - allura-org/Q3-8B-Kintsugi
  - nvidia/NFT-32B
- - THU-KEG/LongWriter-Zero-32B
- - katanemo/Arch-Agent-7B
  - baidu/ERNIE-4.5-VL-28B-A3B-PT
  - baidu/ERNIE-4.5-0.3B-PT
  - AI-MO/Kimina-Prover-Distill-1.7B
@@ -1709,13 +1222,15 @@ Models:
  - Trendyol/Trendyol-LLM-8B-T1
  - Tesslate/UIGEN-X-8B
  - ReadyArt/Broken-Tutu-24B-Unslop-v2.0
- - ReadyArt/L3.3-The-Omega-Directive-70B-Unslop-v2.0
+ - UnfilteredAI/DAN-L3-R1-8B
  - NeverSleep/Llama-3-Lumimaid-8B-v0.1
  - sophosympatheia/New-Dawn-Llama-3-70B-32K-v1.0
+ - HiroseKoichi/L3-8B-Lunar-Stheno
  - Casual-Autopsy/L3-Super-Nova-RP-8B
- - UnfilteredAI/DAN-L3-R1-8B
+ - crestf411/MN-Slush
  - ReadyArt/Omega-Darker-Gaslight_The-Final-Forgotten-Fever-Dream-24B
  - Mawdistical/Squelching-Fantasies-qw3-14B
+ - ReadyArt/L3.3-The-Omega-Directive-70B-Unslop-v2.0
  - google/gemma-3-27b-it
 
 ==================================================
@@ -1724,13 +1239,13 @@ Provider: HuggingFaceMedia
 ------------------------------
 URL: https://huggingface.co
 Label: HuggingFace
-Model Count: 385
+Model Count: 392
 Models:
- - Wan-AI/Wan2.2-TI2V-5B
- - Wan-AI/Wan2.2-TI2V-5B:replicate
  - Wan-AI/Wan2.2-T2V-A14B
  - Wan-AI/Wan2.2-T2V-A14B:fal-ai
  - Wan-AI/Wan2.2-T2V-A14B:replicate
+ - Wan-AI/Wan2.2-TI2V-5B
+ - Wan-AI/Wan2.2-TI2V-5B:replicate
  - tencent/HunyuanVideo
  - tencent/HunyuanVideo:fal-ai
  - Wan-AI/Wan2.1-T2V-14B
@@ -1757,11 +1272,6 @@ Models:
  - black-forest-labs/FLUX.1-Krea-dev
  - black-forest-labs/FLUX.1-Krea-dev:fal-ai
  - black-forest-labs/FLUX.1-Krea-dev:replicate
- - stabilityai/stable-diffusion-xl-base-1.0
- - stabilityai/stable-diffusion-xl-base-1.0:nebius
- - stabilityai/stable-diffusion-xl-base-1.0:nscale
- - stabilityai/stable-diffusion-xl-base-1.0:replicate
- - stabilityai/stable-diffusion-xl-base-1.0:hf-inference
  - black-forest-labs/FLUX.1-schnell
  - black-forest-labs/FLUX.1-schnell:together
  - black-forest-labs/FLUX.1-schnell:nebius
@@ -1769,6 +1279,11 @@ Models:
  - black-forest-labs/FLUX.1-schnell:fal-ai
  - black-forest-labs/FLUX.1-schnell:replicate
  - black-forest-labs/FLUX.1-schnell:hf-inference
+ - stabilityai/stable-diffusion-xl-base-1.0
+ - stabilityai/stable-diffusion-xl-base-1.0:nebius
+ - stabilityai/stable-diffusion-xl-base-1.0:nscale
+ - stabilityai/stable-diffusion-xl-base-1.0:replicate
+ - stabilityai/stable-diffusion-xl-base-1.0:hf-inference
  - stabilityai/stable-diffusion-3.5-large
  - stabilityai/stable-diffusion-3.5-large:fal-ai
  - stabilityai/stable-diffusion-3.5-large:replicate
@@ -1776,24 +1291,24 @@ Models:
  - stabilityai/stable-diffusion-3.5-medium:fal-ai
  - fofr/sdxl-emoji
  - fofr/sdxl-emoji:fal-ai
+ - UmeAiRT/FLUX.1-dev-LoRA-Modern_Pixel_art
+ - UmeAiRT/FLUX.1-dev-LoRA-Modern_Pixel_art:fal-ai
+ - UmeAiRT/FLUX.1-dev-LoRA-Modern_Pixel_art:replicate
+ - multimodalart/isometric-skeumorphic-3d-bnb
+ - multimodalart/isometric-skeumorphic-3d-bnb:fal-ai
+ - multimodalart/isometric-skeumorphic-3d-bnb:replicate
+ - HiDream-ai/HiDream-I1-Full
+ - HiDream-ai/HiDream-I1-Full:fal-ai
+ - ByteDance/SDXL-Lightning
+ - ByteDance/SDXL-Lightning:fal-ai
+ - ByteDance/SDXL-Lightning:replicate
  - ByteDance/Hyper-SD
  - ByteDance/Hyper-SD:fal-ai
  - ByteDance/Hyper-SD:replicate
  - ByteDance/Hyper-SD:replicate
- - UmeAiRT/FLUX.1-dev-LoRA-Modern_Pixel_art
- - UmeAiRT/FLUX.1-dev-LoRA-Modern_Pixel_art:fal-ai
- - UmeAiRT/FLUX.1-dev-LoRA-Modern_Pixel_art:replicate
- - HiDream-ai/HiDream-I1-Full
- - HiDream-ai/HiDream-I1-Full:fal-ai
- - multimodalart/isometric-skeumorphic-3d-bnb
- - multimodalart/isometric-skeumorphic-3d-bnb:fal-ai
- - multimodalart/isometric-skeumorphic-3d-bnb:replicate
  - stabilityai/stable-diffusion-3-medium
  - stabilityai/stable-diffusion-3-medium:fal-ai
  - stabilityai/stable-diffusion-3-medium:replicate
- - XLabs-AI/flux-RealismLora
- - XLabs-AI/flux-RealismLora:fal-ai
- - XLabs-AI/flux-RealismLora:replicate
  - jbilcke-hf/flux-dev-panorama-lora-2
  - jbilcke-hf/flux-dev-panorama-lora-2:fal-ai
  - jbilcke-hf/flux-dev-panorama-lora-2:replicate
@@ -1809,16 +1324,11 @@ Models:
  - strangerzonehf/Flux-Ultimate-LoRA-Collection
  - strangerzonehf/Flux-Ultimate-LoRA-Collection:fal-ai
  - strangerzonehf/Flux-Ultimate-LoRA-Collection:replicate
- - blink7630/storyboard-sketch
- - blink7630/storyboard-sketch:fal-ai
- - ByteDance/SDXL-Lightning
- - ByteDance/SDXL-Lightning:fal-ai
- - ByteDance/SDXL-Lightning:replicate
- - sWizad/pokemon-trainer-sprite-pixelart
- - sWizad/pokemon-trainer-sprite-pixelart:fal-ai
- - multimodalart/flux-tarot-v1
- - multimodalart/flux-tarot-v1:fal-ai
- - multimodalart/flux-tarot-v1:replicate
+ - playgroundai/playground-v2.5-1024px-aesthetic
+ - playgroundai/playground-v2.5-1024px-aesthetic:fal-ai
+ - XLabs-AI/flux-RealismLora
+ - XLabs-AI/flux-RealismLora:fal-ai
+ - XLabs-AI/flux-RealismLora:replicate
  - prithivMLmods/Flux-Dev-Real-Anime-LoRA
  - prithivMLmods/Flux-Dev-Real-Anime-LoRA:fal-ai
  - prithivMLmods/Flux-Dev-Real-Anime-LoRA:replicate
@@ -1834,28 +1344,30 @@ Models:
  - strangerzonehf/Flux-Icon-Kit-LoRA
  - strangerzonehf/Flux-Icon-Kit-LoRA:fal-ai
  - strangerzonehf/Flux-Icon-Kit-LoRA:replicate
+ - HiDream-ai/HiDream-I1-Dev
+ - HiDream-ai/HiDream-I1-Dev:fal-ai
  - nerijs/pixel-art-xl
  - nerijs/pixel-art-xl:fal-ai
- - nerijs/lego-minifig-xl
- - nerijs/lego-minifig-xl:fal-ai
+ - artificialguybr/StickersRedmond
+ - artificialguybr/StickersRedmond:fal-ai
  - artificialguybr/PixelArtRedmond
  - artificialguybr/PixelArtRedmond:fal-ai
  - JCTN/JCTN_LORAxl
  - JCTN/JCTN_LORAxl:fal-ai
+ - blink7630/storyboard-sketch
+ - blink7630/storyboard-sketch:fal-ai
  - ming-yang/sdxl_chinese_ink_lora
  - ming-yang/sdxl_chinese_ink_lora:fal-ai
  - ntc-ai/SDXL-LoRA-slider.makeup
  - ntc-ai/SDXL-LoRA-slider.makeup:fal-ai
  - DoctorDiffusion/doctor-diffusion-s-toy-xl-style-lora
  - DoctorDiffusion/doctor-diffusion-s-toy-xl-style-lora:fal-ai
- - taki0112/lora-trained-xl_cartoon-line-drawings_split
- - taki0112/lora-trained-xl_cartoon-line-drawings_split:fal-ai
  - ntc-ai/SDXL-LoRA-slider.friendly-smile
  - ntc-ai/SDXL-LoRA-slider.friendly-smile:fal-ai
- - thwri/dark-gothic-fantasy-xl
- - thwri/dark-gothic-fantasy-xl:fal-ai
  - PixArt-alpha/PixArt-Sigma-XL-2-1024-MS
  - PixArt-alpha/PixArt-Sigma-XL-2-1024-MS:fal-ai
+ - sWizad/pokemon-trainer-sprite-pixelart
+ - sWizad/pokemon-trainer-sprite-pixelart:fal-ai
  - MarkBW/olivia-casta-xl
  - MarkBW/olivia-casta-xl:fal-ai
  - kuei1026/3d-icon-sdxl-lora-rank-64
@@ -1864,8 +1376,10 @@ Models:
  - Kwai-Kolors/Kolors:fal-ai
  - alvdansen/japanese-poster-prints
  - alvdansen/japanese-poster-prints:fal-ai
- - alvdansen/midsommarcartoon
- - alvdansen/midsommarcartoon:fal-ai
+ - prithivMLmods/Canes-Cars-Model-LoRA
+ - prithivMLmods/Canes-Cars-Model-LoRA:fal-ai
+ - AdamLucek/sdxl-base-1.0-greenchair-dreambooth-lora
+ - AdamLucek/sdxl-base-1.0-greenchair-dreambooth-lora:fal-ai
  - MarkBW/neon-gothic-xl
  - MarkBW/neon-gothic-xl:fal-ai
  - Changg/lora-sdxl-line
@@ -1875,21 +1389,21 @@ Models:
  - Norod78/Flux_1_Dev_LoRA_Paper-Cutout-Style
  - Norod78/Flux_1_Dev_LoRA_Paper-Cutout-Style:fal-ai
  - Norod78/Flux_1_Dev_LoRA_Paper-Cutout-Style:replicate
+ - multimodalart/flux-tarot-v1
+ - multimodalart/flux-tarot-v1:fal-ai
+ - multimodalart/flux-tarot-v1:replicate
+ - AlloReview/flux-lora-undraw
+ - AlloReview/flux-lora-undraw:fal-ai
+ - AlloReview/flux-lora-undraw:replicate
  - fofr/flux-color
  - fofr/flux-color:fal-ai
  - fofr/flux-color:replicate
- - nerijs/dark-fantasy-illustration-flux
- - nerijs/dark-fantasy-illustration-flux:fal-ai
- - nerijs/dark-fantasy-illustration-flux:replicate
- - SebastianBodza/flux_lora_retro_linedrawing_style_v1
- - SebastianBodza/flux_lora_retro_linedrawing_style_v1:fal-ai
- - SebastianBodza/flux_lora_retro_linedrawing_style_v1:replicate
+ - pixelprotest/flux-monkey-island
+ - pixelprotest/flux-monkey-island:fal-ai
+ - pixelprotest/flux-monkey-island:replicate
  - multimodalart/vintage-ads-flux
  - multimodalart/vintage-ads-flux:fal-ai
  - multimodalart/vintage-ads-flux:replicate
- - Omarito2412/Dark-Fantasy-Flux
- - Omarito2412/Dark-Fantasy-Flux:fal-ai
- - Omarito2412/Dark-Fantasy-Flux:replicate
  - Shakker-Labs/FLUX.1-dev-LoRA-MiaoKa-Yarn-World
  - Shakker-Labs/FLUX.1-dev-LoRA-MiaoKa-Yarn-World:fal-ai
  - Shakker-Labs/FLUX.1-dev-LoRA-MiaoKa-Yarn-World:replicate
@@ -1902,12 +1416,6 @@ Models:
  - alvdansen/pola-photo-flux
  - alvdansen/pola-photo-flux:fal-ai
  - alvdansen/pola-photo-flux:replicate
- - Jovie/Midjourney
- - Jovie/Midjourney:fal-ai
- - Jovie/Midjourney:replicate
- - glif-loradex-trainer/maxxd4240_minimalistPastel
- - glif-loradex-trainer/maxxd4240_minimalistPastel:fal-ai
- - glif-loradex-trainer/maxxd4240_minimalistPastel:replicate
  - UmeAiRT/FLUX.1-dev-LoRA-Impressionism
  - UmeAiRT/FLUX.1-dev-LoRA-Impressionism:fal-ai
  - UmeAiRT/FLUX.1-dev-LoRA-Impressionism:replicate
@@ -1920,11 +1428,9 @@ Models:
  - glif-loradex-trainer/araminta_k_flux_dev_illustration_art
  - glif-loradex-trainer/araminta_k_flux_dev_illustration_art:fal-ai
  - glif-loradex-trainer/araminta_k_flux_dev_illustration_art:replicate
- - connersdavis/storyboard-v2
- - connersdavis/storyboard-v2:fal-ai
- - Keltezaa/lindsay-lohan-actress-2006-flux
- - Keltezaa/lindsay-lohan-actress-2006-flux:fal-ai
- - Keltezaa/lindsay-lohan-actress-2006-flux:replicate
+ - stabilityai/stable-diffusion-3.5-large-turbo
+ - stabilityai/stable-diffusion-3.5-large-turbo:fal-ai
+ - stabilityai/stable-diffusion-3.5-large-turbo:replicate
  - Keltezaa/jennifer-connelly-1990-flux
  - Keltezaa/jennifer-connelly-1990-flux:fal-ai
  - Keltezaa/jennifer-connelly-1990-flux:replicate
@@ -1934,9 +1440,9 @@ Models:
  - Keltezaa/elle-fanning
  - Keltezaa/elle-fanning:fal-ai
  - Keltezaa/elle-fanning:replicate
- - 2ch/penflux
- - 2ch/penflux:fal-ai
- - 2ch/penflux:replicate
+ - xey/sldr_flux_nsfw_v2-studio
+ - xey/sldr_flux_nsfw_v2-studio:fal-ai
+ - xey/sldr_flux_nsfw_v2-studio:replicate
  - prithivMLmods/EBook-Creative-Cover-Flux-LoRA
  - prithivMLmods/EBook-Creative-Cover-Flux-LoRA:fal-ai
  - prithivMLmods/EBook-Creative-Cover-Flux-LoRA:replicate
@@ -1949,12 +1455,15 @@ Models:
  - prithivMLmods/Street-Bokeh-Flux-LoRA
  - prithivMLmods/Street-Bokeh-Flux-LoRA:fal-ai
  - prithivMLmods/Street-Bokeh-Flux-LoRA:replicate
+ - prithivMLmods/Fashion-Hut-Modeling-LoRA
+ - prithivMLmods/Fashion-Hut-Modeling-LoRA:fal-ai
+ - prithivMLmods/Fashion-Hut-Modeling-LoRA:replicate
  - prithivMLmods/Retro-Pixel-Flux-LoRA
  - prithivMLmods/Retro-Pixel-Flux-LoRA:fal-ai
  - prithivMLmods/Retro-Pixel-Flux-LoRA:replicate
- - prithivMLmods/Super-Pencil-Flux-LoRA
- - prithivMLmods/Super-Pencil-Flux-LoRA:fal-ai
- - prithivMLmods/Super-Pencil-Flux-LoRA:replicate
+ - falanaja/mjmodel
+ - falanaja/mjmodel:fal-ai
+ - falanaja/mjmodel:replicate
  - alastandy/Add-Dental-Braces
  - alastandy/Add-Dental-Braces:fal-ai
  - alastandy/Add-Dental-Braces:replicate
@@ -1982,9 +1491,6 @@ Models:
  - getad72493/analgape
  - getad72493/analgape:fal-ai
  - getad72493/analgape:replicate
- - Datou1111/shou_xin
- - Datou1111/shou_xin:fal-ai
- - Datou1111/shou_xin:replicate
  - strangerzonehf/Flux-Microworld-NFT-LoRA
  - strangerzonehf/Flux-Microworld-NFT-LoRA:fal-ai
  - strangerzonehf/Flux-Microworld-NFT-LoRA:replicate
@@ -1997,15 +1503,15 @@ Models:
  - strangerzonehf/Flux-Xmas-Isometric-Kit-LoRA
  - strangerzonehf/Flux-Xmas-Isometric-Kit-LoRA:fal-ai
  - strangerzonehf/Flux-Xmas-Isometric-Kit-LoRA:replicate
+ - Keltezaa/ShowerGirls
+ - Keltezaa/ShowerGirls:fal-ai
+ - Keltezaa/ShowerGirls:replicate
  - strangerzonehf/Flux-Sketch-Smudge-LoRA
  - strangerzonehf/Flux-Sketch-Smudge-LoRA:fal-ai
  - strangerzonehf/Flux-Sketch-Smudge-LoRA:replicate
  - glif-loradex-trainer/12matt3r_Glitch_Art_Aesthetic
  - glif-loradex-trainer/12matt3r_Glitch_Art_Aesthetic:fal-ai
  - glif-loradex-trainer/12matt3r_Glitch_Art_Aesthetic:replicate
- - thwri/dark-gothic-fantasy-flux
- - thwri/dark-gothic-fantasy-flux:fal-ai
- - thwri/dark-gothic-fantasy-flux:replicate
  - Alpha-VLLM/Lumina-Image-2.0
  - Alpha-VLLM/Lumina-Image-2.0:fal-ai
  - CRAWNiiK/Flux-3D-Emojies-LoRA
@@ -2020,6 +1526,18 @@ Models:
  - ysmikey/Layerpano3D-FLUX-Panorama-LoRA
  - ysmikey/Layerpano3D-FLUX-Panorama-LoRA:fal-ai
  - ysmikey/Layerpano3D-FLUX-Panorama-LoRA:replicate
+ - Keltezaa/Dynamic_Pose_Uncensored
+ - Keltezaa/Dynamic_Pose_Uncensored:fal-ai
+ - Keltezaa/Dynamic_Pose_Uncensored:replicate
+ - Keltezaa/pov_A_cowgirl_cwg4FLUX
+ - Keltezaa/pov_A_cowgirl_cwg4FLUX:fal-ai
+ - Keltezaa/pov_A_cowgirl_cwg4FLUX:replicate
+ - Keltezaa/alisa-flux-adult-film-actress
+ - Keltezaa/alisa-flux-adult-film-actress:fal-ai
+ - Keltezaa/alisa-flux-adult-film-actress:replicate
+ - Keltezaa/mary-amber-flux-tiktok-star
+ - Keltezaa/mary-amber-flux-tiktok-star:fal-ai
+ - Keltezaa/mary-amber-flux-tiktok-star:replicate
  - zai-org/CogView4-6B
  - zai-org/CogView4-6B:fal-ai
  - modelscope/EliGen
@@ -2049,23 +1567,27 @@ Models:
  - strangerzonehf/Ghibli-Flux-Cartoon-LoRA
  - strangerzonehf/Ghibli-Flux-Cartoon-LoRA:fal-ai
  - strangerzonehf/Ghibli-Flux-Cartoon-LoRA:replicate
- - HiDream-ai/HiDream-I1-Dev
- - HiDream-ai/HiDream-I1-Dev:fal-ai
  - cwhuh/babyface_flux_dlora_3_Indonesian
  - cwhuh/babyface_flux_dlora_3_Indonesian:fal-ai
  - cwhuh/babyface_flux_dlora_3_Indonesian:replicate
+ - cwhuh/babyface_flux_dlora_hsfw_South_Asian
+ - cwhuh/babyface_flux_dlora_hsfw_South_Asian:fal-ai
+ - cwhuh/babyface_flux_dlora_hsfw_South_Asian:replicate
+ - cwhuh/babyface_flux_dlora_hsfw_2_Indonesian
+ - cwhuh/babyface_flux_dlora_hsfw_2_Indonesian:fal-ai
+ - cwhuh/babyface_flux_dlora_hsfw_2_Indonesian:replicate
  - LosKingster/BlondeGirl
  - LosKingster/BlondeGirl:fal-ai
  - LosKingster/BlondeGirl:replicate
- - cjb3URTH89/julia
- - cjb3URTH89/julia:fal-ai
- - cjb3URTH89/julia:replicate
  - strangerzonehf/Flux-Midjourney-Studio-LoRA
  - strangerzonehf/Flux-Midjourney-Studio-LoRA:fal-ai
  - strangerzonehf/Flux-Midjourney-Studio-LoRA:replicate
  - rmsandu/fourviews-incontext-lora
  - rmsandu/fourviews-incontext-lora:fal-ai
  - rmsandu/fourviews-incontext-lora:replicate
+ - Keltezaa/JAPANESE
+ - Keltezaa/JAPANESE:fal-ai
+ - Keltezaa/JAPANESE:replicate
  - hoangyellcom/korean_face_1
  - hoangyellcom/korean_face_1:fal-ai
  - hoangyellcom/korean_face_1:replicate
@@ -2081,18 +1603,18 @@ Models:
  - ErwanSagnardon/TeslaOptimusFluxD
  - ErwanSagnardon/TeslaOptimusFluxD:fal-ai
  - ErwanSagnardon/TeslaOptimusFluxD:replicate
- - lustlyai/Flux_Lustly.ai_Uncensored_nsfw_v1
- - lustlyai/Flux_Lustly.ai_Uncensored_nsfw_v1:fal-ai
- - lustlyai/Flux_Lustly.ai_Uncensored_nsfw_v1:replicate
- - openfree/flux-chatgpt-ghibli-lora
- - openfree/flux-chatgpt-ghibli-lora:fal-ai
- - openfree/flux-chatgpt-ghibli-lora:replicate
  - enhanceaiteam/Flux-uncensored
  - enhanceaiteam/Flux-uncensored:fal-ai
  - enhanceaiteam/Flux-uncensored:replicate
  - CultriX/flux-nsfw-highress
  - CultriX/flux-nsfw-highress:fal-ai
  - CultriX/flux-nsfw-highress:replicate
+ - lustlyai/Flux_Lustly.ai_Uncensored_nsfw_v1
+ - lustlyai/Flux_Lustly.ai_Uncensored_nsfw_v1:fal-ai
+ - lustlyai/Flux_Lustly.ai_Uncensored_nsfw_v1:replicate
+ - openfree/flux-chatgpt-ghibli-lora
+ - openfree/flux-chatgpt-ghibli-lora:fal-ai
+ - openfree/flux-chatgpt-ghibli-lora:replicate
  - DiegoJR1973/NSFW-TrioHMH-Flux
  - DiegoJR1973/NSFW-TrioHMH-Flux:fal-ai
  - DiegoJR1973/NSFW-TrioHMH-Flux:replicate
@@ -2294,231 +1816,231 @@ Label: LMArena (Legacy)
 Model Count: 226
 Models:
  - chatgpt-4o-latest-20250326
- - chatglm2-6b
- - o3-mini-high
- - reka-flash-preview-20240611
- - openchat-3.5
- - gpt-3.5-turbo-0314
- - reka-flash-20240904
- - mistral-7b-instruct-v0.2
- - qwen-max-0919
- - gpt-4-0314
- - yi-large
- - command-r-plus
- - gemini-1.5-flash-exp-0827
- - tulu-2-dpo-70b
- - vicuna-33b
- - starling-lm-7b-alpha
- - gpt-3.5-turbo-1106
- - gemma-1.1-2b-it
- - fastchat-t5-3b
- - internlm2_5-20b-chat
- - athene-70b-0725
- - wizardlm-13b
- - gemini-2.0-flash-thinking-exp-01-21
- - claude-3-5-haiku-20241022
- - phi-3-mini-128k-instruct
- - amazon-nova-lite-v1.0
- - reka-flash-21b-20240226
- - granite-3.1-8b-instruct
- - deepseek-v2.5-1210
- - qwq-32b-preview
- - phi-3-small-8k-instruct
- - early-grok-3
- - qwen2.5-max
- - zephyr-7b-beta
- - llama-3.1-405b-instruct-fp8
- - reka-flash-20240722
- - gemini-2.5-flash-preview-04-17
- - gemini-1.5-pro-api-0409-preview
- - llama-3.1-70b-instruct
- - gemma-2-27b-it
- - gemini-1.5-flash-8b-001
- - c4ai-aya-expanse-32b
- - o3-2025-04-16
- - mistral-medium
- - stablelm-tuned-alpha-7b
- - chatglm-6b
- - grok-2-2024-08-13
- - granite-3.0-2b-instruct
- - gemini-1.5-pro-002
- - chatgpt-4o-latest-20250129
- - llama-2-70b-chat
- - jamba-1.5-large
- - claude-2.1
- - gemini-2.0-flash-exp
- - o1-mini
  - phi-4
- - o1-2024-12-17
- - qwen2-72b-instruct
- - wizardlm-70b
- - snowflake-arctic-instruct
- - reka-core-20240904
- - chatgpt-4o-latest-20240903
- - chatgpt-4o-latest-20240808
- - pplx-70b-online
- - vicuna-13b
- - mistral-large-2402
- - gpt-4-1106-preview
- - gemini-exp-1206
- - gpt-4-turbo-2024-04-09
- - mistral-large-2407
- - gpt-4.1-mini-2025-04-14
- - granite-3.1-2b-instruct
+ - c4ai-aya-expanse-32b
+ - gemma-2b-it
+ - gpt-4.1-2025-04-14
+ - olmo-7b-instruct
  - gemini-1.5-flash-002
- - zephyr-orpo-141b-A35b-v0.1
- - qwen1.5-110b-chat
- - qwen-plus-0828
- - llama-3.1-tulu-3-70b
- - claude-instant-1
- - gemini-pro
- - claude-3-sonnet-20240229
- - llama-3.1-405b-instruct-bf16
- - gemini-advanced-0514
+ - chatgpt-4o-latest-20240808
+ - qwen2.5-72b-instruct
+ - mistral-large-2407
+ - openhermes-2.5-mistral-7b
+ - glm-4-0520
+ - mistral-next
  - gemma-2-2b-it
- - grok-2-mini-2024-08-13
- - llama-3-8b-instruct
- - deepseek-v3-0324
- - solar-10.7b-instruct-v1.0
- - reka-flash-21b-20240226-online
- - claude-3-7-sonnet-20250219-thinking-32k
- - mistral-small-24b-instruct-2501
- - llama-3.1-nemotron-51b-instruct
- - llama-3.1-tulu-3-8b
- - llama-3.2-3b-instruct
- - qwen1.5-72b-chat
- - gpt-4.1-nano-2025-04-14
- - jamba-1.5-mini
- - granite-3.0-8b-instruct
- - gemini-1.5-pro-001
- - smollm2-1.7b-instruct
- - oasst-pythia-12b
- - gemma-3-12b-it
- - command-r-08-2024
- - gemini-1.5-pro-exp-0801
  - c4ai-aya-expanse-8b
+ - mistral-small-24b-instruct-2501
+ - gemini-advanced-0514
+ - o1-preview
+ - gemini-1.5-flash-001
+ - qwen1.5-110b-chat
+ - qwen2-72b-instruct
+ - phi-3-mini-128k-instruct
+ - gemini-pro-dev-api
+ - qwen-max-0428
+ - jamba-1.5-large
+ - ministral-8b-2410
+ - llama-4-scout-17b-16e-instruct
+ - gemini-2.5-flash-preview-04-17
+ - claude-3-5-sonnet-20240620
+ - llama-4-maverick-03-26-experimental
+ - o3-2025-04-16
+ - nemotron-4-340b-instruct
+ - gemini-2.0-pro-exp-02-05
+ - granite-3.1-8b-instruct
+ - stripedhyena-nous-7b
+ - gemma-3-27b-it
+ - llama-3-70b-instruct
+ - dolly-v2-12b
+ - RWKV-4-Raven-14B
+ - phi-3-medium-4k-instruct
+ - llama-3.1-tulu-3-8b
+ - o3-mini
+ - yi-lightning-lite
+ - qwen2.5-plus-1127
+ - gemini-2.0-flash-thinking-exp-1219
  - llama-3.2-1b-instruct
- - pplx-7b-online
- - palm-2
+ - gpt4all-13b-snoozy
+ - wizardlm-70b
+ - llama-3.1-405b-instruct-fp8
+ - yi-34b-chat
+ - deepseek-v2.5
+ - qwen-max-0919
+ - chatglm2-6b
+ - claude-2.0
+ - reka-flash-20240722
+ - llama-3.3-70b-instruct
+ - mistral-7b-instruct-v0.2
+ - dolphin-2.2.1-mistral-7b
+ - step-2-16k-exp-202412
+ - qwen2.5-coder-32b-instruct
+ - qwen-plus-0125
+ - wizardlm-13b
+ - llama-13b
+ - deepseek-v3-0324
+ - mixtral-8x7b-instruct-v0.1
+ - gemma-3-12b-it
+ - phi-3-mini-4k-instruct-june-2024
+ - gemini-exp-1206
+ - glm-4-plus
+ - claude-3-7-sonnet-20250219-thinking-32k
+ - command-r-08-2024
+ - chatglm-6b
+ - gpt-4-1106-preview
+ - llama-4-maverick-17b-128e-instruct
+ - gemini-1.5-pro-exp-0801
+ - mistral-medium
+ - phi-3-mini-4k-instruct
+ - chatgpt-4o-latest-20241120
+ - o4-mini-2025-04-16
+ - gemini-2.0-flash-001
+ - reka-core-20240904
+ - gemma-1.1-7b-it
+ - gemini-1.5-flash-8b-exp-0827
+ - llama2-70b-steerlm-chat
+ - reka-flash-preview-20240611
+ - starling-lm-7b-beta
+ - dbrx-instruct-preview
+ - gemini-2.5-pro-preview-05-06
+ - grok-3-preview-02-24
+ - jamba-1.5-mini
+ - llama-3.1-8b-instruct
+ - qwen1.5-7b-chat
+ - fastchat-t5-3b
+ - llama-3-8b-instruct
+ - deepseek-coder-v2-0724
+ - gemini-2.0-flash-lite-preview-02-05
+ - yi-1.5-34b-chat
+ - gemini-2.0-flash-exp
+ - llama-3.1-tulu-3-70b
+ - deepseek-coder-v2
+ - guanaco-33b
+ - gpt-4-0613
  - mpt-30b-chat
  - koala-13b
- - claude-3-haiku-20240307
- - deepseek-llm-67b-chat
- - gpt-3.5-turbo-0613
- - gemini-exp-1121
- - gemini-2.0-flash-lite-preview-02-05
- - athene-v2-chat
- - command-r
- - gemini-1.5-pro-exp-0827
- - llama-4-scout-17b-16e-instruct
- - llama-3.3-70b-instruct
- - starling-lm-7b-beta
- - yi-lightning-lite
- - gemma-7b-it
- - yi-large-preview
- - phi-3-mini-4k-instruct-june-2024
- - glm-4-plus
- - llama-3-70b-instruct
- - gemma-2-9b-it
- - codellama-34b-instruct
- - command-r-plus-08-2024
- - gpt-4o-mini-2024-07-18
- - qwen1.5-14b-chat
- - deepseek-v2-api-0628
- - olmo-7b-instruct
- - claude-1
- - claude-3-5-sonnet-20240620
- - nemotron-4-340b-instruct
- - claude-3-opus-20240229
- - o4-mini-2025-04-16
- - gemini-2.0-pro-exp-02-05
- - o1-preview
- - gemini-pro-dev-api
- - zephyr-7b-alpha
- - deepseek-v2.5
- - mixtral-8x22b-instruct-v0.1
- - gemma-1.1-7b-it
- - ministral-8b-2410
- - mistral-large-2411
- - mistral-next
- - step-2-16k-exp-202412
- - phi-3-medium-4k-instruct
- - deepseek-coder-v2-0724
- - hunyuan-standard-256k
- - qwen-max-0428
- - gemma-2-9b-it-simpo
- - amazon-nova-micro-v1.0
- - codellama-70b-instruct
- - falcon-180b-chat
- - gemini-2.0-flash-thinking-exp-1219
- - yi-34b-chat
- - glm-4-plus-0111
- - mpt-7b-chat
- - reka-core-20240501
- - phi-3-mini-4k-instruct
- - glm-4-0520
- - gemini-2.5-pro-preview-05-06
- - claude-3-5-sonnet-20241022
- - vicuna-7b
- - gpt-4.1-2025-04-14
+ - snowflake-arctic-instruct
  - llama-2-7b-chat
- - gemini-2.0-flash-001
- - gemini-1.5-flash-001
- - o3-mini
- - alpaca-13b
- - mistral-medium-2505
- - gemma-3-4b-it
- - deepseek-coder-v2
- - bard-jan-24-gemini-pro
- - mistral-7b-instruct
- - qwen2.5-plus-1127
- - amazon-nova-pro-v1.0
- - RWKV-4-Raven-14B
- - deepseek-r1
- - gpt-4-0125-preview
- - openhermes-2.5-mistral-7b
- - gemini-1.5-flash-8b-exp-0827
- - gpt-4o-2024-05-13
- - qwen1.5-32b-chat
- - llama-2-13b-chat
- - reka-core-20240722
- - llama-13b
- - yi-lightning
+ - gpt-3.5-turbo-1106
+ - qwq-32b-preview
+ - gemma-7b-it
  - qwen3-235b-a22b
- - qwen1.5-4b-chat
- - nous-hermes-2-mixtral-8x7b-dpo
- - qwen2.5-coder-32b-instruct
- - claude-2.0
- - qwen1.5-7b-chat
- - grok-3-preview-02-24
- - dolly-v2-12b
- - gemma-2b-it
- - claude-3-7-sonnet-20250219
- - qwen-14b-chat
- - dbrx-instruct-preview
- - gpt-4o-2024-08-06
- - llama-3.1-8b-instruct
- - deepseek-v3
- - chatglm3-6b
- - gemini-exp-1114
- - glm-4-0116
- - llama-4-maverick-17b-128e-instruct
- - chatgpt-4o-latest-20241120
- - qwen-plus-0125
- - llama-3.1-nemotron-70b-instruct
- - dolphin-2.2.1-mistral-7b
- - llama-4-maverick-03-26-experimental
- - stripedhyena-nous-7b
- - gpt4all-13b-snoozy
- - yi-1.5-34b-chat
- - guanaco-33b
- - gemma-3-27b-it
- - gpt-4-0613
- - mixtral-8x7b-instruct-v0.1
- - gpt-3.5-turbo-0125
- - llama2-70b-steerlm-chat
+ - llama-3.1-405b-instruct-bf16
+ - gemma-3-4b-it
  - openchat-3.5-0106
- - qwen2.5-72b-instruct
+ - qwen1.5-72b-chat
+ - gemini-1.5-pro-001
+ - zephyr-orpo-141b-A35b-v0.1
+ - grok-2-mini-2024-08-13
+ - mistral-7b-instruct
+ - grok-2-2024-08-13
+ - gemini-pro
+ - glm-4-plus-0111
+ - mixtral-8x22b-instruct-v0.1
+ - command-r
+ - amazon-nova-pro-v1.0
+ - gpt-4.1-nano-2025-04-14
+ - chatgpt-4o-latest-20250129
+ - yi-large-preview
+ - athene-v2-chat
+ - gpt-4o-mini-2024-07-18
+ - reka-flash-21b-20240226-online
+ - athene-70b-0725
+ - gpt-3.5-turbo-0125
+ - palm-2
+ - llama-3.1-nemotron-51b-instruct
+ - qwen-plus-0828
+ - mistral-large-2411
+ - nous-hermes-2-mixtral-8x7b-dpo
+ - starling-lm-7b-alpha
+ - claude-3-5-haiku-20241022
+ - codellama-70b-instruct
+ - granite-3.1-2b-instruct
+ - claude-3-7-sonnet-20250219
+ - gpt-4-0125-preview
+ - gpt-4.1-mini-2025-04-14
+ - qwen2.5-max
+ - gpt-4o-2024-08-06
+ - yi-large
+ - hunyuan-standard-256k
+ - gemma-2-27b-it
+ - pplx-7b-online
+ - mistral-medium-2505
+ - zephyr-7b-alpha
+ - reka-flash-20240904
+ - reka-core-20240501
+ - deepseek-v2.5-1210
+ - deepseek-r1
+ - llama-3.1-nemotron-70b-instruct
+ - gpt-4-0314
+ - glm-4-0116
+ - claude-1
+ - llama-2-70b-chat
+ - oasst-pythia-12b
+ - claude-3-sonnet-20240229
+ - gemma-2-9b-it
+ - pplx-70b-online
+ - command-r-plus
+ - gpt-3.5-turbo-0314
+ - gemini-1.5-pro-exp-0827
+ - vicuna-13b
+ - stablelm-tuned-alpha-7b
+ - qwen1.5-4b-chat
+ - phi-3-small-8k-instruct
+ - gemini-1.5-pro-002
+ - reka-core-20240722
+ - o1-mini
+ - internlm2_5-20b-chat
+ - llama-3.2-3b-instruct
+ - smollm2-1.7b-instruct
+ - o3-mini-high
+ - gpt-4o-2024-05-13
+ - falcon-180b-chat
+ - qwen1.5-32b-chat
+ - gemini-exp-1121
+ - mistral-large-2402
+ - mpt-7b-chat
+ - o1-2024-12-17
+ - claude-3-5-sonnet-20241022
+ - claude-instant-1
+ - tulu-2-dpo-70b
+ - zephyr-7b-beta
+ - deepseek-v2-api-0628
+ - bard-jan-24-gemini-pro
+ - gemini-2.0-flash-thinking-exp-01-21
+ - vicuna-33b
+ - claude-3-opus-20240229
+ - reka-flash-21b-20240226
+ - claude-2.1
+ - qwen1.5-14b-chat
+ - amazon-nova-lite-v1.0
+ - gemini-1.5-pro-api-0409-preview
+ - vicuna-7b
+ - chatgpt-4o-latest-20240903
+ - gemma-2-9b-it-simpo
+ - gemini-1.5-flash-8b-001
+ - command-r-plus-08-2024
+ - gpt-3.5-turbo-0613
+ - openchat-3.5
+ - llama-2-13b-chat
+ - amazon-nova-micro-v1.0
+ - granite-3.0-8b-instruct
+ - codellama-34b-instruct
+ - yi-lightning
+ - claude-3-haiku-20240307
+ - alpaca-13b
+ - qwen-14b-chat
+ - chatglm3-6b
+ - llama-3.1-70b-instruct
+ - gpt-4-turbo-2024-04-09
+ - early-grok-3
+ - gemini-exp-1114
+ - gemini-1.5-flash-exp-0827
+ - deepseek-llm-67b-chat
+ - gemma-1.1-2b-it
+ - granite-3.0-2b-instruct
+ - deepseek-v3
+ - solar-10.7b-instruct-v1.0
 
 ==================================================
 
@@ -2656,7 +2178,7 @@ Provider: OpenRouter
 ------------------------------
 URL: https://openrouter.ai
 Label: OpenRouter
-Model Count: 314
+Model Count: 315
 Models:
  - agentica-org/deepcoder-14b-preview
  - agentica-org/deepcoder-14b-preview:free
@@ -2693,6 +2215,7 @@ Models:
  - baidu/ernie-4.5-21b-a3b
  - baidu/ernie-4.5-300b-a47b
  - baidu/ernie-4.5-vl-28b-a3b
+ - baidu/ernie-4.5-vl-424b-a47b
  - bytedance/ui-tars-1.5-7b
  - cognitivecomputations/dolphin-mistral-24b-venice-edition:free
  - cognitivecomputations/dolphin-mixtral-8x22b
@@ -3518,14 +3041,14 @@ URL: https://qwen-qwen3-demo.hf.space
 Label: Qwen Qwen-3
 Model Count: 8
 Models:
- - qwen-3-4b
- - qwen-3-235b
+ - qwen-3-14b
+ - qwen-3-32b
  - qwen-3-8b
+ - qwen-3-4b
+ - qwen-3-30b-a3b
+ - qwen-3-235b
  - qwen-3-1.7b
  - qwen-3-0.6b
- - qwen-3-14b
- - qwen-3-30b-a3b
- - qwen-3-32b
 
 ==================================================
 

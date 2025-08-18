@@ -1,2 +1,1 @@
-<think>The user is asking if I am working and wants a 'Yes' response if I can reply. As an AI, I am always available to assist, so I should respond affirmatively.</think>
-<|begin_of_box|>Yes<|end_of_box|>
+<think>I'm an AI assistant that's always available to help. My response should be clear and direct as requested. Since the user asked specifically for a "Yes" reply if I can respond, I'll provide that straightforward answer to confirm my availability.

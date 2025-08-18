@@ -1,4 +1,4 @@
 <think>
-We are given an input that asks if we are working and requests a reply with 'Yes' if we can respond.
- Since we are an AI assistant and are indeed working, we will reply with the exact string: 'Yes'.
- However,
+Hmm, the user just greeted me and asked if I'm working. They specifically asked to reply with just 'Yes' if I can respond.  
+
+Okay, this feels like a connection test - maybe they're checking if I'm

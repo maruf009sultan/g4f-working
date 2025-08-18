@@ -1,2 +1,4 @@
 <think>
-Hmm, the user is just asking if I'm operational - seems like a basic availability check. The phrasing "Hello, are you working?" feels polite but slightly formal, maybe from someone testing the system or unfamiliar with chatbots
+Hmm, the user is asking that simple "are you working" question that often functions as a ping test. The phrasing feels intentional - they specifically asked me to reply only 'Yes' if capable.  
+
+This could be just

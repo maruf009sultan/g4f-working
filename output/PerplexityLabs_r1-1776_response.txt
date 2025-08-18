@@ -1,10 +1,12 @@
 <think><think>
-Okay, the user is greeting me and asking if I'm working, with a specific instruction to reply with just 'Yes' if I can respond. Let me think about how to approach this.
+Okay, the user is asking if I'm working and wants me to reply with just 'Yes' if I can respond. Let me check the instructions.
 
-First, I need to check if I'm operational. Since I'm responding right now, obviously I am working. The user seems to be testing if I'm active - maybe they've had issues with other services before, or just want a quick confirmation. 
+First, they said: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-Hmm, they specifically said "Reply with 'Yes'", so I should respect that instruction precisely. No extra fluff, just the word they requested. Over-answering might annoy them if they're just checking status. 
+My guidelines say to follow style guidelines, which include not generating links unless necessary. But here, they specifically ask for a 'Yes' response. 
 
-Wait, but is there any reason not to say yes? Like if I was actually down... but I'm clearly functioning here. No errors in processing the query. Better keep it simple - they didn't ask for troubleshooting or explanations. 
+Wait, the user is testing if the model is operational. They want a simple confirmation. The instructions mention to indicate if I don't have access to a file, but that's not the case here. 
 
-*Mental note*: User seems direct and technical. Probably values efficiency. Don't waste their time.
+I need to reply with 'Yes' as per their request. But wait, maybe I should check if there's any trick here. The current date is given as August 18, 2025, but that's probably just the system date. 
+
+No, the user's query is straightforward. They just want a yes to confirm functionality. So the correct response is simply 'Yes'. No need for extra text since they
