@@ -1,4 +1,4 @@
 <think>
-Hmm, the user starts with a simple greeting and asks if I'm working, requesting a 'yes' response confirmation. This feels like a connection test - they might be checking if I'm active or assessing response quality.  
+Okay, the user greeted me and asked if I'm working, with a specific instruction to reply "Yes" if I can respond. 
 
-The phrasing
+Hmm, this feels like a basic availability check—maybe they've encountered unresponsive bots before or

@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me parse that. They want to check if I'm active and can respond. The instruction is to reply with '
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down. First, they're checking if I'm operational. The request is straightforward: a simple "

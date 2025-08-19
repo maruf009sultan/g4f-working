@@ -1,1 +1,1 @@
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation. I need to check if I can respond. Since I'm here and able to, the correct answer
+Okay, the user said, "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple 'Yes' if I can answer. Let me check the guidelines. I should respond as long as it's within

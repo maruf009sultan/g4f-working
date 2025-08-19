@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just greeted me with "Hello, are you working?" and asked me to reply with 'Yes' if I can respond. 
+Okay, the user just greeted me and asked if I'm working. Pretty straightforward question!  
 
-This seems like a basic functionality check - they might be testing if I'm online
+Hmm, their phrasing "Hello, are you working?" feels polite but also slightly tentative—maybe they're testing if I'm "live"

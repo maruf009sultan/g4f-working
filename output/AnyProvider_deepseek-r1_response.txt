@@ -1,0 +1,4 @@
+<think>
+We are being asked for a simple confirmation of availability.
+ The user's message: "Hello, are you working? Reply with 'Yes' if you can respond."
+ According to the instruction, we should reply with 'Yes' if we can

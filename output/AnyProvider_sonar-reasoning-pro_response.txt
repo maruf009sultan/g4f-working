@@ -1,17 +1,29 @@
 <think>
-The user is asking me "Hello, are you working? Reply with 'Yes' if you can respond."
+This query is asking me to respond with 'Yes' if I can respond. This seems like a simple direct query where the user is just testing if I'm working/available. 
 
-This is a simple greeting/status check query. The user specifically asks me to reply with 'Yes' if I can respond. Since I can clearly respond to this query, the appropriate response would be "Yes" as requested.
+Looking at the search results, I can see there are various topics about AI assistants, email etiquette, and even one result about scam texts that mention avoiding saying "yes" to unknown callers/texters. However, this is clearly a legitimate interaction with me as an AI assistant, not a scam situation.
 
-Looking at the search results, they contain information about:
-1. How AI assistants work and their capabilities
-2. How to respond to "How are you?" in human conversation
-3. What AI assistants are and their technologies
-4. Warning about scam texts asking "how are you"
-5. Technical documentation about AI assistant responses
+The user is directly asking me to respond with 'Yes' if I can respond. Since I can indeed respond, I should follow their instruction and reply with 'Yes'. 
 
-However, none of these search results directly address the user's simple request to confirm if I'm working by responding with "Yes". The search results are not particularly relevant to this specific query.
+Looking at the restrictions, I should:
+- Not include URLs or links
+- Not use phrases like "According to the search results" etc.
+- Answer directly
+- Follow user instructions (which takes priority)
 
-According to the guidelines, if search results are empty or unhelpful, I should answer the query to the best of my ability using my existing knowledge. In this case, the user is simply asking for confirmation that I'm operational and specifically requesting a "Yes" response if I can respond.
+The user has given me a specific instruction to reply with 'Yes' if I can respond, so I should follow that instruction. This is a straightforward test query.
+</think>
 
-Since this is a very straightforward request
+Yes
+
+
+
+> [0] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+>
+> [1] [indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter](https://www.indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter)
+>
+> [2] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)
+>
+> [3] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
+>
+> [4] [help.responsive.io/hc/en-us/articles/21131476515475-Using-AI-Assistant](https://help.responsive.io/hc/en-us/articles/21131476515475-Using-AI-Assistant)
