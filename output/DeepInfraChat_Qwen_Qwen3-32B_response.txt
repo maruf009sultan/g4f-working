@@ -1,4 +1,4 @@
 <think>
-Okay, the user is asking if I'm working. They want me to reply with 'Yes' if I can respond. Let me check the instructions.
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the instructions. They want a straightforward confirmation.
 
-First, I need to acknowledge their message. The user might be testing if the system
+First, I need to acknowledge their message. Since I can

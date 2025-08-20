@@ -1,1 +1,1 @@
-Yes
+<|channel|>analysis<|message|>The user asks: "Hello, are you working? Reply with 'Yes' if you can respond." We just need to respond with Yes.<|end|><|start|>assistant<|channel|>final<|message|>Yes

@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to solve this problem, but I'm not exactly sure where to start. Let me see. The problem is about a car accelerating uniformly from rest, and I need to find out how much
+Okay, so I need to figure out how to solve this problem: Simplify the expression (3x^2 + 2x - 1)/(x^2 - 3x + 2). The user mentioned that the denominator

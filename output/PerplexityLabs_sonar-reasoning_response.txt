@@ -1,26 +1,24 @@
 <think>
-The user is asking me to respond with 'Yes' if I can respond. This is a simple query where they're testing if I'm working/available. However, I need to be careful here because one of the search results [4] actually warns about responding "yes" to unknown messages as it could be part of a scam where scammers try to get people to say "yes" which can then be used as consent for something.
+The user is asking me "Hello, are you working? Reply with 'Yes' if you can respond."
 
-But in this case, this is clearly a legitimate query from a user asking if I'm working and can respond. They're explicitly asking me to reply with 'Yes' if I can respond. This isn't a scam situation - it's a direct instruction from the user.
+This is a simple query asking if I'm available and functioning. The user specifically requests that I reply with 'Yes' if I can respond.
 
-According to the query_type_rules, I should follow user instructions. The user has specifically requested that I reply with 'Yes' if I can respond. Since I can respond, I should follow this instruction.
+Looking at the search results, they seem to contain information about AI assistants, how to respond to "how are you" questions, and some warnings about text message scams. However, none of this information is directly relevant to answering whether I'm working or can respond.
 
-However, I also need to consider the restrictions - I should not just give a one-word answer if I can provide more context. But the user has specifically requested a 'Yes' response if I can respond, so I should honor that request while potentially providing a bit more context.
+The search results do mention some warnings about being careful with saying "yes" to unknown callers because it can be used as consent, but this is in the context of phone scams, not a legitimate interaction with an AI assistant.
 
-Looking at the search results, they don't really provide relevant information for answering this specific query about my availability. The search results are about AI assistants in general, email etiquette, and scam warnings. None of these directly help answer whether I'm working or available to respond.
+Since the search results don't contain relevant information for this specific query, I should answer based on my capabilities. The user is asking if I'm working and can respond, and they've specifically requested a "Yes" if I can respond. Since I am indeed functioning and can respond, the appropriate answer is "Yes" as requested.
 
-Since the search results don't contain relevant information for this query, I should answer to the best of my ability using my existing knowledge, as stated in the instructions.
-
-The user wants a simple confirmation that I'm working and available. I should provide that while being helpful.
+I should keep my response simple and direct as requested, without overthinking it or adding unnecessary information.
 </think>
 
-Yes, I'm working and ready to help you with any questions or tasks you have. How can I assist you today?
+Yes, I can respond and I'm working properly. How can I help you today?
 
 
 
 > [0] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
 >
-> [1] [indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter](https://www.indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter)
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
 >
 > [2] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)
 >

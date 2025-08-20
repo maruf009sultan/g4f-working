@@ -1,4 +1,4 @@
 <think>
-Okay, the user greeted me and asked if I'm working, with a specific instruction to reply "Yes" if I can respond. 
+Hmm, the user just greeted me and asked if I'm working. They also want me to reply with 'Yes' if I can respond.  
 
-Hmm, this feels like a basic availability check—maybe they've encountered unresponsive bots before or
+Interesting request - they're probably checking if I'm online or functional before sharing their
