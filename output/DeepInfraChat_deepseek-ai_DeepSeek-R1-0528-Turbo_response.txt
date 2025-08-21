@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." 
+Hmm, the user just greeted me with "Hello, are you working?" and asked to reply with 'Yes' if I can respond.
 
-Okay this seems straightforward - they're checking if I'm operational. The "Reply with 'Yes'"
+This seems like a system check request. There's no complex emotional context here - probably

@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve this problem: Simplify the expression (3x^2 + 2x - 1)/(x^2 - 3x + 2). The user mentioned that the denominator
+Okay, so I'm trying to figure out how to solve this problem: Determine the value of \( x \) such that \( 2^x = 100 \). Hmm, I remember that solving for exponents often involves logarithms

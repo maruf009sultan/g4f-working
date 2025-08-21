@@ -1,3 +1,3 @@
-<think>Okay, the user is asking if I'm working and wants me to reply with just 'Yes' if I can respond. Let me think about how to approach this.
+<think>Okay, the user is asking if I'm working and wants me to reply with just 'Yes' if I can respond. 
 
-First, I need to confirm that I'm operational. Since I'm able
+Hmm, this seems like a simple connectivity test - maybe they've had issues with other services before or just want to

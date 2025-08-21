@@ -1,1 +1,1 @@
-<think>I need to respond to the user's query about whether I'm working and if I can respond. The user specifically asked me to reply with 'Yes' if I can respond. Since I'm designed to be always available to help, I should
+<think>The user is asking if I'm working and wants a 'Yes' response if I can reply. This is a simple confirmation query to check my availability. I should respond affirmatively to indicate that I'm operational and ready to assist.</think>

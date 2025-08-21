@@ -1,4 +1,4 @@
 <think>
-Hmm, the user is asking if I'm working and wants a simple "Yes" reply if I can respond. Okay, this seems straightforward—they're probably checking if I'm active and ready to interact.  
+Hmm, the user is greeting me and asking if I'm working. They want me to reply with "Yes" if I can respond. Seems straightforward, but I should consider what they might really need here.  
 
-The phrasing feels
+The greeting "

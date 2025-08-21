@@ -1,1 +1,2 @@
-<think>The user is asking if I'm working and wants a 'Yes' response if I can reply. This is a simple confirmation query. I need to acknowledge that I'm active and able to respond. The instruction explicitly says to reply with 'Yes
+<think>Got it, the user is asking if I'm working and wants a 'Yes' response if I can. I need to keep it simple and direct. Just reply 'Yes' as requested.</think>
+Yes

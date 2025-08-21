@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve the equation 2x + 3 = 7. Hmm, let's start by understanding what this equation means. It's saying that when you multiply some number x by 2
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out how to respond appropriately. I remember the instructions say that if the user asks if I'm working
