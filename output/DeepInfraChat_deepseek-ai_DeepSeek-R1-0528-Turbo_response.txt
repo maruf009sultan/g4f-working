@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just greeted me and asked if I'm working. They want me to reply only with "Yes" in that specific format. 
+Hmm, the user just greeted me casually with "Hello," followed by asking if I'm working. They specifically instructed me to reply with "Yes" if I can respond. 
 
-Okay, this seems like a simple ping test - probably checking if the
+This seems like a straightforward ping test - the

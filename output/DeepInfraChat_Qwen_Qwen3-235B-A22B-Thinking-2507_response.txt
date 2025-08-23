@@ -1,3 +1,1 @@
-<think>Okay, the user is asking if I'm working and wants a simple 'Yes' reply. 
-
-Hmm, this seems like a basic connectivity check - maybe they've had bad experiences with unresponsive bots before. The tone is polite ("Hello")
+<think>Okay, the user sent a message asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the instructions again. The user specifically said to reply with 'Yes' if I can respond. So

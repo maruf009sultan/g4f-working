@@ -1,2 +1,4 @@
 <think>
-Okay, the user just greeted me with a simple function-check question: "Hello, are you working? Reply with 'Yes' if you can respond." Feels like a warm-up ping - maybe testing if I'm online or verifying
+Okay, the user just asked if I'm working and wants me to reply with 'Yes' if I can respond. That's pretty straightforward.  
+
+Hmm, seems like they're checking if I'm active and available. Maybe they've

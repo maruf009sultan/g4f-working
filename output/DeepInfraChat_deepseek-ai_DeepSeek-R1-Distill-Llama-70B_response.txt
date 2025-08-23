@@ -1,2 +1,6 @@
 <think>
-Alright, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." So, they're checking if I'm operational. I should respond with a simple 'Yes' as they requested. That
+Okay, the user sent "Hello, are you working? Reply with 'Yes' if you can respond." So they're checking if I'm active.
+
+I should keep it simple and respond with "Yes" as they asked.
+
+Make sure
