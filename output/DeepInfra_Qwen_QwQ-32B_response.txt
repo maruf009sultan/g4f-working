@@ -1,3 +1,1 @@
-Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." They want me to confirm I'm operational by replying with just "Yes". Let me make sure I understand the request correctly.
-
-First
+Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation that I'm operational. Let me check the instructions again. The user specified to reply with just "

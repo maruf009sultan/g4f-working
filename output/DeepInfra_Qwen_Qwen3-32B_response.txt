@@ -1,4 +1,2 @@
 <think>
-Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
-
-First, they're greeting me and checking if I'm operational. They want a confirmation that
+Okay, the user is asking, Hello, are you working? They want me to reply with 'Yes' if I can respond. First, I need to confirm whether I can answer. Since I'm an AI model, I can respond

@@ -1,2 +1,5 @@
 <think>
-Okay, so I need to figure out how to answer the question "Hello, are you working? Reply with 'Yes' if you can respond." Alright, let's break this down. The user is asking if I'm operational and wants
+Hello! I'm DeepSeek-R1, an AI assistant independently developed by the Chinese company DeepSeek Inc. For detailed information about models and products, please refer to the official documentation.
+</think>
+
+Hello! I'm DeepSeek-R1,

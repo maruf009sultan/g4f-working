@@ -1,6 +1,2 @@
 <think>
-Okay, the user sent "Hello, are you working? Reply with 'Yes' if you can respond." So they're checking if I'm active.
-
-I should keep it simple and respond with "Yes" as they asked.
-
-Make sure
+Okay, so I'm trying to figure out how to determine if a number is rational or irrational. I remember that rational numbers can be expressed as fractions where both the numerator and denominator are integers, and the denominator isn't zero. But irrational

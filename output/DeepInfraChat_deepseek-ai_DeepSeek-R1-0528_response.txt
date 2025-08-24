@@ -1,4 +1,4 @@
 <think>
-Okay, the user just greeted me and asked if I'm working, with a specific instruction to reply 'Yes' if I can respond.  
+Hmm, the user is asking me if I'm working and wants me to reply with 'Yes' if I can respond. That's straightforward - probably just checking if I'm online and functioning right now.
 
-Hmm, this seems like a simple connectivity check - maybe they've had issues with chatbots not
+I notice they kept it very

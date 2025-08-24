@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just sent a greeting and asked if I'm working. They seem to want a simple confirmation before proceeding further. 
+Hmm, the user is asking if I'm working. Seems like a simple availability check – maybe they're testing my responsiveness or just want to confirm I'm online.  
 
-This feels like a basic system check - similar to pinging a server to see if it's responsive
+The phrasing feels polite but slightly formal ("Hello", "Reply with

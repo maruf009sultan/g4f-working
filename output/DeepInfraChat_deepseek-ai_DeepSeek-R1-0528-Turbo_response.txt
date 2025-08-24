@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just greeted me casually with "Hello," followed by asking if I'm working. They specifically instructed me to reply with "Yes" if I can respond. 
+Hmm, the user just asked if I'm working and requested a simple 'Yes' reply if I can respond. 
 
-This seems like a straightforward ping test - the
+This seems like a connectivity check - maybe they've experienced issues with AI assistants before or want to confirm I
