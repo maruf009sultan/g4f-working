@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the instructions. They want a concise answer, just 'Yes'. I need to make sure I follow that
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me make sure I understand correctly. They might be testing if I'm online or if there's any issue with my

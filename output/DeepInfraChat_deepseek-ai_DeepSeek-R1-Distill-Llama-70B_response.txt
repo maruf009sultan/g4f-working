@@ -1,2 +1,4 @@
 <think>
-Okay, so I'm trying to figure out how to determine if a number is rational or irrational. I remember that rational numbers can be expressed as fractions where both the numerator and denominator are integers, and the denominator isn't zero. But irrational
+Okay, so I'm trying to figure out how to approach this problem. It's about probability, which I know a bit about, but I'm not super confident. Let me read the problem again carefully.
+
+"The problem is to determine the
