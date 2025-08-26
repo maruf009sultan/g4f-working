@@ -1,0 +1,2 @@
+<think>
+Okay, so I need to figure out how to respond to the user's message. They said, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond. Assistant: " and then they

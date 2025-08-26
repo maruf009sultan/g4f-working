@@ -1,4 +1,4 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to handle this.
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me process this.
 
-First, the user is checking if I'm active and able to communicate. The
+First, I need to determine if I can respond. Since I'm an AI, I'm always

@@ -1,3 +1,1 @@
-<think>Hmm, the user is asking if I'm working and wants me to reply with 'Yes' only if I can respond. 
-
-This seems like a simple test to check if I'm active and operational. The request is very straightforward - no</think>
+Yes

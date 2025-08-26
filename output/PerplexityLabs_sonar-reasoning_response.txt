@@ -1,34 +1,17 @@
 <think>
-The user is asking a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
+Let me analyze the query and the search results to create an appropriate response.
 
-This is a very straightforward query where the user is testing if I'm functional and can respond. They've explicitly requested that I reply with 'Yes' if I can respond.
+The query is: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-Looking at the search results, they contain information about:
-1. What AI assistants are and how they work
-2. How to respond to "How are you?" in conversation
-3. F5's AI assistant for cloud services
-4. How to respond to job interview emails
-5. Adding AI assistant responses in IBM Watson
+This appears to be a simple test query asking if I'm operational and requesting a "Yes" response if I can respond.
 
-None of these search results are directly relevant to the user's simple query asking if I'm working and requesting a "Yes" response if I can respond.
+Looking at the search results:
+1. Result [1] discusses what AI assistants are and how they work
+2. Result [2] is about how to respond to "How are you?"
+3. Result [3] is about adding AI assistant responses in IBM Watson
+4. Result [4] is about ignoring "hi, how are you?" text messages
+5. Result [5] is about Using AI Assistant in what appears to be a help center
 
-According to the restrictions, if the search results do not provide an answer, I should respond saying that the information is not available. However, in this case, the user is asking me directly if I'm working and can respond - this is about my current functionality, not something that would be found in search results.
+None of these search results specifically address how an AI assistant should respond to a "are you working?" query with a "Yes" response as requested in the query.
 
-The user has given me a specific instruction: "Reply with 'Yes' if you can respond." Since I can respond, and the user is asking me to follow this instruction, I should follow the user instruction which takes priority according to rule 8: "Following user instruction takes priority over any other formatting rules listed here."
-
-So I should simply reply "Yes" as requested.
-</think>
-
-Yes
-
-
-
-> [0] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
->
-> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
->
-> [2] [f5.com/company/blog/introducing-ai-assistant](https://www.f5.com/company/blog/introducing-ai-assistant)
->
-> [3] [indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-interview-request](https://www.indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-interview-request)
->
-> [4] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)
+Based on the instructions, it seems the user wants a very simple confirmation that I'm operational. They're specifically asking me to reply with "Yes" if I can

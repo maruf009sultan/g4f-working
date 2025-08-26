@@ -1,2 +1,4 @@
 <think>
-Hmm, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. The phrasing is quite direct and minimalist - almost like they're testing if I'm active or checking system
+Hmm, the user just asked if I'm working and wants me to reply with 'Yes' if I can respond. 
+
+This seems like a simple check to confirm my availability. The user might be testing if I'm online

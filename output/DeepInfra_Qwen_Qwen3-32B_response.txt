@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the instructions. They said to reply with 'Yes' if I can respond. So, I need to
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me break this down.
+
+First, they might be testing if I'm active or just checking if the system is functional
