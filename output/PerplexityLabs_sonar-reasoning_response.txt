@@ -1,17 +1,29 @@
 <think>
-Let me analyze the query and the search results to create an appropriate response.
+This is a simple query asking if I'm working and specifically requesting a response of 'Yes' if I can respond. The user wants to know if I'm operational and has given me specific instructions on how to respond.
 
-The query is: "Hello, are you working? Reply with 'Yes' if you can respond."
+Looking at the search results provided:
+- They contain information about AI assistants, how they work, and some unrelated content about responding to text messages and scams
+- The search results are not particularly relevant to answering this specific query about whether I'm working
+- The user has given me a specific instruction: "Reply with 'Yes' if you can respond"
 
-This appears to be a simple test query asking if I'm operational and requesting a "Yes" response if I can respond.
+According to the guidelines:
+- I should follow user instructions (point 8 says "Make sure to follow any instructions that the user requests you to follow... Following user instruction takes priority over any other formatting rules listed here")
+- I should not mention search results or cite sources when they're not helpful
+- The search results don't contain relevant information for this simple operational query
 
-Looking at the search results:
-1. Result [1] discusses what AI assistants are and how they work
-2. Result [2] is about how to respond to "How are you?"
-3. Result [3] is about adding AI assistant responses in IBM Watson
-4. Result [4] is about ignoring "hi, how are you?" text messages
-5. Result [5] is about Using AI Assistant in what appears to be a help center
+The user is simply testing if I'm operational and has requested a specific response format. Since I can respond, I should follow their instruction and reply with 'Yes'.
+</think>
 
-None of these search results specifically address how an AI assistant should respond to a "are you working?" query with a "Yes" response as requested in the query.
+Yes
 
-Based on the instructions, it seems the user wants a very simple confirmation that I'm operational. They're specifically asking me to reply with "Yes" if I can
+
+
+> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
+>
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=nhK7qkQma_U)
+>
+> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+>
+> [3] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
+>
+> [4] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)

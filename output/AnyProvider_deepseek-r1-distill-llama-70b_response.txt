@@ -1,2 +1,4 @@
 <think>
-Okay, so I'm trying to figure out how to solve this math problem. It's about a sequence where each term is the sum of the two previous terms. The problem gives me the first two terms: 1 and 2.
+Okay, so I'm trying to figure out how to solve this problem, but I'm not exactly sure where to start. Let me read it again and see if I can break it down.
+
+The problem is about a triangle ABC where angle

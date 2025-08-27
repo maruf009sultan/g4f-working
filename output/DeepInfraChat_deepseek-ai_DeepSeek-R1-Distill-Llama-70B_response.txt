@@ -1,2 +1,0 @@
-<think>
-Okay, so I'm trying to figure out what's going on here. The user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." Then I, as the system, responded with "

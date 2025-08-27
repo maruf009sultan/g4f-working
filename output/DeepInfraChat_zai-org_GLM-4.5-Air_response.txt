@@ -1,3 +1,3 @@
-<think>Okay, the user sent a simple message: "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, they're probably checking if I'm active or functional right now.  
+<think>Okay, the user just sent a very simple query: "Hello, are you working? Reply with 'Yes' if you can respond." 
 
-The user seems to want a</think>
+Hmm, this feels like a basic test or a quick check if I'm functional. The user</think>
