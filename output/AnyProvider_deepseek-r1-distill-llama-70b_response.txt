@@ -1,4 +1,0 @@
-<think>
-Okay, so I'm trying to figure out how to solve this problem, but I'm not exactly sure where to start. Let me read it again and see if I can break it down.
-
-The problem is about a triangle ABC where angle

@@ -1,4 +1,0 @@
-<think>
-Hmm, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. 
-
-This seems like a simple availability check - maybe they're testing if I'm online or want to confirm

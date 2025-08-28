@@ -1,3 +1,3 @@
-<think>Okay, the user sent a message asking if I'm working and wants a reply with just 'Yes' if I can respond. Let me check the instructions.
+<think>Okay, the user sent a message saying: "Hello, are you working? Reply with 'Yes' if you can respond." They want me to just say "Yes" if I can reply.
 
-First, the user is testing if the system is operational. They might be verifying connectivity
+First, I need to figure out what they

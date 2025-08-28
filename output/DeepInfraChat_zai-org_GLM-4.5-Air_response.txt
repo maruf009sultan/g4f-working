@@ -1,3 +1,0 @@
-<think>Okay, the user just sent a very simple query: "Hello, are you working? Reply with 'Yes' if you can respond." 
-
-Hmm, this feels like a basic test or a quick check if I'm functional. The user</think>
