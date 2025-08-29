@@ -1,1 +1,2 @@
-Yes, I'm here and ready to respond. How can I assist you or what would you like to talk about today? Let's chat! 😊
+502 Bad Gateway
+Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared

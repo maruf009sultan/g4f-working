@@ -1,2 +1,4 @@
 <think>
-Alright, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." and I replied "Yes." Now I need to wait for their next message. I should stay alert and make sure I'm
+Okay, the user said "Hello, are you working? Reply with 'Yes' if you can respond." So they're checking if I'm functional.
+
+I need to respond, but they only want me to say 'Yes' if I

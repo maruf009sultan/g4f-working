@@ -1,4 +1,4 @@
 <think>
-We are instructed to reply with 'Yes' if we can respond.
- Since the assistant is always ready to respond (unless there's an error or maintenance, which isn't the case here), we can simply reply with 'Yes'.
-</think>
+Hmm, the user just greeted me and asked if I'm working. They specifically requested a 'Yes' reply if I can respond.  
+
+Okay, this seems like a simple connectivity check - maybe they've had issues with AI assistants before

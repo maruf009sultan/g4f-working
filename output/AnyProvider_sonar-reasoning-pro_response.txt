@@ -1,16 +1,17 @@
 <think>
-The user is asking a simple question to check if I'm working and has specifically requested that I reply with "Yes" if I can respond. This is a direct request for confirmation of functionality.
+The user is asking a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-Looking at the search results, they are about AI assistant capabilities and how AI assistants work, but they don't directly relate to the user's simple query. The user is just checking if I'm functioning.
+This is a straightforward query where the user is asking me to confirm that I'm operational and can respond. They've specifically requested that I reply with "Yes" if I can respond.
 
-According to the guidelines:
-- I should answer the query directly
-- I should follow user instructions (they specifically asked me to reply with "Yes" if I can respond)
-- I should not mention search results or cite sources since this is not relevant to the simple functionality check
-- I should answer in the same language as the query (English)
+Looking at the search results, they seem to be about AI assistants in general, email communication, and how to respond to greetings, but none of them directly address this specific query about whether an AI assistant is working or operational.
 
-The user's instruction is clear: "Reply with 'Yes' if you can respond." Since I can respond, I should follow this instruction exactly.
+Since the search results don't provide relevant information to answer this specific query, I should answer using my existing knowledge. The user has given me a clear instruction: reply with "Yes" if I can respond. Since I am indeed able to respond to their query, the appropriate response is simply "Yes" as they requested.
 
-This doesn't seem to fit any of the specific query type rules (academic research, coding, people, weather, etc.) - it's just a simple functionality check.
+I need to follow the restrictions:
+- Don't mention search results
+- Answer directly 
+- Follow the user's specific instructions (they asked for "Yes" if I can respond)
+- Don't start with a header
+- Answer in the same language as the query (English)
 
-I should not include any headers since this is a very
+The user's instruction to "Reply with 'Yes' if you can respond" takes priority over other

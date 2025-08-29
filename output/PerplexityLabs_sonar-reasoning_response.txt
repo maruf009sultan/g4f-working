@@ -1,32 +1,10 @@
 <think>
-The user is asking me if I'm working and wants me to reply with 'Yes' if I can respond. This is a very simple test query to see if I'm functional and responsive.
+The user is asking if I am working, and specifically requesting that I reply with "Yes" if I can respond. This is a simple test query to check if I'm functional. 
 
-Looking at the search results provided, they are about:
-1. What AI assistants are and how they work
-2. How to reply to job offers
-3. What AI assistants are (Salesforce)
-4. How to respond to "How are you?" 
-5. F5's AI assistant introduction
+Looking at the search results provided, they contain information about AI assistants in general, how they work, and some technical documentation, but none of this is relevant to the simple question being asked. The user is directly asking me if I'm working and wants a specific response format.
 
-None of these search results are relevant to answering the user's simple query about whether I'm working. The search results don't provide any information that would help answer this specific question.
+Since this is a direct question to me about my functionality, and the user has specifically requested I respond with "Yes" if I can respond, I should simply follow their instruction. The search results don't contain any relevant information for this query, so I'll answer based on my ability to respond to the user.
 
-According to the guidelines, if the search results are empty or unhelpful, I should answer the query to the best of my ability using my existing knowledge. In this case, the user is simply testing if I can respond, and they've explicitly requested that I reply with 'Yes' if I can respond.
+The user instruction is clear: "Reply with 'Yes' if you can respond." Since I can respond, I should reply with "Yes" as requested.
 
-This is a straightforward request - they want confirmation that I'm functional and can provide responses. Since I can indeed respond to their query, the appropriate answer is simply "Yes" as they requested.
-
-I should not mention search results or cite anything since the search results are not helpful for this query. I should just give the direct, simple answer they requested.
-</think>
-
-Yes
-
-
-
-> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
->
-> [1] [indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer](https://www.indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer)
->
-> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
->
-> [3] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
->
-> [4] [f5.com/company/blog/introducing-ai-assistant](https://www.f5.com/company/blog/introducing-ai-assistant)
+I need to be careful about the restrictions - I shouldn't mention using search results, and I should answer directly. The user has given a specific instruction about how to respond, which takes priority according to the guidelines.

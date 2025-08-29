@@ -1,25 +1,17 @@
 <think>
-This is a simple query where the user is asking if I'm working and specifically requesting that I reply with "Yes" if I can respond. This is a straightforward test query to see if I'm functioning.
+This is a very simple query where the user is asking if I'm working and specifically requesting that I reply with 'Yes' if I can respond. The user is essentially checking if I'm operational/functional.
 
-The user has given me a specific instruction to "Reply with 'Yes' if you can respond." This falls under the rule that "Following user instruction takes priority over any other formatting rules listed here."
+The search results provided are about:
+1. AI assistant capabilities and how they work
+2. How to respond to recruiter emails
+3. What is an AI assistant (Salesforce)
+4. How to respond to "How are you?" (YouTube)
+5. Adding AI assistant responses (IBM)
 
-The search results provided are about AI assistants in general, how they work, and some technical documentation, but they don't directly relate to the specific question being asked. The user is simply testing if I'm operational.
+None of these search results are directly relevant to answering the user's simple query about whether I'm working. The user has given a very specific instruction: "Reply with 'Yes' if you can respond."
 
-Since I can respond and I'm working, and the user specifically asked me to reply with "Yes" if I can respond, I should simply reply with "Yes" as requested.
+Since I can respond and am functioning, I should simply reply "Yes" as requested. The search results don't provide any relevant information for this particular query, so I should answer based on my ability to respond to the user's request.
 
-This is not a complex query that requires multiple sections, headers, or detailed analysis. It's a simple operational check.
-</think>
+According to the restrictions, if search results don't provide an answer, I should respond to the best of my ability using existing knowledge. In this case, it's a simple operational check.
 
-Yes
-
-
-
-> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
->
-> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
->
-> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
->
-> [3] [support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google](https://support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google?hl=en)
->
-> [4] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)
+The user is asking for a very simple, direct response, so I shouldn't overcomplicate it with headers or extensive formatting

@@ -1,1 +1,3 @@
-<think>Okay, the user sent a message saying, Hello, are you working? Reply with 'Yes' if you can respond. First, I need to figure out what they're asking. They want to know if I'm operational and specifically request a
+<think>Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." They want me to reply with 'Yes' if I can respond.
+
+First, I need to check if I'm functioning
