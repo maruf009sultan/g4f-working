@@ -1,25 +1,16 @@
 <think>
-This is a very straightforward query asking if I'm working and requesting a specific response format - to reply with 'Yes' if I can respond.
+The user is asking a simple question to check if I'm working and has specifically requested that I reply with "Yes" if I can respond. This is a direct request for confirmation of functionality.
 
-Looking at the search results, none of them directly relate to this query about my operational status. The search results are about AI assistants in general, text message scams, IBM Watson responses, Google Assistant capabilities, and a help center for an AI assistant tool. None of these provide information that would help answer whether I'm currently working.
+Looking at the search results, they are about AI assistant capabilities and how AI assistants work, but they don't directly relate to the user's simple query. The user is just checking if I'm functioning.
 
-Following the restrictions, I should not mention that I'm using search results. Since the search results don't contain relevant information to answer this query, I should answer to the best of my ability using existing knowledge.
+According to the guidelines:
+- I should answer the query directly
+- I should follow user instructions (they specifically asked me to reply with "Yes" if I can respond)
+- I should not mention search results or cite sources since this is not relevant to the simple functionality check
+- I should answer in the same language as the query (English)
 
-The user is asking a simple question about my operational status and has specifically requested that I reply with 'Yes' if I can respond. Since I am able to process their query and provide a response, the appropriate answer is indeed 'Yes'.
+The user's instruction is clear: "Reply with 'Yes' if you can respond." Since I can respond, I should follow this instruction exactly.
 
-The user has given specific instructions on how to respond, and following user instructions takes priority over other formatting rules. They want a simple 'Yes' response, so I should provide that.
-</think>
+This doesn't seem to fit any of the specific query type rules (academic research, coding, people, weather, etc.) - it's just a simple functionality check.
 
-Yes.
-
-
-
-> [0] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
->
-> [1] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
->
-> [2] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)
->
-> [3] [support.google.com/assistant/answer/7172842](https://support.google.com/assistant/answer/7172842?hl=en)
->
-> [4] [help.responsive.io/hc/en-us/articles/21131476515475-Using-AI-Assistant](https://help.responsive.io/hc/en-us/articles/21131476515475-Using-AI-Assistant)
+I should not include any headers since this is a very

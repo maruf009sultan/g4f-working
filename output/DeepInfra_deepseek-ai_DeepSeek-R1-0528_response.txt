@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just asked if I'm working and wants me to reply with "Yes" if I can respond. 
-
-Okay, this seems like a simple availability check. The user might be testing if I'm online or just wants
+We are instructed to reply with 'Yes' if we can respond.
+ Since the assistant is always ready to respond (unless there's an error or maintenance, which isn't the case here), we can simply reply with 'Yes'.
+</think>

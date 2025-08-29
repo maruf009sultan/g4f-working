@@ -1,0 +1,2 @@
+<think>
+Alright, so I need to figure out how to solve this problem. Let me read it again to make sure I understand what's being asked. The problem is about comparing two numbers, a and b, and the functions of a and b

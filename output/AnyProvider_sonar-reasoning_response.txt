@@ -1,2 +1,25 @@
 <think>
-The user is asking if I'm working and requ
+This is a simple query where the user is asking if I'm working and specifically requesting that I reply with "Yes" if I can respond. This is a straightforward test query to see if I'm functioning.
+
+The user has given me a specific instruction to "Reply with 'Yes' if you can respond." This falls under the rule that "Following user instruction takes priority over any other formatting rules listed here."
+
+The search results provided are about AI assistants in general, how they work, and some technical documentation, but they don't directly relate to the specific question being asked. The user is simply testing if I'm operational.
+
+Since I can respond and I'm working, and the user specifically asked me to reply with "Yes" if I can respond, I should simply reply with "Yes" as requested.
+
+This is not a complex query that requires multiple sections, headers, or detailed analysis. It's a simple operational check.
+</think>
+
+Yes
+
+
+
+> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
+>
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+>
+> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+>
+> [3] [support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google](https://support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google?hl=en)
+>
+> [4] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)

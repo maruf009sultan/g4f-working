@@ -1,0 +1,2 @@
+<think>
+Alright, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." and I replied "Yes." Now I need to wait for their next message. I should stay alert and make sure I'm
