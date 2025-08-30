@@ -1,2 +1,2 @@
 <think>
-Okay, so the user just sent me a message saying, "Hello, are you working? Reply with 'Yes' if you can respond." I've responded with "Yes." Now, they gave me this situation and told me to imagine
+Alright, so I'm trying to figure out how AI works. I know that AI stands for Artificial Intelligence, but beyond that, it's a bit fuzzy for me. I've heard terms like machine learning, neural networks, and deep learning

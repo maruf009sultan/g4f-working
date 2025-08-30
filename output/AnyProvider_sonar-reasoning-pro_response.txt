@@ -1,17 +1,17 @@
 <think>
-The user is asking a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
+The user is asking "Hello, are you working? Reply with 'Yes' if you can respond." This is a simple query to test if I'm functioning and able to respond. The user specifically requests that I reply with "Yes" if I can respond.
 
-This is a straightforward query where the user is asking me to confirm that I'm operational and can respond. They've specifically requested that I reply with "Yes" if I can respond.
+Looking at the search results provided:
+1. Information about AI assistants and how they work
+2. Information about responding to recruiter emails 
+3. More information about AI assistants and their technologies
+4. Information about responding to "How are you?"
+5. Information about F5's AI assistant
 
-Looking at the search results, they seem to be about AI assistants in general, email communication, and how to respond to greetings, but none of them directly address this specific query about whether an AI assistant is working or operational.
+None of these search results are directly relevant to answering the simple query "Hello, are you working? Reply with 'Yes' if you can respond." The search results seem to be about AI assistants in general and how to respond to various types of communication, but they don't contain information that would help me answer this specific query.
 
-Since the search results don't provide relevant information to answer this specific query, I should answer using my existing knowledge. The user has given me a clear instruction: reply with "Yes" if I can respond. Since I am indeed able to respond to their query, the appropriate response is simply "Yes" as they requested.
+Since the search results don't contain relevant information for this query, I should answer to the best of my ability using my existing knowledge, as instructed in the guidelines. The user is simply asking if I'm working/functioning and requesting a "Yes" response if I can respond.
 
-I need to follow the restrictions:
-- Don't mention search results
-- Answer directly 
-- Follow the user's specific instructions (they asked for "Yes" if I can respond)
-- Don't start with a header
-- Answer in the same language as the query (English)
+The user has given me a clear instruction: "Reply with 'Yes' if you can respond." Since I can respond, I should follow this instruction exactly.
 
-The user's instruction to "Reply with 'Yes' if you can respond" takes priority over other
+According to the restrictions, I should not mention that I'm using search results or citing sources since they're not relevant here. I should also

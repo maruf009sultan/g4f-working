@@ -1,17 +1,30 @@
 <think>
-This is a very simple query where the user is asking if I'm working and specifically requesting that I reply with 'Yes' if I can respond. The user is essentially checking if I'm operational/functional.
+The user is asking me a simple question - "Hello, are you working? Reply with 'Yes' if you can respond." They want me to reply with "Yes" if I can respond.
 
-The search results provided are about:
-1. AI assistant capabilities and how they work
-2. How to respond to recruiter emails
-3. What is an AI assistant (Salesforce)
-4. How to respond to "How are you?" (YouTube)
-5. Adding AI assistant responses (IBM)
+This is a very straightforward query asking about my operational status. The user is specifically requesting that I reply with "Yes" if I can respond. Since I am clearly able to respond (I'm processing and answering this query), the appropriate response is simply "Yes" as requested.
 
-None of these search results are directly relevant to answering the user's simple query about whether I'm working. The user has given a very specific instruction: "Reply with 'Yes' if you can respond."
+The search results provided are about AI assistants in general, email etiquette, how to respond to "how are you", and AI assistant responses, but none of them are directly relevant to answering this specific query about my working status.
 
-Since I can respond and am functioning, I should simply reply "Yes" as requested. The search results don't provide any relevant information for this particular query, so I should answer based on my ability to respond to the user's request.
+According to the restrictions, I should:
+1. Answer the query directly 
+2. Not mention that I'm using search results
+3. Follow user instructions (which in this case is to reply with "Yes" if I can respond)
+4. Not start with a header
+5. Answer in the same language as the query (English)
 
-According to the restrictions, if search results don't provide an answer, I should respond to the best of my ability using existing knowledge. In this case, it's a simple operational check.
+Since the user specifically requested a "Yes" response if I can respond, and I clearly can respond, I should simply say "Yes" as instructed.
+</think>
 
-The user is asking for a very simple, direct response, so I shouldn't overcomplicate it with headers or extensive formatting
+Yes
+
+
+
+> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
+>
+> [1] [indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter](https://www.indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter)
+>
+> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+>
+> [3] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+>
+> [4] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)

@@ -1,3 +1,1 @@
-<think>Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." They want me to reply with 'Yes' if I can respond.
-
-First, I need to check if I'm functioning
+<think>Okay, the user is asking if I'm working and wants me to reply with just 'Yes' if I can respond. Hmm, this seems like a simple availability check—maybe they're testing if the system is live or had issues before.
