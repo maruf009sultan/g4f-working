@@ -1,30 +1,15 @@
 <think>
-The user is asking me a simple question - "Hello, are you working? Reply with 'Yes' if you can respond." They want me to reply with "Yes" if I can respond.
+The user is asking "Hello, are you working? Reply with 'Yes' if you can respond." This is a very simple query where they're asking if I'm functional and requesting a specific response format.
 
-This is a very straightforward query asking about my operational status. The user is specifically requesting that I reply with "Yes" if I can respond. Since I am clearly able to respond (I'm processing and answering this query), the appropriate response is simply "Yes" as requested.
+Looking at the search results:
+1. IBM documentation about AI assistant responses - talks about how AI assistants can format responses
+2. Indeed article about replying to job offers - not relevant to this query
+3. Help center documentation about AI Assistant capabilities - mentions it can respond to messages
+4. YouTube video about responding to "How are you?" - somewhat relevant but not directly applicable
+5. WorkWithPlus documentation about AI Assistant capabilities - mentions AI assistants can respond in natural language
 
-The search results provided are about AI assistants in general, email etiquette, how to respond to "how are you", and AI assistant responses, but none of them are directly relevant to answering this specific query about my working status.
+The user is asking for a very direct response - they want me to reply with "Yes" if I can respond. This is essentially a test to see if I'm working/functional. Since I can clearly respond to their query, the answer should be "Yes" as requested.
 
-According to the restrictions, I should:
-1. Answer the query directly 
-2. Not mention that I'm using search results
-3. Follow user instructions (which in this case is to reply with "Yes" if I can respond)
-4. Not start with a header
-5. Answer in the same language as the query (English)
+However, I should note that the search results don't really provide information that directly answers this query. The search results are about AI assistant capabilities in general, but the user is asking me directly if I'm working and requesting a specific response format.
 
-Since the user specifically requested a "Yes" response if I can respond, and I clearly can respond, I should simply say "Yes" as instructed.
-</think>
-
-Yes
-
-
-
-> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
->
-> [1] [indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter](https://www.indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter)
->
-> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
->
-> [3] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
->
-> [4] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)
+Since this is a direct question to me about my functionality, and the user has specifically requested I reply with "Yes" if I can respond, I should follow

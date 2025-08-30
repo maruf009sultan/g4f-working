@@ -1,30 +1,19 @@
 <think>
-The user is asking me if I'm working and to reply with 'Yes' if I can respond. This is a simple query asking about my availability/functionality. They've specifically requested that I reply with 'Yes' if I can respond.
+The user is asking "Hello, are you working? Reply with 'Yes' if you can respond."
+
+This seems like a simple query to test if I'm functioning and can respond. They've explicitly asked me to reply with "Yes" if I can respond.
 
 Looking at the search results:
-1. First result is about what AI assistants are and how they work
-2. Second result is about how to reply to job offers (not relevant)
-3. Third result is about AI assistants from Salesforce (relevant to understanding what I am)
-4. Fourth result is about how to respond to "how are you" (somewhat relevant but not directly applicable)
-5. Fifth result is about adding AI assistant responses in IBM Watson (not directly relevant)
+- Search result [1] is about what AI assistants are and how they work
+- Search result [2] is about how to respond to "How are you?" greetings
+- Search result [3] is about adding AI assistant responses in IBM Watson
+- Search result [4] is about replying to email messages
+- Search result [5] is about AI Assistant capabilities
 
-The user is asking me a direct question about whether I'm working/functional, and they've given me specific instructions to reply with 'Yes' if I can respond. Since I can clearly respond (I'm processing their query and formulating this response), the answer should be 'Yes' as requested.
+None of these search results are directly relevant to answering the user's simple test query. The user is asking me to confirm I'm working by replying "Yes" if I can respond.
 
-This is a simple, direct query that doesn't require extensive analysis or multiple sections. The user has given me specific instructions on how to respond, and I should follow those instructions as stated in the guidelines: "Following user instruction takes priority over any other formatting rules listed here."
+According to the restrictions, if the search results do not provide an answer, I should respond saying that the information is not available. However, this is a simple functionality test where the user is asking me to confirm I'm working, which I can answer based on my ability to process and respond to their query.
 
-The search results show information about how AI assistants work, which supports that I am indeed a functional AI assistant that can process and respond to queries. The first search result explains how AI assistants use NLP and ML to understand and respond to user commands, which is exactly what I'm doing right now.
-</think>
+The user has given me a direct instruction: "Reply with 'Yes' if you can respond." Since I can respond, I should follow their instruction and reply with "Yes".
 
-Yes
-
-
-
-> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
->
-> [1] [indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer](https://www.indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer)
->
-> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
->
-> [3] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
->
-> [4] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)
+This falls under following user instructions, which the guidelines say takes priority: "Make sure to follow any instructions that the user requests you to follow... Following user instruction takes

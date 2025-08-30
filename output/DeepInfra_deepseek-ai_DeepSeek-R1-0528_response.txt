@@ -1,4 +1,4 @@
 <think>
-We are given a user message: "Hello, are you working? Reply with 'Yes' if you can respond."
- The user instructs to reply with 'Yes' only if we can respond.
- Since we are an AI assistant and we
+Hmm, the user just greeted me and asked if I'm working. They also requested a specific reply format - just "Yes" if I'm operational.  
+
+Okay, this seems like a basic functionality check. The user might be testing

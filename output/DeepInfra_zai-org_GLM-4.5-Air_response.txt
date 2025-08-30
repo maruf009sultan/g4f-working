@@ -1,3 +1,3 @@
-<think>Hmm, the user is asking if I'm working and wants a simple 'Yes' response if I can reply. This seems like a straightforward test of availability - they might be checking if the system is functional before asking their real question. 
+<think>Hmm, the user is asking if I'm working and wants a simple "Yes" confirmation if I can respond. 
 
-</think>
+This seems like a basic functionality check - maybe they're testing if the system is responsive or just started a conversation. The</think>

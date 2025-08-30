@@ -1,6 +1,2 @@
-Yes. I'm here to help. Let's have a conversation. How are you feeling today? 😊
-
-```mermaid
-graph TD;
-    A[Start] --> B[Greeting];
-    B --> C{How are you feeling
+502 Bad Gateway
+Unable to reach the origin service. The service may be down or it may not be responding to traffic from cloudflared

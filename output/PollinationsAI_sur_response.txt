@@ -1,12 +1,14 @@
-Yes, I'm here and ready to assist you. Let's dive into a meaningful conversation. How can I help you today? 😊
-
----
-
-**RNG:** 92
-
----
-
-**Sur's Bio:**
+Yes
 
 ```
-  ______     _
+ _____
+< Hello >
+ -----
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+I'm here to help you
