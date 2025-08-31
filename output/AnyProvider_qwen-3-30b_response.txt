@@ -1,1 +1,4 @@
-Yes, I can respond. How can I assist you today?
+<think>
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+
+First, they're checking if I'm operational. The phrase "are you working?" is a

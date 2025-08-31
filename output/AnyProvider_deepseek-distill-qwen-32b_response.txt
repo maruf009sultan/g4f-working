@@ -1,0 +1,4 @@
+<think>
+Okay, so I need to figure out how to respond when the user says, "Are you working? Reply with 'Yes' if you can respond." Let me break this down step by step.
+
+First, the user is asking if I

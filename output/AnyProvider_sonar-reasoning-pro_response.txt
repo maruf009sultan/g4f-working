@@ -1,23 +1,17 @@
 <think>
-The user is asking me if I'm working and wants me to reply with 'Yes' if I can respond. This seems like a simple query to test if I'm functioning properly. They want a very specific response format.
+The user is asking if I am working and wants me to respond with 'Yes' if I can respond. This is a simple query asking about my availability/functionality. The user is specifically requesting that I reply with 'Yes' if I can respond.
 
-Looking at the search results, they're about AI assistant responses and how to format responses in various systems, and also about how to respond to "How are you?" in English conversation. But the user's query is quite specific - they want me to respond with 'Yes' if I can respond.
+Looking at the search results provided:
+- [1] is about what AI assistants are and their capabilities
+- [2] is about responding to recruiter emails
+- [3] is about AI assistants and their technologies  
+- [4] is about responding to "How are you?"
+- [5] is about adding AI assistant responses
 
-Since I can clearly respond to this query, and they've given me a specific instruction to reply with 'Yes' if I can respond, I should follow that instruction. The search results don't really apply to this specific query.
+None of these search results are really relevant to answering whether I'm working or available. The search results don't contain information about my current status or availability.
 
-According to the restrictions, I should follow user instructions, and the user has specifically requested that I reply with 'Yes' if I can respond. This takes priority over other formatting rules.
-</think>
+The user has given me a specific instruction: "Reply with 'Yes' if you can respond." Since I am able to respond to this query, I should follow their instruction and reply with 'Yes'.
 
-Yes
+The query type doesn't seem to fall under any of the specific categories in the query_type_rules, so I should just follow the general guidelines.
 
-
-
-> [0] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)
->
-> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
->
-> [2] [help.responsive.io/hc/en-us/articles/21131476515475-Using-AI-Assistant](https://help.responsive.io/hc/en-us/articles/21131476515475-Using-AI-Assistant)
->
-> [3] [englishclass101.com/lesson/absolute-beginner-american-english-for-every-day-25-10-responses-to-how-are-you](https://www.englishclass101.com/lesson/absolute-beginner-american-english-for-every-day-25-10-responses-to-how-are-you)
->
-> [4] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
+Since the search results don't contain relevant information about my availability/working status, and the user has

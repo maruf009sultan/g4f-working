@@ -1,27 +1,17 @@
 <think>
-The user is asking a very simple question - they want to know if I'm working and specifically request that I reply with "Yes" if I can respond. This is a straightforward query that doesn't really need the search results - they're about AI assistants in general, how they work, and some technical documentation, but the user is simply asking for confirmation that I'm operational.
+This is a very simple query asking if I'm working and requesting a specific response format - just "Yes" if I can respond. The user is essentially testing if I'm functioning and available.
 
-Looking at the restrictions:
-- I should not begin with a header
-- I should follow user instructions (they specifically asked me to reply with "Yes" if I can respond)
-- I should be direct and not use hedging language
-- I should not mention search results
+Looking at the search results provided:
+1. Information about AI assistants and how they work
+2. How to reply to job offers 
+3. More about AI assistant capabilities
+4. How to respond to "How are you?" 
+5. Technical documentation about AI assistant responses
 
-The user's instruction is clear: "Reply with 'Yes' if you can respond." Since I can respond, I should simply say "Yes" as requested.
+None of these search results are directly relevant to answering this simple query. The user is asking me directly if I'm working and wants a "Yes" response if I can respond. 
 
-This is a very simple query that doesn't require complex formatting, multiple sections, or detailed analysis. The user just wants confirmation that I'm working.
-</think>
+According to the restrictions, if search results don't provide an answer, I should respond using my existing knowledge. This is a straightforward request - the user wants to know if I'm functioning, and they've requested a specific format.
 
-Yes.
+The user specifically asked me to "Reply with 'Yes' if you can respond." This is a clear instruction that I should follow according to guideline 8 which states "Make sure to follow any instructions that the user requests you to follow... Following user instruction takes priority over any other formatting rules listed here."
 
-
-
-> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
->
-> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
->
-> [2] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)
->
-> [3] [support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google](https://support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google?hl=en)
->
-> [4] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
+So I should simply respond with "Yes" as

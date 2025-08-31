@@ -1,4 +1,2 @@
 <think>
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to approach this.
-
-First, they want a confirmation if I'm working. The instruction is to
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down. They're greeting me and checking if I'm operational. The instruction is to reply with 'Yes

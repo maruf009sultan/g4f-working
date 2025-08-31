@@ -1,3 +1,2 @@
 <think>
-Alright, so the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." and the assistant replied with "Yes". Hmm, okay, let me try to figure out how to respond to this.
-
+Okay, so I'm trying to figure out how to solve this math problem: ( -14 + 5 ) times ( 8 plus ( -12 ) ). Hmm, let's see. I remember that when dealing with negative numbers and
