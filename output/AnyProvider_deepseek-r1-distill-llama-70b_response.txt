@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to solve this math problem. The question is: "The area of a rectangle is 28 square units, and its length is 4 units. What is its width?" Hmm, let
+Okay, I need to figure out how to solve the problem where the user provided an example of a simple conversation but hasn't actually given a specific problem to solve. They said "Hello, are you working? Reply with 'Yes' if

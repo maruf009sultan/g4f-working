@@ -1,17 +1,30 @@
 <think>
-The user is asking if I am working and wants me to respond with 'Yes' if I can respond. This is a simple query asking about my availability/functionality. The user is specifically requesting that I reply with 'Yes' if I can respond.
+The user is asking a simple question about whether I'm working and wants me to reply with 'Yes' if I can respond. This is a very straightforward query - they're basically testing if I'm operational.
 
-Looking at the search results provided:
-- [1] is about what AI assistants are and their capabilities
-- [2] is about responding to recruiter emails
-- [3] is about AI assistants and their technologies  
-- [4] is about responding to "How are you?"
-- [5] is about adding AI assistant responses
+Looking at the search results, they seem to be about AI assistants in general, how they work, and their capabilities. The search results don't really contain information that's directly relevant to answering this specific query about whether I'm working right now.
 
-None of these search results are really relevant to answering whether I'm working or available. The search results don't contain information about my current status or availability.
+According to the restrictions:
+- I should not mention that I'm using search results or citing sources
+- I should answer directly
+- If search results are empty or unhelpful, I should answer to the best of my ability using existing knowledge
+- I should not start with a header
+- I should be accurate and comprehensive
 
-The user has given me a specific instruction: "Reply with 'Yes' if you can respond." Since I am able to respond to this query, I should follow their instruction and reply with 'Yes'.
+Since this is a simple query asking if I can respond and requesting a specific format ("Yes"), and the search results don't contain relevant information for this query, I should just answer directly and simply as requested.
 
-The query type doesn't seem to fall under any of the specific categories in the query_type_rules, so I should just follow the general guidelines.
+The user specifically asked me to "Reply with 'Yes' if you can respond" - this is a clear instruction that I should follow according to the guidelines that say "Following user instruction takes priority over any other formatting rules listed here."
+</think>
 
-Since the search results don't contain relevant information about my availability/working status, and the user has
+Yes
+
+
+
+> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
+>
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+>
+> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+>
+> [3] [support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google](https://support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google?hl=en)
+>
+> [4] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)

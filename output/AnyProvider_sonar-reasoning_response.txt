@@ -1,13 +1,13 @@
 <think>
-The user is asking me if I'm working and specifically requesting that I reply with 'Yes' if I can respond. This seems like a straightforward query where they want confirmation that I'm operational and can assist them.
+The user is asking me a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-Looking at the search results:
-1. The first result explains how AI assistants work with NLP and machine learning
-2. The second result provides examples of how to reply to "are you working today" questions
-3. The third result is about AI assistant capabilities 
-4. The fourth result is about "say yes" scams - this is interesting because it warns about phone scams where saying "yes" can be recorded and used fraudulently
-5. The fifth result is about adding AI assistant responses
+This is a very straightforward query - they're just testing if I'm functioning and specifically asking me to reply with "Yes" if I can respond. Since I can obviously respond (I'm answering their query), I should reply with "Yes" as requested.
 
-The user is directly asking me to say "Yes" if I can respond. However, I need to be mindful of the scam information in search result [4] which warns about "say yes" scams where scammers record people saying "yes" to use it fraudulently later.
+Looking at the search results, they seem to be about AI assistants in general, how they work, and some technical documentation. However, none of this information is really relevant to answering the user's simple question. They're just asking if I'm working and want a "Yes" response if I can respond.
 
-But this is a text-based interaction, not a phone call, and the user is directly
+According to the guidelines, if the search results are empty or unhelpful, I should answer the query to the best of my ability using my existing knowledge. In this case, the search results don't help answer this specific query, so I should just give the straightforward answer they're looking for.
+
+The user is specifically requesting that I reply with "Yes" if I can respond, so that's exactly what I should do. This is a simple test query, not something that requires extensive analysis or citation of the search results.
+</think>
+
+Yes
