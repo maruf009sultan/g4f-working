@@ -1,1 +1,0 @@
-[![Hello, are you working? Reply with 'Yes' if you can respond.](https://api.a4f.co/v1/images/serve/f3d3aebbb6e1417b85780ec9b948ef2c)](https://api.a4f.co/v1/images/serve/f3d3aebbb6e1417b85780ec9b948ef2c)

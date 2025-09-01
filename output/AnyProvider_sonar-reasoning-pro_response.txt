@@ -1,21 +1,18 @@
 <think>
-The user is asking a simple question about whether I'm working and wants me to reply with 'Yes' if I can respond. This is a very straightforward query - they're basically testing if I'm operational.
+The user is asking if I'm working and requesting a simple "Yes" response if I can respond. This is a very straightforward query that doesn't require any complex analysis or detailed information from the search results. The user is essentially testing if I'm functional and responsive.
 
-Looking at the search results, they seem to be about AI assistants in general, how they work, and their capabilities. The search results don't really contain information that's directly relevant to answering this specific query about whether I'm working right now.
+Looking at the search results, they contain information about AI assistants in general and how they work, but they're not directly relevant to answering this simple query about whether I'm currently working/functional.
 
-According to the restrictions:
-- I should not mention that I'm using search results or citing sources
-- I should answer directly
+According to the guidelines:
+- I should answer the query directly
 - If search results are empty or unhelpful, I should answer to the best of my ability using existing knowledge
-- I should not start with a header
-- I should be accurate and comprehensive
+- The search results here are about AI assistants in general but don't specifically address the user's simple test query
+- The user specifically requested a "Yes" response if I can respond
 
-Since this is a simple query asking if I can respond and requesting a specific format ("Yes"), and the search results don't contain relevant information for this query, I should just answer directly and simply as requested.
-
-The user specifically asked me to "Reply with 'Yes' if you can respond" - this is a clear instruction that I should follow according to the guidelines that say "Following user instruction takes priority over any other formatting rules listed here."
+This is a simple functionality test, so I should provide a direct, clear response as requested.
 </think>
 
-Yes
+Yes.
 
 
 

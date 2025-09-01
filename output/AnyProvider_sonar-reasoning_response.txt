@@ -1,13 +1,25 @@
 <think>
-The user is asking me a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
+The user is asking me if I'm working and wants me to reply with 'Yes' if I can respond. This is a very simple query - they're essentially asking if I'm functional/operational and they want a specific response format.
 
-This is a very straightforward query - they're just testing if I'm functioning and specifically asking me to reply with "Yes" if I can respond. Since I can obviously respond (I'm answering their query), I should reply with "Yes" as requested.
+Looking at the search results, they contain information about AI assistants and how they work, but this query isn't really asking for that detailed information. The user just wants to know if I'm working and specifically requested I reply with 'Yes' if I can respond.
 
-Looking at the search results, they seem to be about AI assistants in general, how they work, and some technical documentation. However, none of this information is really relevant to answering the user's simple question. They're just asking if I'm working and want a "Yes" response if I can respond.
+Since I can respond to their query, I should reply with 'Yes' as requested. This is a straightforward interaction test.
 
-According to the guidelines, if the search results are empty or unhelpful, I should answer the query to the best of my ability using my existing knowledge. In this case, the search results don't help answer this specific query, so I should just give the straightforward answer they're looking for.
+The user instruction says "Following user instruction takes priority over any other formatting rules listed here" - and the user specifically requested I reply with 'Yes' if I can respond. So I should do exactly that.
 
-The user is specifically requesting that I reply with "Yes" if I can respond, so that's exactly what I should do. This is a simple test query, not something that requires extensive analysis or citation of the search results.
+I don't need to cite the search results since they're not relevant to answering this simple query about my operational status.
 </think>
 
 Yes
+
+
+
+> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
+>
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+>
+> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+>
+> [3] [discussions.apple.com/thread/252763085](https://discussions.apple.com/thread/252763085)
+>
+> [4] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)

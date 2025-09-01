@@ -1,18 +1,30 @@
 <think>
-This is a simple query asking if I'm working and requesting a specific response format - to reply with 'Yes' if I can respond. 
+The user is asking a simple question - whether I'm working/functioning, and they want me to reply with "Yes" if I can respond. This is a very straightforward query that doesn't require me to use the search results at all, since it's just asking about my operational status.
 
-Looking at the search results:
-- The search results are about AI assistants, their capabilities, and how they work
-- They explain how AI assistants use NLP and ML to understand and respond to queries
-- There's also some unrelated content about Google reviews and some other AI assistant capabilities
+Looking at the search results, they contain information about AI assistants in general, how they work, their capabilities, etc. But this query is not asking for information about AI assistants - it's just asking if I'm functioning.
 
-The user is asking me directly if I'm working and wants a simple "Yes" response if I can respond. This is a straightforward test of my functionality.
+According to the guidelines:
+- I should answer the query directly
+- If search results are empty or unhelpful, I should answer using my existing knowledge
+- The user specifically requested I reply with "Yes" if I can respond
 
-Since I can clearly respond to this query, I should answer "Yes" as requested. The user specifically asked for this format, and I should follow their instruction.
+The search results don't provide any information relevant to answering whether I'm currently working/functioning. They're about AI assistants in general, but not about my specific operational status.
 
-The search results don't really apply to this specific query - they're about AI assistants in general but the user is just asking for a simple confirmation that I'm working.
+Since I can clearly respond to this query, the answer should be "Yes" as requested by the user.
 
-According to the guidelines, I should follow user instructions which take priority over other formatting rules. The user specifically requested I reply with 'Yes' if I can respond.
+I should not use any headers since this is a simple, direct response. I should not mention search results since they're not relevant to this query.
 </think>
 
 Yes
+
+
+
+> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
+>
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+>
+> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+>
+> [3] [support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google](https://support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google?hl=en)
+>
+> [4] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
