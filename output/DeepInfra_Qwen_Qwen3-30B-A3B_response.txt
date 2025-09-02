@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working. I need to respond with "Yes" if I can respond. Let me check if I'm able to reply. Since I'm currently processing this query, I should confirm that I can
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+
+First, they're checking if I'm operational. Since I'm Qwen, I need

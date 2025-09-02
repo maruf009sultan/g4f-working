@@ -1,3 +1,3 @@
-Okay, the user said, "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation.
+Okay, the user just asked if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the guidelines.
 
-I should just reply with "Yes" to let them know I'm operational. No need for extra details
+First, I need to confirm if I'm operational. The system status says I'm online and functioning

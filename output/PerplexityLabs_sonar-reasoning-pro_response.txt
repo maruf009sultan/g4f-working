@@ -1,13 +1,20 @@
 <think>
-The user is asking me "Hello, are you working? Reply with 'Yes' if you can respond." This is a simple query asking for confirmation that I'm functioning and can provide responses. They specifically want me to reply with "Yes" if I can respond.
+The user is asking me if I'm working and wants me to reply with 'Yes' if I can respond. This is a simple query asking about my operational status. The user has given me a specific instruction to reply with 'Yes' if I can respond.
 
-Looking at the search results, they seem to be about AI assistants in general - their capabilities, how they work, what technologies they use (NLP, ML, etc.), and how to format AI assistant responses. However, none of these search results directly address the user's simple question about whether I'm working.
+Looking at the search results, they contain information about AI assistants and their capabilities, but they don't directly relate to answering this specific query about whether I'm working or not.
 
-Since this is a direct question about my current operational status and the user has given me a specific instruction to reply with "Yes" if I can respond, I should follow their instruction. The search results don't contain relevant information for this specific query, so I should answer based on my ability to respond.
+The search results include:
+1. Information about how AI assistants work and their capabilities
+2. A video about how to respond to "How are you?" 
+3. AI Assistant capabilities documentation
+4. Information about job scam texts
+5. ChatGPT capabilities overview
 
-According to the restrictions, if search results are empty or unhelpful, I should answer to the best of my ability using existing knowledge. The search results here are about AI assistants in general but don't address my specific operational status.
+None of these directly answer the user's simple question about whether I'm working. Since the search results don't provide relevant information for this query, I should answer based on my existing knowledge and the user's specific instruction.
 
-The user wants a simple "Yes" response if I can respond, so I should provide that.
+The user specifically asked me to reply with 'Yes' if I can respond. Since I am indeed functioning and can respond to their query, I should follow their instruction and reply with 'Yes'.
+
+According to the restrictions, I should not mention that I'm using search results, and since the search results don't contain relevant information anyway, I'll just answer the query directly as instructed.
 </think>
 
 Yes
@@ -18,8 +25,8 @@ Yes
 >
 > [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
 >
-> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+> [2] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
 >
-> [3] [support.google.com/assistant/answer/7172842](https://support.google.com/assistant/answer/7172842?hl=en)
+> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
 >
-> [4] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)
+> [4] [help.openai.com/en/articles/9260256-chatgpt-capabilities-overview](https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview)

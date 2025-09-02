@@ -1,13 +1,19 @@
 <think>
-The user is asking a simple question to check if I'm working/operational. They specifically request that I reply with 'Yes' if I can respond. This is a straightforward query asking about my operational status.
+The user is asking a simple question - "Hello, are you working? Reply with 'Yes' if you can respond."
 
-The search results provided don't really relate to this query at all - they're about AI assistant capabilities, how AI assistants work, job scams, and how to respond to "how are you" which is different from what's being asked.
+This is a very straightforward query. The user wants to know if I'm functioning and has explicitly requested that I reply with "Yes" if I can respond. Since I can respond to this query, the appropriate answer is simply "Yes" as requested.
 
-Since the search results aren't relevant to the specific query, I should answer based on my existing knowledge. The user is simply asking if I'm working and wants a 'Yes' if I can respond.
+The search results provided are about AI assistant capabilities and how to respond to "how are you" questions, but they're not directly relevant to this specific query. The user is asking me to confirm I'm working and has given me specific instructions on how to respond.
 
-I should follow their instruction and respond with 'Yes' since I am indeed able to respond to their query. This is a simple operational check.
+I should follow the user's instruction and simply respond with "Yes" since I can indeed respond to their query. This is a simple functional check.
 
-I need to be careful about the restrictions - I shouldn't mention that I'm using search results since they're not relevant anyway, and I should answer directly without unnecessary hedging language.
+Looking at the restrictions, I should:
+- Not include URLs or links
+- Not begin with a header (which I won't need anyway for such a simple response)
+- Answer directly
+- Follow user instructions (which take priority)
+
+The user has explicitly requested I reply with "Yes" if I can respond, so I should do exactly that.
 </think>
 
 Yes
@@ -18,8 +24,8 @@ Yes
 >
 > [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
 >
-> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+> [2] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
 >
-> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
+> [3] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
 >
-> [4] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
+> [4] [help.openai.com/en/articles/9260256-chatgpt-capabilities-overview](https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview)
