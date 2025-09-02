@@ -1,18 +1,13 @@
 <think>
-The user is asking a simple question - whether I'm working/functioning, and they want me to reply with "Yes" if I can respond. This is a very straightforward query that doesn't require me to use the search results at all, since it's just asking about my operational status.
+The user is asking me "Hello, are you working? Reply with 'Yes' if you can respond." This is a simple query asking for confirmation that I'm functioning and can provide responses. They specifically want me to reply with "Yes" if I can respond.
 
-Looking at the search results, they contain information about AI assistants in general, how they work, their capabilities, etc. But this query is not asking for information about AI assistants - it's just asking if I'm functioning.
+Looking at the search results, they seem to be about AI assistants in general - their capabilities, how they work, what technologies they use (NLP, ML, etc.), and how to format AI assistant responses. However, none of these search results directly address the user's simple question about whether I'm working.
 
-According to the guidelines:
-- I should answer the query directly
-- If search results are empty or unhelpful, I should answer using my existing knowledge
-- The user specifically requested I reply with "Yes" if I can respond
+Since this is a direct question about my current operational status and the user has given me a specific instruction to reply with "Yes" if I can respond, I should follow their instruction. The search results don't contain relevant information for this specific query, so I should answer based on my ability to respond.
 
-The search results don't provide any information relevant to answering whether I'm currently working/functioning. They're about AI assistants in general, but not about my specific operational status.
+According to the restrictions, if search results are empty or unhelpful, I should answer to the best of my ability using existing knowledge. The search results here are about AI assistants in general but don't address my specific operational status.
 
-Since I can clearly respond to this query, the answer should be "Yes" as requested by the user.
-
-I should not use any headers since this is a simple, direct response. I should not mention search results since they're not relevant to this query.
+The user wants a simple "Yes" response if I can respond, so I should provide that.
 </think>
 
 Yes
@@ -25,6 +20,6 @@ Yes
 >
 > [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
 >
-> [3] [support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google](https://support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google?hl=en)
+> [3] [support.google.com/assistant/answer/7172842](https://support.google.com/assistant/answer/7172842?hl=en)
 >
-> [4] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
+> [4] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)

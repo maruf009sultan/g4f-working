@@ -1,20 +1,13 @@
 <think>
-The user is asking me a simple question about whether I'm working and specifically asking me to reply with 'Yes' if I can respond. This is a very straightforward query that doesn't require complex analysis or extensive use of the search results.
+The user is asking me a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-Looking at the search results, they contain information about:
-1. How AI assistants work (from Lindy.ai)
-2. How to respond to "How are you?" (YouTube video)
-3. What is an AI assistant (from Salesforce)
-4. Responses to "How are you?" (EnglishClass101)
-5. Adding AI assistant responses (IBM docs)
+This is a straightforward query where the user wants to know if I'm functioning and able to respond. They've specifically requested that I reply with "Yes" if I can respond.
 
-None of these search results are particularly relevant to answering the user's simple question about whether I'm working. The user is asking for a direct confirmation that I can respond, and they've specifically requested I answer with 'Yes' if I can respond.
+Looking at the search results, they contain information about AI assistants in general, how they work, and some unrelated content about responding to "how are you" messages and text message etiquette. None of these search results are directly relevant to answering the user's specific question about whether I'm working and can respond.
 
-Since I can respond and the user has given me specific instructions on how to respond, I should follow their instruction and simply say "Yes". This is a straightforward interaction test.
+Since the search results don't contain relevant information for this specific query, I should answer based on my existing knowledge and the user's specific instruction. The user has explicitly asked me to reply with "Yes" if I can respond, so I should follow that instruction directly.
 
-I should not cite any of the search results since they don't contain information relevant to answering this simple query. The user is testing if I'm functional, not asking about AI assistant capabilities in general.
-
-According to the restrictions, I should follow user instructions when they give them, and the user has specifically asked me to reply with 'Yes' if I can respond. Since I can respond, I should follow their instruction.
+This is a simple, direct query that doesn't require complex formatting, headers, or detailed explanations. The user just wants confirmation that I'm working.
 </think>
 
 Yes
@@ -27,6 +20,6 @@ Yes
 >
 > [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
 >
-> [3] [englishclass101.com/lesson/absolute-beginner-american-english-for-every-day-25-10-responses-to-how-are-you](https://www.englishclass101.com/lesson/absolute-beginner-american-english-for-every-day-25-10-responses-to-how-are-you)
+> [3] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
 >
 > [4] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)

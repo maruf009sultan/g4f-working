@@ -1,2 +1,4 @@
 <think>
-Okay, so I'm trying to figure out how to answer the question "Hello, are you working? Reply with 'Yes' if you can respond." First off, I need to understand the task here. The person is greeting me and
+Okay, the user wants me to figure out how to make something, but they didn't specify what. I need to ask them to provide more details about their project. I should keep it friendly and clear.
+
+Hmm, maybe they're looking

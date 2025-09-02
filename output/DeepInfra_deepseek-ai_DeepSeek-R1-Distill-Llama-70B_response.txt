@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve this problem. The question is, how many quarts of 90% alcohol solution should be mixed with 6 quarts of 30% alcohol solution to get a 40%
+Okay, so I need to figure out how to solve this quadratic equation using the quadratic formula. The equation is 3x² + 4x - 2 = 0. Hmm, I remember that the quadratic formula is x equals

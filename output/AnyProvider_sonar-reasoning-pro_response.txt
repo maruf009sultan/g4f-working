@@ -1,18 +1,16 @@
 <think>
-The user is asking if I'm working and requesting a simple "Yes" response if I can respond. This is a very straightforward query that doesn't require any complex analysis or detailed information from the search results. The user is essentially testing if I'm functional and responsive.
+The user is asking a simple question to check if I'm working/operational. They specifically request that I reply with 'Yes' if I can respond. This is a straightforward query asking about my operational status.
 
-Looking at the search results, they contain information about AI assistants in general and how they work, but they're not directly relevant to answering this simple query about whether I'm currently working/functional.
+The search results provided don't really relate to this query at all - they're about AI assistant capabilities, how AI assistants work, job scams, and how to respond to "how are you" which is different from what's being asked.
 
-According to the guidelines:
-- I should answer the query directly
-- If search results are empty or unhelpful, I should answer to the best of my ability using existing knowledge
-- The search results here are about AI assistants in general but don't specifically address the user's simple test query
-- The user specifically requested a "Yes" response if I can respond
+Since the search results aren't relevant to the specific query, I should answer based on my existing knowledge. The user is simply asking if I'm working and wants a 'Yes' if I can respond.
 
-This is a simple functionality test, so I should provide a direct, clear response as requested.
+I should follow their instruction and respond with 'Yes' since I am indeed able to respond to their query. This is a simple operational check.
+
+I need to be careful about the restrictions - I shouldn't mention that I'm using search results since they're not relevant anyway, and I should answer directly without unnecessary hedging language.
 </think>
 
-Yes.
+Yes
 
 
 
@@ -22,6 +20,6 @@ Yes.
 >
 > [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
 >
-> [3] [support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google](https://support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google?hl=en)
+> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
 >
 > [4] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)

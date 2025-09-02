@@ -1,3 +1,1 @@
-<think>Okay, the user asked if I'm working and requested a simple "Yes" if I can respond. 
-
-Hmm, this seems like a basic connectivity test—maybe they're checking if the system is active or if I'm operational. Could</think>
+Yes

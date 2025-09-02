@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just asked if I'm working and wants a simple 'Yes' reply if I can respond. 
-
-Okay, this seems like a basic functionality check - maybe they're testing if the system is live or just
+We are given a simple instruction: Reply with 'Yes' if we can respond.
+ Since the user is asking if we are working and we are indeed operational, we can respond.
+ Therefore, we will output exactly the string 'Yes'.
