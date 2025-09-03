@@ -1,1 +1,3 @@
-<think>Okay, the user sent a message saying: Hello, are you working? Reply with 'Yes' if you can respond. I need to check if I can reply. First, the user is greeting me and asking if I'm operational, specifically
+<think>Okay, the user is asking if I'm working and wants a reply with just 'Yes' if I can respond. 
+
+Hmm, this seems like a basic connectivity check - maybe they've had issues with other services before or are testing if the

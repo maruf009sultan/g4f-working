@@ -1,19 +1,17 @@
 <think>
-The user is asking me "Hello, are you working? Reply with 'Yes' if you can respond."
+The user is asking me a simple question to test if I'm working and specifically requests that I reply with 'Yes' if I can respond. This is a straightforward query that doesn't require complex formatting or the use of search results.
 
-This is a very simple query where the user is basically asking me to confirm that I'm functioning/operational. They've specifically requested that I reply with 'Yes' if I can respond.
+Looking at the search results, they contain information about:
+1. IBM Watson AI assistant responses
+2. How to answer "How are you?" questions
+3. AI assistant capabilities 
+4. YouTube video about responding to "How are you?"
+5. Microsoft Teams AI assistant
 
-Looking at the search results, they contain information about AI assistants in general, how to respond to "How are you?" in conversation, adding AI assistant responses, job scam alerts, and AI assistant capabilities. None of these search results are directly relevant to answering this specific query about whether I'm working.
+None of these search results are relevant to the user's simple query asking if I'm working. The user just wants to know if I can respond, and they've specifically requested a "Yes" response if I can.
 
-Since the search results don't contain relevant information for this query, I should answer based on my existing knowledge. The user has given me a clear instruction to "Reply with 'Yes' if you can respond" - and since I can indeed respond, the answer should be "Yes".
+According to the guidelines, if search results are empty or unhelpful, I should answer the query to the best of my ability using my existing knowledge. In this case, the search results don't help answer whether I'm working or not - that's something I need to answer directly.
 
-I need to be careful about the restrictions:
-- I shouldn't mention that I'm using search results (which I'm not anyway since they're not relevant)
-- I shouldn't start with a header
-- I should follow the user's instruction which takes priority over other formatting rules
-- I should answer directly
+The user has given a specific instruction to reply with 'Yes' if I can respond. Following user instructions takes priority over other formatting rules as stated in point 8 of the guidelines.
 
-The user's instruction is very clear and simple - they want me to reply with 'Yes' if I can respond. Since I can respond, that's exactly what I should do.
-</think>
-
-Yes
+I should simply respond with "Yes" as requested, since I can indeed respond to their query.

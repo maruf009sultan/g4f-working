@@ -1,2 +1,2 @@
 <think>
-Okay, the user just asked, "Hello, are you working?" and wants a 'Yes' response. I should make sure to reply with just 'Yes' as they specified. But maybe I can add a friendly greeting too, like
+Alright, so I'm trying to figure out how gravity affects the motion of objects. I remember that Newton came up with the law of universal gravitation, which says every mass attracts every other mass with a force. The formula is F =

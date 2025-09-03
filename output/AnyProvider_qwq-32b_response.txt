@@ -1,1 +1,3 @@
-Yes
+Okay, the user said, "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple "Yes" reply. Let me check the instructions again.
+
+The user emphasized to reply only with "Yes" and

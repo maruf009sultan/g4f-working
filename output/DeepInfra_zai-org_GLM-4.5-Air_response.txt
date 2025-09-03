@@ -1,3 +1,3 @@
-<think>Okay, the user just asked if I'm working and requested a simple "Yes" response if I can reply. 
+<think>Hmm, the user is asking if I'm working and wants a simple "Yes" response if I can reply. 
 
-Hmm, this seems like a basic connectivity check—probably testing if I'm online and functional. The user might be cautious</think>
+This seems like a basic functionality check - they might be testing if the system is responsive or if there's any delay.</think>
