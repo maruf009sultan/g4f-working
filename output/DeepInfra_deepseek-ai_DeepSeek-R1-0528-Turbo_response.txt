@@ -1,4 +1,4 @@
 <think>
-Hmm, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. 
+Hmm, the user just greeted me and asked if I'm working. They specifically requested a 'Yes' reply if I can respond. 
 
-This seems like a simple connectivity check - maybe they've had issues with other AI services before or
+This seems like a connectivity check - maybe they've had issues with chatbots freezing before. The

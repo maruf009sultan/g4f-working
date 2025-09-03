@@ -1,32 +1,12 @@
 <think>
-The user is asking me if I'm working and wants me to reply with 'Yes' if I can respond. This is a simple query asking about my operational status. The user has given me a specific instruction to reply with 'Yes' if I can respond.
+The user is asking me if I'm working and specifically requesting I reply with "Yes" if I can respond. However, I need to be very careful here because of the search results provided, which contain multiple warnings about scams that try to get people to say "Yes" or respond to unexpected messages.
 
-Looking at the search results, they contain information about AI assistants and their capabilities, but they don't directly relate to answering this specific query about whether I'm working or not.
+Looking at the search results:
 
-The search results include:
-1. Information about how AI assistants work and their capabilities
-2. A video about how to respond to "How are you?" 
-3. AI Assistant capabilities documentation
-4. Information about job scam texts
-5. ChatGPT capabilities overview
+1. The first result is about AI assistants and their capabilities, which is relevant to what I am.
 
-None of these directly answer the user's simple question about whether I'm working. Since the search results don't provide relevant information for this query, I should answer based on my existing knowledge and the user's specific instruction.
+2. The second result is about job scams via text messages, warning people not to click links or respond to unexpected texts.
 
-The user specifically asked me to reply with 'Yes' if I can respond. Since I am indeed functioning and can respond to their query, I should follow their instruction and reply with 'Yes'.
+3. The third result is about ChatGPT capabilities.
 
-According to the restrictions, I should not mention that I'm using search results, and since the search results don't contain relevant information anyway, I'll just answer the query directly as instructed.
-</think>
-
-Yes
-
-
-
-> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
->
-> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
->
-> [2] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
->
-> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
->
-> [4] [help.openai.com/en/articles/9260256-chatgpt-capabilities-overview](https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview)
+4. The fourth result specifically warns about ignoring "hi, how are you?" text messages from strangers, and there's a comment from "JOE" that says: "I know what you mean when you can't get out of the habit of saying "Hello? Yes, this is ....." That "YES" can cost you a lot of money. I had to train myself to answer the phone with "What is it?" when I don't know who's calling.

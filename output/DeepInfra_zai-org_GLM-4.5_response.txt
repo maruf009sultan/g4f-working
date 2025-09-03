@@ -1,1 +1,1 @@
-<think>The user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Since I'm an AI assistant and I'm currently operational and able to respond to their query, I should reply with 'Yes'</think>
+<think>The user is asking if I'm working and wants me to reply with 'Yes' if I can respond. I am indeed functioning and able to respond, so the appropriate answer would be "Yes" as requested.</think>Yes

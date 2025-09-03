@@ -1,26 +1,23 @@
 <think>
-The user is asking if I'm working and wants me to reply with 'Yes' if I can respond. This is a very simple query asking about my current operational status. The user has given me a specific instruction to "Reply with 'Yes' if you can respond."
+The user is asking a simple question about whether I'm working and wants me to reply with 'Yes' if I can respond. This is a straightforward query that doesn't require complex formatting or extensive search result analysis. The user has given me a specific instruction to "Reply with 'Yes' if you can respond."
 
-Looking at the search results, they contain information about AI assistants in general, how to respond to "how are you" questions, and some technical documentation about Microsoft Teams AI Assistant. None of these search results are directly relevant to answering whether I am working or can respond.
+Looking at the search results, they contain information about AI assistants, how to respond to greetings, AI assistant capabilities, etc. But none of this is really relevant to answering the simple question "Hello, are you working?"
 
-According to the guidelines:
-- If search results are empty or unhelpful, I should answer to the best of my ability using existing knowledge
-- I should follow user instructions - the user specifically asked me to reply with 'Yes' if I can respond
-- I should not mention that I'm using search results since they're not helpful here
+The user's instruction is clear: they want me to reply with 'Yes' if I can respond. Since I can indeed respond (as evidenced by me providing this response), the appropriate answer is simply "Yes" as requested.
 
-The user instruction is very clear and direct: "Reply with 'Yes' if you can respond." Since I can indeed respond, I should follow this instruction exactly.
+This falls under the rule about following user instructions, which takes priority over other formatting rules. The user specifically requested a simple "Yes" response, so I should provide that.
 </think>
 
 Yes
 
 
 
-> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
+> [0] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
 >
 > [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
 >
-> [2] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
+> [2] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)
 >
-> [3] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
+> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
 >
-> [4] [learn.microsoft.com/en-us/microsoftteams/rooms/rooms-pro-aiassistant](https://learn.microsoft.com/en-us/microsoftteams/rooms/rooms-pro-aiassistant)
+> [4] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)

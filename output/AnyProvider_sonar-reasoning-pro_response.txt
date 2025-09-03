@@ -1,31 +1,13 @@
 <think>
-The user is asking a simple question - "Hello, are you working? Reply with 'Yes' if you can respond."
+The user is asking a simple question - "Hello, are you working? Reply with 'Yes' if you can respond." This seems like they want to test if I'm functioning properly. They've specifically requested I reply with 'Yes' if I can respond.
 
-This is a very straightforward query. The user wants to know if I'm functioning and has explicitly requested that I reply with "Yes" if I can respond. Since I can respond to this query, the appropriate answer is simply "Yes" as requested.
+Looking at the search results, they contain information about AI assistants and how they work, but this doesn't really relate to the user's simple query. The search results discuss:
+1. What AI assistants are and how they work (NLP, ML, etc.)
+2. How to respond to "How are you?" in conversation
+3. Adding AI assistant responses in some platform
+4. Job scam warnings
+5. AI Assistant capabilities
 
-The search results provided are about AI assistant capabilities and how to respond to "how are you" questions, but they're not directly relevant to this specific query. The user is asking me to confirm I'm working and has given me specific instructions on how to respond.
+None of these directly address the user's simple request. Since the user is asking me to confirm I'm working and can respond, and they've specifically asked for a 'Yes' response if I can respond, I should simply give them the requested confirmation.
 
-I should follow the user's instruction and simply respond with "Yes" since I can indeed respond to their query. This is a simple functional check.
-
-Looking at the restrictions, I should:
-- Not include URLs or links
-- Not begin with a header (which I won't need anyway for such a simple response)
-- Answer directly
-- Follow user instructions (which take priority)
-
-The user has explicitly requested I reply with "Yes" if I can respond, so I should do exactly that.
-</think>
-
-Yes
-
-
-
-> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
->
-> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
->
-> [2] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
->
-> [3] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
->
-> [4] [help.openai.com/en/articles/9260256-chatgpt-capabilities-overview](https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview)
+The user's instruction is clear: "Reply with 'Yes' if you can
