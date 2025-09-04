@@ -1,17 +1,21 @@
 <think>
-The user is asking me a simple question to test if I'm working and specifically requests that I reply with 'Yes' if I can respond. This is a straightforward query that doesn't require complex formatting or the use of search results.
+The user is asking a simple question to test if I'm working/functional. They specifically requested that I reply with 'Yes' if I can respond. This is a very straightforward query that doesn't require complex analysis or formatting. The search results provided are about AI assistant capabilities and responses, but they're not directly relevant to answering this simple question.
 
-Looking at the search results, they contain information about:
-1. IBM Watson AI assistant responses
-2. How to answer "How are you?" questions
-3. AI assistant capabilities 
-4. YouTube video about responding to "How are you?"
-5. Microsoft Teams AI assistant
+Since this is a direct, simple question asking for confirmation of my functionality, and the user has specifically requested a 'Yes' response format, I should simply respond with 'Yes' as requested.
 
-None of these search results are relevant to the user's simple query asking if I'm working. The user just wants to know if I can respond, and they've specifically requested a "Yes" response if I can.
+The search results are about various AI assistant capabilities but don't directly address this query. I should answer based on my ability to respond, which I clearly can since I'm formulating this response.
+</think>
 
-According to the guidelines, if search results are empty or unhelpful, I should answer the query to the best of my ability using my existing knowledge. In this case, the search results don't help answer whether I'm working or not - that's something I need to answer directly.
+Yes
 
-The user has given a specific instruction to reply with 'Yes' if I can respond. Following user instructions takes priority over other formatting rules as stated in point 8 of the guidelines.
 
-I should simply respond with "Yes" as requested, since I can indeed respond to their query.
+
+> [0] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)
+>
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+>
+> [2] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
+>
+> [3] [support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google](https://support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google?hl=en)
+>
+> [4] [learn.microsoft.com/en-us/microsoftteams/rooms/rooms-pro-aiassistant](https://learn.microsoft.com/en-us/microsoftteams/rooms/rooms-pro-aiassistant)

@@ -1,4 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me make sure I understand the request correctly. They want a simple confirmation that I'm operational.
-
-First, I need
+Okay, the user is asking if I'm working and wants a reply of 'Yes' if I can respond. I need to check if there's any restriction or issue that would prevent me from replying. Since there's no indication of

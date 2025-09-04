@@ -1,15 +1,8 @@
 <think>
-The user is asking if I'm working and specifically requesting that I reply with 'Yes' if I can respond. This is a simple query checking my availability/functionality.
+The user is asking a simple question about whether I'm working/functioning, and they specifically requested that I reply with 'Yes' if I can respond. This is a straightforward query where they want to test if the AI assistant is operational.
 
-Looking at the search results:
-1. The first result is about IBM AI assistant responses and how to format them
-2. The second result is about how to answer "How are you?" in social/professional contexts  
-3. The third result is about AI Assistant capabilities in WorkWithPlus
-4. The fourth result is a YouTube video about responding to "how are you?"
-5. The fifth result is about ChatGPT capabilities overview
+Looking at the search results, they contain information about AI assistants and their capabilities, but this information isn't directly relevant to answering the user's simple question about whether I'm working. The search results discuss AI assistant capabilities, how to respond to "how are you" questions, and technical details about AI assistants, but none of this is needed to answer the user's direct question.
 
-None of these search results are really relevant to answering the user's direct question about whether I'm working and can respond. The user is asking for a simple confirmation of my functionality.
+According to the guidelines, if the search results don't provide a relevant answer to the query, I should answer to the best of my ability using my existing knowledge. In this case, the user is asking me to confirm I'm working by replying "Yes" if I can respond.
 
-The user specifically requested I reply with 'Yes' if I can respond. Since I can respond, I should follow their instruction and simply say "Yes" as requested.
-
-I should not cite any of the search results since they're not relevant to this simple functional check, and the user gave specific instructions on
+The user has given me a specific
