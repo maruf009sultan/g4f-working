@@ -1,0 +1,10 @@
+<think>
+The user is asking a simple question "Hello, are you working? Reply with 'Yes' if you can respond." This is a straightforward test query to check if I'm functioning. They're asking me to respond with "Yes" if I can respond.
+
+Looking at the search results, they contain information about AI assistants and how they work, but this query is not asking for information from those search results. The user is simply asking me to confirm that I'm working/functioning.
+
+The restrictions say I should answer in the same language as the query (English), and I should not use phrases like "according to the search results" etc. Since this is a direct test of my functionality and the user specifically requested a "Yes" response if I can respond, I should simply give a clear, direct answer.
+
+This doesn't fall under any of the specific query types that have special formatting rules. It's a simple functional test, so I should just respond directly and clearly.
+
+The search results are not relevant to answering this query - the user is just checking if I'm

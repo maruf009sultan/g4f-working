@@ -1,3 +1,3 @@
-<think>Okay, the user sent a message asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check what they need.
+<think>Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the query again.
 
-First, they're probably testing if the system is active. Maybe they've had
+Hmm, they said "Hello, are you working? Reply with 'Yes' if you

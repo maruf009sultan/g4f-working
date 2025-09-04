@@ -1,2 +1,2 @@
 <think>
-Okay, so the user just said, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." Hmm, that's a bit of a mix-up with the greeting. They start by addressing
+Okay, so the user is asking me if I'm working and wants a 'Yes' reply. They probably just want to confirm if I'm available. I should respond with 'Yes' to show I'm online and ready to help.

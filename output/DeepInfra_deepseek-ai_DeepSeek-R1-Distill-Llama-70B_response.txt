@@ -1,2 +1,4 @@
 <think>
-Okay, so I'm trying to figure out how to approach this problem. The user sent a greeting, "Hello, are you working?" and I responded with "Yes." Now they’ve asked me to simulate the thought process of someone trying
+Okay, so I need to figure out how to solve the problem where the user wants me to automatically respond with "Yes" whenever they ask if I'm working. Hmm, let me break this down step by step. 
+
+First, I

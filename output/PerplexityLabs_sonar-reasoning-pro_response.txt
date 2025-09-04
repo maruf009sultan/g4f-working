@@ -1,8 +1,25 @@
 <think>
-The user is asking a simple question about whether I'm working/functioning, and they specifically requested that I reply with 'Yes' if I can respond. This is a straightforward query where they want to test if the AI assistant is operational.
+The user has asked a simple query asking if I'm working and requested I reply with 'Yes' if I can respond. This is a straightforward test to see if I'm functioning.
 
-Looking at the search results, they contain information about AI assistants and their capabilities, but this information isn't directly relevant to answering the user's simple question about whether I'm working. The search results discuss AI assistant capabilities, how to respond to "how are you" questions, and technical details about AI assistants, but none of this is needed to answer the user's direct question.
+Looking at the search results, they contain information about AI assistants in general, how they work, and some technical details about APIs. However, none of this is directly relevant to answering the simple question "are you working?"
 
-According to the guidelines, if the search results don't provide a relevant answer to the query, I should answer to the best of my ability using my existing knowledge. In this case, the user is asking me to confirm I'm working by replying "Yes" if I can respond.
+The user specifically requested that I reply with 'Yes' if I can respond. Since I can clearly respond and am functioning, I should answer with 'Yes' as requested.
 
-The user has given me a specific
+According to the restrictions, I should not mention that I'm using search results or cite sources since they're not relevant here. I should also follow the user's specific instruction to reply with 'Yes' if I can respond.
+
+This is a simple query that doesn't require any complex formatting, headers, or detailed explanations. The user just wants a confirmation that I'm working.
+</think>
+
+Yes
+
+
+
+> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
+>
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=nhK7qkQma_U)
+>
+> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+>
+> [3] [support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google](https://support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google?hl=en)
+>
+> [4] [openassistantgpt.io/blogs/assistant-api-vs-responses-api-differences](https://www.openassistantgpt.io/blogs/assistant-api-vs-responses-api-differences)

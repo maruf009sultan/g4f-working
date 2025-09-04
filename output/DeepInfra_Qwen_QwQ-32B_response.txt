@@ -1,0 +1,3 @@
+Okay, the user sent a message: "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple "Yes" response.
+
+I need to make sure I follow their instructions precisely. They specified to reply with
