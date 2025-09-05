@@ -1,2 +1,6 @@
 <think>
-Okay, so I received this message from a user who wrote "Hello, are you working? Reply with 'Yes' if you can respond." I just responded with "Yes." Now, I need to figure out how to handle the rest
+Alright, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond."
+
+I need to respond appropriately. They've instructed me to reply with 'Yes' if I'm able to respond.
+
+I

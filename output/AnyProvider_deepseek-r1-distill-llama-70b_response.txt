@@ -1,2 +1,2 @@
 <think>
-Alright, the user sent "Hello, are you working? Reply with 'Yes' if you can respond." So I need to respond as instructed. They want me to reply with just "Yes." Simple enough. I should make sure not
+Okay, so I'm trying to figure out how to make French toast. I've heard it's a breakfast dish, but I'm not entirely sure. Maybe it's also good for brunch or even dinner? I guess I'll start by

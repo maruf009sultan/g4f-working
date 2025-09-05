@@ -1,25 +1,17 @@
 <think>
-This is a simple query asking if I'm working and requesting me to reply with 'Yes' if I can respond. The user is essentially asking for confirmation that I'm operational.
+The user is asking a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-Looking at the search results, they contain information about AI assistants and their capabilities, how they work, and some unrelated content about job offers and casual conversation responses. However, this query is very straightforward and doesn't require the search results to answer it.
+This is a straightforward test query to see if I'm functional. The user is requesting a specific format - they want me to reply with "Yes" if I can respond.
 
-The user has specifically requested that I reply with 'Yes' if I can respond. Since I can indeed respond to this query, I should follow their instruction and reply with 'Yes'.
+Looking at the search results, they contain information about:
+1. AI assistants in general (Salesforce)
+2. How to reply to job offers (Indeed)
+3. Adding AI assistant responses (IBM)
+4. How to respond to "How are you?" (YouTube)
+5. Using AI Assistant (Help Center)
 
-According to the restrictions, I should not start with a header, and I should follow user instructions when they specifically request something. The user has given a clear instruction to reply with 'Yes' if I can respond, and since I can respond, that's exactly what I should do.
+None of these search results are particularly relevant to answering the user's simple query about whether I'm working. The search results don't provide information that would help me answer this specific question.
 
-This is a simple, direct query that doesn't need elaborate formatting or multiple sections.
-</think>
+According to the restrictions, if the search results do not provide an answer, I should respond saying that the information is not available. However, this is a very simple query asking if I can respond, and the user is specifically asking for a "Yes" if I can respond. This seems like a basic functionality test.
 
-Yes.
-
-
-
-> [0] [axerosolutions.com/glossary/ai-assistant](https://axerosolutions.com/glossary/ai-assistant)
->
-> [1] [indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer](https://www.indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer)
->
-> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
->
-> [3] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
->
-> [4] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
+Actually, let me reconsider. The user is asking if I'm working and to reply with "Yes" if I can respond. This is a direct question about my current functionality. The search results don't contain information about whether I (Perplexity) am currently working or functional

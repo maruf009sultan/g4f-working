@@ -1,4 +1,2 @@
 <think>
-Okay, the user just said, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out the best way to respond.
-
-First, I should acknowledge their greeting.
+Okay, so I need to figure out how to respond to the user who said, "Hello, are you working? Reply with 'Yes' if you can respond." The assistant just replied with "Yes." Now, I'm supposed to
