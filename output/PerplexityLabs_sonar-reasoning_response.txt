@@ -1,32 +1,12 @@
 <think>
-The user is asking if I'm working and wants me to reply with 'Yes' if I can respond. This is a simple test query to check if I'm operational. 
+The user is asking me a very simple question: "Hello, are you working? Reply with 'Yes' if you can respond." This appears to be a test to see if I'm functioning properly.
 
-Looking at the search results, they contain information about:
-1. What is an AI assistant and how they work
-2. How to respond to recruiter emails  
-3. More information about AI assistants from Salesforce
-4. How to respond to "How are you?" 
-5. Assistant API vs Responses API differences
+Looking at the search results, they contain information about AI assistants in general, how to respond to "How are you?" questions, technical documentation about AI assistant responses, a Siri issue, and ChatGPT capabilities. None of this is directly relevant to answering whether I'm working or not.
 
-None of these search results are relevant to answering the user's simple question about whether I'm working. The user is asking for a direct response - they want me to say "Yes" if I can respond.
+The user has given me a very specific instruction: "Reply with 'Yes' if you can respond." Since I can clearly respond (I'm processing this query and formulating an answer), I should simply reply "Yes" as requested.
 
-According to the restrictions, if the search results don't provide an answer, I should respond saying the information is not available. However, this is a direct question about my operational status, and the user has given me clear instructions on how to respond ("Reply with 'Yes' if you can respond").
-
-The user instruction is: "Reply with 'Yes' if you can respond." This is a clear user instruction that I should follow according to rule 8: "Make sure to follow any instructions that the user requests you to follow. Following user instruction takes priority over any other formatting rules listed here."
-
-Since I can respond (as evidenced by the fact that I'm responding), I should say "Yes" as requested.
-</think>
-
-Yes
-
-
-
-> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
->
-> [1] [indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter](https://www.indeed.com/career-advice/finding-a-job/email-examples-how-to-respond-to-a-recruiter)
->
-> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
->
-> [3] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
->
-> [4] [openassistantgpt.io/blogs/assistant-api-vs-responses-api-differences](https://www.openassistantgpt.io/blogs/assistant-api-vs-responses-api-differences)
+Looking at the restrictions and rules:
+- I should not start with a header (this is a simple query)
+- I should follow user instructions (they specifically asked me to reply with 'Yes' if I can respond)
+- I should not mention search results since they're not relevant
+- This is a very straight

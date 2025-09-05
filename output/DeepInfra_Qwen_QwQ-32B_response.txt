@@ -1,3 +1,1 @@
-Okay, the user sent a message: "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple "Yes" response.
-
-I need to make sure I follow their instructions precisely. They specified to reply with
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." So they want a simple confirmation. The instruction says to reply with 'Yes' if I can respond. I should check if there's

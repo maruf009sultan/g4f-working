@@ -1,2 +1,2 @@
 <think>
-Okay, so the user is asking me if I'm working and wants a 'Yes' reply. They probably just want to confirm if I'm available. I should respond with 'Yes' to show I'm online and ready to help.
+Okay, so I'm trying to figure out how to respond to the user's message. They said, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." Hmm, let me break

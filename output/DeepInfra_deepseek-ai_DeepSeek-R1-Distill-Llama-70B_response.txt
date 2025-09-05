@@ -1,4 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve the problem where the user wants me to automatically respond with "Yes" whenever they ask if I'm working. Hmm, let me break this down step by step. 
-
-First, I
+Okay, so I received this message from a user who wrote "Hello, are you working? Reply with 'Yes' if you can respond." I just responded with "Yes." Now, I need to figure out how to handle the rest

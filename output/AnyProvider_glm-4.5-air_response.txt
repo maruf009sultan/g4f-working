@@ -1,3 +1,0 @@
-<think>Hmm, the user is checking if I'm working by asking for a simple 'Yes' response. This seems like a basic connectivity test rather than a complex query. 
-
-The user might be verifying my availability before asking something important, or perhaps</think>

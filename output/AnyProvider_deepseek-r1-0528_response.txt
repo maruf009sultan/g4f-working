@@ -1,1 +1,4 @@
-Yes.
+<think>
+Hmm, the user just greeted me and asked if I'm working. They specifically requested a 'Yes' reply if I can respond. 
+
+Okay, this seems straightforward. The user likely wants a quick confirmation that I'm operational before proceeding
