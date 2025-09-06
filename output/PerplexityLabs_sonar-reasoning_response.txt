@@ -1,8 +1,14 @@
 <think>
-The user is asking if I'm working and wants me to reply with "Yes" if I can respond. This is a simple query asking for confirmation that I'm operational. They specifically requested that I reply with "Yes" if I can respond.
+The user is asking me a simple question "Hello, are you working? Reply with 'Yes' if you can respond." They are essentially asking me to confirm if I'm operational/functioning.
 
-Looking at the search results, they contain information about AI assistants, how to respond to "how are you", AI assistant tools, Google Assistant troubleshooting, and API differences. None of these are directly relevant to the simple query asking if I'm working.
+Let me check the search results to see if they contain relevant information:
 
-According to the restrictions, if the search results don't provide an answer, I should respond saying the information is not available. However, in this case, the user is asking me directly if I'm working and requesting a specific response format. This isn't really a question that would require search results - it's a direct question about my current operational status.
+1. The first result is about AI assistants in general from Salesforce - talks about what AI assistants are and their capabilities
+2. The second result is about how to respond to "How are you?" questions in social/professional contexts
+3. The third result is about differences between Assistant API and Responses API
+4. The fourth result is a YouTube video about responding to "How are you?"
+5. The fifth result is about AI Assistant capabilities in WorkWithPlus
 
-The user has given me a specific instruction: "Reply with 'Yes' if you can respond." Following user
+None of these search results directly address the user's simple request to confirm if I'm working by replying with "Yes". The search results don't contain information about how an AI assistant should respond to status checks or simple operational queries.
+
+Since the search results don't provide

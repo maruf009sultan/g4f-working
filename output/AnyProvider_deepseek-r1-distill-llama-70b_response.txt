@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to make French toast. I've heard it's a breakfast dish, but I'm not entirely sure. Maybe it's also good for brunch or even dinner? I guess I'll start by
+Okay, so I've got this problem here: "Hello, are you working? Reply with 'Yes' if you can respond." Alright, let's try to figure this out. First, I need to understand what the problem is asking

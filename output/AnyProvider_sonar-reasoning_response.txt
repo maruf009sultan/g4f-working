@@ -1,2 +1,12 @@
 <think>
-This is
+The user is asking me "Hello, are you working? Reply with 'Yes' if you can respond."
+
+This is a simple query where they want to know if I'm functioning and they've specifically requested that I reply with 'Yes' if I can respond.
+
+Looking at the search results provided, they are about AI assistants and how to respond to "How are you?" questions, but this query is different - it's asking if I'm working and specifically requesting a "Yes" response if I can respond.
+
+The user has given me a clear instruction: "Reply with 'Yes' if you can respond." Since I can respond, I should follow their instruction and reply with "Yes".
+
+I should not cite any search results here since this is a simple direct response to their question about my operational status, and the search results don't contain information relevant to answering whether I'm working or not.
+
+I should keep this simple and direct as requeste

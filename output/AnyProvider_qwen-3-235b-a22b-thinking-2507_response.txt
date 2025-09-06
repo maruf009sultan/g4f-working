@@ -1,3 +1,0 @@
-<think>Okay, the user sent a message saying: "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out how to handle this.
-
-First, the user is checking if I'm operational. They specifically

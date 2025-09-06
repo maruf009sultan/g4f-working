@@ -1,17 +1,8 @@
 <think>
-The user is asking a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
+The user is asking "Hello, are you working? Reply with 'Yes' if you can respond." This appears to be a simple test query to check if I'm functioning. They want a simple "Yes" response to confirm I can respond.
 
-This is a straightforward test query to see if I'm functional. The user is requesting a specific format - they want me to reply with "Yes" if I can respond.
+Looking at the search results, they seem to be about AI assistants in general, how to respond to "how are you" greetings, and some technical information about Assistant APIs. None of this is directly relevant to the user's simple question asking if I'm working and requesting a "Yes" response if I can respond.
 
-Looking at the search results, they contain information about:
-1. AI assistants in general (Salesforce)
-2. How to reply to job offers (Indeed)
-3. Adding AI assistant responses (IBM)
-4. How to respond to "How are you?" (YouTube)
-5. Using AI Assistant (Help Center)
+Since the search results don't contain relevant information for this specific query, I should answer to the best of my ability using my existing knowledge. The user is asking for a simple confirmation that I'm working, and they specifically requested I reply with "Yes" if I can respond.
 
-None of these search results are particularly relevant to answering the user's simple query about whether I'm working. The search results don't provide information that would help me answer this specific question.
-
-According to the restrictions, if the search results do not provide an answer, I should respond saying that the information is not available. However, this is a very simple query asking if I can respond, and the user is specifically asking for a "Yes" if I can respond. This seems like a basic functionality test.
-
-Actually, let me reconsider. The user is asking if I'm working and to reply with "Yes" if I can respond. This is a direct question about my current functionality. The search results don't contain information about whether I (Perplexity) am currently working or functional
+The user gave a very specific instruction: "Reply with 'Yes' if you can respond." Since I can respond, I shoul
