@@ -1,10 +1,23 @@
 <think>
-The user is asking a simple question to test if I'm working. They specifically request that I reply with 'Yes' if I can respond. This is a straightforward query asking about my operational status.
+This is a simple query asking if I'm working/functional and requesting a specific response format. The user wants me to reply with 'Yes' if I can respond. 
 
-Looking at the search results, they contain information about AI assistants, job offer responses, and how to respond to "How are you?" but none of this is directly relevant to the user's simple query asking if I'm working.
+Looking at the search results, they contain information about AI assistants, job offer responses, and general conversation responses, but none of this is directly relevant to answering this simple query about my operational status.
 
-The user has given me a clear instruction: "Reply with 'Yes' if you can respond." Since I can respond, I should follow their instruction and reply with 'Yes'.
+The user is asking for a very straightforward response - just "Yes" if I can respond. Since I am clearly able to respond (I'm processing this query and can provide an answer), the appropriate response is simply "Yes" as requested.
 
-This is a simple, direct query that doesn't require complex formatting, headers, or citations from the search results. The search results are not relevant to answering whether I'm working or not.
+I should not overcomplicate this or add unnecessary information from the search results since they aren't relevant to this specific query. The user gave a clear instruction to reply with 'Yes' if I can respond, so I should follow that instruction precisely.
+</think>
 
-According to the restrictions, I should follow user instructions, and the user specifically asked me to reply with 'Yes' if I can respond. Since I can respond, I shoul
+Yes
+
+
+
+> [0] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+>
+> [1] [indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer](https://www.indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer)
+>
+> [2] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
+>
+> [3] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+>
+> [4] [rezolve.ai/blog/ai-assistants](https://www.rezolve.ai/blog/ai-assistants)

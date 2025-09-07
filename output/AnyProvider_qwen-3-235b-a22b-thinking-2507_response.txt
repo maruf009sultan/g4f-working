@@ -1,0 +1,3 @@
+<think>Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. This seems like a simple test message to check if the system is operational.
+
+Hmm, they might be verifying connection stability or testing
