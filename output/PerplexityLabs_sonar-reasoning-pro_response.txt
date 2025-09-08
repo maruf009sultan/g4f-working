@@ -1,27 +1,8 @@
 <think>
-The user is asking if I'm working and specifically requesting that I reply with "Yes" if I can respond. This is a simple query to test if I'm functioning. The search results provided are about AI assistant capabilities, job offer responses, and how to respond to "how are you" questions, but they're not directly relevant to this specific query.
+The user is asking me a very simple question - they want to know if I'm working and specifically request that I reply with 'Yes' if I can respond. This is a straightforward test query to see if I'm functional.
 
-The user has given me a clear instruction: "Reply with 'Yes' if you can respond." Since I can indeed respond, I should simply reply with "Yes" as requested. This is straightforward and doesn't require any complex formatting or citations since the search results aren't relevant to answering this specific query.
+Looking at the search results, they contain information about AI assistants, how to respond to "how are you" questions, AI assistant responses, job scam texts, and AI assistant capabilities. None of this is directly relevant to answering the user's simple request.
 
-Looking at the restrictions, I need to:
-1. Not include URLs or links
-2. Not begin with a header
-3. Answer in the same language as the query (English)
-4. Follow the user's specific instruction to reply with "Yes" if I can respond
+The user has given me a specific instruction: "Reply with 'Yes' if you can respond." Since I can indeed respond, I should follow their instruction and reply with 'Yes'.
 
-This is a simple, direct query that just needs a simple, direct answer.
-</think>
-
-Yes
-
-
-
-> [0] [help.openai.com/en/articles/9260256-chatgpt-capabilities-overview](https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview)
->
-> [1] [indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer](https://www.indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer)
->
-> [2] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
->
-> [3] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
->
-> [4] [rezolve.ai/blog/ai-assistants](https://www.rezolve.ai/blog/ai-assistants)
+According to the restrictions, I should follow user instructions, and this takes priority over other formatting rules. The user wants a simple 'Yes' response, so I should give exactly that without any additional formatting or information from the search results, since they're not relevant to this

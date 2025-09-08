@@ -1,16 +1,12 @@
 <think>
-The user is asking a simple question "Hello, are you working? Reply with 'Yes' if you can respond." This seems to be a simple test to see if I'm functioning. They've explicitly requested that I reply with 'Yes' if I can respond.
+The user is asking a very simple query: "Hello, are you working? Reply with 'Yes' if you can respond." They want me to simply reply with "Yes" if I can respond.
 
-Looking at the search results provided, they contain information about AI assistants and how to respond to various things, but none of this is directly relevant to the user's simple query. The search results discuss:
+Looking at the search results provided, they contain various information about AI assistants, how to respond to "how are you" questions, adding AI assistant responses, job scam warnings, and using AI assistant tools. However, none of this information is relevant to the simple question being asked.
 
-1. F5's AI Assistant for distributed cloud services
-2. How to reply to job offers
-3. Using AI Assistant in some responsive.io platform
-4. How to respond to "How are you?" greetings
-5. AI Assistant capabilities in some other platform
+The user is essentially testing if I'm functional and asking for a simple "Yes" response if I can respond. Since I can respond, I should reply with "Yes" as requested.
 
-None of these search results are directly relevant to answering the user's simple question about whether I'm working. The user is simply testing if I can respond, and they've given me a clear instruction to reply with 'Yes' if I can respond.
-
-Since I can respond and I am working, I should simply reply "Yes" as requested. This is a straightforward query that doesn't require citing any of the search results since they're not relevant to the question being asked.
-
-According to the restrictions, if the search results do not provide an answer, I should respon
+Looking at the restrictions and guidelines:
+- I should not mention that I'm using search results 
+- I should answer directly
+- The search results are not relevant to this query, so I should answer using my existing knowledge
+- The user specifically requested a simple "Yes" response
