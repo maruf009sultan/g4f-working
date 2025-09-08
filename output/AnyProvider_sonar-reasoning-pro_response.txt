@@ -1,23 +1,16 @@
 <think>
-The user is asking me if I'm working and requesting a simple "Yes" response if I can respond. This is a very straightforward query that doesn't require any complex analysis or formatting. The user is just checking if I'm operational.
+The user is asking a simple question "Hello, are you working? Reply with 'Yes' if you can respond." This seems to be a simple test to see if I'm functioning. They've explicitly requested that I reply with 'Yes' if I can respond.
 
-Looking at the search results, they contain information about AI assistants, job offer responses, and how to respond to "How are you?" but none of this is relevant to the user's simple question.
+Looking at the search results provided, they contain information about AI assistants and how to respond to various things, but none of this is directly relevant to the user's simple query. The search results discuss:
 
-The user has given me a clear instruction: "Reply with 'Yes' if you can respond." Since I can respond, I should simply answer "Yes" as requested.
+1. F5's AI Assistant for distributed cloud services
+2. How to reply to job offers
+3. Using AI Assistant in some responsive.io platform
+4. How to respond to "How are you?" greetings
+5. AI Assistant capabilities in some other platform
 
-This doesn't require any of the complex formatting rules, headers, or citations since it's just a simple operational check. The user is asking for a very specific, brief response.
-</think>
+None of these search results are directly relevant to answering the user's simple question about whether I'm working. The user is simply testing if I can respond, and they've given me a clear instruction to reply with 'Yes' if I can respond.
 
-Yes
+Since I can respond and I am working, I should simply reply "Yes" as requested. This is a straightforward query that doesn't require citing any of the search results since they're not relevant to the question being asked.
 
-
-
-> [0] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
->
-> [1] [indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer](https://www.indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer)
->
-> [2] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
->
-> [3] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
->
-> [4] [rezolve.ai/blog/ai-assistants](https://www.rezolve.ai/blog/ai-assistants)
+According to the restrictions, if the search results do not provide an answer, I should respon

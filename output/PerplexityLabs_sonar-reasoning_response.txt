@@ -1,18 +1,10 @@
 <think>
-The user is asking me a simple question - "Hello, are you working? Reply with 'Yes' if you can respond." This appears to be a straightforward test query to see if I'm functioning and can respond.
+The user is asking a very simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-Looking at the search results:
-- [1] is about AI assistants in general and their capabilities
-- [2] is about how to respond to "How are you?" 
-- [3] is about ChatGPT capabilities
-- [4] is about job scams via text
-- [5] is about AI Assistant capabilities
+This is basically asking if I'm functioning and can respond. The user specifically requested that I reply with "Yes" if I can respond.
 
-None of these search results are particularly relevant to answering this direct question. The user is asking me to confirm that I'm working by replying with "Yes" if I can respond.
+Looking at the search results provided, they contain information about various AI assistants and their capabilities, how to respond to job offers, and how to respond to "how are you" questions. However, none of this is directly relevant to answering the user's simple question about whether I'm working.
 
-Following the guidelines:
-- I should answer directly
-- If search results are unhelpful (which they are in this case), I should answer using my existing knowledge
-- I should not mention that I'm using search results
-- The user specifically requested that I reply with 'Yes' if I can respond, so I should follow that instruction
-- Following user
+The user has given me a clear instruction: "Reply with 'Yes' if you can respond." Since I can respond, I should follow their instruction and reply with "Yes."
+
+According to the restrictions, I should not mention that I'm using search results, and I should answer directly. The search results don't contain relevant information for this query anyway, so I should just answer based on my ability
