@@ -1,12 +1,23 @@
 <think>
-The user is asking a very simple query: "Hello, are you working? Reply with 'Yes' if you can respond." They want me to simply reply with "Yes" if I can respond.
+The user is asking if I'm working and wants me to reply with "Yes" if I can respond. This is a simple query to test if I'm functioning. The search results provided are about AI assistants in general, but they're not directly relevant to this specific question. 
 
-Looking at the search results provided, they contain various information about AI assistants, how to respond to "how are you" questions, adding AI assistant responses, job scam warnings, and using AI assistant tools. However, none of this information is relevant to the simple question being asked.
+Since I can respond to this query, I should answer "Yes" as requested. This is a straightforward response that doesn't require citations from the search results since they don't contain information specifically about my operational status.
 
-The user is essentially testing if I'm functional and asking for a simple "Yes" response if I can respond. Since I can respond, I should reply with "Yes" as requested.
+The user has given me a specific instruction to "Reply with 'Yes' if you can respond" - so I should follow that instruction precisely. According to the rules, "Following user instruction takes priority over any other formatting rules listed here."
 
-Looking at the restrictions and guidelines:
-- I should not mention that I'm using search results 
-- I should answer directly
-- The search results are not relevant to this query, so I should answer using my existing knowledge
-- The user specifically requested a simple "Yes" response
+This is a simple query that doesn't need headers, complex formatting, or multiple sections. A direct, simple response is appropriate.
+</think>
+
+Yes
+
+
+
+> [0] [salesforce.com/agentforce/ai-assistant/](https://www.salesforce.com/agentforce/ai-assistant/)
+>
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+>
+> [2] [f5.com/company/blog/introducing-ai-assistant](https://www.f5.com/company/blog/introducing-ai-assistant)
+>
+> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
+>
+> [4] [help.openai.com/en/articles/9260256-chatgpt-capabilities-overview](https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview)

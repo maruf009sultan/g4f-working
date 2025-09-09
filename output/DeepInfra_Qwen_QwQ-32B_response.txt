@@ -1,1 +1,1 @@
-Okay, the user said, "Hello, are you working? Reply with 'Yes' if you can respond." So they're checking if I'm operational. My instructions are to reply with just "Yes" if I can. Let me make sure
+Okay, the user said, "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple "Yes" reply. Let me check if there's any context I need to consider. The user might be testing

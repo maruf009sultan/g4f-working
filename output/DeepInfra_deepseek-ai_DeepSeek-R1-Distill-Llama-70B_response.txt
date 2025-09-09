@@ -1,7 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and wants a 'Yes' reply. I should keep it simple and clear.
-
-Maybe just respond with "Yes" as they requested.
-</think>
-
-Yes
+Okay, so I have this problem where I need to figure out how to solve it, but I'm not exactly sure where to start. Let me try to break it down step by step. First, I need to understand what the problem
