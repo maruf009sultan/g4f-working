@@ -1,4 +1,4 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out how to respond.
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
 
-First, I should check if I'm able to respond. Since I'm an
+First, they're checking if I'm operational. Since I'm Qwen, I need
