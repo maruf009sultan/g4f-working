@@ -1,3 +1,1 @@
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me process this.
-
-First, the greeting is straightforward: "Hello, are you working?" They want to know if I'm
+Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." They probably want to confirm if I'm active and available. My task is to respond with just "Yes" if I can

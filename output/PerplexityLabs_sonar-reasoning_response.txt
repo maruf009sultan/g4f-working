@@ -1,11 +1,17 @@
 <think>
-The user is asking if I'm working and wants me to reply with 'Yes' if I can respond. This is a simple query asking about my availability/functionality. The user has specifically instructed me to "Reply with 'Yes' if you can respond."
+The user is asking a simple question to check if I'm working/functional. They specifically ask me to reply with 'Yes' if I can respond. This is a straightforward test query.
 
-Looking at the search results, they're about AI assistants in general, how they work, their capabilities, etc. But this query is very simple and direct - the user just wants to know if I'm operational and has given me a specific instruction on how to respond.
+Looking at the search results, they're about AI assistants in general and their capabilities, but they're not directly relevant to answering this specific query. The user is just checking if I'm operational.
 
-Since I can respond to the query, I should follow their instruction and reply with 'Yes'. This is a straightforward response that doesn't need the search results or extensive formatting. The user's instruction takes priority over other formatting rules as mentioned in the guidelines: "Following user instruction takes priority over any other formatting rules listed here."
+According to the guidelines:
+- I should answer the query directly
+- If search results are empty or unhelpful, I should answer using my existing knowledge
+- I should follow user instructions, and the user specifically requested I reply with 'Yes' if I can respond
+- I should not mention using search results
+- I should not start with a header
+- This is a simple query that doesn't need complex formatting
 
-The search results aren't really relevant to this simple operational check, so I shouldn't force citations into this response.
+The user instruction is clear: "Reply with 'Yes' if you can respond." Since I can respond, I should reply with 'Yes' as requested.
 </think>
 
 Yes
@@ -16,8 +22,8 @@ Yes
 >
 > [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
 >
-> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+> [2] [aiacquisition.com/blog/ai-assistant-capabilities](https://www.aiacquisition.com/blog/ai-assistant-capabilities)
 >
-> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
+> [3] [support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google](https://support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google?hl=en)
 >
-> [4] [aiacquisition.com/blog/ai-assistant-capabilities](https://www.aiacquisition.com/blog/ai-assistant-capabilities)
+> [4] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)

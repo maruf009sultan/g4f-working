@@ -1,3 +1,1 @@
-<think>Hmm, the user is asking if I'm working and wants a simple 'Yes' confirmation. 
-
-This seems like a basic operational check - probably testing if I'm responsive before asking something more complex. The tone is neutral but direct, so</think>
+Yes

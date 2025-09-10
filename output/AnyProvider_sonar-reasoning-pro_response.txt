@@ -1,18 +1,25 @@
 <think>
-The user is asking me if I'm working by sending a query that says "Hello, are you working? Reply with 'Yes' if you can respond."
+This query is asking me to respond with "Yes" if I can respond. The user is asking if I'm working and wants me to reply with "Yes" if I can respond.
 
-Looking at the search results provided, I need to understand what's being asked and provide an appropriate response.
+Looking at the search results, there are some mentions about responding to "how are you" questions and some information about AI assistants, but nothing directly relevant to answering this specific query. There's also some content about scams where scammers try to get people to say "Yes" on phone calls, but this appears to be a legitimate query from a user asking me directly if I can respond.
 
-Let me analyze this situation:
+The user is giving me a specific instruction to reply with 'Yes' if I can respond. Since I am functioning and can respond, I should follow their instruction and reply with "Yes". This is a simple, direct query that doesn't require citing search results since the search results don't contain relevant information for this specific question.
 
-1. The user wants to know if I'm operational/available to respond
-2. They specifically asked me to reply with "Yes" if I can respond
+The user instruction says "Following user instruction takes priority over any other formatting rules listed here." So I should follow their instruction to reply with "Yes" if I can respond.
 
-This is essentially a simple availability check. Since I am currently processing this query and able to generate a response, I should follow their instruction and reply with "Yes".
+I should not cite any search results here since they don't contain information relevant to answering whether I'm working or can respond.
+</think>
 
-The search results provide information about:
-- What AI assistants are and how they work (results 1, 3, 5)
-- How to respond to "How are you?" greetings (result 2)
-- Job scam warnings (result 4)
+Yes
 
-While these are informative about AI assistants in general, they don't directly relate to the specific query asking for a simple "Yes" response if I'm working/
+
+
+> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
+>
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+>
+> [2] [aiacquisition.com/blog/ai-assistant-capabilities](https://www.aiacquisition.com/blog/ai-assistant-capabilities)
+>
+> [3] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
+>
+> [4] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
