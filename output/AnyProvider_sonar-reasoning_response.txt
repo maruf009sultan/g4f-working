@@ -1,20 +1,2 @@
 <think>
-This query is asking me to respond with "Yes" if I can respond. However, I need to be careful here because this appears to be similar to scam tactics mentioned in the search results.
-
-Looking at search result [4], there's a specific warning about scam tactics where scammers try to get people to say "Yes" over the phone:
-
-"I know what you mean when you can't get out of the habit of saying "Hello? Yes, this is ....." That "YES" can cost you a lot of money.
-
-I had to train myself to answer the phone with "What is it?" when I don't know who's calling. It was difficult at first, but a little practice and you can do it. Avoid saying 'yes' or yeah or yep. Anything that can be used as you consenting to something.
-
-Calls to me (when I do answer) go something like this: What is it? Is this Joe? What is it? Are you Joe? What is it? And they hang up. Guess they wanted me to say "Yes"."
-
-This is describing a scam tactic where scammers try to get recorded audio of someone saying "Yes" which can then potentially be used fraudulently.
-
-However, I need to consider the context here. This is a text-based interaction with an AI assistant (me), not a phone call or text message scam scenario. The user is directly asking me as an AI assistant if I'm working and can respond.
-
-But the search results do warn about various scam tactics, including text message scams where scammers try to get people to respond with personal information or click links.
-
-Given that this is a legitimate interaction with an AI assistant and not a scam scenario, I should respond appropriately. However, I should also be aware that the phrasing of the request (asking for a specific "Yes" response) could potentially be mimicking scam tactics.
-
-I think the best approach is to acknowledge that I can respond and am working, but I shoul
+The user is asking me a simple question: "

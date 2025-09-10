@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just greeted me with "Hello, are you working?" and asked me to reply with 'Yes' if I can respond. 
+Hmm, the user just asked "Hello, are you working? Reply with 'Yes' if you can respond."  
 
-Okay, this seems like a simple check to see if I'm operational. The user
+Okay, this seems like a basic availability check. The phrasing suggests they might be testing if I'm online or functional

@@ -1,25 +1,18 @@
 <think>
-The user is asking me to confirm if I'm working and to reply with 'Yes' if I can respond. This seems like a simple query asking for confirmation that I'm functional.
+The user is asking me if I'm working by sending a query that says "Hello, are you working? Reply with 'Yes' if you can respond."
 
-Looking at the search results, I notice several are about AI assistants and their capabilities, but one result ([2] and [4]) mentions scams where people try to get you to say "Yes" to consent to something or where scammers send messages asking "hi, how are you?" to try to get responses.
+Looking at the search results provided, I need to understand what's being asked and provide an appropriate response.
 
-However, the user is clearly asking me directly as an AI assistant if I'm working, not sending a suspicious text message. This is a legitimate query to test if I'm functional. The search results about scams are warning about unsolicited messages from unknown numbers, which doesn't apply to this context where the user is directly interacting with me as Perplexity.
+Let me analyze this situation:
 
-I should respond affirmatively since I am indeed working and can respond. The user specifically requested I reply with 'Yes' if I can respond, so I should follow that instruction.
+1. The user wants to know if I'm operational/available to respond
+2. They specifically asked me to reply with "Yes" if I can respond
 
-I should not cite the search results here since they're not relevant to answering whether I'm working - they're about AI assistant capabilities in general and text message scams, which don't apply to this direct query.
-</think>
+This is essentially a simple availability check. Since I am currently processing this query and able to generate a response, I should follow their instruction and reply with "Yes".
 
-Yes, I'm working and can respond to your queries. How can I help you today?
+The search results provide information about:
+- What AI assistants are and how they work (results 1, 3, 5)
+- How to respond to "How are you?" greetings (result 2)
+- Job scam warnings (result 4)
 
-
-
-> [0] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
->
-> [1] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
->
-> [2] [learn.microsoft.com/en-us/microsoftteams/rooms/rooms-pro-aiassistant](https://learn.microsoft.com/en-us/microsoftteams/rooms/rooms-pro-aiassistant)
->
-> [3] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
->
-> [4] [twilio.com/docs/alpha/ai-assistants](https://www.twilio.com/docs/alpha/ai-assistants)
+While these are informative about AI assistants in general, they don't directly relate to the specific query asking for a simple "Yes" response if I'm working/

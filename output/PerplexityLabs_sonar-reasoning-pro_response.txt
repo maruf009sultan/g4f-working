@@ -1,29 +1,17 @@
 <think>
-The user is asking a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
+The user is asking me a very simple question: "Hello, are you working? Reply with 'Yes' if you can respond." 
 
-This is a straightforward query where the user is asking me to confirm if I'm working/operational by replying with "Yes" if I can respond.
+This is a straightforward query asking if I'm functioning. The user specifically requests that I reply with 'Yes' if I can respond.
 
-Looking at the search results, they contain information about AI assistants in general, how to reply to job offers, adding AI assistant responses, how to respond to "how are you" conversationally, and AI assistant capabilities. None of these search results are directly relevant to answering the user's simple question about whether I'm working.
+Looking at the search results, they don't seem relevant to this query at all. The search results are about:
+1. What AI assistants are and how they work
+2. Job scam warnings about random text messages
+3. More about AI assistants 
+4. Warning about ignoring "hi, how are you?" messages from strangers
+5. AI assistant capabilities
 
-According to the instructions, if the search results are empty or unhelpful, I should answer the query to the best of my ability using my existing knowledge. The search results here are not helpful for this specific query.
+None of these directly answer the user's simple question about whether I'm working.
 
-The user is asking for a simple confirmation that I can respond, and they specifically requested I reply with "Yes" if I can respond. Since I can indeed respond (as evidenced by me generating this response), I should follow their instruction and reply with "Yes".
+However, I notice something interesting in search result [4] - there's a discussion about scam messages and how people should be careful about responding to unknown messages, especially with "yes" responses. One commenter mentions: "I had to train myself to answer the phone with "What is it?" when I don't know who's calling. It was difficult at first, but a little practice and you can do it. Avoid saying 'yes' or yeah or yep. Anything that can be used as you consenting to something."
 
-I should not mention anything about search results or cite sources since this is not relevant to the query and the search results don't help answer this question.
-
-I should also avoid starting with a header since this is a simple, direct question that doesn't require complex sections.
-</think>
-
-Yes
-
-
-
-> [0] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
->
-> [1] [indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer](https://www.indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer)
->
-> [2] [ibm.com/docs/en/watsonx/watson-orchestrate/current](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/current?topic=actions-adding-ai-assistant-responses)
->
-> [3] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
->
-> [4] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
+But the user is directly asking me
