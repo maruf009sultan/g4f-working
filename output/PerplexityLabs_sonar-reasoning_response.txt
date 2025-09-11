@@ -1,17 +1,13 @@
 <think>
-The user is asking a simple question to check if I'm working/functional. They specifically ask me to reply with 'Yes' if I can respond. This is a straightforward test query.
+The user is asking if I'm working and wants me to reply with "Yes" if I can respond. This is a simple query asking for confirmation that I'm operational. The search results provided are about AI assistants, job offers, and related topics, but they don't really relate to this specific query.
 
-Looking at the search results, they're about AI assistants in general and their capabilities, but they're not directly relevant to answering this specific query. The user is just checking if I'm operational.
+Looking at the restrictions and guidelines:
+- I should answer directly 
+- I shouldn't mention search results since they're not relevant here
+- The user specifically requested I reply with "Yes" if I can respond
+- This is a straightforward confirmation request
 
-According to the guidelines:
-- I should answer the query directly
-- If search results are empty or unhelpful, I should answer using my existing knowledge
-- I should follow user instructions, and the user specifically requested I reply with 'Yes' if I can respond
-- I should not mention using search results
-- I should not start with a header
-- This is a simple query that doesn't need complex formatting
-
-The user instruction is clear: "Reply with 'Yes' if you can respond." Since I can respond, I should reply with 'Yes' as requested.
+Since I can respond and I'm working properly, I should reply with "Yes" as requested.
 </think>
 
 Yes
@@ -20,10 +16,10 @@ Yes
 
 > [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
 >
-> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+> [1] [indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer](https://www.indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer)
 >
 > [2] [aiacquisition.com/blog/ai-assistant-capabilities](https://www.aiacquisition.com/blog/ai-assistant-capabilities)
 >
-> [3] [support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google](https://support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google?hl=en)
+> [3] [youtube.com/watch](https://www.youtube.com/watch?v=E-mZa2BgR5o)
 >
 > [4] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)

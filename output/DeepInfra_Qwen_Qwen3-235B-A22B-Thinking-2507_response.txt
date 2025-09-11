@@ -1,3 +1,3 @@
-<think>Okay, the user is asking if I'm working and wants me to reply with just 'Yes' if I can respond. 
+<think>Okay, the user sent a message saying: "Hello, are you working? Reply with 'Yes' if you can respond." They want me to just say 'Yes' if I can reply.
 
-Hmm, this seems like a simple system check - probably testing if the chatbot is live. The user might be
+First, I need to check if I'm

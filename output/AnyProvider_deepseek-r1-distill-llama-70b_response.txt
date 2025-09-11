@@ -1,0 +1,4 @@
+<think>
+Okay, so I need to figure out how to solve this problem: "A ball is thrown upwards with an initial speed of 20 m/s. How high does it go above the ground?" 
+
+Hmm, I remember from physics that when

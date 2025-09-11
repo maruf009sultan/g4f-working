@@ -1,3 +1,3 @@
-<think>Okay, user just sent a very basic check-in message: "Hello, are you working? Reply with 'Yes' if you can respond." 
+<think>Okay, the user just sent a simple query asking if I'm working and requesting a 'Yes' response if I can respond. 
 
-Hmm, this feels like a test or maybe someone who's new to AI interactions. The</think>
+Hmm, this feels like a basic connectivity test or confirmation request. The user probably wants to verify if the</think>
