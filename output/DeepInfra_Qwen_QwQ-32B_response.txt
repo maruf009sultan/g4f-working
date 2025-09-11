@@ -1,3 +1,1 @@
-Okay, the user just sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." They want a straightforward answer.
-
-First, I need to confirm if I can respond. Since I'm here and the system
+Okay, the user just said, "Hello, are you working? Reply with 'Yes' if you can respond." They want me to confirm if I'm operational by replying with "Yes." Let me check the instructions again. The user specified

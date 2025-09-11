@@ -1,4 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve this problem: "A ball is thrown upwards with an initial speed of 20 m/s. How high does it go above the ground?" 
-
-Hmm, I remember from physics that when
+Okay, so I just restored my computer, and now I can't find the files I had in my Documents folder. That's a bit of a panic because there were some important documents in there. Let me try to figure out what could

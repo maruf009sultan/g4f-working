@@ -1,13 +1,19 @@
 <think>
-The user is asking if I'm working and wants me to reply with "Yes" if I can respond. This is a simple query asking for confirmation that I'm operational. The search results provided are about AI assistants, job offers, and related topics, but they don't really relate to this specific query.
+The user is asking a very simple greeting/status check question: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-Looking at the restrictions and guidelines:
-- I should answer directly 
-- I shouldn't mention search results since they're not relevant here
-- The user specifically requested I reply with "Yes" if I can respond
-- This is a straightforward confirmation request
+This is a straightforward query that just wants to know if I'm operational. The user specifically requests that I reply with 'Yes' if I can respond.
 
-Since I can respond and I'm working properly, I should reply with "Yes" as requested.
+Looking at the search results, they contain information about AI assistants, how they work, capabilities, etc. However, this query is not really about understanding AI assistants in depth - it's just a simple status check.
+
+According to the restrictions:
+- I should not start with a header
+- I should answer directly
+- I should not use phrases like "According to the search results" etc.
+- I should answer in the same language as the query (English)
+
+The user has given me a specific instruction: "Reply with 'Yes' if you can respond." This is a clear user instruction that I should follow as per point 8 in the guidelines: "Make sure to follow any instructions that the user requests you to follow... Following user instruction takes priority over any other formatting rules listed here."
+
+Since this is such a simple query and the user has given specific instructions on how to respond, I should simply respond with "Yes" as requested. The search results are not really relevant to this simple status check question.
 </think>
 
 Yes
@@ -16,10 +22,20 @@ Yes
 
 > [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
 >
-> [1] [indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer](https://www.indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer)
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=E-mZa2BgR5o)
 >
 > [2] [aiacquisition.com/blog/ai-assistant-capabilities](https://www.aiacquisition.com/blog/ai-assistant-capabilities)
 >
-> [3] [youtube.com/watch](https://www.youtube.com/watch?v=E-mZa2BgR5o)
+> [3] [support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google](https://support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google?hl=en)
 >
-> [4] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
+> [4] [learn.microsoft.com/en-us/microsoftteams/rooms/rooms-pro-aiassistant](https://learn.microsoft.com/en-us/microsoftteams/rooms/rooms-pro-aiassistant)
+>
+> [5] [nohello.net/en](https://nohello.net/en)
+>
+> [6] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
+>
+> [7] [englishclass101.com/lesson/absolute-beginner-american-english-for-every-day-25-10-responses-to-how-are-you](https://www.englishclass101.com/lesson/absolute-beginner-american-english-for-every-day-25-10-responses-to-how-are-you)
+>
+> [8] [eesel.ai/blog/ai-assistant-capabilities](https://www.eesel.ai/blog/ai-assistant-capabilities)
+>
+> [9] [ibm.com/think/topics/ai-agents-vs-ai-assistants](https://www.ibm.com/think/topics/ai-agents-vs-ai-assistants)

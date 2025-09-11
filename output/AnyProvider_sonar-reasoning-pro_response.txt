@@ -1,32 +1,13 @@
 <think>
-This is a very simple query asking if I am working and requesting a specific response format ("Yes" if I can respond). The user is essentially asking if I'm functional and able to respond.
+This is a simple query asking if I'm working and requesting I reply with "Yes" if I can respond. The user is essentially testing if I'm functioning and asking for a specific response format.
 
-Looking at the search results, they seem to be about:
-1. What AI assistants are and how they work
-2. How to reply to job offers
-3. AI assistant capabilities 
-4. Job offer scams via text
-5. AI assistant capabilities documentation
+Let me analyze this:
+1. The user is asking if I'm working
+2. They want me to reply with "Yes" if I can respond
+3. This is a straightforward functionality test
 
-None of these search results are directly relevant to answering the simple question "are you working?" The search results don't contain information about my specific status or functionality.
+Looking at the search results, they contain information about AI assistants and how they work, job offer responses, and some technical information about Teams AI Assistant, but none of this is directly relevant to answering whether I'm working or not.
 
-Since the search results are not helpful for this query, I should answer using my existing knowledge. The user is asking if I'm working/functional and requesting a "Yes" response if I can respond.
+Since the user is asking me directly if I'm working and requesting a specific response, and I can clearly respond to their query, I should follow their instruction and reply with "Yes" as requested.
 
-The query is very straightforward - they want to know if I'm operational and can respond. Since I can clearly respond to their message, the answer should be "Yes" as requested.
-
-I should not mention that I'm using search results since they're not relevant, and I should just answer directly and naturally.
-</think>
-
-Yes
-
-
-
-> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
->
-> [1] [indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer](https://www.indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer)
->
-> [2] [aiacquisition.com/blog/ai-assistant-capabilities](https://www.aiacquisition.com/blog/ai-assistant-capabilities)
->
-> [3] [youtube.com/watch](https://www.youtube.com/watch?v=E-mZa2BgR5o)
->
-> [4] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
+The restrictions say I should not start with a header, and this is a simple query that doesn't need complex formatting. I should just give a direct, concise response
