@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just asked if I'm working and wants me to reply with 'Yes' if I can respond.  
+Okay, the user just asked if I'm working and requested a simple 'Yes' reply if available. Hmm, this seems like a connectivity test or a quick status check - maybe they've experienced AI unresponsiveness before. 
 
-Okay, this seems like a simple availability check - probably someone testing if I'm online or capable of responding.
+The

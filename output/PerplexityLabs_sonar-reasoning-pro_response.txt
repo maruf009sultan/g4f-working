@@ -1,33 +1,8 @@
 <think>
-This is a simple query asking if I can respond, and the user wants me to reply with "Yes" if I can respond. This is a straightforward test query to see if the AI assistant is functional.
+The user is asking if I'm working and specifically requesting that I reply with "Yes" if I can respond. This is a simple query to test if I'm functioning. The user has given me a specific instruction to follow - to reply with "Yes" if I can respond.
 
-Looking at the search results, they contain information about AI assistants in general, how to respond to "How are you?" conversationally, and AI assistant capabilities. However, none of this information is directly relevant to answering the specific query "Hello, are you working? Reply with 'Yes' if you can respond."
+Looking at the search results provided, they seem to be about AI assistants and their capabilities, keyboard troubleshooting, and job scam texts. These search results are not relevant to answering the user's simple query about whether I'm working.
 
-The user is asking for a very simple response - just "Yes" if I can respond. Since I can clearly respond (I'm processing and answering this query), the appropriate response is simply "Yes" as requested.
+According to the guidelines, if the search results are empty or unhelpful, I should answer the query to the best of my ability using my existing knowledge. Since this is a simple question about my functionality and the user has given specific instructions to reply with "Yes" if I can respond, I should follow that instruction.
 
-I should not cite the search results since they don't contain relevant information for this specific query. The restrictions say if search results don't provide an answer, I should respond based on my ability, and in this case, the answer is straightforward - I can respond, so I should say "Yes" as requested.
-</think>
-
-Yes
-
-
-
-> [0] [salesforce.com/agentforce/ai-assistant/](https://www.salesforce.com/agentforce/ai-assistant/)
->
-> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
->
-> [2] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
->
-> [3] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
->
-> [4] [aiacquisition.com/blog/ai-assistant-capabilities](https://www.aiacquisition.com/blog/ai-assistant-capabilities)
->
-> [5] [learn.microsoft.com/en-us/answers/questions/2400505/copilot-does-not-work-answer-the-same-sentence-all](https://learn.microsoft.com/en-us/answers/questions/2400505/copilot-does-not-work-answer-the-same-sentence-all)
->
-> [6] [eesel.ai/blog/ai-assistant-capabilities](https://www.eesel.ai/blog/ai-assistant-capabilities)
->
-> [7] [community.openai.com/t/how-to-prevent-chatgpt-from-answering-questions-that-are-outside-the-scope-of-the-provided-context-in-the-system-role-message/112027](https://community.openai.com/t/how-to-prevent-chatgpt-from-answering-questions-that-are-outside-the-scope-of-the-provided-context-in-the-system-role-message/112027)
->
-> [8] [experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home)
->
-> [9] [nohello.net/en](https://nohello.net/en)
+The user instruction takes priority over other formatting rules as stated in point 8 of the guidelines: "Following user

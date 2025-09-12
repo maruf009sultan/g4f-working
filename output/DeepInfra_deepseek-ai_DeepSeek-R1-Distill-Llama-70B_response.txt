@@ -1,4 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." So, I should first check if I'm functional. 
-
-I can process information and generate responses, so I'm working properly
+Okay, so I just asked the AI if it's working and it replied with a simple "Yes." Now, I'm supposed to think through how to respond. Hmm, the user probably wants to know what the AI can do or maybe

@@ -1,2 +1,4 @@
 <think>
-Okay, so I'm trying to figure out how to respond when someone asks me to write a detailed thought process of a student tackling a math problem. The problem given is: Solve for x, 2x + 3 = 7
+Okay, so I want to figure out how to solve 2x + 5 = 23. I remember from class that solving equations involves getting the variable by itself on one side. Let me think about the steps. 
+
+First,
