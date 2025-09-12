@@ -1,2 +1,4 @@
 <think>
-Okay, so I need to figure out how to respond to the user's message. They sent, "Hello, are you working? Reply with 'Yes' if you can respond." The initial response given was "Yes." Now, the
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." So, I should first check if I'm functional. 
+
+I can process information and generate responses, so I'm working properly

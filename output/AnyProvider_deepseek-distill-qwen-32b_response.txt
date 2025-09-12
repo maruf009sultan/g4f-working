@@ -1,2 +1,0 @@
-<think>
-Okay, so the user started with "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." And the assistant just replied with "Yes." Hmm, I wonder why the user structured their message

@@ -1,45 +1,33 @@
 <think>
-The user is asking me if I'm working and wants me to reply with 'Yes' if I can respond. This is a simple query asking about my availability/functionality. The search results provided don't really relate to this query - they're about AI assistants in general, job offers, and various other topics that aren't directly relevant to the user's simple question.
+This is a simple query asking if I can respond, and the user wants me to reply with "Yes" if I can respond. This is a straightforward test query to see if the AI assistant is functional.
 
-Looking at the restrictions, I should:
-1. Not include URLs or links
-2. Not include bibliographies 
-3. Avoid moralization or hedging language
-4. Not repeat copyrighted content verbatim
-5. Never directly output song lyrics
-6. Never begin with a header (and this query doesn't need multiple sections)
-7. If search results don't provide an answer, respond that information is not available (but in this case, I can answer the query directly)
-8. Never use phrases like "According to the search results" etc.
-9. Never use • symbol
-10. Never cite right after code blocks
-11. Never use $ or $$ for LaTeX
-12. Always answer in same language as query (English)
+Looking at the search results, they contain information about AI assistants in general, how to respond to "How are you?" conversationally, and AI assistant capabilities. However, none of this information is directly relevant to answering the specific query "Hello, are you working? Reply with 'Yes' if you can respond."
 
-The user specifically requested that I reply with 'Yes' if I can respond. This is a direct instruction that I should follow according to rule 8 in the main instructions: "Make sure to follow any instructions that the user requests you to follow... Following user instruction takes priority over any other formatting rules listed here."
+The user is asking for a very simple response - just "Yes" if I can respond. Since I can clearly respond (I'm processing and answering this query), the appropriate response is simply "Yes" as requested.
 
-The search results don't contain relevant information for this query, so I won't be citing any of them. I should simply respond as requested.
+I should not cite the search results since they don't contain relevant information for this specific query. The restrictions say if search results don't provide an answer, I should respond based on my ability, and in this case, the answer is straightforward - I can respond, so I should say "Yes" as requested.
 </think>
 
-Yes.
+Yes
 
 
 
-> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
+> [0] [salesforce.com/agentforce/ai-assistant/](https://www.salesforce.com/agentforce/ai-assistant/)
 >
-> [1] [indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer](https://www.indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer)
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
 >
-> [2] [aiacquisition.com/blog/ai-assistant-capabilities](https://www.aiacquisition.com/blog/ai-assistant-capabilities)
+> [2] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
 >
-> [3] [youtube.com/watch](https://www.youtube.com/watch?v=E-mZa2BgR5o)
+> [3] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
 >
-> [4] [learn.microsoft.com/en-us/microsoftteams/rooms/rooms-pro-aiassistant](https://learn.microsoft.com/en-us/microsoftteams/rooms/rooms-pro-aiassistant)
+> [4] [aiacquisition.com/blog/ai-assistant-capabilities](https://www.aiacquisition.com/blog/ai-assistant-capabilities)
 >
-> [5] [discussions.apple.com/thread/5525228](https://discussions.apple.com/thread/5525228)
+> [5] [learn.microsoft.com/en-us/answers/questions/2400505/copilot-does-not-work-answer-the-same-sentence-all](https://learn.microsoft.com/en-us/answers/questions/2400505/copilot-does-not-work-answer-the-same-sentence-all)
 >
-> [6] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
+> [6] [eesel.ai/blog/ai-assistant-capabilities](https://www.eesel.ai/blog/ai-assistant-capabilities)
 >
-> [7] [nohello.net/en](https://nohello.net/en)
+> [7] [community.openai.com/t/how-to-prevent-chatgpt-from-answering-questions-that-are-outside-the-scope-of-the-provided-context-in-the-system-role-message/112027](https://community.openai.com/t/how-to-prevent-chatgpt-from-answering-questions-that-are-outside-the-scope-of-the-provided-context-in-the-system-role-message/112027)
 >
-> [8] [eesel.ai/blog/ai-assistant-capabilities](https://www.eesel.ai/blog/ai-assistant-capabilities)
+> [8] [experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home)
 >
-> [9] [ibm.com/think/topics/ai-agents-vs-ai-assistants](https://www.ibm.com/think/topics/ai-agents-vs-ai-assistants)
+> [9] [nohello.net/en](https://nohello.net/en)

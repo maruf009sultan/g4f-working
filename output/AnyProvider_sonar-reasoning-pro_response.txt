@@ -1,13 +1,33 @@
 <think>
-This is a simple query asking if I'm working and requesting I reply with "Yes" if I can respond. The user is essentially testing if I'm functioning and asking for a specific response format.
+The user is asking me if I'm working and wants me to reply with 'Yes' if I can respond. This is a simple query asking for confirmation that I'm functioning and able to provide responses.
 
-Let me analyze this:
-1. The user is asking if I'm working
-2. They want me to reply with "Yes" if I can respond
-3. This is a straightforward functionality test
+The user specifically requested that I "Reply with 'Yes' if you can respond." This is a clear instruction that takes priority over other formatting rules according to the guidelines: "Following user instruction takes priority over any other formatting rules listed here."
 
-Looking at the search results, they contain information about AI assistants and how they work, job offer responses, and some technical information about Teams AI Assistant, but none of this is directly relevant to answering whether I'm working or not.
+The search results provided are about AI assistants and how to respond to "How are you?" in conversation, but they're not directly relevant to answering this specific query. The user is asking for a simple confirmation of my operational status.
 
-Since the user is asking me directly if I'm working and requesting a specific response, and I can clearly respond to their query, I should follow their instruction and reply with "Yes" as requested.
+Since I can respond and I'm functioning properly, I should follow the user's instruction and reply with 'Yes'.
+</think>
 
-The restrictions say I should not start with a header, and this is a simple query that doesn't need complex formatting. I should just give a direct, concise response
+Yes
+
+
+
+> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
+>
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+>
+> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+>
+> [3] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
+>
+> [4] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
+>
+> [5] [ag.state.mn.us/consumer/Publications/CanYouHearMe.asp](https://www.ag.state.mn.us/consumer/Publications/CanYouHearMe.asp)
+>
+> [6] [aiacquisition.com/blog/ai-assistant-capabilities](https://www.aiacquisition.com/blog/ai-assistant-capabilities)
+>
+> [7] [eesel.ai/blog/ai-assistant-capabilities](https://www.eesel.ai/blog/ai-assistant-capabilities)
+>
+> [8] [ibm.com/think/topics/ai-agents-vs-ai-assistants](https://www.ibm.com/think/topics/ai-agents-vs-ai-assistants)
+>
+> [9] [experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home)

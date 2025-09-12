@@ -1,2 +1,2 @@
 <think>
-Okay, so I just restored my computer, and now I can't find the files I had in my Documents folder. That's a bit of a panic because there were some important documents in there. Let me try to figure out what could
+Okay, so I'm trying to figure out how to respond when someone asks me to write a detailed thought process of a student tackling a math problem. The problem given is: Solve for x, 2x + 3 = 7

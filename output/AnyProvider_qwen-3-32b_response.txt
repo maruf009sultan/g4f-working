@@ -1,0 +1,4 @@
+<think>
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to make sure I understand their request. They want a confirmation that I'm active and able to reply.
+
+First,

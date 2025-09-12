@@ -1,0 +1,4 @@
+<think>
+Hmm, a simple greeting asking if I'm operational. The user seems to want confirmation before proceeding - probably checking if this is an active AI system.  
+
+The phrasing is polite ("Hello") but very minimal. No context about what they
