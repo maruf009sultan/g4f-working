@@ -1,8 +1,35 @@
 <think>
-The user is asking if I'm working and specifically requesting that I reply with "Yes" if I can respond. This is a simple query to test if I'm functioning. The user has given me a specific instruction to follow - to reply with "Yes" if I can respond.
+The user is asking a very straightforward question: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-Looking at the search results provided, they seem to be about AI assistants and their capabilities, keyboard troubleshooting, and job scam texts. These search results are not relevant to answering the user's simple query about whether I'm working.
+This is a simple test query to see if I'm functioning. The user has explicitly requested that I reply with "Yes" if I can respond. Since I can respond, I should simply answer "Yes" as requested.
 
-According to the guidelines, if the search results are empty or unhelpful, I should answer the query to the best of my ability using my existing knowledge. Since this is a simple question about my functionality and the user has given specific instructions to reply with "Yes" if I can respond, I should follow that instruction.
+Looking at the search results, they contain information about AI assistants and how they work, as well as some content about how to respond to "How are you?" questions in general conversation. However, none of this is directly relevant to the user's specific query, which is just asking me to confirm I'm working by responding with "Yes."
 
-The user instruction takes priority over other formatting rules as stated in point 8 of the guidelines: "Following user
+The user has given me a specific instruction to follow: "Reply with 'Yes' if you can respond." Since I can respond, I should follow this instruction exactly.
+
+I should not overcomplicate this or add unnecessary information from the search results, as the user's request is very clear and direct.
+</think>
+
+Yes
+
+
+
+> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
+>
+> [1] [indeed.com/career-advice/career-development/how-are-you-response](https://www.indeed.com/career-advice/career-development/how-are-you-response)
+>
+> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+>
+> [3] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+>
+> [4] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
+>
+> [5] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
+>
+> [6] [aiacquisition.com/resources/ai-assistant-capabilities](https://www.aiacquisition.com/resources/ai-assistant-capabilities)
+>
+> [7] [askamanager.org](https://www.askamanager.org)
+>
+> [8] [eesel.ai/blog/ai-assistant-capabilities](https://www.eesel.ai/blog/ai-assistant-capabilities)
+>
+> [9] [nohello.net/en](https://nohello.net/en)

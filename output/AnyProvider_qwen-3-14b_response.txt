@@ -1,4 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me process this.
-
-First, I need to determine if I can respond. Since I'm an AI, I don't
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the guidelines. I should confirm that I'm available and able to help. The response needs to be straightforward

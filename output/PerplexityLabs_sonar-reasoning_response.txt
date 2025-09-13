@@ -1,0 +1,13 @@
+<think>
+This is a straightforward query asking if I'm working and requesting a specific response format - to reply with 'Yes' if I can respond. The user is essentially testing if I'm functional and asking for a simple confirmation.
+
+Looking at the search results provided, they contain information about AI assistants and how they work, but they don't directly relate to this specific query about whether I'm working. The search results discuss:
+
+1. How AI assistants work (NLP, ML, etc.)
+2. How to respond to "How are you?" in conversation
+3. AI assistant capabilities
+4. Various technical aspects of AI assistants
+
+However, none of these search results directly address the user's simple question about whether I'm working/functional.
+
+According to the restrictions, if the search results do not provide an answer, I should respond saying that the information is not available. But in this case, the query is asking me directly about my current functional state, which

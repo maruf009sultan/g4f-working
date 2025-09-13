@@ -1,4 +1,2 @@
 <think>
-Okay, so I want to figure out how to solve 2x + 5 = 23. I remember from class that solving equations involves getting the variable by itself on one side. Let me think about the steps. 
-
-First,
+Alright, so I need some help adjusting the brightness and contrast of an image using Java. I'm pretty new to image processing, but I think I can figure this out with some guidance. Let me start by breaking down what I need to

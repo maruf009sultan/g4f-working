@@ -1,2 +1,2 @@
 <think>
-Okay, so I just asked the AI if it's working and it replied with a simple "Yes." Now, I'm supposed to think through how to respond. Hmm, the user probably wants to know what the AI can do or maybe
+Okay, so I'm trying to figure out how to respond to this user's message. They said, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, that's interesting. They want me to

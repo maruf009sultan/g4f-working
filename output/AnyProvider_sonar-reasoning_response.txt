@@ -1,23 +1,11 @@
 <think>
-The user is asking me a very simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
+The user is asking me a simple yes/no question about whether I'm working and capable of responding. They've specifically requested a "Yes" if I can respond. This is a straightforward query that doesn't require detailed analysis of the search results provided. The search results are about AI assistants and how to respond to greetings, but they're not directly relevant to answering this simple operational question.
 
-Let me analyze this query:
-1. It's asking if I'm working/functional
-2. It specifically asks me to reply with 'Yes' if I can respond
-3. This is a direct, simple query that doesn't require search results
+According to the guidelines, I should:
+1. Answer the query directly
+2. Not mention that I'm using search results or citing sources in this case since they're not relevant
+3. Keep it simple since this is a basic operational query
 
-Looking at the search results, they are about:
-1. What is an AI assistant and how they work
-2. Text message scams about job offers
-3. AI assistant capabilities
-4. Preventing ChatGPT from answering out-of-scope questions
+The user is asking for a simple confirmation of my operational status and has specifically requested a "Yes" response format if I can respond. Since I am indeed able to respond, I should give them the confirmation they're looking for.
 
-The search results don't really relate to the user's simple question about whether I'm working. The user is just checking if I'm functional and specifically requesting a "Yes" response if I can respond.
-
-According to the restrictions:
-- I should not mention using search results
-- I should answer directly
-- If search results don't provide an answer, I should respond based on my knowledge
-- I should follow user instructions (they asked me to reply with 'Yes' if I can respond)
-
-The user instruction is clear: "Reply with 
+This doesn't fall under any of the special query type rules since it's just a simple operational question. I don't need headers, detailed explanations, or complex
