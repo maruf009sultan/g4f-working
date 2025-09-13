@@ -1,36 +1,8 @@
 <think>
-The user is asking me if I'm working and to reply with "Yes" if I can respond. This is a simple query checking if I'm functional. The search results provided don't seem directly relevant to this query - they discuss AI assistants in general, how to respond to "how are you" in English conversation, and scam calls.
+The user is asking a simple question to check if I'm working/functioning. They're explicitly asking me to reply with 'Yes' if I can respond. This is a straightforward query that doesn't require extensive search result analysis.
 
-Looking at the restrictions and rules:
-- I should not mention that I'm using search results 
-- I should answer directly
-- The search results don't provide information relevant to answering whether I'm working/functional
-- This is a simple direct question that doesn't require complex formatting or sections
-- The user specifically requested I reply with "Yes" if I can respond
+Looking at the search results, they appear to be about AI assistant capabilities and how to respond to "How are you?" questions, but the user's query is much simpler - they just want confirmation that I'm working.
 
-Since I can respond and I'm functioning, I should simply answer "Yes" as requested. The search results don't contain relevant information for this query, so I'll answer based on my ability to respond to the user's request.
-</think>
+Since they explicitly asked me to reply with 'Yes' if I can respond, and I can indeed respond, I should follow their instruction and reply with 'Yes'. This is a direct instruction from the user that I should follow according to the guidelines that say "Following user instruction takes priority over any other formatting rules listed here."
 
-Yes
-
-
-
-> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
->
-> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
->
-> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
->
-> [3] [ag.state.mn.us/consumer/Publications/CanYouHearMe.asp](https://www.ag.state.mn.us/consumer/Publications/CanYouHearMe.asp)
->
-> [4] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
->
-> [5] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
->
-> [6] [aiacquisition.com/blog/ai-assistant-capabilities](https://www.aiacquisition.com/blog/ai-assistant-capabilities)
->
-> [7] [community.openai.com/t/how-to-prevent-chatgpt-from-answering-questions-that-are-outside-the-scope-of-the-provided-context-in-the-system-role-message/112027](https://community.openai.com/t/how-to-prevent-chatgpt-from-answering-questions-that-are-outside-the-scope-of-the-provided-context-in-the-system-role-message/112027)
->
-> [8] [eesel.ai/blog/ai-assistant-capabilities](https://www.eesel.ai/blog/ai-assistant-capabilities)
->
-> [9] [nohello.net/en](https://nohello.net/en)
+The search results don't really contain relevant information for this specific query, so I should answer based on my ability to respond, which I clearly can since I'm generating

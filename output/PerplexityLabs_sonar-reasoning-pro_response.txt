@@ -1,13 +1,18 @@
 <think>
-The user is asking a very straightforward question: "Hello, are you working? Reply with 'Yes' if you can respond."
+The user is asking a simple question - "Hello, are you working? Reply with 'Yes' if you can respond." This seems to be a basic test to see if I'm functioning. 
 
-This is a simple test query to see if I'm functioning. The user has explicitly requested that I reply with "Yes" if I can respond. Since I can respond, I should simply answer "Yes" as requested.
+Looking at the search results provided, they are about AI assistants and their capabilities, but this isn't relevant to the simple query being asked. The user just wants to know if I'm working and specifically requested I reply with "Yes" if I can respond.
 
-Looking at the search results, they contain information about AI assistants and how they work, as well as some content about how to respond to "How are you?" questions in general conversation. However, none of this is directly relevant to the user's specific query, which is just asking me to confirm I'm working by responding with "Yes."
+Since I can respond, I should simply say "Yes" as requested. This is a straightforward query that doesn't require complex formatting, headers, or citing the search results. The search results are about AI assistant capabilities in general but don't contain information specifically about my current status or functioning.
 
-The user has given me a specific instruction to follow: "Reply with 'Yes' if you can respond." Since I can respond, I should follow this instruction exactly.
+Following the guidelines:
+1. I should answer directly 
+2. The search results aren't relevant to this specific query about my current status
+3. I should follow the user's specific instruction to reply with "Yes" if I can respond
+4. I shouldn't mention using search results since they're not relevant
+5. No complex formatting is needed for such a simple query
 
-I should not overcomplicate this or add unnecessary information from the search results, as the user's request is very clear and direct.
+This is a simple functional test, not a complex query requiring detailed analysis or multiple sections.
 </think>
 
 Yes
@@ -16,20 +21,20 @@ Yes
 
 > [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
 >
-> [1] [indeed.com/career-advice/career-development/how-are-you-response](https://www.indeed.com/career-advice/career-development/how-are-you-response)
+> [1] [community.openai.com/t/how-to-prevent-chatgpt-from-answering-questions-that-are-outside-the-scope-of-the-provided-context-in-the-system-role-message/112027](https://community.openai.com/t/how-to-prevent-chatgpt-from-answering-questions-that-are-outside-the-scope-of-the-provided-context-in-the-system-role-message/112027)
 >
-> [2] [salesforce.com/ap/agentforce/ai-assistant/](https://www.salesforce.com/ap/agentforce/ai-assistant/)
+> [2] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
 >
-> [3] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+> [3] [discussions.apple.com/thread/255565392](https://discussions.apple.com/thread/255565392)
 >
-> [4] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
+> [4] [aiacquisition.com/resources/ai-assistant-capabilities](https://www.aiacquisition.com/resources/ai-assistant-capabilities)
 >
-> [5] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
+> [5] [englishclass101.com/lesson/absolute-beginner-american-english-for-every-day-25-10-responses-to-how-are-you](https://www.englishclass101.com/lesson/absolute-beginner-american-english-for-every-day-25-10-responses-to-how-are-you)
 >
-> [6] [aiacquisition.com/resources/ai-assistant-capabilities](https://www.aiacquisition.com/resources/ai-assistant-capabilities)
+> [6] [eesel.ai/blog/ai-assistant-capabilities](https://www.eesel.ai/blog/ai-assistant-capabilities)
 >
-> [7] [askamanager.org](https://www.askamanager.org)
+> [7] [ibm.com/think/topics/ai-agents-vs-ai-assistants](https://www.ibm.com/think/topics/ai-agents-vs-ai-assistants)
 >
-> [8] [eesel.ai/blog/ai-assistant-capabilities](https://www.eesel.ai/blog/ai-assistant-capabilities)
+> [8] [documentation.meraki.com/General_Administration/Cross-Platform_Content/AI_Assistant_-_Public_Beta](https://documentation.meraki.com/General_Administration/Cross-Platform_Content/AI_Assistant_-_Public_Beta)
 >
-> [9] [nohello.net/en](https://nohello.net/en)
+> [9] [aws.amazon.com/q/](https://aws.amazon.com/q/)

@@ -1,2 +1,2 @@
 <think>
-Alright, so I need some help adjusting the brightness and contrast of an image using Java. I'm pretty new to image processing, but I think I can figure this out with some guidance. Let me start by breaking down what I need to
+Alright, so I'm trying to figure out how to make a good screenplay. I've never written one before, but I have an idea for a story that I think would make a great movie. Let me start by thinking about what I

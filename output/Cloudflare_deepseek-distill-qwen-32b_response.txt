@@ -1,2 +1,3 @@
 <think>
-Okay, so the user is asking me to confirm if I'm working by replying with 'Yes'. I need to make sure I follow their instructions precisely. They mentioned that I should respond with 'Yes' if I can respond, which
+Okay, so the user is asking if I'm working and to respond with 'Yes' if I can. I need to make sure I follow their instructions precisely. They mentioned I should reply with 'Yes' if I can respond. 
+
