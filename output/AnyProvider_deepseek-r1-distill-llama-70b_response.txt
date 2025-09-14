@@ -1,2 +1,4 @@
 <think>
-Alright, so I'm trying to figure out how to make a good screenplay. I've never written one before, but I have an idea for a story that I think would make a great movie. Let me start by thinking about what I
+Okay, so I need to figure out how to solve this problem. The user provided some information, but it's a bit unclear. Let me try to break it down.
+
+First, they mentioned something about needing to fill out a form for

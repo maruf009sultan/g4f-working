@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and wants a 'Yes' if I can respond. I need to confirm I'm active. Let me check the guidelines. I should be friendly and helpful. Just say 'Yes' as
+Okay, the user is asking, Hello, are you working? Reply with 'Yes' if you can respond. Alright, first, I need to understand the user's intent. They might be testing if I'm online or if I can

@@ -1,2 +1,2 @@
 <think>
-Okay, I need to figure out how to solve this quadratic equation I was given. It's 3x² + 2x - 5 = 0. I remember that quadratic equations are of the form ax² + bx +
+Okay, the user asked "Hello, are you working? Reply with 'Yes' if you can respond." So, I need to respond with "Yes" as per their instruction. They might be checking if I'm functional or just starting
