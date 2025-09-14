@@ -1,2 +1,14 @@
 <think>
-The user is asking a simple question to ch
+The user is asking "Hello, are you working? Reply with 'Yes' if you can respond."
+
+This is a straightforward query asking me to confirm if I'm operational. The user is specifically requesting that I reply with "Yes" if I can respond.
+
+Looking at the search results, there are some interesting pieces about AI assistants and how they work, but also some warnings about scam texts that start with "hello" and try to get people to say "yes" - which could be used for voice consent scams.
+
+However, this is clearly a legitimate query to me as an AI assistant, not a scam attempt. The user is directly asking me to confirm my operational status.
+
+According to the restrictions, I should not use hedging language or unnecessary phrases. The user has given me a clear instruction to reply with "Yes" if I can respond, so I should follow that instruction directly.
+
+The search results contain some information about AI assistants and their capabilities, but they're not directly relevant to answering this simple operational query. I should answer directly as requested.
+
+Looking at the query type rules, this

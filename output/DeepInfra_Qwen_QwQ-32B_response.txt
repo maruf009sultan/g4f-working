@@ -1,3 +1,0 @@
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
-
-First, the user is checking if I'm operational. They want a simple confirmation. The instruction is to

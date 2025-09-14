@@ -1,9 +1,11 @@
 <think>
-The user is asking me if I am working and wants me to reply with 'Yes' if I can respond. This is a very straightforward query that doesn't require me to use the search results at all. The search results are about AI assistants, UK ETA applications, and Microsoft Outlook email features, none of which are relevant to this simple question.
+The user is asking me if I'm working and wants me to reply with 'Yes' if I can respond. This is a very simple query where they just want confirmation that I'm functioning. They've specifically requested that I reply with 'Yes' if I can respond.
 
-The user is specifically requesting that I respond with 'Yes' if I can respond. Since I am clearly able to respond (I'm responding right now), I should follow their instruction and reply with 'Yes'.
+Looking at the search results, they seem to be about AI assistants and their capabilities, but they're not directly relevant to this simple query. The user is asking for a basic confirmation of my availability/functionality.
 
-This is a simple query that doesn't need headers, formatting, or citations. I should just give a direct, simple answer as requested.
+According to the restrictions, I should follow user instructions, and the user has specifically requested that I reply with 'Yes' if I can respond. Since I can respond, the appropriate answer is simply 'Yes'.
+
+I don't need to cite any search results for this simple query, and I don't need complex formatting. The user wants a simple confirmation.
 </think>
 
 Yes
@@ -12,20 +14,20 @@ Yes
 
 > [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
 >
-> [1] [community.ricksteves.com/travel-forum/transportation/uk-eta-question-about-job](https://community.ricksteves.com/travel-forum/transportation/uk-eta-question-about-job)
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=HgfoLewTz5U)
 >
 > [2] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
 >
-> [3] [support.microsoft.com/en-us/office/reply-to-or-forward-an-email-message-a843f8d3-01b0-48da-96f5-a71f70d0d7c8](https://support.microsoft.com/en-us/office/reply-to-or-forward-an-email-message-a843f8d3-01b0-48da-96f5-a71f70d0d7c8)
+> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
 >
 > [4] [aiacquisition.com/blog/ai-assistant-capabilities](https://www.aiacquisition.com/blog/ai-assistant-capabilities)
 >
-> [5] [community.openai.com/t/chatgpt-could-not-get-a-response/610904](https://community.openai.com/t/chatgpt-could-not-get-a-response/610904)
+> [5] [englishclass101.com/lesson/absolute-beginner-american-english-for-every-day-25-10-responses-to-how-are-you](https://www.englishclass101.com/lesson/absolute-beginner-american-english-for-every-day-25-10-responses-to-how-are-you)
 >
 > [6] [eesel.ai/blog/ai-assistant-capabilities](https://www.eesel.ai/blog/ai-assistant-capabilities)
 >
-> [7] [englishclass101.com/lesson/absolute-beginner-american-english-for-every-day-25-10-responses-to-how-are-you](https://www.englishclass101.com/lesson/absolute-beginner-american-english-for-every-day-25-10-responses-to-how-are-you)
+> [7] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
 >
-> [8] [ibm.com/think/topics/ai-agents-vs-ai-assistants](https://www.ibm.com/think/topics/ai-agents-vs-ai-assistants)
+> [8] [documentation.meraki.com/General_Administration/Cross-Platform_Content/AI_Assistant_-_Public_Beta](https://documentation.meraki.com/General_Administration/Cross-Platform_Content/AI_Assistant_-_Public_Beta)
 >
-> [9] [documentation.meraki.com/General_Administration/Cross-Platform_Content/AI_Assistant_-_Public_Beta](https://documentation.meraki.com/General_Administration/Cross-Platform_Content/AI_Assistant_-_Public_Beta)
+> [9] [ibm.com/think/topics/ai-agents-vs-ai-assistants](https://www.ibm.com/think/topics/ai-agents-vs-ai-assistants)
