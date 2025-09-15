@@ -1,41 +1,37 @@
 <think>
-The user is asking me a very simple question - whether I'm working and to reply with 'Yes' if I can respond. This is a basic test query to see if I'm functioning.
+The user is asking me if I'm working and specifically requests that I reply with 'Yes' if I can respond. This is a simple query to check if I'm functional. The search results are about AI assistants and how they work, and there's also some content about how to respond to "How are you?" but these aren't directly relevant to the specific query.
 
-Looking at the search results, they contain information about:
-1. AI assistant capabilities for work
-2. How to reply to or forward email messages in Microsoft Outlook  
-3. Adding AI assistant responses in IBM Watson
-4. A truncated result about OpenAI community
+The user is asking me to respond with 'Yes' if I can respond, which is a straightforward request. Since I can respond to this query, I should follow their instruction and say 'Yes'.
 
-None of these search results are relevant to answering the simple question "are you working? Reply with 'Yes' if you can respond."
+Looking at the restrictions:
+- I should not start with a header
+- I should follow user instructions, which in this case is to reply with 'Yes' if I can respond
+- I should not use phrases like "According to the search results" etc.
+- I should answer in the same language as the query (English)
 
-According to the restrictions, if the search results do not provide an answer, I should respond saying that the information is not available. However, this is a direct question to me about my functionality, not a query that requires search results. The user is simply testing if I'm working.
-
-The user has given me a specific instruction: "Reply with 'Yes' if you can respond." Following user instructions takes priority over other formatting rules as stated in the guidelines.
-
-This is a simple, direct query that doesn't require complex formatting, headers, or citations. I should simply respond with "Yes" as requested.
+The search results don't contain information that directly answers this query, so I should respond based on my ability to function and follow the user's specific instruction.
 </think>
 
 Yes
 
 
 
-> [0] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
+> [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
 >
-> [1] [support.microsoft.com/en-us/office/reply-to-or-forward-an-email-message-a843f8d3-01b0-48da-96f5-a71f70d0d7c8](https://support.microsoft.com/en-us/office/reply-to-or-forward-an-email-message-a843f8d3-01b0-48da-96f5-a71f70d0d7c8)
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
 >
-> [2] [ibm.com/docs/en/watsonx/watson-orchestrate/base](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/base?topic=actions-adding-ai-assistant-responses)
+> [2] [salesforce.com/agentforce/ai-assistant/](https://www.salesforce.com/agentforce/ai-assistant/)
 >
-> [3] [community.openai.com/t/how-to-prevent-chatgpt-from-answering-questions-that-are-outside-the-scope-of-the-provided-context-in-the-system-role-message/112027](https://community.openai.com/t/how-to-prevent-chatgpt-from-answering-questions-that-are-outside-the-scope-of-the-provided-context-in-the-system-role-message/112027)
+> [3] [learn.microsoft.com/en-us/answers/questions/5254950/lost-several-days-worth-of-work-in-an-excel-file](https://learn.microsoft.com/en-us/answers/questions/5254950/lost-several-days-worth-of-work-in-an-excel-file)
 >
-> [4] [aiacquisition.com/blog/ai-assistant-capabilities](https://www.aiacquisition.com/blog/ai-assistant-capabilities)
+> [4] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
 >
 > [5] [nohello.net/en](https://nohello.net/en)
 >
 > [6] [eesel.ai/blog/ai-assistant-capabilities](https://www.eesel.ai/blog/ai-assistant-capabilities)
 >
-> [7] [experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home)
+> [7] [support.google.com/websearch/thread/248471240/why-isnt-google-giving-me-the-answer-im-looking-for](https://support.google.com/websearch/thread/248471240/why-isnt-google-giving-me-the-answer-im-looking-for?hl=en)
 >
-> [8] [aws.amazon.com/q/](https://aws.amazon.com/q/)
+> [8] [ibm.com/think/topics/ai-agents-vs-ai-assistants](https://www.ibm.com/think/topics/ai-agents-vs-ai-assistants)
 >
-> [9] [rezolve.ai/blog/ai-assistants](https://www.rezolve.ai/blog/ai-assistants)
+> [9] [documentation.meraki.com/General_Administration/Cross-Platform_Content/AI_Assistant_-_Public_Beta](https://documentation.meraki.com/General_Administration/Cross-Platform_Content/AI_Assistant_-_Public_Beta)

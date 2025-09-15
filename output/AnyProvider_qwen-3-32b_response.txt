@@ -1,2 +1,0 @@
-<think>
-Okay, the user is asking if I'm working. They want a reply with 'Yes' if I can respond. Let me make sure I understand correctly. They might be testing if the AI is active or if there's a response expected

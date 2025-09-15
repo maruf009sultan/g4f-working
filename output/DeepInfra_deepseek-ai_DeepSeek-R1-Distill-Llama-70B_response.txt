@@ -1,2 +1,2 @@
 <think>
-Okay, so I just joined this chat, and the user greeted me with "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, that's interesting. I think they're checking if I'm active or
+Okay, so I need to figure out how to solve this problem: "Maximize the function f(x, y) = x^2 + y^2 + 10xy + 40x + 40y + 100 under

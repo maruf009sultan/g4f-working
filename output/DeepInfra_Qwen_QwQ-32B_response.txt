@@ -1,1 +1,3 @@
-Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, they want a simple "Yes" reply if I'm operational. Let me check the instructions again. The user emphasized
+Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out how to respond correctly.
+
+First, they're asking if I'm working. Since I'm an AI, I
