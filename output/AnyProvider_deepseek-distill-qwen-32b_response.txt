@@ -1,0 +1,4 @@
+<think>
+Okay, so the user is asking, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." Hmm, I need to figure out the best way to respond. 
+
+First, the greeting

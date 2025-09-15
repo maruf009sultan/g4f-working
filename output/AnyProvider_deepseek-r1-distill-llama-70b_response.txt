@@ -1,2 +1,2 @@
 <think>
-Okay, the user said hello and asked if I'm working. They also mentioned to reply with 'Yes' if I can respond. Since I can respond, and they specifically asked for 'Yes', I should keep it simple and just say
+Alright, so I just got a message from someone asking, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, that's a bit unusual. Let me try to figure out what's going on here

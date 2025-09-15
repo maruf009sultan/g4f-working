@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." I need to make sure I understand their request correctly. They want to know if I'm functioning and can reply. The
+Okay, the user is asking if I'm working. They want a reply with 'Yes' if I can respond. Let me make sure I understand correctly. They might be testing if the AI is active or if there's a response expected
