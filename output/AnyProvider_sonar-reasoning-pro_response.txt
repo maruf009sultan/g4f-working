@@ -1,18 +1,17 @@
 <think>
-The user is asking if I'm working and wants me to reply with "Yes" if I can respond. This seems like a straightforward query asking about my availability/functionality. 
+The user is asking a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
+
+This is a very straightforward query asking me to confirm if I'm operational/working. They specifically request me to reply with "Yes" if I can respond.
 
 Looking at the search results, they contain information about:
-1. How AI assistants work
-2. Job scam text messages 
-3. AI assistant capabilities
-4. Google search issues
-5. AI assistant work capabilities
-6. Text message scams
+1. AI assistants and how they work (Salesforce article)
+2. How to respond to "How are you?" (YouTube video transcript)
+3. AI assistant capabilities (Fugo.ai article)
 
-The search results don't directly relate to the user's simple question about whether I'm working. The user is asking for a simple confirmation that I can respond, and they've specifically requested I reply with "Yes" if I can respond.
+However, none of these search results are relevant to the specific query being asked. The user is simply asking if I'm working and wants a "Yes" response if I can respond.
 
-However, I need to be careful here. Looking at search result [6], it mentions text scams that start with simple greetings like "Hello" or "Hi, How are you?" and warns that responding to such messages can be dangerous. Search result [2] also discusses job scam texts.
+According to the restrictions:
+- If the search results do not provide an answer, I should respond saying that the information is not available
+- But in this case, this is a direct question to me about my operational status, not something that would be found in search results
 
-But in this context, the user is directly asking me (Perplexity) if I'm working, and this appears to be a legitimate interaction within the Perplexity platform, not a random text message scam. The user is asking for confirmation of my functionality.
-
-Given the user's specific instruction to "Reply with 'Yes' if you can respond," and since I can indeed respond and am functioning, I should follow their instruction and respond with "Yes"
+The user is asking me directly if I'm working and requesting a specific response format. This is not really a search-based query - it's a direct interaction query to test if I'm operational.

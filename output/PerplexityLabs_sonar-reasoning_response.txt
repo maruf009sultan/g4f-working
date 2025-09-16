@@ -1,14 +1,35 @@
 <think>
-The user is asking me a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
+The user is asking a simple question about whether I'm working and asking me to reply with "Yes" if I can respond. This seems like a straightforward query that doesn't require complex search results analysis. The search results provided don't seem directly relevant to this specific query - they're about AI assistants in general, email replies, job scams, etc. 
 
-This is a straightforward query asking me to confirm if I'm operational/working. The user specifically requests that I reply with 'Yes' if I can respond.
+Looking at the restrictions and guidelines:
+- I should answer the query directly 
+- I should not mention using search results
+- I should follow user instructions (they specifically asked me to reply with 'Yes' if I can respond)
+- This is a simple query that doesn't need headers or complex formatting
 
-Looking at the search results, they seem to be about AI assistants in general, how they work, and some information about responding to various situations. However, none of these search results directly address the user's specific question about whether I'm working or how I should respond to this type of query.
+Since I can respond and I'm functioning, I should simply reply "Yes" as requested by the user.
+</think>
 
-Since the search results don't contain relevant information to answer this specific query, I should answer based on my existing knowledge. The user is asking for a simple confirmation that I'm working/operational, and they've specifically requested a "Yes" response if I can respond.
+Yes
 
-Following the restrictions:
-1. I should not mention that I'm using search results since they're not helpful here
-2. I should answer directly 
-3. I should not use phrases like "According to the search results" etc.
-4. The user has given me specific instructions to reply with 'Yes' if I can respond, so I should follow that instruction
+
+
+> [0] [rezolve.ai/blog/ai-assistants](https://www.rezolve.ai/blog/ai-assistants)
+>
+> [1] [support.microsoft.com/en-us/office/reply-to-or-forward-an-email-message-a843f8d3-01b0-48da-96f5-a71f70d0d7c8](https://support.microsoft.com/en-us/office/reply-to-or-forward-an-email-message-a843f8d3-01b0-48da-96f5-a71f70d0d7c8)
+>
+> [2] [aiacquisition.com/blog/ai-assistant-capabilities](https://www.aiacquisition.com/blog/ai-assistant-capabilities)
+>
+> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
+>
+> [4] [twilio.com/docs/alpha/ai-assistants](https://www.twilio.com/docs/alpha/ai-assistants)
+>
+> [5] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
+>
+> [6] [help.moveworks.com/docs/introduction-to-assistant](https://help.moveworks.com/docs/introduction-to-assistant)
+>
+> [7] [support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google](https://support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google?hl=en)
+>
+> [8] [eesel.ai/blog/ai-assistant-capabilities](https://www.eesel.ai/blog/ai-assistant-capabilities)
+>
+> [9] [nohello.net/en](https://nohello.net/en)
