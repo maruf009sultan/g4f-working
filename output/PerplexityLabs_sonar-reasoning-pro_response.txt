@@ -1,15 +1,11 @@
 <think>
-The user is asking me if I'm working and specifically requests that I reply with 'Yes' if I can respond. This is a simple query to check if I'm functional. The search results are about AI assistants and how they work, and there's also some content about how to respond to "How are you?" but these aren't directly relevant to the specific query.
+The user is asking me if I'm working and requesting me to reply with 'Yes' if I can respond. This is a simple query asking for confirmation that I'm operational. The user specifically requests that I reply with 'Yes' if I can respond.
 
-The user is asking me to respond with 'Yes' if I can respond, which is a straightforward request. Since I can respond to this query, I should follow their instruction and say 'Yes'.
+Looking at the instructions, I need to follow user instructions which take priority over other formatting rules. The user has explicitly requested that I reply with 'Yes' if I can respond.
 
-Looking at the restrictions:
-- I should not start with a header
-- I should follow user instructions, which in this case is to reply with 'Yes' if I can respond
-- I should not use phrases like "According to the search results" etc.
-- I should answer in the same language as the query (English)
+The search results provided are about AI assistants and how to respond to various situations, but they're not directly relevant to this simple operational query. Since this is a straightforward question about my operational status and the user has given me specific instructions on how to respond, I should simply follow their request.
 
-The search results don't contain information that directly answers this query, so I should respond based on my ability to function and follow the user's specific instruction.
+The user instruction is clear: "Reply with 'Yes' if you can respond." Since I can respond, I should reply with 'Yes'.
 </think>
 
 Yes
@@ -18,20 +14,20 @@ Yes
 
 > [0] [lindy.ai/blog/what-is-an-ai-assistant](https://www.lindy.ai/blog/what-is-an-ai-assistant)
 >
-> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+> [1] [indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer](https://www.indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer)
 >
 > [2] [salesforce.com/agentforce/ai-assistant/](https://www.salesforce.com/agentforce/ai-assistant/)
 >
-> [3] [learn.microsoft.com/en-us/answers/questions/5254950/lost-several-days-worth-of-work-in-an-excel-file](https://learn.microsoft.com/en-us/answers/questions/5254950/lost-several-days-worth-of-work-in-an-excel-file)
+> [3] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
 >
 > [4] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
 >
-> [5] [nohello.net/en](https://nohello.net/en)
+> [5] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
 >
 > [6] [eesel.ai/blog/ai-assistant-capabilities](https://www.eesel.ai/blog/ai-assistant-capabilities)
 >
-> [7] [support.google.com/websearch/thread/248471240/why-isnt-google-giving-me-the-answer-im-looking-for](https://support.google.com/websearch/thread/248471240/why-isnt-google-giving-me-the-answer-im-looking-for?hl=en)
+> [7] [nohello.net/en](https://nohello.net/en)
 >
-> [8] [ibm.com/think/topics/ai-agents-vs-ai-assistants](https://www.ibm.com/think/topics/ai-agents-vs-ai-assistants)
+> [8] [documentation.meraki.com/General_Administration/Cross-Platform_Content/AI_Assistant_-_Public_Beta](https://documentation.meraki.com/General_Administration/Cross-Platform_Content/AI_Assistant_-_Public_Beta)
 >
-> [9] [documentation.meraki.com/General_Administration/Cross-Platform_Content/AI_Assistant_-_Public_Beta](https://documentation.meraki.com/General_Administration/Cross-Platform_Content/AI_Assistant_-_Public_Beta)
+> [9] [experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home)

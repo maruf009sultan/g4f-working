@@ -1,0 +1,14 @@
+<think>
+The user is asking me a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
+
+This is a straightforward query asking me to confirm if I'm operational/working. The user specifically requests that I reply with 'Yes' if I can respond.
+
+Looking at the search results, they seem to be about AI assistants in general, how they work, and some information about responding to various situations. However, none of these search results directly address the user's specific question about whether I'm working or how I should respond to this type of query.
+
+Since the search results don't contain relevant information to answer this specific query, I should answer based on my existing knowledge. The user is asking for a simple confirmation that I'm working/operational, and they've specifically requested a "Yes" response if I can respond.
+
+Following the restrictions:
+1. I should not mention that I'm using search results since they're not helpful here
+2. I should answer directly 
+3. I should not use phrases like "According to the search results" etc.
+4. The user has given me specific instructions to reply with 'Yes' if I can respond, so I should follow that instruction

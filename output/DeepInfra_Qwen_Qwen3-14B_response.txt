@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the current status. Since I'm an AI, I don't have a traditional work schedule, but I
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to handle this.
+
+First, I need to confirm if they want a simple 'Yes' response.

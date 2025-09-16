@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve this problem: "Maximize the function f(x, y) = x^2 + y^2 + 10xy + 40x + 40y + 100 under
+Okay, so I need to figure out how rotational inertia, also known as moment of inertia, works. I remember it's about how difficult it is to rotate an object. The more mass and the farther it's distributed from the axis,
