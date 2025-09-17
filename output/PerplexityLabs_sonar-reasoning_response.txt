@@ -1,8 +1,19 @@
 <think>
-The user is asking if I'm working and wants me to reply with "Yes" if I can respond. This is a very straightforward query asking about my operational status. The user has specifically requested a particular format for the response ("Reply with 'Yes' if you can respond").
+This query is asking me to respond with "Yes" if I can respond. However, looking at the search results, they seem to be about AI assistants and job scams, particularly mentioning text messages from unknown numbers asking things like "hi, how are you?" and job offers.
 
-Looking at the search results provided, they contain information about AI assistants, job scams, and some unrelated content about saying yes/no in English. However, this query is not really asking for detailed information from these search results - it's asking for a simple confirmation of my operational status.
+The search results seem to warn about scam text messages, particularly in result [4] and [6]. Result [6] specifically mentions being cautious about responding to unknown numbers, and result [4] talks about job scam texts.
 
-The user has given me a specific instruction: "Reply with 'Yes' if I can respond." Since I can indeed respond (as evidenced by the fact that I'm formulating this response), I should follow their instruction and reply with "Yes".
+However, the user is asking me directly if I'm working and to reply with "Yes" if I can respond. This is a straightforward question to me as an AI assistant. The search results don't directly relate to this query - they're about scam prevention and AI assistant capabilities in general.
 
-According to the query type rules and restrictions, I should follow user instructions when they give them, and this takes priority over other formatting rules. The user wants a simple "Yes" response, so that's what I shoul
+Looking at the restrictions, I should not start with headers, and I should answer directly. The user is asking for a simple response - "Yes" if I can respond. Since I can respond, the answer should be "Yes" but I should also provide some context given the search results about being cautious with unknown text messages.
+
+Actually, wait. Let me re-read this carefully. The user is asking "Hello, are you working? Reply with 'Yes' if you can respond." This seems like a direct question to me as an AI assistant. But the search results are about scam texts and warnings about responding to unknown numbers.
+
+I think the user wants me to answer their direct question, but the search results might be relevant context about why people should be cautious about responding to unknown messages. However, in this case, the user is directly interacting with me as Perplexity, an AI assistant, so this isn't a scam scenario.
+
+I should answer "Yes" since I can respond, but I might also want to acknowledge the context from the search results about being cautious with unknown messages, since that seems to be what the search results are about.
+</think>
+
+Yes, I can respond and I'm working properly as an AI assistant.
+
+However, if you received a similar message from an unknown number via text, you should be cautious. Random text messages asking

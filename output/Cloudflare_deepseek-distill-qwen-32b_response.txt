@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking me to confirm if I'm working by replying with 'Yes'. I should make sure to follow that instruction precisely. They might be checking if the system is active or if I'm responsive. It's a
+Okay, so the user is saying "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond with just 'Yes'. But wait, the user also mentioned that I should think step by step.

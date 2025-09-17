@@ -1,35 +1,14 @@
 <think>
-The user is asking a simple question - "Hello, are you working? Reply with 'Yes' if you can respond."
+The user is asking me a very simple question - they want to know if I'm working and to reply with "Yes" if I can respond. This is a straightforward request that doesn't require any complex analysis or use of the search results.
 
-This is a straightforward query asking me to confirm if I'm operational. The user specifically requests that I reply with "Yes" if I can respond. 
+The search results provided are about AI assistants in general, job scams, and various AI capabilities, but none of this is relevant to answering the simple query "are you working?" 
 
-Looking at the search results, they contain information about AI assistants and ways to say yes/no in English, but this information isn't directly relevant to answering this simple operational query. The user just wants confirmation that I'm working.
+The user is explicitly asking me to reply with "Yes" if I can respond. Since I can respond, I should simply answer "Yes" as requested.
 
-Based on the restrictions, I should not cite search results for this type of simple response, and I should answer directly. The user has given me a specific instruction to reply with "Yes" if I can respond, so I should follow that instruction.
+Looking at the restrictions:
+- I shouldn't start with a header (this is a simple response, no need for headers anyway)
+- I should answer directly 
+- I shouldn't mention search results since they're not relevant to this query
+- The user gave me specific instructions to reply with "Yes" if I can respond, and following user instructions takes priority
 
-This is not a complex query that needs sections or detailed formatting - it's a simple yes/no question with specific instructions on how to respond.
-</think>
-
-Yes
-
-
-
-> [0] [salesforce.com/agentforce/ai-assistant/](https://www.salesforce.com/agentforce/ai-assistant/)
->
-> [1] [youtube.com/watch](https://www.youtube.com/watch?v=HgfoLewTz5U)
->
-> [2] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
->
-> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
->
-> [4] [eesel.ai/blog/ai-assistant-capabilities](https://www.eesel.ai/blog/ai-assistant-capabilities)
->
-> [5] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
->
-> [6] [ibm.com/think/topics/ai-agents-vs-ai-assistants](https://www.ibm.com/think/topics/ai-agents-vs-ai-assistants)
->
-> [7] [nohello.net/en](https://nohello.net/en)
->
-> [8] [help.openai.com/en/articles/9260256-chatgpt-capabilities-overview](https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview)
->
-> [9] [experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home](https://experienceleague.adobe.com/en/docs/experience-platform/ai-assistant/home)
+This is a

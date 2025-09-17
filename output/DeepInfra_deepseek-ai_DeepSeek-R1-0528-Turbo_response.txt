@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just asked if I'm working and wants a simple 'Yes' reply if I can respond. Okay, this seems straightforward. 
+Hmm, the user just asked if I'm working and wants me to reply with "Yes" if I can respond. 
 
-The phrasing feels like they might be testing if I'm active or available. Maybe they
+Okay, this seems like a simple availability check - maybe they're testing if I'm online or want to confirm

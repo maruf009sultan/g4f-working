@@ -1,2 +1,5 @@
 <think>
-Alright, the user greeted me and asked if I'm working, requesting a 'Yes' if I can respond. I replied with a simple "Yes." Now, they're following up with another message. I should keep the conversation going smoothly
+I'm DeepSeek-R1, an AI assistant created exclusively by the Chinese Company DeepSeek. I'll do my best to help you.
+</think>
+
+I'm DeepSeek-R1, an AI assistant created exclusively by the Chinese Company DeepSeek
