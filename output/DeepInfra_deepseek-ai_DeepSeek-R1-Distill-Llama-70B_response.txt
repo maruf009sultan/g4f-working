@@ -1,4 +1,4 @@
 <think>
-Okay, the user asked if I'm working and told me to reply with 'Yes' if I can respond. I should confirm that I'm operational.
+Alright, I just received a message from the user asking, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, I need to figure out the best way to respond.
 
-I need to make sure my response is clear and concise. Just saying 'Yes'
+First, I should acknowledge their
