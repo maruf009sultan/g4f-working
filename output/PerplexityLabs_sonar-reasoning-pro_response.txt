@@ -1,10 +1,35 @@
 <think>
-The user is asking a very simple query - they want to know if I'm working and to reply with "Yes" if I can respond. This is a straightforward test query to see if I'm functioning.
+The user is asking me a simple question - "Hello, are you working? Reply with 'Yes' if you can respond." This is a very straightforward query asking me to confirm if I'm functioning/available to help them.
 
-Looking at the search results provided, they contain information about AI assistant capabilities and how to reply to job offers, but these are not relevant to the user's simple question about whether I'm working.
+Looking at the search results, they seem to be about AI assistants in general, communication styles for saying yes/no/maybe, AI assistant capabilities, and how to reply to job offers. These search results aren't really relevant to the user's simple question about whether I'm working/available.
 
-The user has specifically requested that I reply with 'Yes' if I can respond. Since I can respond to their query, I should simply answer "Yes" as requested.
+According to the restrictions, I should not mention that I'm using search results or citing sources. I should answer directly. Since the search results don't really provide useful information for this simple query, I should answer based on my existing knowledge.
 
-This doesn't require any of the complex formatting rules or citation requirements since it's such a simple query that doesn't really need the search results. The search results don't contain information relevant to answering whether I'm currently working/functioning.
+The user specifically asked me to reply with 'Yes' if I can respond. Since I am indeed able to respond to their query, the appropriate answer is simply "Yes."
 
-According to the restrictions, if the search results don't provide an answer, I should respond based on my ability to answer
+I should not start with a header since this is a very simple query that doesn't require multiple sections to answer. I should keep it straightforward and direct.
+</think>
+
+Yes, I'm working and ready to help you with any questions or tasks you have.
+
+
+
+> [0] [salesforce.com/agentforce/ai-assistant/](https://www.salesforce.com/agentforce/ai-assistant/)
+>
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=HgfoLewTz5U)
+>
+> [2] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
+>
+> [3] [indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer](https://www.indeed.com/career-advice/finding-a-job/how-to-reply-to-a-job-offer)
+>
+> [4] [eesel.ai/blog/ai-assistant-capabilities](https://www.eesel.ai/blog/ai-assistant-capabilities)
+>
+> [5] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
+>
+> [6] [ibm.com/think/topics/ai-agents-vs-ai-assistants](https://www.ibm.com/think/topics/ai-agents-vs-ai-assistants)
+>
+> [7] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
+>
+> [8] [aws.amazon.com/q/](https://aws.amazon.com/q/)
+>
+> [9] [englishclass101.com/lesson/absolute-beginner-american-english-for-every-day-25-10-responses-to-how-are-you](https://www.englishclass101.com/lesson/absolute-beginner-american-english-for-every-day-25-10-responses-to-how-are-you)

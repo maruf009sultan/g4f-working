@@ -1,0 +1,2 @@
+<think>
+Okay, so the user just said, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." Hmm, they're checking if I'm operational. They probably want to make sure I'm

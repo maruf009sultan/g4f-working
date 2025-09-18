@@ -1,10 +1,16 @@
 <think>
-The user is asking me if I'm working and specifically requesting that I reply with 'Yes' if I can respond. This seems like a straightforward query where they're just testing if I'm functional.
+This is a very simple query asking me if I'm working and requesting a specific response format. The user wants me to reply with 'Yes' if I can respond.
 
-However, I need to be careful here because I noticed in the search results there's information about "Can You Hear Me?" scam calls where scammers try to get people to say "yes" and then record that response to potentially use for unauthorized charges.
+Let me analyze the search results to see if they're relevant:
+- Result [1] is about AI assistants and their capabilities
+- Result [2] is about job scam texts
+- Result [3] is about AI assistant capabilities in WorkWithPlus
+- Result [4] is about job scam texts 
+- Result [5] is about AI assistants and their benefits
+- Result [6] appears to be about Google Assistant not responding properly
+- Result [7] is about AI assistant capabilities
+- Result [8] is about communication etiquette (saying hello)
 
-Looking at search result [2], it describes a scam where callers ask questions like "Can you hear me?" to get people to say "yes", and then they record that "yes" to potentially claim authorization for charges.
+The search results don't really address the direct question being asked. The user is simply asking if I'm working and wants a "Yes" response if I can respond. This is a straightforward interaction test.
 
-But in this context, this is a direct user query to me as an AI assistant, not a phone call scam. The user is legitimately testing if I'm working and has specifically requested a "Yes" response. This is a normal interaction with an AI assistant, not a scam scenario.
-
-I should respond naturally and directly to their request. The user wants
+Looking at the restrictions, I should not mention that I'm using search results, and I should answer directly. The

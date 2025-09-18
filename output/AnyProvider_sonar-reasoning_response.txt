@@ -1,14 +1,35 @@
 <think>
-The user is asking me a very simple question - "Hello, are you working? Reply with 'Yes' if you can respond."
+The user is asking me if I'm working and requesting that I reply with 'Yes' if I can respond. This is a simple query to test if I'm functioning.
 
-This is a straightforward query asking me to confirm that I'm operational. The user specifically requests that I reply with 'Yes' if I can respond.
+Looking at the search results, they contain information about AI assistants, their capabilities, how they work, and some unrelated content about job offer scams and text messaging etiquette. However, none of this is directly relevant to answering the user's simple question.
 
-Looking at the search results, they contain information about AI assistants in general, job scams, Google search issues, etc. None of this is directly relevant to the user's simple question about whether I'm working.
+The user has given me a clear instruction: "Reply with 'Yes' if you can respond." Since I can respond, I should follow their instruction and reply with 'Yes'.
 
-According to the guidelines:
-1. I should answer the query directly
-2. If search results are empty or unhelpful, I should answer to the best of my ability using existing knowledge
-3. I should follow user instructions - in this case, they want me to reply with 'Yes' if I can respond
-4. I shouldn't mention that I'm using search results or not using them
-5. I should never start with a header for simple queries like this
-6. I shoul
+According to the restrictions, I should follow user instructions, and the user has specifically requested that I reply with 'Yes' if I can respond. This takes priority over other formatting rules.
+
+The search results are not relevant to this query, so I don't need to cite them. The user is simply testing if I'm working/functioning.
+</think>
+
+Yes
+
+
+
+> [0] [axerosolutions.com/glossary/ai-assistant](https://axerosolutions.com/glossary/ai-assistant)
+>
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+>
+> [2] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
+>
+> [3] [youtube.com/watch](https://www.youtube.com/watch?v=E-mZa2BgR5o)
+>
+> [4] [aiacquisition.com/blog/ai-assistant-capabilities](https://www.aiacquisition.com/blog/ai-assistant-capabilities)
+>
+> [5] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
+>
+> [6] [help.moveworks.com/docs/introduction-to-assistant](https://help.moveworks.com/docs/introduction-to-assistant)
+>
+> [7] [nohello.net/en](https://nohello.net/en)
+>
+> [8] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
+>
+> [9] [support.google.com/docs/thread/374157096/importrange-saying-i-do-not-have-permission-to-view-my-own-sheet](https://support.google.com/docs/thread/374157096/importrange-saying-i-do-not-have-permission-to-view-my-own-sheet?hl=en)
