@@ -1,36 +1,10 @@
 <think>
-The user is asking me if I'm working and to reply with "Yes" if I can respond. This is a simple query that doesn't require any of the search results provided. The search results are about AI assistants, job scams via text, and AI capabilities, but none of that is relevant to this simple greeting/availability check.
+The user is asking a very simple query - they want to know if I'm working and to reply with "Yes" if I can respond. This is a straightforward test query to see if I'm functioning.
 
-Looking at the restrictions:
-- I should not mention that I'm using search results
-- I should answer directly 
-- I should follow user instructions (they specifically asked me to reply with 'Yes' if I can respond)
-- I should not start with a header
-- I should answer in the same language as the query (English)
+Looking at the search results provided, they contain information about AI assistant capabilities and how to reply to job offers, but these are not relevant to the user's simple question about whether I'm working.
 
-This is a very straightforward query - the user is just checking if I'm available/working and has given me specific instructions on how to respond.
-</think>
+The user has specifically requested that I reply with 'Yes' if I can respond. Since I can respond to their query, I should simply answer "Yes" as requested.
 
-Yes
+This doesn't require any of the complex formatting rules or citation requirements since it's such a simple query that doesn't really need the search results. The search results don't contain information relevant to answering whether I'm currently working/functioning.
 
-
-
-> [0] [salesforce.com/agentforce/ai-assistant/](https://www.salesforce.com/agentforce/ai-assistant/)
->
-> [1] [youtube.com/watch](https://www.youtube.com/watch?v=E-mZa2BgR5o)
->
-> [2] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
->
-> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
->
-> [4] [eesel.ai/blog/ai-assistant-capabilities](https://www.eesel.ai/blog/ai-assistant-capabilities)
->
-> [5] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
->
-> [6] [ibm.com/think/topics/ai-agents-vs-ai-assistants](https://www.ibm.com/think/topics/ai-agents-vs-ai-assistants)
->
-> [7] [community.openai.com/t/chatgpt-could-not-get-a-response/610904](https://community.openai.com/t/chatgpt-could-not-get-a-response/610904)
->
-> [8] [aws.amazon.com/q/](https://aws.amazon.com/q/)
->
-> [9] [discussions.apple.com/thread/5525228](https://discussions.apple.com/thread/5525228)
+According to the restrictions, if the search results don't provide an answer, I should respond based on my ability to answer

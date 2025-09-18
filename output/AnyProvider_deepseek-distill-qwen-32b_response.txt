@@ -1,0 +1,4 @@
+<think>
+Okay, so I need to figure out how to respond to the user's query. Let me read through the history again to make sure I understand the context correctly.
+
+User: You are a helpful assistant. Hello, are you working? Reply

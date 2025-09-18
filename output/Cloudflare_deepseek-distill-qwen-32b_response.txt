@@ -1,2 +1,0 @@
-<think>
-Okay, so the user is saying "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond with just 'Yes'. But wait, the user also mentioned that I should think step by step.

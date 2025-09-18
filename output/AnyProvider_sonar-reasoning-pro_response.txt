@@ -1,14 +1,8 @@
 <think>
-The user is asking me a very simple question - they want to know if I'm working and to reply with "Yes" if I can respond. This is a straightforward request that doesn't require any complex analysis or use of the search results.
+The user is asking me to respond with "Yes" if I can respond. This seems like a straightforward query, but I need to be careful here because the search results contain information about scams where people are asked to say "yes" to questions like "Can you hear me?" 
 
-The search results provided are about AI assistants in general, job scams, and various AI capabilities, but none of this is relevant to answering the simple query "are you working?" 
+Looking at the search results, particularly result [2], there's information about the "Can You Hear Me?" scam where scammers call people and ask questions designed to get a "yes" answer. The scam works by getting people to say "yes" which can then be recorded and potentially used maliciously.
 
-The user is explicitly asking me to reply with "Yes" if I can respond. Since I can respond, I should simply answer "Yes" as requested.
+However, in this case, the user is directly asking me (an AI assistant) if I'm working and to reply with "Yes" if I can respond. This is a legitimate interaction with an AI system, not a phone scam. The user is not a scammer trying to record my voice saying "yes" - I'm a text-based AI and this is a normal query about my availability/functionality.
 
-Looking at the restrictions:
-- I shouldn't start with a header (this is a simple response, no need for headers anyway)
-- I should answer directly 
-- I shouldn't mention search results since they're not relevant to this query
-- The user gave me specific instructions to reply with "Yes" if I can respond, and following user instructions takes priority
-
-This is a
+The search results are about AI assistant capabilities and phone scams, but they don't really help answer this specific query. The user is simply
