@@ -1,10 +1,15 @@
 <think>
-The user is asking me if I'm working and asking for a reply with 'Yes' if I can respond. This seems like a very simple question - they want to know if I'm operational and can answer.
+The user is asking me if I'm working, and specifically wants me to reply with 'Yes' if I can respond. This is a simple query to check if I'm functional/operational.
 
-Looking at the search results, I see content about AI assistant capabilities and some information about spam texts/scam messages. The search result [4] even mentions that saying "YES" to unknown text messages can cost money, which is about scam calls/texts.
+Let me check the search results to see if there's any relevant information, but this seems like a straightforward question about my operational status rather than something that requires the search results.
 
-However, the user is directly asking me if I'm working and specifically requesting a "Yes" response if I can respond. This is not a spam situation - they are directly communicating with me as an AI assistant. The user's request is straightforward and legitimate.
+Looking at the search results:
+1. About AI assistants and how they work
+2. A YouTube video about how to respond to "How are you?"
+3. More about AI assistants and their functionality
+4. About job scam texts
+5. Introducing an AI assistant
 
-The query is very simple and doesn't require the search results. I should just answer directly that yes, I am working and can respond. I don't need to cite the search results since they're not relevant to answering whether I'm currently operational.
+The search results don't really contain information that's directly relevant to answering whether I'm working/operational. The user is asking for a simple confirmation that I can respond.
 
-The user has given
+The user has given me a specific instruction: "Reply with 'Yes' if you can respond." Since I can indeed respond, I should follow this

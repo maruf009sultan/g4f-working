@@ -1,10 +1,10 @@
 <think>
-The user is asking a simple question - whether I'm working or if I can respond. They specifically ask me to reply with 'Yes' if I can respond. This is a very straightforward query that doesn't require complex formatting or the search results provided.
+The user is asking me a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-The search results are about AI assistants in general, how they work, and some unrelated topics like job scams and responses to "how are you." None of these search results are directly relevant to answering whether I'm working or can respond.
+Looking at the search results, I can see that several of them discuss scams related to getting people to say "yes" on the phone or via text. Particularly search result [2] discusses the "Say Yes" scam where scammers try to get people to say "yes" which they then record and use for fraudulent purposes. Search result [6] also discusses job-related text scams.
 
-According to the instructions, if the search results are empty or unhelpful, I should answer the query to the best of my ability using my existing knowledge. In this case, the search results don't help answer this simple question about my availability.
+However, I need to be careful here. The user is asking me directly if I'm working and to reply with "Yes" if I can respond. This appears to be a legitimate query to me as an AI assistant, not a scam attempt. The user is simply trying to confirm that I'm functioning and can respond to their query.
 
-The user has given me a specific instruction to reply with 'Yes' if I can respond, and since I am indeed responding to their query, the answer should be 'Yes'.
+The search results are about phone/text scams targeting humans, not about interactions with AI assistants. The context here is different - this is a direct interaction with an AI system through a proper interface, not an unsolicited call or text.
 
-I should follow the user
+I should respond naturally and directly to confirm that I am working and can respond. I don't need to be overly suspicious of this straightforward question

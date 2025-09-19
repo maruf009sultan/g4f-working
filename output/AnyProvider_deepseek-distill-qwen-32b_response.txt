@@ -1,2 +1,0 @@
-<think>
-Okay, so the user is asking me to confirm if I'm working by replying with 'Yes'. I should respond with just 'Yes' without any additional text. That seems straightforward. I don't need to elaborate or provide any extra

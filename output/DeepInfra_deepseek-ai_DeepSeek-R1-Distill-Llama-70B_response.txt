@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out what the user is asking for here. They sent a message saying, "Hello, are you working? Reply with 'Yes' if you can respond." Then, in the next line, someone
+Okay, so I'm trying to figure out how to write a program that simulates a traffic light system. Hmm, where do I even start? Let me think about what a traffic light does. It cycles through red, yellow, and

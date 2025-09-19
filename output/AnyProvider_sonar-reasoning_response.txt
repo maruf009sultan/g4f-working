@@ -1,35 +1,10 @@
 <think>
-The user is asking me a simple question: "Hello, are you working? Reply with 'Yes' if you can respond." 
+The user is asking "Hello, are you working? Reply with 'Yes' if you can respond." This is a simple query where they want to know if I'm functioning and specifically requesting me to reply with "Yes" if I can respond.
 
-This is a straightforward query asking if I'm functioning properly. The user specifically requests that I reply with "Yes" if I can respond. Since I am working and can respond, I should simply answer "Yes" as requested.
+Looking at the search results, they are about AI assistants in general - what they are, how they work, their capabilities, etc. But the query is very straightforward and doesn't really need the search results to answer. The user is just testing if I'm working and asking for a specific response format.
 
-Looking at the search results, they contain information about AI assistant capabilities and how to respond to "How are you?" questions, but this is more about technical capabilities of AI systems rather than directly relevant to the simple query being asked.
+According to the restrictions, I should not start with phrases like "According to the search results" or similar. I should also follow the user's instructions, and they specifically asked me to reply with 'Yes' if I can respond.
 
-The user's instruction is clear - they want me to reply with "Yes" if I can respond. Since I can respond, the answer should be "Yes".
+The user instruction says "Following user instruction takes priority over any other formatting rules listed here." The user specifically requested me to reply with 'Yes' if I can respond. So I should do exactly that.
 
-I should not overcomplicate this with citations or extensive explanations since the user gave a very specific instruction on how to respond.
-</think>
-
-Yes
-
-
-
-> [0] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
->
-> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
->
-> [2] [twilio.com/docs/alpha/ai-assistants](https://www.twilio.com/docs/alpha/ai-assistants)
->
-> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
->
-> [4] [help.moveworks.com/docs/introduction-to-assistant](https://help.moveworks.com/docs/introduction-to-assistant)
->
-> [5] [englishclass101.com/lesson/absolute-beginner-american-english-for-every-day-25-10-responses-to-how-are-you](https://www.englishclass101.com/lesson/absolute-beginner-american-english-for-every-day-25-10-responses-to-how-are-you)
->
-> [6] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
->
-> [7] [eesel.ai/blog/ai-assistant-capabilities](https://www.eesel.ai/blog/ai-assistant-capabilities)
->
-> [8] [wwt.com/atc-capabilities/ai-assistants/overview](https://www.wwt.com/atc-capabilities/ai-assistants/overview)
->
-> [9] [ibm.com/think/topics/ai-agents-vs-ai-assistants](https://www.ibm.com/think/topics/ai-agents-vs-ai-assistants)
+This is a very simple query that doesn't require detailed analysis or
