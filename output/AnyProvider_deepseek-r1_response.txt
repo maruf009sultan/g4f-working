@@ -1,1 +1,4 @@
-Yes
+<think>
+Okay, the user just asked if I'm working and requested a specific reply format. Hmm, this seems like a connectivity check or a bot test - maybe they've had bad experiences with unresponsive AI before? 
+
+The phrasing is polite

@@ -1,16 +1,10 @@
 <think>
-This is a very simple query asking me if I'm working and requesting a specific response format. The user wants me to reply with 'Yes' if I can respond.
+The user is asking a simple question - whether I'm working or if I can respond. They specifically ask me to reply with 'Yes' if I can respond. This is a very straightforward query that doesn't require complex formatting or the search results provided.
 
-Let me analyze the search results to see if they're relevant:
-- Result [1] is about AI assistants and their capabilities
-- Result [2] is about job scam texts
-- Result [3] is about AI assistant capabilities in WorkWithPlus
-- Result [4] is about job scam texts 
-- Result [5] is about AI assistants and their benefits
-- Result [6] appears to be about Google Assistant not responding properly
-- Result [7] is about AI assistant capabilities
-- Result [8] is about communication etiquette (saying hello)
+The search results are about AI assistants in general, how they work, and some unrelated topics like job scams and responses to "how are you." None of these search results are directly relevant to answering whether I'm working or can respond.
 
-The search results don't really address the direct question being asked. The user is simply asking if I'm working and wants a "Yes" response if I can respond. This is a straightforward interaction test.
+According to the instructions, if the search results are empty or unhelpful, I should answer the query to the best of my ability using my existing knowledge. In this case, the search results don't help answer this simple question about my availability.
 
-Looking at the restrictions, I should not mention that I'm using search results, and I should answer directly. The
+The user has given me a specific instruction to reply with 'Yes' if I can respond, and since I am indeed responding to their query, the answer should be 'Yes'.
+
+I should follow the user

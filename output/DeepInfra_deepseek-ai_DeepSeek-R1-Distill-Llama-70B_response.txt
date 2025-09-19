@@ -1,2 +1,2 @@
 <think>
-Okay, the user just said "Hello, are you working?" and I need to figure out how to respond. First, I should check if I'm operational. Since I can process the message, I should reply with 'Yes'. I
+Okay, so I'm trying to figure out what the user is asking for here. They sent a message saying, "Hello, are you working? Reply with 'Yes' if you can respond." Then, in the next line, someone

@@ -1,35 +1,35 @@
 <think>
-The user is asking me if I'm working and requesting that I reply with 'Yes' if I can respond. This is a simple query to test if I'm functioning.
+The user is asking me a simple question: "Hello, are you working? Reply with 'Yes' if you can respond." 
 
-Looking at the search results, they contain information about AI assistants, their capabilities, how they work, and some unrelated content about job offer scams and text messaging etiquette. However, none of this is directly relevant to answering the user's simple question.
+This is a straightforward query asking if I'm functioning properly. The user specifically requests that I reply with "Yes" if I can respond. Since I am working and can respond, I should simply answer "Yes" as requested.
 
-The user has given me a clear instruction: "Reply with 'Yes' if you can respond." Since I can respond, I should follow their instruction and reply with 'Yes'.
+Looking at the search results, they contain information about AI assistant capabilities and how to respond to "How are you?" questions, but this is more about technical capabilities of AI systems rather than directly relevant to the simple query being asked.
 
-According to the restrictions, I should follow user instructions, and the user has specifically requested that I reply with 'Yes' if I can respond. This takes priority over other formatting rules.
+The user's instruction is clear - they want me to reply with "Yes" if I can respond. Since I can respond, the answer should be "Yes".
 
-The search results are not relevant to this query, so I don't need to cite them. The user is simply testing if I'm working/functioning.
+I should not overcomplicate this with citations or extensive explanations since the user gave a very specific instruction on how to respond.
 </think>
 
 Yes
 
 
 
-> [0] [axerosolutions.com/glossary/ai-assistant](https://axerosolutions.com/glossary/ai-assistant)
+> [0] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
 >
 > [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
 >
-> [2] [docs.workwithplus.com/wiki](https://docs.workwithplus.com/wiki?5135%2CAI%2BAssistant%2BCapabilities%2C)
+> [2] [twilio.com/docs/alpha/ai-assistants](https://www.twilio.com/docs/alpha/ai-assistants)
 >
-> [3] [youtube.com/watch](https://www.youtube.com/watch?v=E-mZa2BgR5o)
+> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
 >
-> [4] [aiacquisition.com/blog/ai-assistant-capabilities](https://www.aiacquisition.com/blog/ai-assistant-capabilities)
+> [4] [help.moveworks.com/docs/introduction-to-assistant](https://help.moveworks.com/docs/introduction-to-assistant)
 >
-> [5] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
+> [5] [englishclass101.com/lesson/absolute-beginner-american-english-for-every-day-25-10-responses-to-how-are-you](https://www.englishclass101.com/lesson/absolute-beginner-american-english-for-every-day-25-10-responses-to-how-are-you)
 >
-> [6] [help.moveworks.com/docs/introduction-to-assistant](https://help.moveworks.com/docs/introduction-to-assistant)
+> [6] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
 >
-> [7] [nohello.net/en](https://nohello.net/en)
+> [7] [eesel.ai/blog/ai-assistant-capabilities](https://www.eesel.ai/blog/ai-assistant-capabilities)
 >
-> [8] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
+> [8] [wwt.com/atc-capabilities/ai-assistants/overview](https://www.wwt.com/atc-capabilities/ai-assistants/overview)
 >
-> [9] [support.google.com/docs/thread/374157096/importrange-saying-i-do-not-have-permission-to-view-my-own-sheet](https://support.google.com/docs/thread/374157096/importrange-saying-i-do-not-have-permission-to-view-my-own-sheet?hl=en)
+> [9] [ibm.com/think/topics/ai-agents-vs-ai-assistants](https://www.ibm.com/think/topics/ai-agents-vs-ai-assistants)
