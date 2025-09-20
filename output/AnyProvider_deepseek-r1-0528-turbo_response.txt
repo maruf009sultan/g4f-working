@@ -1,4 +1,0 @@
-<think>
-Okay, the user just asked if I'm working and wants me to reply with 'Yes' if I can respond. 
-
-Hmm, this seems like a simple ping test - maybe they're checking if the system is live or troubleshooting something

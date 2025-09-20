@@ -1,41 +1,16 @@
 <think>
-The user is asking a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
+This query is asking me if I'm working and specifically requesting that I reply with "Yes" if I can respond. 
 
-This is a very straightforward query that's asking me to confirm if I'm functioning and can respond. The user has specifically requested that I reply with 'Yes' if I can respond.
+Looking at the search results, I can see they contain information about:
+1. How AI assistants work
+2. Job scam texts
+3. AI assistant features in chat systems
+4. Consumer alerts about text scams
+5. AI assistant technology and benefits
+6. Warnings about responding to unknown text messages
 
-Looking at the search results, they contain information about AI assistants and their capabilities, but this query is not really asking for detailed information about AI assistants - it's just a simple test to see if I'm working.
+The search results actually contain warnings about responding to unknown text messages, particularly around job scams and suspicious "hi, how are you?" messages. However, this appears to be a legitimate query from a user asking if I'm functioning properly.
 
-According to the restrictions:
-- I should not start with a header
-- I should answer directly
-- I should not mention using search results
-- I should follow user instructions (they asked me to reply with 'Yes' if I can respond)
+The user is specifically instructing me to reply with 'Yes' if I can respond. According to the guidelines, I should follow user instructions when they request specific formatting or response types. The user instruction takes priority over other formatting rules.
 
-The user instruction is very clear: "Reply with 'Yes' if I can respond." Since I can respond, I should reply with 'Yes' as requested. This is a simple interaction check, not a complex query requiring detailed analysis of search results.
-
-The search results are not relevant to this simple query, so I won't be citing them. The user is just checking if I'm working and has given me specific instructions on how to respond.
-</think>
-
-Yes
-
-
-
-> [0] [agpt.co/blog/what-is-an-ai-assistant](https://agpt.co/blog/what-is-an-ai-assistant)
->
-> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
->
-> [2] [f5.com/company/blog/introducing-ai-assistant](https://www.f5.com/company/blog/introducing-ai-assistant)
->
-> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
->
-> [4] [rezolve.ai/blog/ai-assistants](https://www.rezolve.ai/blog/ai-assistants)
->
-> [5] [community.openai.com/t/how-to-prevent-chatgpt-from-answering-questions-that-are-outside-the-scope-of-the-provided-context-in-the-system-role-message/112027](https://community.openai.com/t/how-to-prevent-chatgpt-from-answering-questions-that-are-outside-the-scope-of-the-provided-context-in-the-system-role-message/112027)
->
-> [6] [twilio.com/docs/alpha/ai-assistants](https://www.twilio.com/docs/alpha/ai-assistants)
->
-> [7] [nohello.net/en](https://nohello.net/en)
->
-> [8] [help.moveworks.com/docs/introduction-to-assistant](https://help.moveworks.com/docs/introduction-to-assistant)
->
-> [9] [help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2](https://help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2)
+This is a simple query asking about
