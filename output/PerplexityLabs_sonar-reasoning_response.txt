@@ -1,10 +1,41 @@
 <think>
-The user is asking me a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
+The user is asking a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-Looking at the search results, I can see that several of them discuss scams related to getting people to say "yes" on the phone or via text. Particularly search result [2] discusses the "Say Yes" scam where scammers try to get people to say "yes" which they then record and use for fraudulent purposes. Search result [6] also discusses job-related text scams.
+This is a very straightforward query that's asking me to confirm if I'm functioning and can respond. The user has specifically requested that I reply with 'Yes' if I can respond.
 
-However, I need to be careful here. The user is asking me directly if I'm working and to reply with "Yes" if I can respond. This appears to be a legitimate query to me as an AI assistant, not a scam attempt. The user is simply trying to confirm that I'm functioning and can respond to their query.
+Looking at the search results, they contain information about AI assistants and their capabilities, but this query is not really asking for detailed information about AI assistants - it's just a simple test to see if I'm working.
 
-The search results are about phone/text scams targeting humans, not about interactions with AI assistants. The context here is different - this is a direct interaction with an AI system through a proper interface, not an unsolicited call or text.
+According to the restrictions:
+- I should not start with a header
+- I should answer directly
+- I should not mention using search results
+- I should follow user instructions (they asked me to reply with 'Yes' if I can respond)
 
-I should respond naturally and directly to confirm that I am working and can respond. I don't need to be overly suspicious of this straightforward question
+The user instruction is very clear: "Reply with 'Yes' if I can respond." Since I can respond, I should reply with 'Yes' as requested. This is a simple interaction check, not a complex query requiring detailed analysis of search results.
+
+The search results are not relevant to this simple query, so I won't be citing them. The user is just checking if I'm working and has given me specific instructions on how to respond.
+</think>
+
+Yes
+
+
+
+> [0] [agpt.co/blog/what-is-an-ai-assistant](https://agpt.co/blog/what-is-an-ai-assistant)
+>
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+>
+> [2] [f5.com/company/blog/introducing-ai-assistant](https://www.f5.com/company/blog/introducing-ai-assistant)
+>
+> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
+>
+> [4] [rezolve.ai/blog/ai-assistants](https://www.rezolve.ai/blog/ai-assistants)
+>
+> [5] [community.openai.com/t/how-to-prevent-chatgpt-from-answering-questions-that-are-outside-the-scope-of-the-provided-context-in-the-system-role-message/112027](https://community.openai.com/t/how-to-prevent-chatgpt-from-answering-questions-that-are-outside-the-scope-of-the-provided-context-in-the-system-role-message/112027)
+>
+> [6] [twilio.com/docs/alpha/ai-assistants](https://www.twilio.com/docs/alpha/ai-assistants)
+>
+> [7] [nohello.net/en](https://nohello.net/en)
+>
+> [8] [help.moveworks.com/docs/introduction-to-assistant](https://help.moveworks.com/docs/introduction-to-assistant)
+>
+> [9] [help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2](https://help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2)

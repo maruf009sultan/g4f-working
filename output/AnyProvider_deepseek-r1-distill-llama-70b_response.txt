@@ -1,2 +1,4 @@
 <think>
-Okay, so I'm trying to figure out how to solve the equation x times (2x + 3) equals 45. I remember in algebra, when you have an equation like this, it's usually a quadratic equation once you
+Okay, so I'm trying to understand how to install ES modules in Node.js. I remember that ES modules are different from CommonJS modules, which I've used before. Let me think about what I know so far.
+
+I know that

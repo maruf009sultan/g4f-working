@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to write a program that simulates a traffic light system. Hmm, where do I even start? Let me think about what a traffic light does. It cycles through red, yellow, and
+Okay, so I'm looking at this problem where I have to determine the number of ways to arrange 10 books on a shelf, where there are duplicates. Specifically, there are 2 copies each of 5 different books. Hmm,

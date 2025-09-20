@@ -1,15 +1,12 @@
 <think>
-The user is asking me if I'm working, and specifically wants me to reply with 'Yes' if I can respond. This is a simple query to check if I'm functional/operational.
+The user is asking a very simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-Let me check the search results to see if there's any relevant information, but this seems like a straightforward question about my operational status rather than something that requires the search results.
+This seems to be a direct test to see if I can respond, and they're asking for a specific response format - just "Yes" if I can respond.
 
-Looking at the search results:
-1. About AI assistants and how they work
-2. A YouTube video about how to respond to "How are you?"
-3. More about AI assistants and their functionality
-4. About job scam texts
-5. Introducing an AI assistant
+Looking at the search results, they seem to be about AI assistants in general, how to respond to "How are you?" questions, F5's AI assistant, and job scams. These search results don't really relate to the user's query at all.
 
-The search results don't really contain information that's directly relevant to answering whether I'm working/operational. The user is asking for a simple confirmation that I can respond.
+The user is asking me to respond with "Yes" if I can respond. Since I can clearly respond (I'm responding right now), the appropriate answer would be "Yes" as requested.
 
-The user has given me a specific instruction: "Reply with 'Yes' if you can respond." Since I can indeed respond, I should follow this
+The query type doesn't seem to fall into any of the specific categories mentioned in the rules (academic research, coding, people, weather, cooking, translation, creative writing, science/math, recent news, time-sensitive, comparison). It's a simple direct question.
+
+Looking at the restrictions, I should not start

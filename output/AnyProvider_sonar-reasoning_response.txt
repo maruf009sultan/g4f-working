@@ -1,10 +1,33 @@
 <think>
-The user is asking "Hello, are you working? Reply with 'Yes' if you can respond." This is a simple query where they want to know if I'm functioning and specifically requesting me to reply with "Yes" if I can respond.
+The user is asking me to respond with "Yes" if I can respond. This is essentially a test query to see if I'm working/functional. They've specifically asked me to reply with "Yes" if I can respond.
 
-Looking at the search results, they are about AI assistants in general - what they are, how they work, their capabilities, etc. But the query is very straightforward and doesn't really need the search results to answer. The user is just testing if I'm working and asking for a specific response format.
+Looking at the search results, they contain information about AI assistants, how they work, their capabilities, etc. However, this query is not really asking for information from the search results - it's just asking if I'm working and to respond with "Yes" if I can respond.
 
-According to the restrictions, I should not start with phrases like "According to the search results" or similar. I should also follow the user's instructions, and they specifically asked me to reply with 'Yes' if I can respond.
+According to the restrictions, I should follow user instructions. The user has specifically requested that I reply with "Yes" if I can respond. Since I can respond, I should simply say "Yes" as requested.
 
-The user instruction says "Following user instruction takes priority over any other formatting rules listed here." The user specifically requested me to reply with 'Yes' if I can respond. So I should do exactly that.
+This is a simple, direct query that doesn't require complex formatting, citations, or detailed explanations. The user just wants confirmation that I'm working.
+</think>
 
-This is a very simple query that doesn't require detailed analysis or
+Yes
+
+
+
+> [0] [agpt.co/blog/what-is-an-ai-assistant](https://agpt.co/blog/what-is-an-ai-assistant)
+>
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=_qA0rQCV1kM)
+>
+> [2] [axerosolutions.com/glossary/ai-assistant](https://axerosolutions.com/glossary/ai-assistant)
+>
+> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
+>
+> [4] [rezolve.ai/blog/ai-assistants](https://www.rezolve.ai/blog/ai-assistants)
+>
+> [5] [community.openai.com/t/how-to-prevent-chatgpt-from-answering-questions-that-are-outside-the-scope-of-the-provided-context-in-the-system-role-message/112027](https://community.openai.com/t/how-to-prevent-chatgpt-from-answering-questions-that-are-outside-the-scope-of-the-provided-context-in-the-system-role-message/112027)
+>
+> [6] [twilio.com/docs/alpha/ai-assistants](https://www.twilio.com/docs/alpha/ai-assistants)
+>
+> [7] [nohello.net/en](https://nohello.net/en)
+>
+> [8] [help.moveworks.com/docs/introduction-to-assistant](https://help.moveworks.com/docs/introduction-to-assistant)
+>
+> [9] [help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2](https://help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2)
