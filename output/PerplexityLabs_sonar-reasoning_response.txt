@@ -1,16 +1,18 @@
 <think>
-This query is asking me if I'm working and specifically requesting that I reply with "Yes" if I can respond. 
+The user is asking a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-Looking at the search results, I can see they contain information about:
+This is a very straightforward query asking me to confirm if I'm operational. The user has specifically requested that I reply with 'Yes' if I can respond.
+
+Looking at the search results, they contain information about:
 1. How AI assistants work
-2. Job scam texts
-3. AI assistant features in chat systems
-4. Consumer alerts about text scams
-5. AI assistant technology and benefits
-6. Warnings about responding to unknown text messages
+2. Job scam texts 
+3. AI assistant technology and enterprise use
+4. More job scam warnings
+5. Microsoft Teams AI assistant
+6. A webpage about not just saying "hello" in messages
 
-The search results actually contain warnings about responding to unknown text messages, particularly around job scams and suspicious "hi, how are you?" messages. However, this appears to be a legitimate query from a user asking if I'm functioning properly.
+None of these search results are relevant to answering the user's simple question about whether I'm working. The user is just asking for confirmation that I'm operational and can respond.
 
-The user is specifically instructing me to reply with 'Yes' if I can respond. According to the guidelines, I should follow user instructions when they request specific formatting or response types. The user instruction takes priority over other formatting rules.
+According to the restrictions, if the search results do not provide an answer, I should respond saying that information is not available. However, this is a case where the user is asking me directly if I'm working/can respond, which is about my current operational status rather than seeking information that would be in search results.
 
-This is a simple query asking about
+The user has given me a specific instruction: "Reply with 'Yes' if you can

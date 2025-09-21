@@ -1,2 +1,8 @@
 <think>
-Okay, so I'm trying to understand how to get the final answer for this problem. The user asked the assistant if it's working and instructed it to reply with 'Yes' if it can respond. The assistant answered 'Yes'. I
+Okay, the user asked "Hello, are you working?" and I should respond with "Yes".
+
+I need to confirm that I'm operational.
+
+I'll keep it simple and friendly.
+
+"Hello! Yes, I'm here and working.

@@ -1,35 +1,35 @@
 <think>
-The user is asking me a simple question about whether I'm working and requesting that I reply with 'Yes' if I can respond. This is a straightforward query that doesn't require me to use the search results provided. The search results are about AI assistants, job scams, and chat response tools, which are not relevant to this simple question.
+The user is asking a simple question about whether I'm working and specifically requesting that I reply with 'Yes' if I can respond. This is a straightforward query that doesn't require any search results - it's just asking about my operational status.
 
-Based on the instructions, I should:
-1. Answer the query directly 
-2. If search results are empty or unhelpful (which they are in this case), I should answer to the best of my ability using existing knowledge
-3. Never mention that I'm using search results or citing sources
-4. Follow the user's specific instruction to reply with 'Yes' if I can respond
+Looking at the search results provided, they are about AI assistants in general and job scams via text messages. None of these are relevant to answering the user's simple question about whether I'm working.
 
-Since I can clearly respond to the user's query, I should reply with 'Yes' as requested. This is a simple query that doesn't need headers, formatting, or elaborate explanations.
+According to the restrictions, if the search results do not provide an answer, I should respond saying that the information is not available. However, in this case, the query is asking about my own operational status, which I can answer directly without needing search results.
+
+The user has given me a specific instruction to "Reply with 'Yes' if you can respond." This falls under point 8 in the rules: "Make sure to follow any instructions that the user requests you to follow. Following user instruction takes priority over any other formatting rules listed here."
+
+So I should simply respond with "Yes" as requested.
 </think>
 
 Yes
 
 
 
-> [0] [workgrid.com/blog/ai-assistant-how-it-works/](https://workgrid.com/blog/ai-assistant-how-it-works/)
+> [0] [agpt.co/blog/what-is-an-ai-assistant](https://agpt.co/blog/what-is-an-ai-assistant)
 >
 > [1] [youtube.com/watch](https://www.youtube.com/watch?v=E-mZa2BgR5o)
 >
-> [2] [support.bolddesk.com/kb/article/18484/agent-guide-using-ai-assistant-for-chat-response-preparation](https://support.bolddesk.com/kb/article/18484/agent-guide-using-ai-assistant-for-chat-response-preparation)
+> [2] [axerosolutions.com/glossary/ai-assistant](https://axerosolutions.com/glossary/ai-assistant)
 >
 > [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
 >
-> [4] [ibm.com/think/topics/ai-agents-vs-ai-assistants](https://www.ibm.com/think/topics/ai-agents-vs-ai-assistants)
+> [4] [rezolve.ai/blog/ai-assistants](https://www.rezolve.ai/blog/ai-assistants)
 >
 > [5] [nohello.net/en](https://nohello.net/en)
 >
-> [6] [aws.amazon.com/q/](https://aws.amazon.com/q/)
+> [6] [help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2](https://help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2)
 >
 > [7] [discussions.apple.com/thread/5525228](https://discussions.apple.com/thread/5525228)
 >
-> [8] [rezolve.ai/blog/ai-assistants](https://www.rezolve.ai/blog/ai-assistants)
+> [8] [learn.microsoft.com/en-us/microsoftteams/rooms/rooms-pro-aiassistant](https://learn.microsoft.com/en-us/microsoftteams/rooms/rooms-pro-aiassistant)
 >
 > [9] [twilio.com/docs/alpha/ai-assistants](https://www.twilio.com/docs/alpha/ai-assistants)

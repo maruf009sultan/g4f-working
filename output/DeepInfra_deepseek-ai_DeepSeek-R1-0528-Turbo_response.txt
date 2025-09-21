@@ -1,0 +1,4 @@
+<think>
+Okay, the user just greeted me and asked if I'm working, requesting a 'Yes' reply if I can respond. 
+
+Hmm, this seems like a simple connectivity check - maybe they've had issues with unresponsive assistants before?
