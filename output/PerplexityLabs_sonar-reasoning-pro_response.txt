@@ -1,35 +1,16 @@
 <think>
-The user is asking a simple question about whether I'm working and specifically requesting that I reply with 'Yes' if I can respond. This is a straightforward query that doesn't require any search results - it's just asking about my operational status.
+The user is asking a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-Looking at the search results provided, they are about AI assistants in general and job scams via text messages. None of these are relevant to answering the user's simple question about whether I'm working.
+This is a very straightforward query asking me to confirm if I'm operational and can respond. The user specifically requests a "Yes" response if I can respond.
 
-According to the restrictions, if the search results do not provide an answer, I should respond saying that the information is not available. However, in this case, the query is asking about my own operational status, which I can answer directly without needing search results.
+Looking at the search results, they seem to be about:
+1. AI assistants and how they work
+2. Job scam texts 
+3. Text message scams
+4. How to avoid responding to suspicious texts
 
-The user has given me a specific instruction to "Reply with 'Yes' if you can respond." This falls under point 8 in the rules: "Make sure to follow any instructions that the user requests you to follow. Following user instruction takes priority over any other formatting rules listed here."
+The search results don't seem directly relevant to answering whether I'm working or can respond. This appears to be a simple operational check question.
 
-So I should simply respond with "Yes" as requested.
-</think>
+The user is asking me to respond with "Yes" if I can respond. Since I can respond, I should follow their instruction and say "Yes". 
 
-Yes
-
-
-
-> [0] [agpt.co/blog/what-is-an-ai-assistant](https://agpt.co/blog/what-is-an-ai-assistant)
->
-> [1] [youtube.com/watch](https://www.youtube.com/watch?v=E-mZa2BgR5o)
->
-> [2] [axerosolutions.com/glossary/ai-assistant](https://axerosolutions.com/glossary/ai-assistant)
->
-> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
->
-> [4] [rezolve.ai/blog/ai-assistants](https://www.rezolve.ai/blog/ai-assistants)
->
-> [5] [nohello.net/en](https://nohello.net/en)
->
-> [6] [help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2](https://help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2)
->
-> [7] [discussions.apple.com/thread/5525228](https://discussions.apple.com/thread/5525228)
->
-> [8] [learn.microsoft.com/en-us/microsoftteams/rooms/rooms-pro-aiassistant](https://learn.microsoft.com/en-us/microsoftteams/rooms/rooms-pro-aiassistant)
->
-> [9] [twilio.com/docs/alpha/ai-assistants](https://www.twilio.com/docs/alpha/ai-assistants)
+However, I should also be helpful and provide a bit more context about my availability and capabilities, while following the formatting guidelines. I don't need to use the search results for this query since it's asking about my current operational

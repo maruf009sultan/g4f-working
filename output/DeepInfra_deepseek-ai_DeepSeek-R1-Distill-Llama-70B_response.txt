@@ -1,2 +1,2 @@
 <think>
-Alright, so I need to figure out how to solve this problem where a Steel rod of length 100 cm is heated and then quenched in water. The problem is about heat transfer, and I think it's related to the cooling of
+Alright, so I've got this problem here where I need to prove that the limit as x approaches 2 of f(x) is 6. The function f(x) is defined piecewise: it's equal to (x + 

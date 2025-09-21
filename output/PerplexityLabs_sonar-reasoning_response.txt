@@ -1,18 +1,8 @@
 <think>
-The user is asking a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
+This is a very simple query asking if I'm working and requesting a specific response format. The user wants me to reply with 'Yes' if I can respond. This is a straightforward test query to check if I'm functional.
 
-This is a very straightforward query asking me to confirm if I'm operational. The user has specifically requested that I reply with 'Yes' if I can respond.
+Looking at the search results, they contain information about AI assistants, job scams via text messages, and Google Assistant capabilities. However, none of this information is directly relevant to answering the specific query "Hello, are you working? Reply with 'Yes' if you can respond."
 
-Looking at the search results, they contain information about:
-1. How AI assistants work
-2. Job scam texts 
-3. AI assistant technology and enterprise use
-4. More job scam warnings
-5. Microsoft Teams AI assistant
-6. A webpage about not just saying "hello" in messages
+The user is asking me to confirm I'm operational with a simple "Yes" response. This is not a complex query that requires extensive formatting, headers, or citations from the search results. The search results don't contain information that would help answer this direct question about my operational status.
 
-None of these search results are relevant to answering the user's simple question about whether I'm working. The user is just asking for confirmation that I'm operational and can respond.
-
-According to the restrictions, if the search results do not provide an answer, I should respond saying that information is not available. However, this is a case where the user is asking me directly if I'm working/can respond, which is about my current operational status rather than seeking information that would be in search results.
-
-The user has given me a specific instruction: "Reply with 'Yes' if you can
+According to the restrictions, if the search results do not provide an answer, I should respond saying the information is not available. However, this is a direct question about my operational status, which I can answer based on my ability to respond, not requiring external

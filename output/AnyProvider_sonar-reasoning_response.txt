@@ -1,12 +1,15 @@
 <think>
-The user is asking "Hello, are you working? Reply with 'Yes' if you can respond."
+The user is asking me to respond with "Yes" if I can respond, and asking if I'm working. This seems like a simple query about whether I'm available/functioning.
 
-Looking at the search results, I can see that several of them are about scams, particularly the "Can You Hear Me?" scam and job offer text scams. The search results warn about responding "yes" to unknown callers or texts because:
+Looking at the search results, they seem to be about AI assistants in general and also about job scam texts. The search results don't seem directly relevant to answering this specific query, but they do contain information about AI assistants and their capabilities.
 
-1. From search result [6]: Responding "yes" may leave people on the hook for more nuisance calls and maybe even unauthorized charges. The scam artists try to get people to say "yes" and may record it to claim the person authorized charges.
+The user wants me to reply with "Yes" if I can respond. Since I am responding to this query, I should follow their instruction and say "Yes". However, I should also provide some context about what I am and what I can do, as this seems to be a query to test if I'm available and working.
 
-2. From search result [8]: Job scam texts ask you to reply with personal information, and warns not to click links or respond to the text.
+The restrictions say I should not start with a header, and I should answer directly. The user is asking for a simple response, so I should keep it concise while being helpful.
 
-However, I need to be careful here. The user is asking me directly if I'm working and to reply with "Yes" if I can respond. This appears to be a direct question to me as an AI assistant, not a scam attempt. The user wants to know if I'm functioning and available to help.
+Since the search results contain information about AI assistants, I can incorporate some of that information naturally to explain what I am and what I can do, but the primary response should be "Yes" as requested.
+</think>
 
-The search results are about phone/text scams where unknown people ask questions to get a "yes" response, but this is different - the user is directly asking me, an AI assistant, if
+Yes.
+
+I am an AI assistant that can help you with a wide variety of tasks including
