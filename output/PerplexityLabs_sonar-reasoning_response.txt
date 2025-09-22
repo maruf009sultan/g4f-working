@@ -1,8 +1,38 @@
 <think>
-This is a very simple query asking if I'm working and requesting a specific response format. The user wants me to reply with 'Yes' if I can respond. This is a straightforward test query to check if I'm functional.
+The user is asking a simple question to test if I'm working and can respond. They specifically requested that I reply with 'Yes' if I can respond. This is a straightforward query that doesn't require analysis of the search results, as it's just asking about my current functionality.
 
-Looking at the search results, they contain information about AI assistants, job scams via text messages, and Google Assistant capabilities. However, none of this information is directly relevant to answering the specific query "Hello, are you working? Reply with 'Yes' if you can respond."
+Looking at the restrictions, I should:
+1. Not include URLs or links
+2. Not begin with a header
+3. Answer directly
+4. Not use phrases like "According to the search results" 
+5. Answer in the same language as the query (English)
 
-The user is asking me to confirm I'm operational with a simple "Yes" response. This is not a complex query that requires extensive formatting, headers, or citations from the search results. The search results don't contain information that would help answer this direct question about my operational status.
+The user gave a specific instruction to reply with 'Yes' if I can respond, so I should follow that instruction while being helpful.
 
-According to the restrictions, if the search results do not provide an answer, I should respond saying the information is not available. However, this is a direct question about my operational status, which I can answer based on my ability to respond, not requiring external
+Since this is a simple functionality test, I don't need to cite any search results or provide elaborate formatting. A simple, direct response is appropriate here.
+</think>
+
+Yes
+
+
+
+> [0] [agpt.co/blog/what-is-an-ai-assistant](https://agpt.co/blog/what-is-an-ai-assistant)
+>
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=E-mZa2BgR5o)
+>
+> [2] [workgrid.com/blog/ai-assistant-how-it-works/](https://workgrid.com/blog/ai-assistant-how-it-works/)
+>
+> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
+>
+> [4] [platform.openai.com/docs/assistants/migration](https://platform.openai.com/docs/assistants/migration)
+>
+> [5] [support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google](https://support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google?hl=en)
+>
+> [6] [rezolve.ai/blog/ai-assistants](https://www.rezolve.ai/blog/ai-assistants)
+>
+> [7] [nohello.net/en](https://nohello.net/en)
+>
+> [8] [ibm.com/think/topics/ai-agents-vs-ai-assistants](https://www.ibm.com/think/topics/ai-agents-vs-ai-assistants)
+>
+> [9] [help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2](https://help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2)

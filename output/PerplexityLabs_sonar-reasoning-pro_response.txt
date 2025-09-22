@@ -1,16 +1,14 @@
 <think>
-The user is asking a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
+This query is asking me to respond with "Yes" if I can respond. However, looking at the search results, particularly search result [6], it mentions that saying "yes" to unknown callers can be problematic and costly - it talks about training oneself to avoid saying "yes" when answering calls from unknown numbers.
 
-This is a very straightforward query asking me to confirm if I'm operational and can respond. The user specifically requests a "Yes" response if I can respond.
+However, this is a direct query asking me if I'm working and to reply with "Yes" if I can respond. This seems like a legitimate request from a user asking me to confirm I'm operational. The search results about scams are about unsolicited texts and calls, not about responding to legitimate queries from users.
 
-Looking at the search results, they seem to be about:
+The search results are about:
 1. AI assistants and how they work
-2. Job scam texts 
-3. Text message scams
-4. How to avoid responding to suspicious texts
+2. Job scam texts
+3. How AI assistants function
+4. Job scam warnings from FTC
+5. AI agents vs AI assistants
+6. Why to ignore "hi, how are you?" messages from strangers
 
-The search results don't seem directly relevant to answering whether I'm working or can respond. This appears to be a simple operational check question.
-
-The user is asking me to respond with "Yes" if I can respond. Since I can respond, I should follow their instruction and say "Yes". 
-
-However, I should also be helpful and provide a bit more context about my availability and capabilities, while following the formatting guidelines. I don't need to use the search results for this query since it's asking about my current operational
+None of these directly relate to the user's query asking me to confirm I'm working.

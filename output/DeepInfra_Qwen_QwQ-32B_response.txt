@@ -1,1 +1,1 @@
-Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." They want me to confirm I'm available by replying with just "Yes". Let me make sure I follow their instruction correctly. The
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." So they want a simple "Yes" if I'm operational. Let me check the instructions. The user specified to reply with just "

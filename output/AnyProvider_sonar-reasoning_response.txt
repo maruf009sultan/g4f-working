@@ -1,15 +1,37 @@
 <think>
-The user is asking me to respond with "Yes" if I can respond, and asking if I'm working. This seems like a simple query about whether I'm available/functioning.
+The user is asking a very simple question - they want to know if I'm working and have requested that I reply with "Yes" if I can respond. This is a straightforward test query to see if I'm functional.
 
-Looking at the search results, they seem to be about AI assistants in general and also about job scam texts. The search results don't seem directly relevant to answering this specific query, but they do contain information about AI assistants and their capabilities.
+Looking at the search results, they contain information about AI assistants, job scams via text messages, and some technical documentation. However, none of this information is directly relevant to answering the user's simple question about whether I'm working.
 
-The user wants me to reply with "Yes" if I can respond. Since I am responding to this query, I should follow their instruction and say "Yes". However, I should also provide some context about what I am and what I can do, as this seems to be a query to test if I'm available and working.
+According to the guidelines:
+- I should answer the query directly
+- If search results are empty or unhelpful, I should answer to the best of my ability using existing knowledge
+- The user has specifically requested that I reply with "Yes" if I can respond
+- I should follow user instructions (this takes priority over other formatting rules)
 
-The restrictions say I should not start with a header, and I should answer directly. The user is asking for a simple response, so I should keep it concise while being helpful.
-
-Since the search results contain information about AI assistants, I can incorporate some of that information naturally to explain what I am and what I can do, but the primary response should be "Yes" as requested.
+Since this is a simple functionality test and the user has given specific instructions on how to respond, I should simply reply "Yes" as requested. The search results don't contain relevant information for this query, so I don't need to cite anything.
 </think>
 
-Yes.
+Yes
 
-I am an AI assistant that can help you with a wide variety of tasks including
+
+
+> [0] [agpt.co/blog/what-is-an-ai-assistant](https://agpt.co/blog/what-is-an-ai-assistant)
+>
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=E-mZa2BgR5o)
+>
+> [2] [workgrid.com/blog/ai-assistant-how-it-works/](https://workgrid.com/blog/ai-assistant-how-it-works/)
+>
+> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
+>
+> [4] [platform.openai.com/docs/assistants/migration](https://platform.openai.com/docs/assistants/migration)
+>
+> [5] [support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google](https://support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google?hl=en)
+>
+> [6] [rezolve.ai/blog/ai-assistants](https://www.rezolve.ai/blog/ai-assistants)
+>
+> [7] [nohello.net/en](https://nohello.net/en)
+>
+> [8] [ibm.com/think/topics/ai-agents-vs-ai-assistants](https://www.ibm.com/think/topics/ai-agents-vs-ai-assistants)
+>
+> [9] [help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2](https://help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2)

@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve the problem where the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." and the assistant responded correctly with "Yes." Now, I have
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I should respond according to their instruction. They want a 'Yes' as a reply. I'll just send 'Yes'
