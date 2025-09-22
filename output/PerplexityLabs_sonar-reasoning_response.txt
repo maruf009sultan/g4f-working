@@ -1,38 +1,22 @@
 <think>
-The user is asking a simple question to test if I'm working and can respond. They specifically requested that I reply with 'Yes' if I can respond. This is a straightforward query that doesn't require analysis of the search results, as it's just asking about my current functionality.
+The user is asking me if I'm working and asking me to reply with "Yes" if I can respond. This is a simple query asking about my availability/functionality. However, I need to check the search results and see if there's anything relevant.
 
-Looking at the restrictions, I should:
-1. Not include URLs or links
-2. Not begin with a header
-3. Answer directly
-4. Not use phrases like "According to the search results" 
-5. Answer in the same language as the query (English)
+Looking at the search results:
+- [1] discusses AI assistants and their capabilities
+- [2] is about job scam texts
+- [3] is about OpenAI's Assistants API migration
+- [4] is about job scam texts from the FTC
+- [5] is about AI assistants and their enterprise applications
+- [6] is about ignoring text messages from strangers
 
-The user gave a specific instruction to reply with 'Yes' if I can respond, so I should follow that instruction while being helpful.
+The search results are mostly about AI assistants in general and job scam texts. There's actually a very relevant connection here - the user's query "Hello, are you working? Reply with 'Yes' if you can respond" looks very similar to the scam texts described in results [4] and [6].
 
-Since this is a simple functionality test, I don't need to cite any search results or provide elaborate formatting. A simple, direct response is appropriate here.
-</think>
+Looking at result [6] specifically: "A text message from an unknown number that simply says: hi, how are you? seems harmless. Your first instinct might be to respond to see if..."
 
-Yes
+And result [4] mentions: "You get a text out of the blue from someone who says they're a recruiter for a company... But the text asks you to reply with some personal or financial information or click a link. That's probably a scam designed to steal your money or identity."
 
+However, the user is directly asking me, an AI assistant, if I'm working. This isn't a scam scenario - they're testing my functionality. I should respond appropriately as an AI assistant while also noting the similarity to scam patterns described in the search results.
 
+Since the user specifically requested I reply with "Yes" if I can respond, I should do that while also providing context about AI assistant functionality based on the search results.
 
-> [0] [agpt.co/blog/what-is-an-ai-assistant](https://agpt.co/blog/what-is-an-ai-assistant)
->
-> [1] [youtube.com/watch](https://www.youtube.com/watch?v=E-mZa2BgR5o)
->
-> [2] [workgrid.com/blog/ai-assistant-how-it-works/](https://workgrid.com/blog/ai-assistant-how-it-works/)
->
-> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
->
-> [4] [platform.openai.com/docs/assistants/migration](https://platform.openai.com/docs/assistants/migration)
->
-> [5] [support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google](https://support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google?hl=en)
->
-> [6] [rezolve.ai/blog/ai-assistants](https://www.rezolve.ai/blog/ai-assistants)
->
-> [7] [nohello.net/en](https://nohello.net/en)
->
-> [8] [ibm.com/think/topics/ai-agents-vs-ai-assistants](https://www.ibm.com/think/topics/ai-agents-vs-ai-assistants)
->
-> [9] [help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2](https://help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2)
+I need to be careful not to start with phrases like "According to the search results" as that's restricted. I should incorporate the information naturally.

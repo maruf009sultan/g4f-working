@@ -1,2 +1,0 @@
-<think>
-Okay, so I need to figure out how to respond appropriately when someone says, "Hello, are you working? Reply with 'Yes' if you can respond." I'm supposed to think through this as a human would, so let me

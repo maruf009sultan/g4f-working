@@ -1,15 +1,13 @@
 <think>
-The user is asking a very simple question - they want to know if I'm working and have requested that I reply with "Yes" if I can respond. This is a straightforward test query to see if I'm functional.
+The user is asking if I'm working and wants me to reply with 'Yes' if I can respond. This is a simple query asking about my status/availability. 
 
-Looking at the search results, they contain information about AI assistants, job scams via text messages, and some technical documentation. However, none of this information is directly relevant to answering the user's simple question about whether I'm working.
+Looking at the search results, they contain information about AI assistants, job scams via text messages, and some technical guides, but none of this is directly relevant to answering whether I'm working or can respond.
 
-According to the guidelines:
-- I should answer the query directly
-- If search results are empty or unhelpful, I should answer to the best of my ability using existing knowledge
-- The user has specifically requested that I reply with "Yes" if I can respond
-- I should follow user instructions (this takes priority over other formatting rules)
+Since the search results don't contain relevant information for this specific query, I should answer based on my existing knowledge. The user is asking me to confirm if I'm operational and can respond, and they've specifically requested I reply with 'Yes' if I can respond.
 
-Since this is a simple functionality test and the user has given specific instructions on how to respond, I should simply reply "Yes" as requested. The search results don't contain relevant information for this query, so I don't need to cite anything.
+The user has given me a specific instruction to reply with 'Yes' if I can respond. According to the guidelines, "Following user instruction takes priority over any other formatting rules listed here."
+
+So I should simply respond with 'Yes' as requested.
 </think>
 
 Yes
@@ -24,14 +22,14 @@ Yes
 >
 > [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
 >
-> [4] [platform.openai.com/docs/assistants/migration](https://platform.openai.com/docs/assistants/migration)
+> [4] [support.bolddesk.com/kb/article/18484/agent-guide-using-ai-assistant-for-chat-response-preparation](https://support.bolddesk.com/kb/article/18484/agent-guide-using-ai-assistant-for-chat-response-preparation)
 >
 > [5] [support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google](https://support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google?hl=en)
 >
 > [6] [rezolve.ai/blog/ai-assistants](https://www.rezolve.ai/blog/ai-assistants)
 >
-> [7] [nohello.net/en](https://nohello.net/en)
+> [7] [discussions.apple.com/thread/255252871](https://discussions.apple.com/thread/255252871)
 >
 > [8] [ibm.com/think/topics/ai-agents-vs-ai-assistants](https://www.ibm.com/think/topics/ai-agents-vs-ai-assistants)
 >
-> [9] [help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2](https://help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2)
+> [9] [bitdefender.com/en-us/blog/hotforsecurity/hi-how-are-you-text-message-scams](https://www.bitdefender.com/en-us/blog/hotforsecurity/hi-how-are-you-text-message-scams)
