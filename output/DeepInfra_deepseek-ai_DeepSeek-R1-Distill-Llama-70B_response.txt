@@ -1,2 +1,4 @@
 <think>
-Okay, so I just used this chat and said hello, and it responded with 'Yes.' But now I'm supposed to think through how to respond if I were the one answering that question. Hmm. So the user greeted with "Hello
+Okay, so I need to figure out how to respond to this message. The user wrote, "Hello, are you working? Reply with 'Yes' if you can respond."
+
+Alright, first, I should consider what they're asking.

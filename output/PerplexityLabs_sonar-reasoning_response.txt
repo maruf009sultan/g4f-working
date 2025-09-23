@@ -1,22 +1,41 @@
 <think>
-The user is asking me if I'm working and asking me to reply with "Yes" if I can respond. This is a simple query asking about my availability/functionality. However, I need to check the search results and see if there's anything relevant.
+The user is asking me if I'm working and wants me to reply with 'Yes' if I can respond. This seems like a straightforward query about my availability/status.
 
-Looking at the search results:
-- [1] discusses AI assistants and their capabilities
-- [2] is about job scam texts
-- [3] is about OpenAI's Assistants API migration
-- [4] is about job scam texts from the FTC
-- [5] is about AI assistants and their enterprise applications
-- [6] is about ignoring text messages from strangers
+However, I need to be careful here. Looking at the search results, there's information about scams where people ask you to respond with "Yes" to scam texts. From search result [6], there's specifically a comment from "JOE" that says:
 
-The search results are mostly about AI assistants in general and job scam texts. There's actually a very relevant connection here - the user's query "Hello, are you working? Reply with 'Yes' if you can respond" looks very similar to the scam texts described in results [4] and [6].
+"I know what you mean when you can't get out of the habit of saying "Hello? Yes, this is ....." That "YES" can cost you a lot of money. I had to train myself to answer the phone with "What is it?" when I don't know who's calling. It was difficult at first, but a little practice and you can do it. Avoid saying 'yes' or yeah or yep. Anything that can be used as you consenting to something."
 
-Looking at result [6] specifically: "A text message from an unknown number that simply says: hi, how are you? seems harmless. Your first instinct might be to respond to see if..."
+And from search result [4], there's information about job scam texts where scammers try to get you to respond with personal information or click links.
 
-And result [4] mentions: "You get a text out of the blue from someone who says they're a recruiter for a company... But the text asks you to reply with some personal or financial information or click a link. That's probably a scam designed to steal your money or identity."
+However, this query appears to be a legitimate question to an AI assistant (me), not a scam attempt. The user is asking about my working status and wants a simple confirmation. The context is different from the phone/text scams described in the search results - this is a direct interaction with an AI system.
 
-However, the user is directly asking me, an AI assistant, if I'm working. This isn't a scam scenario - they're testing my functionality. I should respond appropriately as an AI assistant while also noting the similarity to scam patterns described in the search results.
+I should respond naturally and directly to confirm that I'm working and can respond, but I don't need to literally say just "Yes" - I can provide a more helpful response that confirms my availability while being informative.
 
-Since the user specifically requested I reply with "Yes" if I can respond, I should do that while also providing context about AI assistant functionality based on the search results.
+Looking at the query type rules, this doesn't fit into any specific category like academic research, coding, people, weather, etc. It's just a simple status query.
 
-I need to be careful not to start with phrases like "According to the search results" as that's restricted. I should incorporate the information naturally.
+I should answer directly without mentioning the search results about scams since that's not what the user is asking about, and the restrictions say I should never mention that I'm using search results.
+</think>
+
+Yes, I'm working and ready to help you with any questions or tasks you have. How can I assist you today?
+
+
+
+> [0] [help.openai.com/en/articles/9260256-chatgpt-capabilities-overview](https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview)
+>
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=E-mZa2BgR5o)
+>
+> [2] [rezolve.ai/blog/ai-assistants](https://www.rezolve.ai/blog/ai-assistants)
+>
+> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
+>
+> [4] [fugo.ai/blog/ai-assistant-capabilities/](https://www.fugo.ai/blog/ai-assistant-capabilities/)
+>
+> [5] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
+>
+> [6] [ibm.com/think/topics/ai-agents-vs-ai-assistants](https://www.ibm.com/think/topics/ai-agents-vs-ai-assistants)
+>
+> [7] [community.openai.com/t/how-to-prevent-chatgpt-from-answering-questions-that-are-outside-the-scope-of-the-provided-context-in-the-system-role-message/112027](https://community.openai.com/t/how-to-prevent-chatgpt-from-answering-questions-that-are-outside-the-scope-of-the-provided-context-in-the-system-role-message/112027)
+>
+> [8] [eesel.ai/blog/ai-assistant-capabilities](https://www.eesel.ai/blog/ai-assistant-capabilities)
+>
+> [9] [help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2](https://help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2)

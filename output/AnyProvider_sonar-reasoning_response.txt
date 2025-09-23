@@ -1,35 +1,16 @@
 <think>
-The user is asking if I'm working and wants me to reply with 'Yes' if I can respond. This is a simple query asking about my status/availability. 
+The user is asking me a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-Looking at the search results, they contain information about AI assistants, job scams via text messages, and some technical guides, but none of this is directly relevant to answering whether I'm working or can respond.
+This is a straightforward query asking if I'm operational/available. The user specifically requests that I reply with 'Yes' if I can respond. 
 
-Since the search results don't contain relevant information for this specific query, I should answer based on my existing knowledge. The user is asking me to confirm if I'm operational and can respond, and they've specifically requested I reply with 'Yes' if I can respond.
+Looking at the search results, they seem to be about AI assistants in general, job scam texts, how to respond to "how are you" messages, and some technical documentation. None of these search results are directly relevant to answering whether I'm working or operational.
 
-The user has given me a specific instruction to reply with 'Yes' if I can respond. According to the guidelines, "Following user instruction takes priority over any other formatting rules listed here."
+Since the search results don't contain relevant information to answer this specific query, I should answer based on my existing knowledge. The user is asking if I'm working and requesting a specific response format.
 
-So I should simply respond with 'Yes' as requested.
-</think>
+The user has given me a clear instruction: "Reply with 'Yes' if you can respond." Since I can respond (I'm clearly operational and answering), I should follow this instruction and reply with 'Yes'.
 
-Yes
-
-
-
-> [0] [agpt.co/blog/what-is-an-ai-assistant](https://agpt.co/blog/what-is-an-ai-assistant)
->
-> [1] [youtube.com/watch](https://www.youtube.com/watch?v=E-mZa2BgR5o)
->
-> [2] [workgrid.com/blog/ai-assistant-how-it-works/](https://workgrid.com/blog/ai-assistant-how-it-works/)
->
-> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
->
-> [4] [support.bolddesk.com/kb/article/18484/agent-guide-using-ai-assistant-for-chat-response-preparation](https://support.bolddesk.com/kb/article/18484/agent-guide-using-ai-assistant-for-chat-response-preparation)
->
-> [5] [support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google](https://support.google.com/assistant/thread/22313919/im-trying-to-get-my-phonet-to-answer-me-when-i-say-hey-google?hl=en)
->
-> [6] [rezolve.ai/blog/ai-assistants](https://www.rezolve.ai/blog/ai-assistants)
->
-> [7] [discussions.apple.com/thread/255252871](https://discussions.apple.com/thread/255252871)
->
-> [8] [ibm.com/think/topics/ai-agents-vs-ai-assistants](https://www.ibm.com/think/topics/ai-agents-vs-ai-assistants)
->
-> [9] [bitdefender.com/en-us/blog/hotforsecurity/hi-how-are-you-text-message-scams](https://www.bitdefender.com/en-us/blog/hotforsecurity/hi-how-are-you-text-message-scams)
+I need to be careful about the formatting rules:
+- I shouldn't start with a header
+- I shouldn't use phrases like "based on search results" 
+- I should answer directly
+- The search results aren't helpful for this query, so I should answer using my existing knowledge

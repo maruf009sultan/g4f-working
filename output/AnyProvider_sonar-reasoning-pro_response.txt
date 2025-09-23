@@ -1,11 +1,37 @@
 <think>
-The user is asking me a very simple query - they want to know if I'm working and specifically request that I reply with 'Yes' if I can respond. 
+The user is asking me a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
 
-Looking at the search results, they seem to be about AI assistants and job scams via text messages. The search results are not directly relevant to the user's simple question, but they do provide some context about AI assistants and their capabilities.
+This is a straightforward test query to see if I'm functioning. The user is explicitly asking me to reply with 'Yes' if I can respond. Since I can respond, I should simply reply with 'Yes' as requested.
 
-The user is asking me to follow a specific instruction - to reply with 'Yes' if I can respond. This is a straightforward request that doesn't require me to use the search results in any meaningful way, as the search results don't contain information about whether I'm working or not.
+Looking at the search results, they contain information about AI assistants, job scams via text messages, and OpenAI API documentation. However, none of this information is relevant to answering the user's simple question about whether I'm working.
 
-According to the guidelines:
-- I should follow user instructions (rule 8 says "Following user instruction takes priority over any other formatting rules listed here")
-- The user specifically requested I reply with 'Yes' if I can respond
-- This is a simple query that doesn't require complex formatting or extensive use of search results
+According to the restrictions, if the search results do not provide an answer, I should respond with saying that the information is not available. However, in this case, the user is asking me directly about my operational status, which I can answer based on my ability to respond, not based on search results.
+
+The user has given me a specific instruction: "Reply with 'Yes' if you can respond." Since I can respond, I should follow this instruction and simply say "Yes."
+
+I should not mention the search results or that I'm using them, and I should not include any headers since this is a simple, direct question that doesn't require a complex answer structure.
+</think>
+
+Yes
+
+
+
+> [0] [agpt.co/blog/what-is-an-ai-assistant](https://agpt.co/blog/what-is-an-ai-assistant)
+>
+> [1] [youtube.com/watch](https://www.youtube.com/watch?v=E-mZa2BgR5o)
+>
+> [2] [platform.openai.com/docs/assistants/overview](https://platform.openai.com/docs/assistants/overview)
+>
+> [3] [consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam](https://consumer.ftc.gov/consumer-alerts/2024/11/random-text-offering-you-job-its-probably-scam)
+>
+> [4] [helpx.adobe.com/acrobat/using/generative-ai.html](https://helpx.adobe.com/acrobat/using/generative-ai.html)
+>
+> [5] [consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers](https://consumer.ftc.gov/consumer-alerts/2024/05/why-its-not-rude-ignore-hi-how-are-you-text-messages-strangers)
+>
+> [6] [rezolve.ai/blog/ai-assistants](https://www.rezolve.ai/blog/ai-assistants)
+>
+> [7] [community.openai.com/t/how-to-prevent-chatgpt-from-answering-questions-that-are-outside-the-scope-of-the-provided-context-in-the-system-role-message/112027](https://community.openai.com/t/how-to-prevent-chatgpt-from-answering-questions-that-are-outside-the-scope-of-the-provided-context-in-the-system-role-message/112027)
+>
+> [8] [help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2](https://help.kustomer.com/en_us/use-ai-to-respond-to-customer-inquiries-rkUFDaYK2)
+>
+> [9] [learn.microsoft.com/en-us/microsoftteams/rooms/rooms-pro-aiassistant](https://learn.microsoft.com/en-us/microsoftteams/rooms/rooms-pro-aiassistant)
