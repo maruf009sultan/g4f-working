@@ -1,4 +1,0 @@
-<think>
-Hmm, the user just greeted me and asked if I'm working. They also requested a specific reply format: "Yes" if I can respond. 
-
-Okay, let me break this down. The greeting "Hello" is polite but

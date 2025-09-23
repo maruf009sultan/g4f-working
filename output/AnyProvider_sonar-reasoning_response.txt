@@ -1,16 +1,2 @@
 <think>
-The user is asking me a simple question: "Hello, are you working? Reply with 'Yes' if you can respond."
-
-This is a straightforward query asking if I'm operational/available. The user specifically requests that I reply with 'Yes' if I can respond. 
-
-Looking at the search results, they seem to be about AI assistants in general, job scam texts, how to respond to "how are you" messages, and some technical documentation. None of these search results are directly relevant to answering whether I'm working or operational.
-
-Since the search results don't contain relevant information to answer this specific query, I should answer based on my existing knowledge. The user is asking if I'm working and requesting a specific response format.
-
-The user has given me a clear instruction: "Reply with 'Yes' if you can respond." Since I can respond (I'm clearly operational and answering), I should follow this instruction and reply with 'Yes'.
-
-I need to be careful about the formatting rules:
-- I shouldn't start with a header
-- I shouldn't use phrases like "based on search results" 
-- I should answer directly
-- The search results aren't helpful for this query, so I should answer using my existing knowledge
+The user is asking me if I'm working and w

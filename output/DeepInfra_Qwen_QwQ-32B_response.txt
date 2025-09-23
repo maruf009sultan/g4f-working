@@ -1,1 +1,3 @@
-Okay, the user greeted me and asked if I'm working, asking to reply with 'Yes' if I can respond. Let me see. I need to make sure I just reply with 'Yes' as instructed. But wait, the user might
+Okay, the user just sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to approach this.
+
+First, the user is checking if I'm operational. They want a simple
