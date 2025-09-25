@@ -1,3 +1,3 @@
-Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." So they want a simple 'Yes' reply to confirm I'm operational.
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to handle this.
 
-First, I need to make sure I follow their instruction precisely
+First, the user is checking if I'm active and able to respond. They specifically want

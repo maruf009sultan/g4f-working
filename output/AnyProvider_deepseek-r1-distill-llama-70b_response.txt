@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve this problem: "Prove that √(1+√(1+√(1+...))) = 2." Hmm, that looks like one of those infinite nested square root
+Okay, so I need to figure out how to use the "word" command in LaTeX to insert a line break. I remember that LaTeX handles line breaks a bit differently than regular word processors. In Word, you just press enter, but

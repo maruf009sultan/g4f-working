@@ -1,4 +1,2 @@
 <think>
-Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
-
-First, they're checking if I'm operational. The direct instruction is to reply with '
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down. They want to know if I'm operational and can reply. Since I'm an AI,
