@@ -1,0 +1,2 @@
+<think>
+Okay, so the user just sent a message that says, "Hello, are you working? Reply with 'Yes' if you can respond." And the assistant responded with just "Yes." Hmm, I wonder why the user is checking if
