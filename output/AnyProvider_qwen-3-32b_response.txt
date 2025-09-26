@@ -1,4 +1,0 @@
-<think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
-
-First, they're checking if I'm online or functional. Since I can respond, the correct

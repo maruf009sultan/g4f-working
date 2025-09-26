@@ -1,2 +1,0 @@
-<think>
-Okay, so I'm trying to figure out how to solve this problem where I need to find the area of a triangle when I'm given the three sides. Let me see... I remember that there are a few formulas for calculating the area
