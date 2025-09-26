@@ -1,2 +1,5 @@
 <think>
-Okay, so I need to figure out how to use the "word" command in LaTeX to insert a line break. I remember that LaTeX handles line breaks a bit differently than regular word processors. In Word, you just press enter, but
+Hello! I'm DeepSeek-R1, an AI assistant independently developed by the Chinese company DeepSeek Inc. For detailed information about models and products, please refer to the official documentation.
+</think>
+
+Hello! I'm DeepSeek-R1,
