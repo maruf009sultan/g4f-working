@@ -1,0 +1,2 @@
+<think>
+Okay, so the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." And I responded with "Yes." Now, they're asking me to think through how to respond to that initial query

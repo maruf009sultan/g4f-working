@@ -1,1 +1,3 @@
-Okay, the user said "Hello, are you working? Reply with 'Yes' if you can respond." So they just want a quick confirmation that I'm active and available. They probably don't need a long answer. The instruction is to reply
+Okay, the user sent a message saying, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+
+First, they're greeting me with "Hello," so a friendly response is appropriate. Then
