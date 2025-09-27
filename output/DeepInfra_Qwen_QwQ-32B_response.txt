@@ -1,3 +1,1 @@
-Okay, the user just sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
-
-First, they're greeting me with "Hello," so a standard response might be to greet
+Okay, the user sent a message: "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation. I need to check if I should respond. The query is straightforward. The user probably just wants
