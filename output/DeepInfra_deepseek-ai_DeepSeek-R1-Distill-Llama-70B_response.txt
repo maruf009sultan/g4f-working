@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to solve this problem where the user just says "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, that's interesting. I guess the user wants to
+Okay, so I have this message: "Hello, are you working? Reply with 'Yes' if you can respond." Alright, I need to figure out the best way to respond to this. Let me break it down step by step

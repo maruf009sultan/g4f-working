@@ -1,3 +1,3 @@
-Okay, the user sent a message saying, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
 
-First, they're greeting me with "Hello," so a friendly response is appropriate. Then
+First, they're greeting me with "Hello" and then asking if I'm working. The second part

@@ -1,1 +1,1 @@
-Okay, the user sent a message: "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple 'Yes' if I can answer. Let me check the instructions. The user specified to respond only with
+Okay, the user said, "Hello, are you working? Reply with 'Yes' if you can respond." So they're checking if I'm operational. My instructions say to reply with just "Yes" if I can respond. Let me make

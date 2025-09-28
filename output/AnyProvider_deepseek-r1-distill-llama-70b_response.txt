@@ -1,2 +1,3 @@
 <think>
-Okay, so the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." And I responded with "Yes." Now, they're asking me to think through how to respond to that initial query
+Okay, so I just received a message from the user, right? It says, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, interesting. Let me think about how to approach this. 
+
