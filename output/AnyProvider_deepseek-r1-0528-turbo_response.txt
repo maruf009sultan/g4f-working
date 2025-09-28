@@ -1,4 +1,5 @@
 <think>
-Okay, the user just greeted me and asked if I'm working, with a specific instruction to reply "Yes" if I can respond. 
-
-Hmm, this seems like a basic functionality check - maybe they're testing if the system is
+We are given a simple instruction: Reply with 'Yes' if we can respond.
+ Since the assistant is operational and capable of responding, the answer is straightforward.
+</think>
+Yes
