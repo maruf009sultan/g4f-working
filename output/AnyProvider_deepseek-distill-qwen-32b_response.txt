@@ -1,2 +1,0 @@
-<think>
-Okay, so I just saw this message where the user greeted the assistant and asked if it's working, expecting a 'Yes' response. The assistant replied with 'Yes' and then some additional info about being an AI language model and being
