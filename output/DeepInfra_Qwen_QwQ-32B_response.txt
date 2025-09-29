@@ -1,1 +1,1 @@
-Okay, the user sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation that I'm operational. Let me check the instructions again. The user specified to reply with just "
+Okay, the user asked "Hello, are you working? Reply with 'Yes' if you can respond." I need to make sure I understand what they're asking. They want to confirm if I'm operational and ready to answer. The instruction is

@@ -1,2 +1,4 @@
 <think>
-Okay, so I need to figure out how to respond to "Hello, are you working? Reply with 'Yes' if you can respond." The user has already received a 'Yes' from the system, and now they're probably looking
+Okay, the user asked me to reply with 'Yes' if I can respond, and I did. Now they're asking me to think through this. Hmm, I should figure out the best way to help them.
+
+I need to determine
