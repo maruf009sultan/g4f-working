@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check my current status. I'm an AI developed by Alibaba Cloud, so I should be operational. The user
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out how to respond.
+
+First, I should acknowledge their greeting. They want a simple "Yes" if

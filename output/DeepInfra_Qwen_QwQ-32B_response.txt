@@ -1,1 +1,1 @@
-Okay, the user just sent a message saying "Hello, are you working? Reply with 'Yes' if you can respond." Let me parse this. They want to check if I'm operational. The instruction is straightforward: respond with 'Yes'
+Okay, the user wrote a message asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me first process this. Since they're asking to respond with just 'Yes', I should make sure I follow that
