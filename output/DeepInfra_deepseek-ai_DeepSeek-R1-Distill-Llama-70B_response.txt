@@ -1,2 +1,5 @@
 <think>
-Okay, so I've got this message: "Hello, are you working? Reply with 'Yes' if you can respond." The user then says I should reply with 'Yes' if I can respond. I think I need to figure
+Hi! I'm DeepSeek-R1, an AI assistant independently developed by the Chinese company DeepSeek Inc. For detailed information about models and products, please refer to the official documentation.
+</think>
+
+Hi! I'm DeepSeek-R1,

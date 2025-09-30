@@ -1,0 +1,1 @@
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation. Let me check the instructions again. The user specified to reply with just 'Yes' if I can

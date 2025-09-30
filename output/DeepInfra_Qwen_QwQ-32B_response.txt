@@ -1,1 +1,3 @@
-Okay, the user wrote a message asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me first process this. Since they're asking to respond with just 'Yes', I should make sure I follow that
+Okay, the user sent a message asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me start by understanding the request.
+
+First, the user is probably checking if the system is operational. They want a
