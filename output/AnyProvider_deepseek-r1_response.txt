@@ -1,2 +1,4 @@
-Ratelimit Exceeded!
-Please join: https://discord.gg/9g5wkVTn8s
+<think>
+Okay, the user just asked if I'm working and wants a simple 'Yes' reply if available. 
+
+Hmm, this seems like a basic connectivity check - maybe they've had issues with unresponsive assistants before. The phrasing feels polite

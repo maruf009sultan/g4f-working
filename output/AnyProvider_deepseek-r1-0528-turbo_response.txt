@@ -1,2 +1,4 @@
 <think>
-Hmm, the user just asked if I'm working and wants a simple 'Yes' confirmation. Okay, this seems like a basic availability check - maybe they're testing if I'm online or just want quick confirmation before asking something else.
+Hmm, the user just asked if I'm working and wants me to reply with 'Yes' if I can respond. 
+
+Okay, this seems like a simple check to confirm availability. The user might be testing if I'm online or

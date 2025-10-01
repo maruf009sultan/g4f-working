@@ -1,3 +1,3 @@
-Okay, the user sent a message asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me start by understanding the request.
+Okay, the user just sent "Hello, are you working? Reply with 'Yes' if you can respond." Let me see.
 
-First, the user is probably checking if the system is operational. They want a
+First, they want to know if I'm working, so a simple "Yes" is required if I can reply

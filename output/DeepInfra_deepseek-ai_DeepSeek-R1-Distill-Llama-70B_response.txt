@@ -1,5 +1,2 @@
 <think>
-Hi! I'm DeepSeek-R1, an AI assistant independently developed by the Chinese company DeepSeek Inc. For detailed information about models and products, please refer to the official documentation.
-</think>
-
-Hi! I'm DeepSeek-R1,
+Okay, so I need to figure out how this works. I got a message saying "Hello, are you working? Reply with 'Yes' if you can respond." Then the response was "Yes". Now, the user is asking me
