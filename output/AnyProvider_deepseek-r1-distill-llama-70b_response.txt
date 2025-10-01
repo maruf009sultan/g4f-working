@@ -1,2 +1,2 @@
 <think>
-Alright, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." I need to confirm I'm operational, so I'll start with a friendly greeting and then show I'm working. Maybe add
+Okay, the user asked "Hello, are you working? Reply with 'Yes' if you can respond." So, I need to figure out how to respond appropriately. They want a 'Yes' if I can respond, so I should

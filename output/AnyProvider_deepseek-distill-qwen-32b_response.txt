@@ -1,2 +1,2 @@
 <think>
-Okay, so the user sent "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." And the assistant replied "Yes". Now, the user is saying "Hello, are you working?
+Okay, so the user sent a greeting and a check to see if I'm working. They said, "Hello, are you working? Reply with 'Yes' if you can respond." Then I replied with "Yes." Now, I

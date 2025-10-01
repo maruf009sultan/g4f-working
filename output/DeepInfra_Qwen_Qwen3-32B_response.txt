@@ -1,4 +1,2 @@
 <think>
-Okay, the user is asking if I'm working. They want me to reply with 'Yes' if I can respond. Let me check.
-
-First, I need to confirm that I can indeed respond. Since the user is asking for a
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. I need to check the instructions. The user specified to reply with 'Yes' if I can respond. Since I am

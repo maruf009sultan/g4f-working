@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the instructions. They mentioned to first write out the thinking process in English, then provide the answer in the
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+
+First, they're checking if I'm active and able to respond. The key here is
