@@ -1,2 +1,2 @@
-Ratelimit Exceeded!
-Please join: https://discord.gg/9g5wkVTn8s
+{'messages': [{'role': 'user', 'content': "Hello, are you working? Reply with 'Yes' if you can respond."}], 'model': 'kimi-k2', 'max_tokens': 50, 'stream': True, 'user': 'admin', 'stream_options': {'include_usage': True}}{'choices': [{'delta': {'content': 'Ratelimit Exceeded!\nPlease join: https://discord.gg/9g5wkVTn8s', 'role': 'assistant'}, 'finish_reason': None, 'index': 0}], 'created': 1759386927, 'id': 'chatcmpl-8c7a108d4d53444ba2cd84aeab9a1', 'model': 'kimi-k2', 'object': 'chat.completion.chunk'}Ratelimit Exceeded!
+Please join: https://discord.gg/9g5wkVTn8s{'choices': [{'delta': {}, 'finish_reason': 'stop', 'index': 0}], 'created': 1759386927, 'id': 'chatcmpl-8c7a108d4d53444ba2cd84aeab9a1', 'model': 'kimi-k2', 'object': 'chat.completion.chunk', 'usage': None}
