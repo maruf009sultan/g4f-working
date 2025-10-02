@@ -1,2 +1,2 @@
-{'messages': [{'role': 'user', 'content': "Hello, are you working? Reply with 'Yes' if you can respond."}], 'model': 'gpt-4o-mini', 'max_tokens': 50, 'stream': True, 'user': 'admin', 'stream_options': {'include_usage': True}}{'choices': [{'delta': {'content': 'Ratelimit Exceeded!\nPlease join: https://discord.gg/9g5wkVTn8s', 'role': 'assistant'}, 'finish_reason': None, 'index': 0}], 'created': 1759386927, 'id': 'chatcmpl-7c4b2a73b3254d3097e89c36f287a', 'model': 'gpt-4o-mini', 'object': 'chat.completion.chunk'}Ratelimit Exceeded!
-Please join: https://discord.gg/9g5wkVTn8s{'choices': [{'delta': {}, 'finish_reason': 'stop', 'index': 0}], 'created': 1759386927, 'id': 'chatcmpl-7c4b2a73b3254d3097e89c36f287a', 'model': 'gpt-4o-mini', 'object': 'chat.completion.chunk', 'usage': None}
+Ratelimit Exceeded!
+Please join: https://discord.gg/9g5wkVTn8s

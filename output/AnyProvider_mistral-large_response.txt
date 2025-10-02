@@ -1,1 +1,1 @@
-{'messages': [{'role': 'user', 'content': "Hello, are you working? Reply with 'Yes' if you can respond."}], 'model': 'mistral-large', 'max_tokens': 50, 'stream': True, 'user': 'admin', 'stream_options': {'include_usage': True}}{'id': 'chatcmpl-1cc7e509-fc1d-4f25-bba7-f69b079fd849', 'object': 'chat.completion', 'created': 1759389579, 'model': 'mistral-large', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '', 'tool_calls': None}, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 0, 'completion_tokens': 0, 'total_tokens': 0}}
+Yes
