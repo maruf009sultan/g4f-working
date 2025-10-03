@@ -1,2 +1,2 @@
 <think>
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to make sure I respond correctly. Hmm, looking at the history, the assistant already replied with "Yes."
+Okay, so I received a message from someone asking, "Hello, are you working? Reply with 'Yes' if you can respond." Then they got a one-word reply: "Yes". Now, I'm supposed to think through how
