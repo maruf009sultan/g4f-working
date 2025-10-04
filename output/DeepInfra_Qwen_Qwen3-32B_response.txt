@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." I need to make sure I understand their request correctly. They want a confirmation that I can respond, and specifically to reply
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+
+First, they're greeting me and checking if I'm operational. The key part is "
