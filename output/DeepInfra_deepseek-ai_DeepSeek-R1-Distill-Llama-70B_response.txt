@@ -1,2 +1,2 @@
 <think>
-Okay, so I just asked, "Hello, are you working? Reply with 'Yes' if you can respond." And the assistant responded with "Yes". Now I need to come up with a thoughtful and detailed explanation for why the assistant
+Alright, so I need to figure out how to solve a system of equations, but I'm not entirely sure where to start. The user asked for a thought process, so I should probably walk through this step by step as if I'm
