@@ -1,2 +1,2 @@
 <think>
-Okay, so I received a message asking if I'm working and to reply with 'Yes' if I can. Hmm, the response given was just 'Yes', but maybe I should think about why that is the case. Let me try
+Okay, so I'm trying to figure out how to set up a home network using a pfSense firewall. I'm not entirely new to networking, but I'm definitely not an expert either. Let me walk through my thoughts as I try

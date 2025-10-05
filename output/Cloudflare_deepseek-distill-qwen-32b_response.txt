@@ -1,2 +1,2 @@
 <think>
-Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond with 'Yes'. That's straightforward. I should keep it simple and clear. Make sure there's no
+Okay, so I'm trying to figure out how to respond to the user's message. They said, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." And the assistant replied with
