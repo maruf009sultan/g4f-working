@@ -1,2 +1,4 @@
 <think>
-Okay, so I'm trying to figure out how to respond to this user. They wrote, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, that's pretty straightforward. They're checking if I
+Okay, so the user just wrote "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." Hmm, I need to figure out how to respond appropriately. 
+
+First, I should acknowledge that

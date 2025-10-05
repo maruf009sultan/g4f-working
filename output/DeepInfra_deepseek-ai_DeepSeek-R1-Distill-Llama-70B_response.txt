@@ -1,2 +1,5 @@
 <think>
-Okay, so I've got this problem to solve, but I'm a bit confused about where to start. Let me try to break it down step by step. First, I need to understand exactly what the problem is asking. Sometimes,
+Okay, the user asked if I'm working and told me to reply with 'Yes' if I can respond. So, I should just answer 'Yes' to confirm.
+</think>
+
+Yes

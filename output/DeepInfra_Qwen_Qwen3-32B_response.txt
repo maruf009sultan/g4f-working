@@ -1,2 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to make sure I understand what they're asking. They want confirmation that I'm operational and can reply. Since they
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down. They want to check if I'm operational and specifically asked for a 'Yes' response if
