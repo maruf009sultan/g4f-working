@@ -1,5 +1,2 @@
 <think>
-Okay, the user asked if I'm working and told me to reply with 'Yes' if I can respond. So, I should just answer 'Yes' to confirm.
-</think>
-
-Yes
+Alright, so the user just sent "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, I should figure out the best way to respond. They want a 'Yes' if I'm operational. I
