@@ -1,1 +1,0 @@
-[![Hello, are you working? Reply with 'Yes' if you can respond.](https://black-forest-labs-flux-1-dev.hf.space/gradio_api/file=/tmp/gradio/432282a636b2c430562e69523a291bc11f0cd2e20657242e09342b687c9a6a67/image.webp)](https://black-forest-labs-flux-1-dev.hf.space/gradio_api/file=/tmp/gradio/432282a636b2c430562e69523a291bc11f0cd2e20657242e09342b687c9a6a67/image.webp)

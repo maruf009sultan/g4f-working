@@ -1,2 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to check if I can reply. Since I'm active and able to respond, the correct answer is to say '
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down. They want to confirm if I'm active and able to communicate. The straightforward answer here is
