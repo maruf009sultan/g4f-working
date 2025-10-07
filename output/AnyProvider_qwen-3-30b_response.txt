@@ -1,4 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out how to respond.
-
-First, I should check if the user is testing if I'm operational. They
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check my current status. I'm an AI developed by Alibaba Cloud, so I should be operational. The user
