@@ -1,2 +1,6 @@
 <think>
-Okay, so I just received a message from someone asking, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, pretty straightforward, but I'm not sure how to handle it. Let me break this
+Okay, the user sent a greeting and asked if I'm working. I responded with 'Yes' as instructed.
+
+They're probably just starting a conversation. I should be friendly and ready to help them with whatever they need.
+
+I'll wait
