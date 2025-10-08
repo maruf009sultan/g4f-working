@@ -1,4 +1,2 @@
 <think>
-Okay, the user just sent a message saying, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." I need to respond appropriately.
-
-First, I should acknowledge their greeting. They said
+Okay, so I'm trying to figure out how to respond to this user message. The user wrote, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." And the assistant replied with

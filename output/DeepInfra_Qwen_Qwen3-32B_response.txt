@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check. I need to make sure I understand the request correctly. They probably want a simple confirmation that I'm
+Okay, the user sent a message saying, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to handle this.
+
+First, the user is checking if I'm operational. They want

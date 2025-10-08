@@ -1,3 +1,2 @@
 <think>
-Okay, so the user just said, "Hello, are you working? Reply with 'Yes' if you can respond." They also mentioned that I'm a helpful assistant. Hmm, I need to figure out the best way to respond.
-
+Okay, the user sent "Hello, are you working? Reply with 'Yes' if you can respond." I need to acknowledge they're checking if I'm operational. They probably want a confirmation that I'm functioning correctly. My response should
