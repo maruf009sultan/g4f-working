@@ -1,6 +1,2 @@
 <think>
-Okay, the user sent a greeting and asked if I'm working. I responded with 'Yes' as instructed.
-
-They're probably just starting a conversation. I should be friendly and ready to help them with whatever they need.
-
-I'll wait
+Okay, so I'm trying to figure out how to respond to the user's message. They said, "Hello, are you working? Reply with 'Yes' if you can respond." Alright, let's break this down step by step
