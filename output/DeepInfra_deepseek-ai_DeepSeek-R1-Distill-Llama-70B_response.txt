@@ -1,6 +1,2 @@
 <think>
-Okay, the user says "Hello, are you working? Reply with 'Yes' if you can respond."
-They're checking if I'm operational. I'll respond by confirming.
-</think>
-
-Yes
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." and I responded with "Yes". Now, they're following up with another message. I need to figure out what they're
