@@ -1,0 +1,6 @@
+<think>
+Okay, the user says "Hello, are you working? Reply with 'Yes' if you can respond."
+They're checking if I'm operational. I'll respond by confirming.
+</think>
+
+Yes

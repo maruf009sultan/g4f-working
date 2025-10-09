@@ -1,0 +1,2 @@
+<think>
+Okay, so the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." I see that the assistant already replied with "Yes." Now, I need to figure out how to respond to that
