@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking me to respond with 'Yes' to confirm I'm working. They provided a previous example where the assistant just said 'Yes'. So, I should follow that format. They want a straightforward confirmation without any additional
+Okay, so I need to figure out how to respond when someone asks if I'm working. They want me to reply with 'Yes' if I can respond. Hmm, let's break this down.
+
+First, the user says, "

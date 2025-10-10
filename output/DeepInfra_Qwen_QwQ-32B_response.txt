@@ -1,1 +1,3 @@
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." So, they want a simple confirmation. The instructions say to reply with just 'Yes'. I need to make sure I don't add
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+
+First, the greeting "Hello" is straightforward. Then the main question is whether I'm working.

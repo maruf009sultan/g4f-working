@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking if I'm working. They want a 'Yes' reply if I can respond. I need to confirm that I'm active. Let me check my status. I'm online and ready to help. So the
+Okay, the user is asking if I'm working and wants a 'Yes' reply if I can respond. Let me check the guidelines. I should acknowledge their message and offer assistance. Since they specifically asked to reply with 'Yes', I

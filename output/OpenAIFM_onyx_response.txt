@@ -1,1 +1,1 @@
-<audio controls src="/media/1760078918_onyx%2Bonyx%2BHello%2C_are_you_working_Reply_with_Yes_if_you_can_respond_2f023c3f300aa51f.wav"></audio>
+<audio controls src="https://www.openai.fm/api/generate?input=Hello%2C%20are%20you%20working%3F%20Reply%20with%20%27Yes%27%20if%20you%20can%20respond.&prompt=&voice=onyx"></audio>
