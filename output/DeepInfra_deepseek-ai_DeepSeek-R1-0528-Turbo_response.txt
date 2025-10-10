@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just greeted me and asked if I'm working. They specifically requested a 'Yes' reply if I can respond.  
+Okay, the user just greeted me and asked if I'm working, requesting a simple 'Yes' if I can respond. 
 
-This seems like a connectivity check - maybe they've experienced AI services being down before. The phrasing
+Hmm, this seems like a basic functionality check - maybe they're testing if the system is live or just

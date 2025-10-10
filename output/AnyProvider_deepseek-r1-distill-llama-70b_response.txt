@@ -1,4 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve this problem. Let me read it again and try to understand what's being asked. 
-
-The problem is: "Hello, are you working? Reply with 'Yes' if you can
+Okay, so I need to figure out how to solve this problem. Let's see what the problem is asking. Hmm, it's not directly stated here, but from the context, I think it's about determining if a number is greater

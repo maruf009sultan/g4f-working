@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to respond to the user's query. Let me read through what they've said. The user starts with "You are a helpful assistant Hello, are you working? Reply with 'Yes' if
+Okay, the user is asking me to respond with 'Yes' to confirm I'm working. They provided a previous example where the assistant just said 'Yes'. So, I should follow that format. They want a straightforward confirmation without any additional

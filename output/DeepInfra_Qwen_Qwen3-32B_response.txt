@@ -1,4 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
-
-First, they're checking if I'm operational. The direct instruction is to reply with 'Yes
+Okay, the user is asking if I'm working. They want a 'Yes' reply if I can respond. I need to confirm that I'm active. Let me check my status. I'm online and ready to help. So the

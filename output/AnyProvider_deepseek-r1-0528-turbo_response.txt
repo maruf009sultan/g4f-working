@@ -1,4 +1,4 @@
 <think>
-Okay, the user just greeted me and asked if I'm working, with a specific instruction to reply 'Yes' if I can respond. 
+Hmm, the user just asked if I'm working and wants a simple 'Yes' reply if I can respond. 
 
-Hmm, this seems like a basic functionality check - maybe they're testing if I'm online
+Okay let's break this down. The phrasing feels a bit like a system check - maybe they've had issues with

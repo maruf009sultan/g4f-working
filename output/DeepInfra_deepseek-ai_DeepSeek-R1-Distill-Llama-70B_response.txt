@@ -1,2 +1,4 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." and I responded with "Yes". Now, they're following up with another message. I need to figure out what they're
+Alright, someone just said hello and asked if I'm working. They also mentioned to reply with 'Yes' if I can respond.
+
+I need to answer them in a friendly and helpful way. I'll make sure to let them know I

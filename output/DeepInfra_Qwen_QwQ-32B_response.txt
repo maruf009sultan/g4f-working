@@ -1,1 +1,1 @@
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." So they want a simple confirmation that I'm operational. The instructions say to reply with just "Yes" if I can respond. Let
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." So, they want a simple confirmation. The instructions say to reply with just 'Yes'. I need to make sure I don't add

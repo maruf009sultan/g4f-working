@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just asked if I'm working and wants me to reply with "Yes" if I can respond. 
-
-This seems like a simple check to confirm my availability. The user might be testing if I'm active or just
+We are given a simple instruction: Reply with 'Yes' if we can respond.
+ Since the assistant is operational and capable of responding, the answer is 'Yes'.
+ However, note that the user's message is in English and the assistant should
