@@ -1,2 +1,5 @@
 <think>
-Okay, so I need to figure out how to solve the equation 2x + 5 = 17. Hmm, let's see. I remember that when you have an equation like this, you need to get x by itself on
+Alright, the user said "Yes." I should acknowledge that and offer my help. Maybe ask how I can assist them today. That should keep the conversation going smoothly.
+</think>
+
+Yes! How can I assist you today?

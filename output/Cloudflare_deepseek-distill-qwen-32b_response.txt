@@ -1,4 +1,2 @@
 <think>
-Okay, so I need to figure out how to respond when someone asks if I'm working. They want me to reply with 'Yes' if I can respond. Hmm, let's break this down.
-
-First, the user says, "
+Okay, so I need to figure out how to respond to the user's message. The user wrote, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." And then the assistant just

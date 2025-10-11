@@ -1,2 +1,2 @@
 <think>
-Okay, I need to figure out how to answer the user's question properly. They asked, "Hello, are you working? Reply with 'Yes' if you can respond." So, the user is checking if the AI is active and
+Alright, so the user just asked me, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, interesting. I need to figure out the best way to respond. Well, first off, I know
