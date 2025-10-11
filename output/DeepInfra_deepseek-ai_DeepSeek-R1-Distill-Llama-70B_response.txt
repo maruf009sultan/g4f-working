@@ -1,2 +1,2 @@
 <think>
-Alright, so the user just asked me, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, interesting. I need to figure out the best way to respond. Well, first off, I know
+Alright, someone just said hello and asked if I'm working. They mentioned to reply with 'Yes' if I can respond. I need to make sure I follow that instruction correctly. So, I should just respond with 'Yes' and

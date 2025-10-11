@@ -1,2 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me see. First, they want to check if I'm operational. They probably sent this because they didn't get a
+Okay, the user is asking if I'm working right now and wants a reply with "Yes" if I can respond. Let me see. I should check if there are any ongoing tasks or system maintenance that might affect my ability to respond

@@ -1,4 +1,2 @@
 <think>
-Okay, so the user just said, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out how to respond appropriately.
-
-First, the user is addressing me as
+Okay, so I'm trying to figure out how to respond when someone greets me and asks if I'm working. The user wrote, "Hello, are you working? Reply with 'Yes' if you can respond." Then the assistant
