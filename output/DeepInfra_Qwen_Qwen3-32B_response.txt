@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check. I need to confirm that I'm operational. Since I can generate responses, the appropriate reply is "
+Okay, the user is asking if I'm working. I need to respond with 'Yes' if I can. Since I'm online, I should say yes. But they might want a bit more than just a single word. Maybe add

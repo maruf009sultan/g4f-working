@@ -1,4 +1,1 @@
-Yes, I'm here and ready to help! How can I assist you today?
-</think>
-
-Yes
+Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple 'Yes' if I'm able to. Let me check the guidelines. I need to make sure that responding with

@@ -1,4 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes'. I need to confirm that I can respond. Since I'm active right now, the answer should be straightforward.
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me break this down.
 
-Let me check the instructions again.
+First, I need to understand the context. It seems like a straightforward check to see if
