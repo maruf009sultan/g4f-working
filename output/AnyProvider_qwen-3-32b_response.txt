@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working right now and wants a reply with "Yes" if I can respond. Let me see. I should check if there are any ongoing tasks or system maintenance that might affect my ability to respond
+Okay, the user is asking if I'm working and wants me to reply with 'Yes'. I need to confirm that I can respond. Since I'm active right now, the answer should be straightforward.
+
+Let me check the instructions again.

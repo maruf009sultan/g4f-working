@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the guidelines. I should confirm that I'm operational and ready to help. Since I can respond, the
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+
+First, they're greeting me with "Hello," which is a common opener. Then they're

@@ -1,3 +1,4 @@
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+Yes, I'm here and ready to help! How can I assist you today?
+</think>
 
-First, they're greeting me with "Hello," so a polite response is needed. But the key
+Yes
