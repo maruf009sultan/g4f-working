@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to make a simple calculator using Python. I've heard that Python is a good language for this kind of thing, but I'm not entirely sure where to start. Let me think through this
+Okay, so I'm trying to figure out how to respond when someone asks if I'm working. They just said, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, I think the user wants

@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the guidelines. I should be helpful and follow their instructions. Since they specified to reply with 'Yes',
+Okay, the user said, Hello, are you working? Reply with 'Yes' if you can respond. According to the instructions, I need to answer the user's questions, need to act as a helpful AI assistant with clear logical thinking
