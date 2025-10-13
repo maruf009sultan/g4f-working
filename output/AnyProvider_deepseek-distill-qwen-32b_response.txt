@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to respond to this user's message. Let me read it again. The user says, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, that
+Okay, so I'm trying to figure out how to make a simple calculator using Python. I've heard that Python is a good language for this kind of thing, but I'm not entirely sure where to start. Let me think through this
