@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to respond to the user's query. Let me read through the conversation again. The user starts by saying, "You are a helpful assistant Hello, are you working? Reply with 'Yes'
+Okay, so I'm trying to figure out how to respond to this user. They sent a message saying, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." And then the assistant

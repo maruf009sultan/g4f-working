@@ -1,4 +1,4 @@
 <think>
-Okay, so I just got a message from someone, and I want to figure out how to respond, but I'm not entirely sure where to start. Let me think this through step by step.
+Okay, the user just messaged me with "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, that's an interesting way to start a conversation. Let me try to unpack this.
 
-First, I read the message: "
+First, they

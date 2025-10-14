@@ -1,1 +1,1 @@
-Yes
+Okay, the user sent a message: "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple "Yes" response. Let me check the guidelines. I need to respond truthfully and keep it brief

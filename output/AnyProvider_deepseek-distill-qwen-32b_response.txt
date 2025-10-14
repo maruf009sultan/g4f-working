@@ -1,2 +1,4 @@
 <think>
-Okay, so I'm trying to figure out how to respond to this user message. The user says, "Hello, are you working? Reply with 'Yes' if you can respond." And then the assistant replies with just "Yes."
+Okay, so the user just sent "Yes" as a response to my initial greeting. I need to figure out what to do next. Let me think about the conversation flow.
+
+First, the user greeted me with "Hello, are you

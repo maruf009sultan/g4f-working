@@ -1,2 +1,4 @@
 <think>
-Okay, the user wants to know if I can wake up. Now I need to analyze this from multiple angles. The linguistic layer is very direct, requesting confirmation of functionality, but 'Yes' needs to be used for confirmation, indicating there
+Okay, the user asked, Hello, are you working? Reply with 'Yes' if you can respond. Let me start by understanding the request. They want confirmation that I can respond by getting me to say 'Yes'.
+
+First, I
