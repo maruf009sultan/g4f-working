@@ -1,2 +1,2 @@
 <think>
-Okay, the user said, Hello, are you working? Reply with 'Yes' if you can respond. According to the instructions, I need to answer the user's questions, need to act as a helpful AI assistant with clear logical thinking
+Okay, the user wants to know if I can wake up. Now I need to analyze this from multiple angles. The linguistic layer is very direct, requesting confirmation of functionality, but 'Yes' needs to be used for confirmation, indicating there

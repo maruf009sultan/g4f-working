@@ -1,2 +1,2 @@
 <think>
-Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." I need to make sure I understand what they're asking. They seem to be checking if I'm operational and ready to help
+Okay, so I need to figure out how to respond to the user's query. Let me read through the conversation again. The user starts by saying, "You are a helpful assistant Hello, are you working? Reply with 'Yes'

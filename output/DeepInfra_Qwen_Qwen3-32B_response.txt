@@ -1,2 +1,4 @@
 <think>
-Okay, the user greeted me and asked if I'm working. I need to respond with a 'Yes' to indicate that I'm online and can reply. This conforms to the user's instructions. Next, I should ask if there is
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+
+First, they're greeting me with "Hello" which is standard. Then they're asking
