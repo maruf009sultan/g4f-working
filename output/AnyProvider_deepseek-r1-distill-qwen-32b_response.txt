@@ -1,2 +1,4 @@
 <think>
-Okay, I need to figure out how to approach this problem. Let me start by understanding what's being asked. The user initially asked, "Hello, are you working? Reply with 'Yes' if you can respond." I responded with
+Okay, the user sent "Hello, are you working? Reply with 'Yes' if you can respond." So I need to figure out the best way to respond.
+
+They might be checking if I'm operational. Maybe they're testing my

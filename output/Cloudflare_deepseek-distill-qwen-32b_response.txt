@@ -1,2 +1,4 @@
 <think>
-Okay, so I need to figure out how to respond when the user says, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." Hmm, let me break this down step by step
+Okay, the user sent a message saying, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." They also included a response from the assistant, which is just "Yes." 
+
+I
