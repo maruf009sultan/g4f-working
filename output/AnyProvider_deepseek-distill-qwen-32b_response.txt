@@ -1,4 +1,4 @@
 <think>
-Okay, so the user just sent "Yes" as a response to my initial greeting. I need to figure out what to do next. Let me think about the conversation flow.
+Okay, so I need to figure out how to respond when the user says, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
 
-First, the user greeted me with "Hello, are you
+First, the user is greeting me with "
