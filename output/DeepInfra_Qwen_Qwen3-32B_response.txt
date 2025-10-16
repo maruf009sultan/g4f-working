@@ -1,4 +1,2 @@
 <think>
-Okay, the user is asking if I'm working. I should respond first. They want confirmation of my ability to communicate, so I need to directly answer with the required 'Yes'. 
-
-Next, I should ensure the response is friendly and
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. First, I need to understand the question: they're probably testing if I'm online or functional. Since I can communicate
