@@ -1,1 +1,2 @@
-Hello! Yes, I'm here and ready
+<think>
+Okay, the user said, Hello, are you working? Reply with 'Yes' if you can respond. I need to figure out the appropriate response. The user wants to know if I'm available to answer. Since I'm capable of

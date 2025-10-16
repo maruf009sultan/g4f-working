@@ -1,4 +1,2 @@
 <think>
-Okay, the user sent "Hello, are you working? Reply with 'Yes' if you can respond." So I need to figure out the best way to respond.
-
-They might be checking if I'm operational. Maybe they're testing my
+Okay, so I need to figure out why my ear is plugged and what I can do about it. Hmm, where do I start? Well, I remember sometimes when my ear feels plugged, it's because of congestion, maybe from a
