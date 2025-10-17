@@ -1,5 +1,4 @@
 <think>
-Okay, the user just asked me if I'm working and to reply with 'Yes' if I can. I should keep it simple and direct. I'll respond with a 'Yes' as they requested. Sounds straightforward!
-</think>
+Okay, so I need to figure out how to respond when someone asks me, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, let's break this down. 
 
-Yes
+First, the person says "

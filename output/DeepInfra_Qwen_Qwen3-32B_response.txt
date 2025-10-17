@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. First, I need to understand the question: they're probably testing if I'm online or functional. Since I can communicate
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." First, I need to confirm if I can reply. The user probably wants to test if the system is online or if the

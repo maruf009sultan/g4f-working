@@ -1,5 +1,2 @@
 <think>
-Hello! I'm here and ready to help. How can I assist you today?
-</think>
-
-Hello! I'm here and ready to help. How can I assist you today?
+Alright, someone just asked me, "Hello, are you working? Reply with 'Yes' if you can respond." So, first, I need to understand what they're asking. They want to know if I'm operational and can provide

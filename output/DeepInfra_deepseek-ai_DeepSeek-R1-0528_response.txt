@@ -1,4 +1,4 @@
 <think>
-We are given a simple greeting and a request to reply with 'Yes' if we can respond.
- Since we are indeed operational and capable of responding, we will reply with 'Yes'.
- However, note that the user might be testing if the
+Hmm, the user just greeted me with "Hello, are you working?" and asked me to reply with 'Yes' if I can respond. 
+
+This seems like a simple connectivity check - maybe they've experienced issues with AI assistants before

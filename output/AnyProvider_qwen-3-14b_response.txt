@@ -1,4 +1,4 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to handle this.
 
-First, they're greeting me with "Hello," which is a standard opener. Then they're
+First, they want a confirmation if I'm working. The instruction is to

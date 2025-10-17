@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just greeted me and asked if I'm working, requesting a simple "Yes" reply if I can respond. 
+Hmm, the user just asked if I'm working and wants me to reply with "Yes" if I can respond. Okay, this seems straightforward. 
 
-Okay, this seems like a basic connectivity check - maybe they've had issues with AI assistants before or
+I notice they're keeping it very simple - no names, no pleasantries,
