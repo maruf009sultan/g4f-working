@@ -1,0 +1,4 @@
+<think>
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out the appropriate response.
+
+First, the user is probably just checking if I'm online and able to respond
