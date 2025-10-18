@@ -1,2 +1,2 @@
 <think>
-Okay, I've just received a message saying "Hello, are you working? Reply with 'Yes' if you can respond." So, the first thing I need to do is understand what the user is asking for. They want to know
+Okay, so I need to figure out how to solve this problem: Determine the number of integers \( m \) such that \( 0 < m < 1000 \) and \( m \) divides \( 1000! \

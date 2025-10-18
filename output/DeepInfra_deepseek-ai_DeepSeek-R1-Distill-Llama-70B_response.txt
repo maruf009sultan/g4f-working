@@ -1,2 +1,2 @@
 <think>
-Okay, the user just asked me, "Hello, are you working? Reply with 'Yes' if you can respond." But I already responded with "Yes." Now they've followed up with "Yes" as well. Hmm, I
+Okay, so I received a message: "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, I need to figure out how to respond appropriately. The user has given me an instruction within the message,

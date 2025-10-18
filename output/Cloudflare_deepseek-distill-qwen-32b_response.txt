@@ -1,2 +1,2 @@
 <think>
-Okay, so I just saw this message where the user is asking if I'm working and to reply with 'Yes' if I can respond. Hmm, I need to figure out what the best response is here. Let me break it down
+Okay, the user just wrote "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." and my reply was "Yes." Now they wrote "Hello, are you working? Reply with '
