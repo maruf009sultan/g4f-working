@@ -1,4 +1,4 @@
 <think>
-Okay, the user is checking if I'm working. They want me to reply with "Yes" if I can respond. Since they're asking about my functionality, I should confirm I'm active.
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to make sure I respond correctly. They want a confirmation that I can reply.
 
-But maybe I should offer help besides just
+First, I should acknowledge their
