@@ -1,4 +1,5 @@
 <think>
-Okay, so I need to figure out how to solve this problem. Let me read it again carefully to make sure I understand what's being asked.
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." I should respond with just "Yes" as they requested. Make sure it's clear and straightforward.
+</think>
 
-Alright, the problem says: "In a bakery, every 5th customer gets a
+Yes
