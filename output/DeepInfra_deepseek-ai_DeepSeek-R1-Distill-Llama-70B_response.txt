@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to solve this problem. The user just said "Hello, are you working? Reply with 'Yes' if you can respond." And I responded with 'Yes'. Now, they want me
+Okay, so I just set up my Raspberry Pi for the first time. It's a Raspberry Pi 4 Model B, and I'm using the latest version of Raspberry Pi OS, which I think is based on Linux. I connected it

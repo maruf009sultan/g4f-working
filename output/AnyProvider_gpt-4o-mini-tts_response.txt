@@ -1,0 +1,1 @@
+<audio controls src="https://www.openai.fm/api/generate?input=Hello%2C%20are%20you%20working%3F%20Reply%20with%20%27Yes%27%20if%20you%20can%20respond.&prompt=&voice=coral"></audio>
