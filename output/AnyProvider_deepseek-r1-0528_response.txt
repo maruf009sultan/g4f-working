@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just greeted me and asked if I'm working. They specifically requested a 'Yes' reply if I can respond.  
-
-Okay, this seems like a simple connectivity check - maybe they've had issues with AI assistants before
+We are given a simple instruction: if the assistant can respond, reply with 'Yes'.
+ Since the assistant is indeed capable of responding at this moment, we will output 'Yes'.
+ However, note that the user's message is in English and

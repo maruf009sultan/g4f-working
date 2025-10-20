@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to respond to the user's message. They wrote, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." Then the assistant just replied
+Okay, so the user is asking if I'm working and wants me to respond with 'Yes'. I need to make sure I follow that exactly. They started with "You are a helpful assistant" which is a common prompt, so I

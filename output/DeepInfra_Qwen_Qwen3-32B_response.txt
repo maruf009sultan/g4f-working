@@ -1,2 +1,2 @@
 <think>
-Okay, the user said, Hello, are you working? Reply with 'Yes' if you can respond. Hmm, they probably want to check if I'm online and responsive. Since I can communicate, I should follow their instruction and answer
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the instructions. They mentioned to respond in English. I should confirm if I can respond. Since I can
