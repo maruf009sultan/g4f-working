@@ -1,2 +1,5 @@
 <think>
-Okay, so I need to set this up. Hmm, first I see the user said "Hello, are you working? Reply with 'Yes' if you can respond." Wait, and then there's a response saying "Yes". But
+Hello! I'm here and ready to help. How can I assist you today?
+</think>
+
+Hello! I'm here and ready to help. How can I assist you today?

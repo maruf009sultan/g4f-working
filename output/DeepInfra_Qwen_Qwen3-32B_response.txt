@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the instructions. They mentioned to respond in English. I should confirm if I can respond. Since I can
+Okay, the user is asking if I'm working and wants a 'Yes' reply if I can respond. Let me check.
+
+First, I need to understand the context. The user might be testing if I'm active or just confirming my

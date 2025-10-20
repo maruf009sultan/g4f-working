@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down. They want confirmation that I can respond, and specifically, they want a "Yes" answer
+Okay, the user just asked me, Hello, are you working? Reply with 'Yes' if you can respond. First, I need to understand the user's intent. The user may want to confirm whether I am currently available or whether

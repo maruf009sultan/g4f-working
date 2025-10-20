@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just greeted me and asked if I'm working, requesting a simple 'Yes' reply if I can respond. 
+Okay, the user just greeted me and asked if I'm working, with a specific instruction to reply 'Yes' if I can respond. 
 
-Okay, this seems like a basic availability check - maybe they're testing if I'm online or want
+Hmm, this seems like a simple check to confirm functionality. The phrasing feels polite but straightforward
