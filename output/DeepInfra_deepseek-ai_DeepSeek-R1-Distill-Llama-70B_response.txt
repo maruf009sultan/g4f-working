@@ -1,2 +1,4 @@
 <think>
-Okay, so I'm trying to figure out how to respond to the user's query. The user sent "Hello, are you working? Reply with 'Yes' if you can respond." and the assistant replied with "Yes". The user
+Okay, so the user's query is "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, they want to know if I'm operational. They also specified to just reply 'Yes'. 
+
+I should

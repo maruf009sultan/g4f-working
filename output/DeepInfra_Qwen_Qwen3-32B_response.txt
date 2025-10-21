@@ -1,4 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and wants a 'Yes' reply if I can respond. Let me check.
-
-First, I need to understand the context. The user might be testing if I'm active or just confirming my
+Okay, let's see. The user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." So they want a simple "Yes" to confirm that I'm active. But the instructions here say

@@ -1,2 +1,5 @@
 <think>
-Okay, so I'm trying to figure out how to get through this problem. It's about replacement in strings, I think. Let me read it again: "Why did the scarecrow win an award? Because he was outstanding in his
+Alright, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond with just "Yes" as instructed. Makes sense, I'll go with that.
+</think>
+
+Yes
