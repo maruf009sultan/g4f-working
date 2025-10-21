@@ -1,5 +1,0 @@
-<think>
-Alright, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond with just "Yes" as instructed. Makes sense, I'll go with that.
-</think>
-
-Yes
