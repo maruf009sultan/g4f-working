@@ -1,4 +1,2 @@
 <think>
-Okay, the user sent "Hello, are you working? Reply with 'Yes' if you can respond." So, I just need to respond with 'Yes' as per their instruction. That should be straightforward.
-
-I'll send "Yes
+Okay, so I need to figure out how to respond to the user's question. They asked, "Hello, are you working? Reply with 'Yes' if you can respond." The assistant already responded with 'Yes', but now it
