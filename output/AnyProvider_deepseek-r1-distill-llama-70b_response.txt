@@ -1,0 +1,2 @@
+<think>
+Okay, the user just asked me, "Hello, are you working? Reply with 'Yes' if you can respond." My job is to figure out how to respond appropriately. First, I should check the instructions to make sure I understand

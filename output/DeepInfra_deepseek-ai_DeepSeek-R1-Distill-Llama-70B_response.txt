@@ -1,0 +1,4 @@
+<think>
+Okay, the user sent "Hello, are you working? Reply with 'Yes' if you can respond." So, I just need to respond with 'Yes' as per their instruction. That should be straightforward.
+
+I'll send "Yes

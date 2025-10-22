@@ -1,0 +1,2 @@
+<think>
+Okay, the user sent a message asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down. First, the greeting is straightforward, so I should acknowledge that. The main part

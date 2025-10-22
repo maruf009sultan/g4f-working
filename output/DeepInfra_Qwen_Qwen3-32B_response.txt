@@ -1,4 +1,4 @@
 <think>
-Okay, let's see. The user asked, "Hello, are you working? Reply with 'Yes' if you can respond." They want a simple confirmation, probably to check if I'm online or functioning.
+Okay, the user said, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think. They want a simple "Yes" to confirm I'm online and able to reply.
 
-First, I need to
+I need to make
