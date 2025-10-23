@@ -1,4 +1,5 @@
 <think>
-Alright, someone just asked me, "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out how to respond properly. 
+Greetings! I'm here and ready to help. How can I assist you today?
+</think>
 
-First, I should understand the context. It seems like they're
+Greetings! I'm here and ready to help. How can I assist you today?
