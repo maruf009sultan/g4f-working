@@ -1,4 +1,4 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to approach this.
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
 
-First, the user is probably testing if I'm active or if I can communicate
+First, they're greeting me with "Hello," which is standard. Then they're asking

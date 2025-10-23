@@ -1,2 +1,4 @@
 <think>
-Okay, so I need to figure out how to respond to the user's question. They asked, "Hello, are you working? Reply with 'Yes' if you can respond." The assistant already responded with 'Yes', but now it
+Alright, someone just asked me, "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out how to respond properly. 
+
+First, I should understand the context. It seems like they're

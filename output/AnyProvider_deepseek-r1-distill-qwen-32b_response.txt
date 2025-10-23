@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve this problem. The user just said "Hello, are you working? Reply with 'Yes' if you can respond." And the assistant already replied with "Yes." Now, I have
+Okay, so I'm trying to figure out how to respond to this message. The user first said, "Hello, are you working?" and then instructed to reply with 'Yes' if I can respond. I saw that the last response
