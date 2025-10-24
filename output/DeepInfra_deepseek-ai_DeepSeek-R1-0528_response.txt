@@ -1,4 +1,5 @@
 <think>
-Hmm, the user just asked if I'm working and wants a 'Yes' reply confirmation. 
-
-Okay, this seems like a basic functionality check - maybe they're testing if the system is responsive or just being playful. The phrasing is
+We are given a simple instruction: if the assistant is working and can respond, reply with 'Yes'.
+ Since the assistant is indeed operational and capable of responding, the appropriate reply is 'Yes'.
+</think>
+Yes

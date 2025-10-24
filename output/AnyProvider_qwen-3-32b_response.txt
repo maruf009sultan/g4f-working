@@ -1,2 +1,1 @@
-<think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." So first, I need to confirm whether they're asking if I'm online or operational. Since they want me to reply with
+Yes.
