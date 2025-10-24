@@ -1,2 +1,2 @@
 <think>
-Okay, so the user sent a message saying, "Hello, are you working? Reply with 'Yes' if you can respond." And the assistant replied with "Yes." Now, the user is asking me to think through this scenario as
+Okay, so I'm trying to figure out how to respond to the user's message. They wrote, "User: You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." And the assistant
