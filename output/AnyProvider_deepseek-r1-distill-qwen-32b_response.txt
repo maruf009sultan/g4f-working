@@ -1,4 +1,4 @@
 <think>
-Okay, so I received this message: "Hello, are you working? Reply with 'Yes' if you can respond." 
+Okay, the user greeted me with "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond in a friendly and helpful manner.
 
-First, I need to figure out what the user is asking. They're checking if I'm operational. They
+I should first acknowledge their greeting, maybe with a "Hello!"

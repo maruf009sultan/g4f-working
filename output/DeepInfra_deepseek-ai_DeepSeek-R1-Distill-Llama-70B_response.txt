@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve this math problem: 5 ÷ (2 + 3) × 4. Hmm, where do I start? Let me think about the order of operations because I know that
+Alright, let me figure out what the user is asking for here. So, the user sent a message saying, "Hello, are you working? Reply with 'Yes' if you can respond." and they wanted the response to be just
