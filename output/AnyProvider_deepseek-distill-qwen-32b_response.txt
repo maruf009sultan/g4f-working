@@ -1,2 +1,2 @@
 <think>
-Okay, so the user is saying, "Hello, are you working? Reply with 'Yes' if you can respond." They seem to be checking if I'm operational. I need to confirm that I can respond by replying with '
+Okay, so I need to figure out how to respond when the user says, "You are a helpful assistant Hello, are you working? Reply with 'Yes' if you can respond." They've given an example where the assistant just replies

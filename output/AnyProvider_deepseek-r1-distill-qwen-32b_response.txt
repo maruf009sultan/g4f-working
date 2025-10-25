@@ -1,2 +1,4 @@
 <think>
-Okay, so I need to figure out how to solve 2x + 5 = 11. Hmm, let's see... I remember from algebra that to solve for x, I need to isolate it on one side of the equation
+Okay, so I received this message: "Hello, are you working? Reply with 'Yes' if you can respond." 
+
+First, I need to figure out what the user is asking. They're checking if I'm operational. They
