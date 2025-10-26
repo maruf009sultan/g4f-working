@@ -1,2 +1,2 @@
 <think>
-Okay, the user sent a greeting, "Hello, are you working? Reply with 'Yes' if you can respond." I should acknowledge their greeting and respond as requested. They want a 'Yes' if I can respond, so I
+Okay, so I'm trying to figure out why the AI responded with just 'Yes' when I asked it a question. I sent the message: "Hello, are you working? Reply with 'Yes' if you can respond." And
