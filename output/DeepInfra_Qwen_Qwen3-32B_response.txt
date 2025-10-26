@@ -1,2 +1,4 @@
 <think>
-Okay, the user sent a message asking if I'm working and wants a reply with 'Yes' if I can respond. I need to make sure I follow their instructions correctly. Since the task is to output the assistant's thinking followed by
+Okay, the user said, "Hello, are you working? Reply with 'Yes' if you can respond." I need to check if they want a simple 'Yes' answer.
+
+They specifically asked to reply with 'Yes' if I

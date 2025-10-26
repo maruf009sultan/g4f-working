@@ -564,7 +564,7 @@ Provider: HuggingFace
 ------------------------------
 URL: https://huggingface.co
 Label: None
-Model Count: 42
+Model Count: 43
 Models:
  - zai-org/GLM-4.6
  - katanemo/Arch-Router-1.5B
@@ -578,17 +578,17 @@ Models:
  - moonshotai/Kimi-K2-Instruct-0905
  - Qwen/Qwen3-Coder-30B-A3B-Instruct
  - meta-llama/Llama-3.1-8B
- - meta-llama/Meta-Llama-3-8B-Instruct
  - Qwen/Qwen3-8B
  - dphn/Dolphin-Mistral-24B-Venice-Edition
+ - meta-llama/Meta-Llama-3-8B-Instruct
+ - zai-org/GLM-4.6-FP8
  - meta-llama/Llama-3.2-1B-Instruct
  - meta-llama/Llama-3.2-3B-Instruct
- - Qwen/Qwen3-4B-Thinking-2507
- - zai-org/GLM-4.6-FP8
- - zai-org/GLM-4.5
  - zai-org/GLM-4.5-Air
+ - Qwen/Qwen3-4B-Thinking-2507
+ - zai-org/GLM-4.5
  - HuggingFaceH4/zephyr-7b-beta
- - Qwen/Qwen3-Next-80B-A3B-Instruct
+ - Qwen/Qwen2.5-7B-Instruct
  - meta-llama/Llama-3.2-11B-Vision-Instruct
  - Qwen/Qwen2-VL-7B-Instruct
  - meta-llama/Llama-3.3-70B-Instruct
@@ -606,6 +606,7 @@ Models:
  - lrzjason/QwenImage-Rebalance
  - tencent/HunyuanImage-3.0
  - lightx2v/Qwen-Image-Lightning
+ - purplesmartai/pony-v7-base
  - spooknik/Fluxmania-SVDQ
  - Phil2Sat/Qwen-Image-Edit-Rapid-AIO-GGUF
 
@@ -615,7 +616,7 @@ Provider: HuggingFaceAPI
 ------------------------------
 URL: https://api-inference.huggingface.com
 Label: HuggingFace (Text Generation)
-Model Count: 199
+Model Count: 202
 Models:
  - Qwen/Qwen3-VL-8B-Instruct
  - zai-org/GLM-4.6
@@ -629,71 +630,69 @@ Models:
  - Qwen/Qwen3-4B-Instruct-2507
  - Qwen/Qwen3-VL-235B-A22B-Thinking
  - Qwen/Qwen3-VL-235B-A22B-Instruct
- - deepseek-ai/DeepSeek-R1
- - moonshotai/Kimi-K2-Instruct-0905
  - mistralai/Mistral-7B-Instruct-v0.3
+ - deepseek-ai/DeepSeek-R1
  - Qwen/Qwen2.5-VL-7B-Instruct
- - Qwen/Qwen3-Coder-30B-A3B-Instruct
+ - moonshotai/Kimi-K2-Instruct-0905
  - google/gemma-3-27b-it
- - meta-llama/Meta-Llama-3-8B-Instruct
+ - Qwen/Qwen3-Coder-30B-A3B-Instruct
  - Qwen/Qwen3-8B
  - dphn/Dolphin-Mistral-24B-Venice-Edition
  - Qwen/Qwen3-VL-30B-A3B-Thinking
+ - meta-llama/Meta-Llama-3-8B-Instruct
+ - zai-org/GLM-4.6-FP8
  - meta-llama/Llama-3.2-1B-Instruct
  - meta-llama/Llama-3.2-3B-Instruct
- - Qwen/Qwen3-4B-Thinking-2507
- - zai-org/GLM-4.6-FP8
- - zai-org/GLM-4.5
  - zai-org/GLM-4.5-Air
+ - Qwen/Qwen3-4B-Thinking-2507
+ - zai-org/GLM-4.5
  - HuggingFaceH4/zephyr-7b-beta
+ - Qwen/Qwen2.5-7B-Instruct
  - Qwen/Qwen3-Next-80B-A3B-Instruct
  - mlabonne/gemma-3-27b-it-abliterated
- - Qwen/Qwen2.5-7B-Instruct
- - Qwen/Qwen3-30B-A3B-Thinking-2507
- - Qwen/Qwen3-1.7B
  - HuggingFaceTB/SmolLM3-3B
+ - Qwen/Qwen3-1.7B
+ - Qwen/Qwen3-30B-A3B-Thinking-2507
  - swiss-ai/Apertus-8B-Instruct-2509
  - deepseek-ai/DeepSeek-V3.1
  - mistralai/Mistral-7B-Instruct-v0.2
  - Sao10K/L3-8B-Stheno-v3.2
  - Qwen/Qwen2.5-1.5B-Instruct
  - deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B
+ - google/gemma-3-12b-it
  - meta-llama/Llama-4-Scout-17B-16E-Instruct
- - Qwen/Qwen3-235B-A22B-Instruct-2507
- - mistralai/Mixtral-8x7B-Instruct-v0.1
  - Qwen/Qwen2.5-1.5B
+ - meta-llama/Llama-3.3-70B-Instruct
  - Steelskull/L3.3-MS-Nevoria-70b
  - deepseek-ai/DeepSeek-R1-Distill-Qwen-7B
  - deepseek-ai/DeepSeek-R1-Distill-Qwen-32B
- - google/gemma-3-12b-it
  - Goekdeniz-Guelmez/Josiefied-Qwen3-8B-abliterated-v1
+ - Qwen/Qwen3-235B-A22B-Instruct-2507
  - Qwen/Qwen3-30B-A3B-Instruct-2507
- - Kwaipilot/KAT-Dev
+ - zai-org/GLM-4.5V
  - deepseek-ai/DeepSeek-V3.1-Terminus
- - google/gemma-2-2b-it
- - meta-llama/Llama-3.3-70B-Instruct
- - deepseek-ai/DeepSeek-V3-0324
+ - mistralai/Mixtral-8x7B-Instruct-v0.1
+ - deepseek-ai/DeepSeek-V3
  - Qwen/Qwen3-30B-A3B
  - Qwen/Qwen3-235B-A22B
+ - Unbabel/Tower-Plus-2B
  - zai-org/GLM-4.1V-9B-Thinking
  - baichuan-inc/Baichuan-M2-32B
- - zai-org/GLM-4.5V
- - swiss-ai/Apertus-70B-Instruct-2509
+ - Kwaipilot/KAT-Dev
+ - google/gemma-2-2b-it
  - aifeifei798/DarkIdol-Llama-3.1-8B-Instruct-1.2-Uncensored
  - inflatebot/MN-12B-Mag-Mell-R1
  - Qwen/Qwen2.5-Coder-7B-Instruct
- - deepseek-ai/DeepSeek-V3
  - jinaai/ReaderLM-v2
  - deepseek-ai/DeepSeek-R1-Distill-Llama-70B
+ - deepseek-ai/DeepSeek-R1-Distill-Qwen-14B
  - Qwen/QwQ-32B
+ - deepseek-ai/DeepSeek-V3-0324
  - ToastyPigeon/Gemma-3-Starshine-12B
  - Qwen/Qwen3-14B
  - PocketDoc/Dans-PersonalityEngine-V1.3.0-24b
  - deepseek-ai/DeepSeek-R1-0528-Qwen3-8B
- - Unbabel/Tower-Plus-2B
- - moonshotai/Kimi-K2-Instruct
- - deepcogito/cogito-v2-preview-llama-405B
- - Qwen/Qwen3-Next-80B-A3B-Thinking
+ - mistralai/Mixtral-8x22B-Instruct-v0.1
  - swap-uniba/LLaMAntino-3-ANITA-8B-Inst-DPO-ITA
  - NousResearch/Hermes-2-Pro-Llama-3-8B
  - defog/llama-3-sqlcoder-8b
@@ -702,30 +701,30 @@ Models:
  - Epiculous/Violet_Twilight-v0.2
  - Qwen/Qwen2.5-7B
  - Qwen/Qwen2.5-14B-Instruct
- - Qwen/Qwen2.5-72B-Instruct
+ - Qwen/Qwen2.5-32B-Instruct
  - CohereLabs/aya-expanse-32b
  - Qwen/Qwen2.5-Coder-32B-Instruct
  - Qwen/QwQ-32B-Preview
- - deepseek-ai/DeepSeek-R1-Distill-Qwen-14B
  - Qwen/Qwen2.5-7B-Instruct-1M
  - Qwen/Qwen2.5-VL-72B-Instruct
  - Qwen/Qwen2.5-VL-32B-Instruct
+ - DreadPoor/Irix-12B-Model_Stock
  - nvidia/Llama-3_1-Nemotron-Ultra-253B-v1
  - Qwen/Qwen3-32B
- - SWE-bench/SWE-agent-LM-32B
- - darkc0de/XortronCriminalComputingConfig
  - Menlo/Jan-nano
  - Intelligent-Internet/II-Medical-8B-1706
+ - moonshotai/Kimi-K2-Instruct
+ - zai-org/GLM-4.5-Air-FP8
  - Qwen/Qwen3-Coder-480B-A35B-Instruct
  - Qwen/Qwen3-235B-A22B-Thinking-2507
  - NousResearch/Hermes-4-405B
+ - Qwen/Qwen3-Next-80B-A3B-Thinking
  - meta-llama/Llama-2-13b-chat-hf
  - HuggingFaceH4/zephyr-7b-alpha
- - Intel/neural-chat-7b-v3-1
  - ceadar-ie/FinanceConnect-13B
  - Qwen/Qwen1.5-1.8B-Chat
- - mistralai/Mixtral-8x22B-Instruct-v0.1
  - meta-llama/Meta-Llama-3-70B-Instruct
+ - IlyaGusev/saiga_llama3_8b
  - shenzhi-wang/Llama3-8B-Chinese-Chat
  - Orenguteng/Llama-3-8B-Lexi-Uncensored
  - failspy/llama-3-70B-Instruct-abliterated
@@ -747,17 +746,18 @@ Models:
  - us4/fin-llama3.1-8b
  - Qwen/Qwen2.5-14B
  - Qwen/Qwen2.5-72B
+ - Qwen/Qwen2.5-72B-Instruct
  - Qwen/Qwen2.5-Coder-7B
  - Qwen/Qwen2.5-Math-7B
- - Qwen/Qwen2.5-32B-Instruct
  - Qwen/Qwen2.5-Coder-1.5B
  - Qwen/Qwen2.5-Coder-1.5B-Instruct
+ - Qwen/Qwen2.5-Math-7B-Instruct
+ - RLHFlow/Llama3.1-8B-PRM-Deepseek-Data
  - FallenMerick/MN-Violet-Lotus-12B
  - Moraliane/SAINEMO-reMIX
  - Sao10K/14B-Qwen2.5-Kunou-v1
  - Nitral-AI/Captain-Eris_Violet-V0.420-12B
  - SakanaAI/TinySwallow-1.5B-Instruct
- - nvidia/AceMath-7B-Instruct
  - deepseek-ai/DeepSeek-R1-Distill-Llama-8B
  - AtlaAI/Selene-1-Mini-Llama-3.1-8B
  - NaniDAO/deepseek-r1-qwen-2.5-32B-ablated
@@ -767,12 +767,12 @@ Models:
  - sleepdeprived3/Reformed-Christian-Bible-Expert-12B
  - Nitral-AI/Captain-Eris_Violet-GRPO-v0.420
  - wanlige/li-14b-v0.4
+ - CohereLabs/c4ai-command-r7b-arabic-02-2025
  - Steelskull/L3.3-Electra-R1-70b
  - mistralai/Mistral-Small-3.1-24B-Instruct-2503
  - nvidia/Llama-3.1-Nemotron-Nano-8B-v1
  - featherless-ai/QRWKV-72B
  - allura-org/Gemma-3-Glitter-12B
- - DreadPoor/Irix-12B-Model_Stock
  - Salesforce/Llama-xLAM-2-8b-fc-r
  - Salesforce/xLAM-2-1b-fc-r
  - meta-llama/Llama-4-Maverick-17B-128E-Instruct-FP8
@@ -787,21 +787,25 @@ Models:
  - DeepHat/DeepHat-V1-7B
  - Qwen/Qwen3-14B-Base
  - mlabonne/Qwen3-14B-abliterated
+ - SWE-bench/SWE-agent-LM-32B
+ - darkc0de/XortronCriminalComputingConfig
  - a-m-team/AM-Thinking-v1
+ - Intelligent-Internet/II-Medical-8B
  - FractalAIResearch/Fathom-R1-14B
  - nvidia/AceReason-Nemotron-14B
  - ArliAI/QwQ-32B-ArliAI-RpR-v4
  - open-r1/OpenR1-Distill-7B
  - deepseek-ai/DeepSeek-R1-0528
  - Goekdeniz-Guelmez/Josiefied-DeepSeek-R1-0528-Qwen3-8B-abliterated-v1
+ - Unbabel/Tower-Plus-9B
  - tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.5
  - THU-KEG/LongWriter-Zero-32B
  - unsloth/Mistral-Small-3.2-24B-Instruct-2506
  - baidu/ERNIE-4.5-0.3B-PT
  - agentica-org/DeepSWE-Preview
- - zai-org/GLM-4.5-Air-FP8
  - Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8
  - deepcogito/cogito-v2-preview-llama-70B
+ - deepcogito/cogito-v2-preview-llama-405B
  - deepcogito/cogito-v2-preview-llama-109B-MoE
  - fdtn-ai/Foundation-Sec-8B-Instruct
  - zai-org/GLM-4.5V-FP8
@@ -823,7 +827,7 @@ Provider: HuggingFaceMedia
 ------------------------------
 URL: https://huggingface.co
 Label: HuggingFace
-Model Count: 222
+Model Count: 226
 Models:
  - Wan-AI/Wan2.2-TI2V-5B
  - Wan-AI/Wan2.2-TI2V-5B:fal-ai
@@ -831,13 +835,13 @@ Models:
  - akhaliq/veo3.1-fast
  - akhaliq/veo3.1-fast:fal-ai
  - akhaliq/veo3.1-fast:replicate
+ - akhaliq/sora-2
+ - akhaliq/sora-2:fal-ai
  - tencent/HunyuanVideo
  - tencent/HunyuanVideo:fal-ai
  - Wan-AI/Wan2.2-T2V-A14B
  - Wan-AI/Wan2.2-T2V-A14B:fal-ai
  - Wan-AI/Wan2.2-T2V-A14B:replicate
- - akhaliq/sora-2
- - akhaliq/sora-2:fal-ai
  - Wan-AI/Wan2.1-T2V-14B
  - Wan-AI/Wan2.1-T2V-14B:novita
  - Wan-AI/Wan2.1-T2V-14B:fal-ai
@@ -862,9 +866,6 @@ Models:
  - stabilityai/stable-diffusion-xl-base-1.0:nscale
  - stabilityai/stable-diffusion-xl-base-1.0:replicate
  - stabilityai/stable-diffusion-xl-base-1.0:hf-inference
- - Qwen/Qwen-Image
- - Qwen/Qwen-Image:fal-ai
- - Qwen/Qwen-Image:replicate
  - black-forest-labs/FLUX.1-schnell
  - black-forest-labs/FLUX.1-schnell:nebius
  - black-forest-labs/FLUX.1-schnell:nscale
@@ -872,6 +873,9 @@ Models:
  - black-forest-labs/FLUX.1-schnell:together
  - black-forest-labs/FLUX.1-schnell:replicate
  - black-forest-labs/FLUX.1-schnell:hf-inference
+ - Qwen/Qwen-Image
+ - Qwen/Qwen-Image:fal-ai
+ - Qwen/Qwen-Image:replicate
  - stabilityai/stable-diffusion-3.5-large
  - stabilityai/stable-diffusion-3.5-large:fal-ai
  - HiDream-ai/HiDream-I1-Full
@@ -882,6 +886,9 @@ Models:
  - stabilityai/stable-diffusion-3.5-large-turbo:fal-ai
  - Danrisi/2000sAnalogCore_Qwen-image
  - Danrisi/2000sAnalogCore_Qwen-image:fal-ai
+ - prithivMLmods/Retro-Pixel-Flux-LoRA
+ - prithivMLmods/Retro-Pixel-Flux-LoRA:fal-ai
+ - prithivMLmods/Retro-Pixel-Flux-LoRA:replicate
  - strangerzonehf/Flux-Midjourney-Mix2-LoRA
  - strangerzonehf/Flux-Midjourney-Mix2-LoRA:fal-ai
  - strangerzonehf/Flux-Midjourney-Mix2-LoRA:replicate
@@ -893,8 +900,9 @@ Models:
  - manycore-research/FLUX.1-Panorama-dev-lora
  - manycore-research/FLUX.1-Panorama-dev-lora:fal-ai
  - manycore-research/FLUX.1-Panorama-dev-lora:replicate
- - latent-consistency/lcm-lora-sdxl
- - latent-consistency/lcm-lora-sdxl:fal-ai
+ - ByteDance/Hyper-SD
+ - ByteDance/Hyper-SD:fal-ai
+ - ByteDance/Hyper-SD:replicate
  - kudzueye/boreal-flux-dev-v2
  - kudzueye/boreal-flux-dev-v2:fal-ai
  - kudzueye/boreal-flux-dev-v2:replicate
@@ -906,6 +914,9 @@ Models:
  - xey/sldr_flux_nsfw_v2-studio:replicate
  - stabilityai/stable-diffusion-3.5-medium
  - stabilityai/stable-diffusion-3.5-medium:fal-ai
+ - strangerzonehf/Flux-Super-Realism-LoRA
+ - strangerzonehf/Flux-Super-Realism-LoRA:fal-ai
+ - strangerzonehf/Flux-Super-Realism-LoRA:replicate
  - HiDream-ai/HiDream-I1-Fast
  - HiDream-ai/HiDream-I1-Fast:fal-ai
  - flymy-ai/qwen-image-realism-lora
@@ -919,8 +930,12 @@ Models:
  - tencent/SRPO:fal-ai
  - Danrisi/Qwen-image_SamsungCam_UltraReal
  - Danrisi/Qwen-image_SamsungCam_UltraReal:fal-ai
+ - nerijs/pixel-art-xl
+ - nerijs/pixel-art-xl:fal-ai
  - KappaNeuro/dixit-card-generator
  - KappaNeuro/dixit-card-generator:fal-ai
+ - latent-consistency/lcm-lora-sdxl
+ - latent-consistency/lcm-lora-sdxl:fal-ai
  - blink7630/storyboard-sketch
  - blink7630/storyboard-sketch:fal-ai
  - e-n-v-y/envy-speedpaint-xl-01
@@ -936,18 +951,14 @@ Models:
  - h1t/TCD-SDXL-LoRA:fal-ai
  - ZB-Tech/Text-to-Image
  - ZB-Tech/Text-to-Image:fal-ai
- - ByteDance/Hyper-SD
- - ByteDance/Hyper-SD:fal-ai
- - ByteDance/Hyper-SD:replicate
- - ByteDance/Hyper-SD:replicate
- - stabilityai/stable-diffusion-3-medium
- - stabilityai/stable-diffusion-3-medium:fal-ai
- - stabilityai/stable-diffusion-3-medium:replicate
  - alvdansen/littletinies
  - alvdansen/littletinies:fal-ai
  - fofr/flux-cassette-futurism
  - fofr/flux-cassette-futurism:fal-ai
  - fofr/flux-cassette-futurism:replicate
+ - AiAF/D-ART-18DART5_LoRA_Flux1
+ - AiAF/D-ART-18DART5_LoRA_Flux1:fal-ai
+ - AiAF/D-ART-18DART5_LoRA_Flux1:replicate
  - punzel/flux_emma_watson
  - punzel/flux_emma_watson:fal-ai
  - punzel/flux_emma_watson:replicate
@@ -957,6 +968,9 @@ Models:
  - Shakker-Labs/FLUX.1-dev-LoRA-Logo-Design
  - Shakker-Labs/FLUX.1-dev-LoRA-Logo-Design:fal-ai
  - Shakker-Labs/FLUX.1-dev-LoRA-Logo-Design:replicate
+ - UmeAiRT/FLUX.1-dev-LoRA-Modern_Pixel_art
+ - UmeAiRT/FLUX.1-dev-LoRA-Modern_Pixel_art:fal-ai
+ - UmeAiRT/FLUX.1-dev-LoRA-Modern_Pixel_art:replicate
  - Keltezaa/sarah-michelle-gellar-flux-model
  - Keltezaa/sarah-michelle-gellar-flux-model:fal-ai
  - Keltezaa/sarah-michelle-gellar-flux-model:replicate
@@ -971,12 +985,6 @@ Models:
  - gokaygokay/Flux-Seamless-Texture-LoRA:replicate
  - Efficient-Large-Model/Sana_1600M_1024px
  - Efficient-Large-Model/Sana_1600M_1024px:fal-ai
- - prithivMLmods/Retro-Pixel-Flux-LoRA
- - prithivMLmods/Retro-Pixel-Flux-LoRA:fal-ai
- - prithivMLmods/Retro-Pixel-Flux-LoRA:replicate
- - strangerzonehf/Flux-Super-Realism-LoRA
- - strangerzonehf/Flux-Super-Realism-LoRA:fal-ai
- - strangerzonehf/Flux-Super-Realism-LoRA:replicate
  - strangerzonehf/Flux-Ultimate-LoRA-Collection
  - strangerzonehf/Flux-Ultimate-LoRA-Collection:fal-ai
  - strangerzonehf/Flux-Ultimate-LoRA-Collection:replicate
@@ -998,9 +1006,9 @@ Models:
  - multimodalart/isometric-skeumorphic-3d-bnb
  - multimodalart/isometric-skeumorphic-3d-bnb:fal-ai
  - multimodalart/isometric-skeumorphic-3d-bnb:replicate
- - treeshark/feedbaxv3.safetensors
- - treeshark/feedbaxv3.safetensors:fal-ai
- - treeshark/feedbaxv3.safetensors:replicate
+ - amanfor18/Urvi
+ - amanfor18/Urvi:fal-ai
+ - amanfor18/Urvi:replicate
  - ajinkyaT/flux-kontext-inpaint-lora
  - ajinkyaT/flux-kontext-inpaint-lora:fal-ai
  - ajinkyaT/flux-kontext-inpaint-lora:replicate
@@ -1012,6 +1020,9 @@ Models:
  - Raelina/Raena-Qwen-Image:fal-ai
  - Daverrrr75/Qwen_SNOFS
  - Daverrrr75/Qwen_SNOFS:fal-ai
+ - k3b4bb/dark-geometric-architecture
+ - k3b4bb/dark-geometric-architecture:fal-ai
+ - k3b4bb/dark-geometric-architecture:replicate
  - lichorosario/rtmi-qwen-image-lora
  - lichorosario/rtmi-qwen-image-lora:fal-ai
  - bunnycore/Qwen-Aesthetic
@@ -1020,9 +1031,6 @@ Models:
  - lichorosario/panorama-qwen-image-lora:fal-ai
  - olesheva/DavidLynch-Qwen-LoRA
  - olesheva/DavidLynch-Qwen-LoRA:fal-ai
- - flymy-ai/flux-dev-anne-hathaway-lora
- - flymy-ai/flux-dev-anne-hathaway-lora:fal-ai
- - flymy-ai/flux-dev-anne-hathaway-lora:replicate
  - DervlexVenice/aesthetic_anime_lora-style-sdxl
  - DervlexVenice/aesthetic_anime_lora-style-sdxl:fal-ai
  - tokeron/trained-flux-chef-lora
@@ -2650,14 +2658,14 @@ URL: https://qwen-qwen3-demo.hf.space
 Label: Qwen Qwen-3
 Model Count: 8
 Models:
- - qwen-3-32b
- - qwen-3-8b
- - qwen-3-0.6b
- - qwen-3-4b
- - qwen-3-14b
- - qwen-3-1.7b
- - qwen-3-235b
  - qwen-3-30b-a3b
+ - qwen-3-235b
+ - qwen-3-0.6b
+ - qwen-3-14b
+ - qwen-3-8b
+ - qwen-3-32b
+ - qwen-3-4b
+ - qwen-3-1.7b
 
 ==================================================
 

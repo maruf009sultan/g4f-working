@@ -1,2 +1,0 @@
-Input: User: Hi, how are you?
-Assistant: Yes

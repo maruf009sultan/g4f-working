@@ -1,4 +1,4 @@
 <think>
 Hmm, the user just asked if I'm working and wants a simple 'Yes' reply if I can respond. 
 
-Okay, this seems like a connectivity test or a system check. The phrasing is very basic - probably someone making sure
+Okay, this seems like a basic availability check - maybe they've had bad experiences with unresponsive assistants before. The

@@ -1,2 +1,4 @@
 <think>
-Alright, let me figure out what the user is asking for here. So, the user sent a message saying, "Hello, are you working? Reply with 'Yes' if you can respond." and they wanted the response to be just
+Okay, so I'm trying to figure out how to book a flight using frequent flyer miles, but I'm not really sure where to start. Let me think through this step by step.
+
+First, I know that frequent flyer miles are points
