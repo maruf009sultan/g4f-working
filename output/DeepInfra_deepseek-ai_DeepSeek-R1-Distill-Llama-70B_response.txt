@@ -1,4 +1,6 @@
 <think>
-Okay, so I'm trying to understand why the user is asking if I'm working and then replying with 'Yes'. It seems pretty straightforward, but maybe there's more to it. Let me break this down step by step.
+Okay, the user greeted me with "Hello, are you working?" and asked me to reply with 'Yes' if I can respond.
 
-First
+I need to respond appropriately, keeping it simple and clear.
+
+So, I'll just say "Yes

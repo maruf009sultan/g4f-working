@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve the problem of finding the number of vertices in a 4-dimensional hypercube. Hmm, a hypercube in n-dimensions, right? I remember that a hypercube is the
+Okay, so I need to figure out how to solve this math problem. The problem is about finding the area of a triangle when you're given two sides and the included angle. Hmm, I remember something about using the sine of the included
