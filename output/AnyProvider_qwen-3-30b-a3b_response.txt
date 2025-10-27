@@ -1,1 +1,1 @@
-Yes
+<span style="color: var(--color-red-500)">'NoneType' object has no attribute 'choices'</span>

@@ -1,4 +1,4 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to approach this.
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to approach this.
 
-First, they want a simple confirmation. The instruction is clear: if I can
+First, they want a simple confirmation. The instruction is clear: if I

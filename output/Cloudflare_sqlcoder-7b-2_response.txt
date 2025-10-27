@@ -1,0 +1,1 @@
+ SELECT 'Yes' AS answer;
