@@ -1,2 +1,1 @@
-<think>
-Okay, the user is asking if I'm working and wants me to reply "Yes" if I can respond. I need to check if the user's question is valid. They might be testing whether I can respond normally. Since they asked
+Yes

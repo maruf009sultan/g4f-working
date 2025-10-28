@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve this problem. Let me read it again. Hmm, wait, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." and then the
+Okay, so I need to figure out how to use Python to calculate the roots of a quadratic equation. Hmm, I remember that a quadratic equation is of the form ax² + bx + c = 0. The roots can be found

@@ -1,2 +1,4 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." So first, I need to confirm if I can respond. Since I'm an AI, I'm always available unless there's
+Okay, let's see. The user sent a message saying, "Hello, are you working? Reply with 'Yes' if you can respond." So they want confirmation that I'm working by replying with 'Yes'. 
+
+First,
