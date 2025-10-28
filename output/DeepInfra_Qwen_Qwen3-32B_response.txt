@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking if I'm working. They want me to reply with 'Yes' if I can respond. Let me make sure I understand correctly. The user is testing whether I'm online and can respond. They might be
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." So first, I need to confirm if I can respond. Since I'm an AI, I'm always available unless there's
