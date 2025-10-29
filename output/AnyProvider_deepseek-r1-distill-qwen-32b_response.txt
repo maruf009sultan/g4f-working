@@ -1,2 +1,5 @@
 <think>
-Okay, so the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, that's an interesting way to test if I'm functional. I guess they want to confirm that I'm
+Hello! I'm here and ready to help. How can I assist you today?
+</think>
+
+Hello! I'm here and ready to help. How can I assist you today?

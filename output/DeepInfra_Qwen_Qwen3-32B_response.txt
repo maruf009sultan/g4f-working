@@ -1,2 +1,2 @@
 <think>
-Okay, the user sent a message asking, "Hello, are you working? Reply with 'Yes' if you can respond." I need to check if I can reply. My training allows me to respond to user questions, so according to
+Okay, the user sent a message saying, "Hello, are you working? Reply with 'Yes' if you can respond." Alright, first I need to understand what they're asking. They're checking if I'm operational. Since they

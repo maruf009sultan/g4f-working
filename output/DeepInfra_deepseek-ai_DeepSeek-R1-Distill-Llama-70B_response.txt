@@ -1,2 +1,5 @@
 <think>
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." So I should respond with a simple 'Yes' as they requested. I need to make sure I follow their instruction exactly
+Hello! I'm here and ready to help. How can I assist you today?
+</think>
+
+Hello! I'm here and ready to help. How can I assist you today?

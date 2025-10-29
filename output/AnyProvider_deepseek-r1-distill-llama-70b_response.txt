@@ -1,2 +1,4 @@
 <think>
-Okay, I just received this message from someone: "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, they want me to check if I'm operational. The instruction is to reply with "Yes"
+Okay, the user asked "Hello, are you working?" and wants me to reply with "Yes" if I can respond. Since I'm an AI, I need to make sure I follow that instruction correctly.
+
+First, I should check
