@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to use Python to calculate the roots of a quadratic equation. Hmm, I remember that a quadratic equation is of the form ax² + bx + c = 0. The roots can be found
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." So I should respond with a simple 'Yes' as they requested. I need to make sure I follow their instruction exactly

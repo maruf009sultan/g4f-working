@@ -1,1 +1,4 @@
-Yes, I'm here and able to respond. How can I assist you today?
+<think>
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check.
+
+First, I need to confirm my current status. As Qwen, I'm always active and ready
