@@ -1,4 +1,2 @@
 <think>
-Okay, the user asked "Hello, are you working?" and wants me to reply with "Yes" if I can respond. Since I'm an AI, I need to make sure I follow that instruction correctly.
-
-First, I should check
+Okay, so I'm trying to figure out how to solve this problem where I need to determine if a given number is a prime number. Hmm, prime numbers are numbers greater than 1 that have no divisors other than 1 and

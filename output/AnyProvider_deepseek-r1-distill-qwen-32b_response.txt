@@ -1,5 +1,2 @@
 <think>
-Hello! I'm here and ready to help. How can I assist you today?
-</think>
-
-Hello! I'm here and ready to help. How can I assist you today?
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Since they wanted a 'Yes' and I initially responded with "Hello! I'm DeepSeek-R1, an AI

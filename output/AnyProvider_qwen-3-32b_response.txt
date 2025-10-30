@@ -1,1 +1,2 @@
-Yes
+<think>
+Okay, the user says Hello and asks if I'm working, requiring a 'Yes' reply. Let me check the instructions. The user wants to test if I can respond. I need to reply with 'Yes' as instructed. Let
