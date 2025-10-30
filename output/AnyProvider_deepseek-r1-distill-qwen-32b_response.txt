@@ -1,2 +1,2 @@
 <think>
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Since they wanted a 'Yes' and I initially responded with "Hello! I'm DeepSeek-R1, an AI
+Okay, the user asked me to reply with 'Yes' if I can respond. I need to make sure I'm following their instructions correctly. They might be testing if I'm operational or just making sure I'm paying attention. So,

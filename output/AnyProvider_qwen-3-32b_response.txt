@@ -1,2 +1,4 @@
 <think>
-Okay, the user says Hello and asks if I'm working, requiring a 'Yes' reply. Let me check the instructions. The user wants to test if I can respond. I need to reply with 'Yes' as instructed. Let
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the guidelines.
+
+First, I need to confirm that I can respond. The correct response is to say '

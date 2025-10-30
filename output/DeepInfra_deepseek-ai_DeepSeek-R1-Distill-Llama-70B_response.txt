@@ -1,2 +1,5 @@
 <think>
-Alright, so I need to figure out how to solve this problem. It says to reply with 'Yes' if I can respond, and then provide a thoughtful response. Since I'm just starting out, I might not get everything right on
+Alright, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I should confirm that I'm operational by simply saying "Yes." That should be sufficient.
+</think>
+
+Yes
