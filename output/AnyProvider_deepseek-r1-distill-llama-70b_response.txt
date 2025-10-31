@@ -1,2 +1,2 @@
 <think>
-Alright, let me try to figure this out. The user sent a message: "Hello, are you working? Reply with 'Yes' if you can respond." So, first, they're greeting me and checking if I'm operational.
+Alright, the user greeted me with "Hello, are you working?" and asked me to reply with 'Yes' if I can respond. I need to make sure I follow that instruction correctly. So, I'll just respond with 'Yes

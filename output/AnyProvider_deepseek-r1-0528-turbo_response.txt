@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just greeted me and asked if I'm working, requesting a simple 'Yes' reply if I can respond. 
-
-This seems like a basic functionality check - maybe they're testing if I'm online or verifying connection stability
+We are given a greeting and a request to reply with 'Yes' if we can respond.
+ Since we are an AI assistant and capable of responding, we should reply with 'Yes'.
+ However, note that the user might be testing if we

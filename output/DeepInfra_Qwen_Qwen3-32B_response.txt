@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking, Hello, are you working? Reply with 'Yes' if you can respond. Hmm, they want me to confirm if I'm working by just saying 'Yes'. But in the previous instruction, they told
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. First, I need to confirm they're looking for an acknowledgment of my ability to respond. I should make sure to follow
