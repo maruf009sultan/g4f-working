@@ -1,1 +1,4 @@
-Yes
+<think>
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me process this.
+
+First, I need to check if the user is asking if I'm currently operational. They want a

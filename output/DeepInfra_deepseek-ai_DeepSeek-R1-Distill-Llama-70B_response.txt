@@ -1,5 +1,4 @@
 <think>
-Alright, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I should confirm that I'm operational by simply saying "Yes." That should be sufficient.
-</think>
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond appropriately.
 
-Yes
+First, I should acknowledge their greeting. So maybe start with "Hello!" to be friendly
