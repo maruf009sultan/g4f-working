@@ -1,2 +1,2 @@
 <think>
-Alright, the user greeted me with "Hello, are you working?" and asked me to reply with 'Yes' if I can respond. I need to make sure I follow that instruction correctly. So, I'll just respond with 'Yes
+Okay, so I need to figure out the boiling point of water. Hmm, I remember water boils at 100 degrees Celsius, right? But wait, is that always the case? I think it might depend on the atmospheric pressure. When

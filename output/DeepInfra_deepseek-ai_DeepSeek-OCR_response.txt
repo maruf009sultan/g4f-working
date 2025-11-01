@@ -1,11 +1,5 @@
-1 ______
+玛基: 他真的问了我那次偷那件事。 他是一个老好人。
 
-`: Where's Paul? \(\checkmark\) \(\underline{\to}\) is
+: 玛基： 你认为我们俩会在一起很开心？
 
-## Answer :
-
-Certainly! This message is a standard greeting and farewell phrase in English:
-
-"This message is a standard greeting and farewell phrase in English."
-
-As a
+: GPT-：Got it! 是的，我们都很好啊。 # T: 好的，
