@@ -1,2 +1,0 @@
-<think>
-Okay, the user said, Hello, are you working? Reply with 'Yes' if you can respond. I need to respond to this. The user is asking if I'm working, probably to check if I'm online and available.

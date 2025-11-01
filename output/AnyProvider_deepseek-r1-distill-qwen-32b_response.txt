@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to respond to the user's question. They asked, "Hello, are you working? Reply with 'Yes' if you can respond." And the assistant already responded with "Yes". Now
+Okay, so I need to figure out how to solve this math problem. Hmm, it's about multiplying two numbers: 437 times 59. Let me think about the best way to approach this. I remember from school that when you

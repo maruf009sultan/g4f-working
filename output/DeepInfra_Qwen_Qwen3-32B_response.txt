@@ -1,4 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the instructions.
-
-First, I need to acknowledge their message. The user might be testing if I'm active
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me start by understanding the context here. They might be testing if the AI is actually active or just a placeholder.

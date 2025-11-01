@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out the boiling point of water. Hmm, I remember water boils at 100 degrees Celsius, right? But wait, is that always the case? I think it might depend on the atmospheric pressure. When
+Okay, so I'm trying to figure out how to get started with using Bernstein's answer to solve a differential equation. I remember Bernstein's theorem has something to do with polynomials and their derivatives, but I'm not exactly sure how it
