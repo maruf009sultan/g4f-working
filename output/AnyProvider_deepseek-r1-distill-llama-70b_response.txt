@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to get started with using Bernstein's answer to solve a differential equation. I remember Bernstein's theorem has something to do with polynomials and their derivatives, but I'm not exactly sure how it
+Okay, so I need to figure out how to solve this problem where I have two numbers, and I can only use addition and subtraction. The goal is to make both numbers the same. Hmm. The example given is with the numbers 
