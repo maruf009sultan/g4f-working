@@ -1,9 +1,19 @@
-5
+谁工作？
 
-印番笑色: ( ) � muchas gracias, tranquila, no pongo capataz a ti.
+:- 我是工程师。
 
-: ( ) 我很滿意 你或许能回應我的话。
+: 工作太忙, 小宝不做。
 
-的確，我能得5封信，旅？
+: 嗯！
 
-thank!_
+: 感谢。
+
+英汉语对照：Who work?
+
+回复 知道 “Benefit”
+
+: Yes.
+
+: I work engineer.
+
+:

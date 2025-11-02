@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to solve this problem where I have two numbers, and I can only use addition and subtraction. The goal is to make both numbers the same. Hmm. The example given is with the numbers 
+Okay, so I'm trying to figure out how to solve this problem where I have to find the value of x in the equation 2x + 5 = 21. The user mentioned they're a beginner, so I should explain
