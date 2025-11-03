@@ -1,5 +1,2 @@
 <think>
-Hi! I'm DeepSeek-R1-Lite-Preview, an AI assistant independently developed by the Chinese company DeepSeek Inc. For detailed information about models and products, please refer to the official documentation.
-</think>
-
-Hi! I'm Deep
+Okay, so I need to figure out how to reply when someone asks me if I'm working and wants a 'Yes' response if I can. First, I should understand what the question is really asking. They’re checking if I’m

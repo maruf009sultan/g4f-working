@@ -1,2 +1,4 @@
 <think>
-Okay, so I'm trying to figure out how to solve this problem where I have to find the value of x in the equation 2x + 5 = 21. The user mentioned they're a beginner, so I should explain
+Okay, so I'm trying to figure out how to solve this problem where I need to create a Python function that calculates the number of vowels in a given string. Let me think about how I can approach this.
+
+First, I should understand

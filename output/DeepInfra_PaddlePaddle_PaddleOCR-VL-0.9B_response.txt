@@ -1,6 +1,1 @@
-Yes.
-No.
-Yes or no.
-No, I’mCCD.
-going to.
- accelerating.
+participant 1.

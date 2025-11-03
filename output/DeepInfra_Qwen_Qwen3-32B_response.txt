@@ -1,2 +1,2 @@
 <think>
-Okay, the user just said "Hello, are you working? Reply with 'Yes' if you can respond." So I need to check if I can reply. The conversation history doesn't show any prior messages, so this is the first
+Okay, the user greeted me and asked if I'm working, asking to reply with 'Yes' if I can respond. I need to check if there are any restrictions or special circumstances here. Since the user just wants a simple 'Yes
