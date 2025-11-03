@@ -1,2 +1,2 @@
 <think>
-Okay, the user greeted me and asked if I'm working, asking to reply with 'Yes' if I can respond. I need to check if there are any restrictions or special circumstances here. Since the user just wants a simple 'Yes
+Okay, the user is asking if I'm working and wants me to reply with 'Yes'. I need to check if the system is functioning properly. Since I can respond to their message, that means I am active and operational. The user

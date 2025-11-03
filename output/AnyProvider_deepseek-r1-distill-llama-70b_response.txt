@@ -1,4 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to solve this problem where I need to create a Python function that calculates the number of vowels in a given string. Let me think about how I can approach this.
-
-First, I should understand
+Okay, so I've got this project where I need to design a database for a university's course management system. Hmm, I'm a bit new to this, so I'll have to figure it out step by step. Let me start
