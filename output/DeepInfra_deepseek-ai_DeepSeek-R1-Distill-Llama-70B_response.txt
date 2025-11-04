@@ -1,2 +1,5 @@
 <think>
-Okay, so I've just been given this task where I need to figure out how to respond to the statement: "Hello, are you working? Reply with 'Yes' if you can respond." The example provided is "Yes", and
+Okay, someone just asked me if I'm working and told me to reply with 'Yes' if I can respond. I should keep it simple and straightforward. I'll just answer 'Yes' to confirm I'm operational.
+</think>
+
+Yes

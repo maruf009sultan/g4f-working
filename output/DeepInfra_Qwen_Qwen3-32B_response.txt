@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes'. I need to check if the system is functioning properly. Since I can respond to their message, that means I am active and operational. The user
+Okay, the user is asking if I'm working. I need to respond with 'Yes' if I can respond. Since the user wants a reply, and my main task is to communicate with the user, I should definitely respond. I
