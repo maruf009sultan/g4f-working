@@ -1,2 +1,4 @@
 <think>
-Okay, the user sent a message asking, Are you working? and wants me to reply with Yes if I can respond. Let me think about this. First, I need to understand what they're asking. They might be testing if I
+Okay, the user sent a message asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me make sure I understand correctly.
+
+First, I need to confirm if they're checking whether I'm online
