@@ -1,0 +1,4 @@
+<think>
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." I need to check if there's any reason not to respond.
+
+The user is testing if I can respond in a specific

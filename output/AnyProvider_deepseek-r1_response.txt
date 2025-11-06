@@ -1,2 +1,4 @@
-The model does not exist in our api at the moment.
-To request a model please join: https://discord.gg/9g5wkVTn8s
+<think>
+Hmm, the user just greeted me and asked if I'm working, requesting a simple 'Yes' reply if I can respond. 
+
+Okay, this seems like a basic availability check - maybe they're testing if I'm online or just
