@@ -1,2 +1,4 @@
 <think>
-Okay, the user greeted me with "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond. Since they asked me to reply with 'Yes' if I can respond, the correct approach is
+Okay, the user greeted me with Hello and asked if I'm working. They want me to reply with 'Yes' if I can respond. Seems straightforward.
+
+First, I need to acknowledge their greeting. Then, answer their question about my

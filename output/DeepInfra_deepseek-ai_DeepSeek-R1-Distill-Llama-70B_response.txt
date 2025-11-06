@@ -1,2 +1,4 @@
 <think>
-Okay, so I need to figure out how to respond to the user's request. They asked, "Hello, are you working? Reply with 'Yes' if you can respond." I replied with just "Yes." Now, they want
+Alright, the user greeted me with "Hello, are you working?" and asked me to reply with 'Yes' if I can respond. They also mentioned to keep the thinking in English and not use any markdown. 
+
+Hmm, I should

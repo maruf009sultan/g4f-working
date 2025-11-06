@@ -1,2 +1,2 @@
 <think>
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Since I'm an AI, I don't have feelings or consciousness, so maybe they're checking if I'm functional.
+Okay, so I'm trying to figure out how to respond to the user's question. They started by saying hello and asked if I'm working, and then they instructed me to reply with 'Yes' if I can. Since the initial
