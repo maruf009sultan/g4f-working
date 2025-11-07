@@ -1,4 +1,4 @@
 <think>
-Okay, so I need to figure out how to solve this problem, but I'm not exactly sure where to start. Let me try to break it down step by step.
+Okay, so I'm trying to figure out how to approach this problem where I need to write a function to calculate the sum of the first n prime numbers. Hmm, let me start by breaking it down.
 
-Hmm, the problem says, "Hello, are you working?
+First, I know that prime

@@ -1,4 +1,4 @@
 <think>
-Okay, the user greeted me with Hello and asked if I'm working. They want me to reply with 'Yes' if I can respond. Seems straightforward.
+Okay, the user sent a message asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me start by understanding their request.
 
-First, I need to acknowledge their greeting. Then, answer their question about my
+First, they might be testing if I'm active or available. The

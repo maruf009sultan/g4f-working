@@ -1,4 +1,4 @@
 <think>
-We are given a simple instruction: if the assistant is working and can respond, reply with 'Yes'.
- Since the assistant is indeed operational and capable of responding, the correct reply is 'Yes'.
- However, note that the user's message is
+Hmm, the user just greeted me and asked if I'm working. They want me to reply with "Yes" if I can respond.  
+
+Okay, this seems like a simple check to see if I'm active. Maybe they're

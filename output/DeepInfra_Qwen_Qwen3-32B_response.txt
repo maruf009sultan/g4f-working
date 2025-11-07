@@ -1,4 +1,2 @@
 <think>
-Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
-
-First, they're greeting me and checking if I'm operational. They want a simple '
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." First, I need to understand what the user is trying to ask. It seems they're checking if I can respond or if

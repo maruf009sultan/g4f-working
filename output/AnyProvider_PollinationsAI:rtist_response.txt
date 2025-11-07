@@ -2,9 +2,6 @@
 ## Features 🔓
 
 * Perfect image generation
-
 *Auto Enhance Image Prompts
-
 * Image Captioning
-
 * Character

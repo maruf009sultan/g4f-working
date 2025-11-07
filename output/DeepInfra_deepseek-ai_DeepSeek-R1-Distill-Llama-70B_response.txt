@@ -1,4 +1,2 @@
 <think>
-Alright, the user greeted me with "Hello, are you working?" and asked me to reply with 'Yes' if I can respond. They also mentioned to keep the thinking in English and not use any markdown. 
-
-Hmm, I should
+Okay, so I need to figure out how to respond to the user here. They sent a message that says, "Hello, are you working? Reply with 'Yes' if you can respond." And the assistant replied with just "Yes
