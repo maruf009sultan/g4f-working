@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to reply to the question, "Hello, are you working? Reply with 'Yes' if you can respond." The user also provided an example where the assistant responds with just "Yes."
+Okay, so I'm trying to figure out how to solve this math problem. The problem is about a river that flows at a certain speed, and there's a woman who can row a boat at a certain speed in still water. The

@@ -1,2 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." First, I need to understand what the user is trying to ask. It seems they're checking if I can respond or if
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to confirm if I can respond. Since I'm an AI model and can always process and reply to messages, I
