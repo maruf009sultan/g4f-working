@@ -1,2 +1,5 @@
 <think>
-Okay, so I need to figure out how to solve this problem: Find all natural number solutions to the equation x + y = 100, where x and y are natural numbers. Hmm, let's start by understanding what natural numbers are
+Hello, are you working? Reply with 'Yes' if you can respond.
+</think>
+
+Yes

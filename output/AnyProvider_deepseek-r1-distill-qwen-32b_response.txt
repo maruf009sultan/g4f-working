@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to respond appropriately. The user said, "Hello, are you working? Reply with 'Yes' if you can respond." They mentioned that I should think about the question and then provide a detailed
+Okay, so I need to figure out how to respond to the user's message. The user wrote, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, that's an interesting prompt. They're

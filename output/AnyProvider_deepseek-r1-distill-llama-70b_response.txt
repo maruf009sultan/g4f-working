@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to solve this math problem. The problem is about a river that flows at a certain speed, and there's a woman who can row a boat at a certain speed in still water. The
+Okay, so I need to figure out how to respond to the user's message. They said, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, I remember from the previous interaction that the system

@@ -1,4 +1,4 @@
 <think>
-Hmm, the user just asked if I'm working and wants a 'Yes' reply if I can respond. Okay, straightforward check - probably testing if I'm online or available.  
+Hmm, the user just greeted me and asked if I'm working. They specifically requested a "Yes" reply if I can respond.  
 
-User seems cautious, maybe new to chatting with A
+This seems like a simple connectivity check - maybe they've had issues with AI assistants timing out before

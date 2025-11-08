@@ -1,4 +1,4 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to handle this.
+Okay, the user is asking if I'm working. They want me to reply with 'Yes' if I can respond. Let me check my current status.
 
-First, I need to confirm if I'm operational. Since I'm an AI
+I'm an AI assistant, so I don't have a physical presence or a
