@@ -1,2 +1,4 @@
 <think>
-Okay, so I need to figure out how to respond to the user's message. They said, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, I remember from the previous interaction that the system
+Okay, so I just got this message saying "Hello, are you working? Reply with 'Yes' if you can respond." It's a bit confusing because it's a command within a greeting. Let me break this down.
+
+First,

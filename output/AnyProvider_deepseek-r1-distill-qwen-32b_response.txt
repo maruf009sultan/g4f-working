@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to respond to the user's message. The user wrote, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, that's an interesting prompt. They're
+Okay, the user greeted me and asked if I'm working, requesting a 'Yes' if I can respond. I should acknowledge their message and confirm that I'm here to help. A simple "Hello! Yes, I'm here to

@@ -1,4 +1,1 @@
-<think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me parse that.
-
-First, they're checking if I'm active and able to respond. They want a simple confirmation.
+Yes
