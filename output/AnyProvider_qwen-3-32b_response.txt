@@ -1,4 +1,2 @@
 <think>
-Okay, the user is asking if I'm working. Let me check how to respond. They want a reply with 'Yes' if I can respond. I need to make sure I follow their instruction.
-
-First, confirm that I am operational
+Okay, the user is asking if I'm working and wants a 'Yes' if I can respond. I need to acknowledge their request. Since I can reply, the appropriate response is 'Yes'. Keep it simple and confirm my ability to

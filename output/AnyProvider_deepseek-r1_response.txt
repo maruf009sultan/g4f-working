@@ -1,2 +1,2 @@
-<think>
-Hmm, the user just asked if I'm working and wants a simple 'Yes' reply if I can respond. Okay, this seems like a basic connectivity check - maybe they've had issues with other AI assistants before or just want to
+The model does not exist in our api at the moment.
+To request a model please join: https://discord.gg/9g5wkVTn8s

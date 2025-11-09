@@ -1,2 +1,2 @@
 <think>
-Okay, the user greeted me and asked if I'm working, requesting a 'Yes' if I can respond. I should acknowledge their message and confirm that I'm here to help. A simple "Hello! Yes, I'm here to
+Okay, so I need to figure out how to solve 2x + 5 = 11. Let me think about how to approach this. I remember that to solve for x, I need to isolate it on one side of the

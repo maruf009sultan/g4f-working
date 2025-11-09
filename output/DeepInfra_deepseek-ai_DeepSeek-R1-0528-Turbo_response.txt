@@ -1,4 +1,4 @@
 <think>
-Okay, the user just asked if I'm working and wants me to reply with 'Yes' if I can respond. Hmm, seems like a simple check to see if I'm active. 
+Hmm, the user just greeted me and asked if I'm working, with a specific instruction to reply "Yes" if I can respond. 
 
-The phrasing feels a bit formal - maybe
+Okay, this seems like a simple availability check. The phrasing "are you working?" could
