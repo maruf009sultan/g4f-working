@@ -1,2 +1,1 @@
-<think>
-Okay, the user is asking if I'm working and wants a 'Yes' if I can respond. I need to acknowledge their request. Since I can reply, the appropriate response is 'Yes'. Keep it simple and confirm my ability to
+Yes.

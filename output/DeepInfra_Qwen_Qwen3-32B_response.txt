@@ -1,4 +1,2 @@
 <think>
-Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
-
-First, they're greeting me with a simple "Hello," which is standard. The main
+Okay, the user just greeted and asked if I'm working. Let me check the history first. The user's problem about the robot not responding? Hmm, there's no mention of any of that here. Oh, right, in this
