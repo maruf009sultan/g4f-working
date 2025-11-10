@@ -1,4 +1,4 @@
 <think>
-Okay, I need to figure out how to solve this problem. Let's see what it's asking.
+Okay, so I'm trying to understand how to calculate the wavelength of a wave when given the phase difference and distance between two points. The user wants a step-by-step explanation, so let me break this down.
 
-The user provided a conversation where the assistant is asked, "Hello, are you working? Reply with 'Yes' if you can respond
+First, I remember that

@@ -1,2 +1,4 @@
 <think>
-Okay, so I'm trying to figure out what I should do next. The user just said "Hello, are you working? Reply with 'Yes' if you can respond." And then they wrote 'Yes'. Hmm, I'm a
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I should respond with "Yes" as they requested.
+
+I should keep it simple and straightforward. Just reply with "Yes"

@@ -1,2 +1,2 @@
 <think>
-Okay, the user just greeted and asked if I'm working. Let me check the history first. The user's problem about the robot not responding? Hmm, there's no mention of any of that here. Oh, right, in this
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to check their request first. The user might be testing if I'm online or if I can reply normally. According
