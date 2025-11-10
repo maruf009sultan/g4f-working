@@ -1,4 +1,2 @@
 <think>
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." And I responded with "Yes." That seems pretty straightforward, but let me make sure I handle this correctly.
-
-I should
+Okay, the user greeted me and asked if I'm working. They wanted a 'Yes' if I can respond. I replied with a simple 'Yes' to keep it clear. Now, should I offer further help or just wait for

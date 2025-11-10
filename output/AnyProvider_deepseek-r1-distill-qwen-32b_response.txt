@@ -1,4 +1,2 @@
 <think>
-Okay, so I'm trying to understand how to calculate the wavelength of a wave when given the phase difference and distance between two points. The user wants a step-by-step explanation, so let me break this down.
-
-First, I remember that
+Okay, I need to figure out how to solve the equation 2x + 5 = 11. Alright, let's start by recalling what I know about solving linear equations. The goal is to isolate the variable, which is x
