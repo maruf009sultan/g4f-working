@@ -1,0 +1,2 @@
+<think>
+Okay, the user is greeting me and asking if I'm working. They want me to reply with 'Yes' if I can respond. Since I can process and generate responses, I should confirm by saying 'Yes'. I need to make
