@@ -1,1 +1,4 @@
-Yes
+<think>
+Okay, the user asked "Hello, are you working? Reply with 'Yes' if you can respond." First, I need to really understand their intent. They might be verifying if I'm online or if I can communicate normally.
+
+According

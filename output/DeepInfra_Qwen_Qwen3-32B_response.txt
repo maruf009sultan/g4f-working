@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check what the proper response should be. Since I am an AI, I do need to make sure I follow
+Okay, let me see. The user said, "Hello, are you working? Reply with 'Yes' if you can respond." So they want confirmation that I'm working. They might be testing if I'm active or just checking my

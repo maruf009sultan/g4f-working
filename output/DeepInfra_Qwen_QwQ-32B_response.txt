@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. I should first confirm their request and respond accordingly. However, I also want to ensure there isn't any additional context they
+Okay, the user is asking, Hello, are you working? They want me to reply with 'Yes' if I can respond.
+
+First, I need to acknowledge their greeting. Since they mentioned "are you working," I should confirm that

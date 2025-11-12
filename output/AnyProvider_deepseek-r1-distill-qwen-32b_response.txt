@@ -1,2 +1,2 @@
 <think>
-Okay, the user greeted me and asked if I'm working. They wanted me to reply with 'Yes' if I can respond. So I said 'Yes' as per their instructions. Now, they've just sent a message without any
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond appropriately. I remember my previous message was "Yes," so I should check if the user has any
