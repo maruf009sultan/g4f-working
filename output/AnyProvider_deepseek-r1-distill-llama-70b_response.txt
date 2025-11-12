@@ -1,2 +1,4 @@
 <think>
-Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." They're probably checking if I'm functional. I should respond with a simple "Yes" as requested to confirm I'm
+Okay, the user asked me, "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out how to respond appropriately.
+
+First, I should acknowledge their greeting. A simple "Hello! I

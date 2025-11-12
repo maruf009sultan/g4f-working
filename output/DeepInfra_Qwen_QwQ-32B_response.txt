@@ -1,4 +1,2 @@
 <think>
-Okay, the user is asking if I'm working. I should respond with a 'Yes'.
-
-Let me check the user's message again: "Hello, are you working? Reply with 'Yes' if you can respond." This is a
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. I should first confirm their request and respond accordingly. However, I also want to ensure there isn't any additional context they

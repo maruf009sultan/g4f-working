@@ -1,2 +1,5 @@
 <think>
-Okay, so I received a message saying "Yes." and then a "Hello, are you working? Reply with 'Yes' if you can respond." Wait, that's a bit confusing. Maybe the person is trying to check if I
+Greetings! I'm here and ready to help. How can I assist you today?
+</think>
+
+Greetings! I'm here and ready to help. How can I assist you today?
