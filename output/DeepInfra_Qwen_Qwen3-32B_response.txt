@@ -1,4 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." So they want to test if I can respond to some basic questions.
-
-First, I need to confirm that I am functional.
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to make sure they know I'm active. Let me check the rules. I should use their language and be helpful

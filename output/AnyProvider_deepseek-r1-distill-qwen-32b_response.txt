@@ -1,2 +1,4 @@
 <think>
-Okay, so I'm trying to figure out how to use a semicolon in a sentence. I remember that semicolons are used to separate parts of a sentence that are closely related but could stand alone as separate sentences. But I'm
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond appropriately.
+
+I should keep it simple and friendly. Maybe something like, "Hello! Yes, I'm

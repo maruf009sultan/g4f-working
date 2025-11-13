@@ -1,4 +1,3 @@
 <think>
-Okay, the user asked, Hello, are you working? Reply with Yes if you can respond. Let me break this down.
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." So they want a confirmation that I'm working by just saying 'Yes'. I should make sure to reply exactly as instructed.
 
-First, the user is checking if I'm online or able to respond. They want a confirmation with a simple
