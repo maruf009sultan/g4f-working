@@ -1,2 +1,4 @@
 <think>
-Okay, let me see. The user said, "Hello, are you working? Reply with 'Yes' if you can respond." So they want confirmation that I'm working. They might be testing if I'm active or just checking my
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." So they want to test if I can respond to some basic questions.
+
+First, I need to confirm that I am functional.

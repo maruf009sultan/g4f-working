@@ -1,2 +1,2 @@
 <think>
-Okay, the user sent a greeting and asked if I'm working, instructing me to reply with 'Yes' if I can respond. I responded with a simple 'Yes.' Now, they're probably expecting a follow-up or further assistance
+Okay, I just received a message that says, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, the user wants me to respond, but I'm not entirely sure what they're asking for.
