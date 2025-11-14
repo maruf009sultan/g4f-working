@@ -1,2 +1,4 @@
 <think>
-Okay, so I need to figure out how to solve this problem: "What is the square root of 123456789?" Hmm, I remember that the square root of a number is a value that, when multiplied by itself, gives
+Okay, the user greeted me with a "Hello" and asked if I'm working, requesting a 'Yes' if I can respond. They might be checking if I'm functional or just starting a conversation.
+
+I should respond positively to show

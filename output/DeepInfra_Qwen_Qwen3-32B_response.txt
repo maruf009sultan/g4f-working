@@ -1,2 +1,2 @@
 <think>
-Okay, the user is asking if I'm working. They want me to reply with 'Yes' if I can respond. Let me check what they need. Since I'm online and able to communicate, I should confirm that. But maybe
+Okay, the user is asking if I'm working. Let me check their message again. It says, "Hello, are you working? Reply with 'Yes' if you can respond." So they want a simple 'Yes' if I
