@@ -1,4 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to respond appropriately.
-
-I should keep it simple and friendly. Maybe something like, "Hello! Yes, I'm
+Okay, so I need to figure out how to solve this problem: "What is the square root of 123456789?" Hmm, I remember that the square root of a number is a value that, when multiplied by itself, gives

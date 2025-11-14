@@ -1,2 +1,2 @@
 <think>
-Alright, so I'm trying to figure out how to solve this problem. Let's see, the user mentioned something about replacing a word like "badi" with "naye" in a given string. Hmm, okay, so first
+Okay, the user just asked me if I'm working and told me to reply with 'Yes' if I can respond. I should keep it simple and straightforward. Just saying 'Yes' would be the best way to acknowledge their message and

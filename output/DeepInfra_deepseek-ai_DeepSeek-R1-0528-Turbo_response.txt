@@ -1,2 +1,2 @@
 <think>
-Okay, the user just asked if I'm working and requested a simple 'Yes' reply if I can respond. Hmm, this seems like a basic functionality check - maybe they're testing if the system is online or verifying response capabilities.
+Okay, the user just asked if I'm working and requested a 'Yes' reply if I can respond. Hmm, this seems like a basic functionality check – maybe they're testing if I'm online or verifying that their message went through

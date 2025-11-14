@@ -1,3 +1,4 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." So they want a confirmation that I'm working by just saying 'Yes'. I should make sure to reply exactly as instructed.
+Okay, the user just asked, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to reply.
 
+First, they want confirmation that I'm working. Since I'm an AI model
