@@ -1,2 +1,5 @@
 <think>
-Okay, I need to figure out how to solve this problem. The user gave me a quadratic equation: 3x² - 5x + 2 = 0. I remember that quadratic equations are of the form ax² +
+Hello! I'm here and ready to help. How can I assist you today?
+</think>
+
+Hello! I'm here and ready to help. How can I assist you today?

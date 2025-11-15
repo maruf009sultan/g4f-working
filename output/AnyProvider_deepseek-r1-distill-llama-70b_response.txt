@@ -1,4 +1,6 @@
 <think>
-Okay, so I need to figure out how to solve this problem. Hmm, the problem is about a snail climbing a well. Let me read it again to make sure I understand everything.
+Okay, the user sent a greeting and asked if I'm working. They want a 'Yes' if I can respond.
 
-The well is 10 meters deep. The
+I should keep it simple and friendly. Just say 'Hello! Yes, I'm here to help.'
+</think>
+
