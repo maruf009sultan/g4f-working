@@ -1,2 +1,4 @@
 <think>
-Okay, the user is asking if I'm working. Let me check their message again. It says, "Hello, are you working? Reply with 'Yes' if you can respond." So they want a simple 'Yes' if I
+Okay, the user said, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to respond.
+
+First, they're asking if I'm working. I need to confirm that I can

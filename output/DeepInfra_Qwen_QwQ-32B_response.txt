@@ -1,4 +1,2 @@
 <think>
-Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." So first, I need to confirm if I can respond.
-
-I need to check if there's any reason I can't
+Okay, the user said, Hello, are you working? Reply with 'Yes' if you can respond. They're probably testing if I'm online or functional. Since the basic requirement for a response is met, I should just confirm that

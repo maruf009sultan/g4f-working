@@ -1,4 +1,2 @@
 <think>
-Hmm, the user just asked if I'm working and requested a simple 'Yes' reply if I can respond. 
-
-Okay, this seems like a basic connectivity check - maybe they've experienced issues with other AI systems before. The phrasing
+Okay, the user just asked if I'm working and wants a simple 'Yes' reply if I can respond. Hmm, this seems like a basic availability check – maybe they're testing if I'm online or just being cautious before asking
