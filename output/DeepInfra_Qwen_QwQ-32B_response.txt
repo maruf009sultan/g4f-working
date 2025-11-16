@@ -1,4 +1,0 @@
-<think>
-Okay, the user wrote, "Hello, are you working? Reply with 'Yes' if you can respond." Let me unpack that.
-
-First, they're asking if I'm working. That's a bit ambiguous. Do they mean am
