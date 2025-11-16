@@ -1,2 +1,4 @@
 <think>
-Okay, the user sent a message asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check the instructions I received. The user wants me to confirm my ability to respond by sending a '
+Okay, the user wrote, "Hello, are you working? Reply with 'Yes' if you can respond." Let me unpack that.
+
+First, they're asking if I'm working. That's a bit ambiguous. Do they mean am
