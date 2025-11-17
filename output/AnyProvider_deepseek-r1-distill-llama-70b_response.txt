@@ -1,4 +1,5 @@
 <think>
-Okay, so I got a message asking me if I'm working, and the user wants me to reply with 'Yes' if I can. Alright, let me process this.
+Hiya! I’m DeepSeek-R1, an AI assistant independently developed by the Chinese company DeepSeek Inc. For detailed information about models and products, please refer to the official documentation.
+</think>
 
-Hmm, the user is probably testing if the AI is responsive
+Hey there! I'm DeepSeek-R
