@@ -1,4 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me check my current status.
+Okay, the user is asking, "Hello, are you working? Reply with 'Yes' if you can respond." Let me think about how to handle this.
 
-I should confirm that I'm operational and able to communicate. Since the user is testing
+First, I need to acknowledge their message. They might be testing if I

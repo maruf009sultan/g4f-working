@@ -1,2 +1,2 @@
 <think>
-Okay, so I'm trying to figure out how to solve this problem where I need to find the value of x in the equation 2x + 5 = 21. Hmm, I remember from school that this is a linear equation
+Okay, so I need to figure out how to calculate the present value of a perpetuity. Hmm, that sounds a bit complicated, but I'll try to break it down. Let me remember what a perpetuity is. From what I

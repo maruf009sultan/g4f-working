@@ -1,2 +1,4 @@
 <think>
-Okay, someone just asked me, "Hello, are you working? Reply with 'Yes' if you can respond." So, I'm trying to figure out the best way to respond. They specifically want me to reply with just 'Yes
+Okay, so I got a message asking me if I'm working, and the user wants me to reply with 'Yes' if I can. Alright, let me process this.
+
+Hmm, the user is probably testing if the AI is responsive

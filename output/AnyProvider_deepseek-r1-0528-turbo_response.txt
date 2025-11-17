@@ -1,4 +1,4 @@
 <think>
-Okay, the user just greeted me and asked if I'm working, with a specific instruction to reply 'Yes' if I can respond. 
+Hmm, the user just greeted me with "Hello, are you working?" and asked me to reply with 'Yes' if I can respond. 
 
-Hmm, this seems like a simple connectivity check - maybe they've had issues with chatbots not
+Okay, this seems like a simple connectivity check - they might be testing if I'm
