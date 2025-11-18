@@ -1,4 +1,4 @@
 <think>
-Okay, so I've got this question here: "Does (a^2 + b^2) / (a + b) equal to (a + b) / (a^2 + b^2)?"
+Okay, so I need to figure out how to answer the question "Hello, are you working? Reply with 'Yes' if you can respond." Hmm. Let me think about this step by step.
 
-Hmm, let
+First, the question is asking if

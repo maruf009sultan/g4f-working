@@ -1,0 +1,4 @@
+<think>
+Okay, the user is asking "Hello, are you working? Reply with 'Yes' if you can respond." Let me break this down.
+
+First, the greeting "Hello" is straightforward. The user wants to check if I'm operational

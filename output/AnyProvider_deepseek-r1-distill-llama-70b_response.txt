@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out how to respond to the user's message. The user wrote, "Hello, are you working? Reply with 'Yes' if you can respond." Then they added, "Yes" as the response
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to answer with just "Yes". I should make sure my response only includes that word without any extra text. Alright
