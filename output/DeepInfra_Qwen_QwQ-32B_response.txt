@@ -1,4 +1,0 @@
-<think>
-Okay, the user greeted me with 'Hello, are you working? Reply with 'Yes' if you can respond.' Let me think about how to respond.
-
-First, I need to acknowledge their greeting. They want a 'Yes' if

@@ -1,2 +1,2 @@
 <think>
-Alright, so I need to figure out how to respond if someone asks, "Hello, are you working? Reply with 'Yes' if you can respond." Hmm, the user just asked me that, and I responded with "Yes."
+Okay, the user just asked me to confirm if I'm working with a 'Yes' reply if I can respond. They might be testing my responsiveness or checking if I'm functioning properly. I should keep it simple and straightforward. Maybe I
