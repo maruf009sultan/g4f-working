@@ -1,2 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to answer with just "Yes". I should make sure my response only includes that word without any extra text. Alright
+Okay, so the user wants to know if I'm working and they specifically asked me to reply with "Yes". Let me see how I can respond to that. I should probably just say "Yes" as they requested. But maybe I
