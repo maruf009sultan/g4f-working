@@ -1,2 +1,2 @@
 <think>
-Okay, so I need to figure out what "Mary Elizabeth Winstead" is referring to. Hmm, I think Mary Elizabeth Winstead is an actress. I remember seeing her in some movies. Let me try to recall. Oh, right
+Alright, so I need to figure out how to respond to the user. They said, 'Hello, are you working? Reply with 'Yes' if you can respond.' Hmm, I just saw the previous message where it said 'Yes

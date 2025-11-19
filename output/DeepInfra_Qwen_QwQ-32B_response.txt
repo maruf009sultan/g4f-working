@@ -1,0 +1,6 @@
+<think>
+Okay, the user is greeting and asking if I'm available. I need to respond and confirm that I can answer.
+
+First, I should acknowledge their greeting. Then, reply with a simple 'Yes' as requested.
+
+The user may expect

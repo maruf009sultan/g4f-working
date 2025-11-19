@@ -1,1 +1,4 @@
-Yes
+<think>
+Hmm, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. 
+
+Okay, this seems like a simple check to see if I'm operational. The user might be testing my availability

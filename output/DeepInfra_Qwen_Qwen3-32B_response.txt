@@ -1,0 +1,2 @@
+<think>
+Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to check if I can respond. Since the user wants a reply, and I'm able to communicate, I should
