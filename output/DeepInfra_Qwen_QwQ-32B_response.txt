@@ -1,6 +1,2 @@
 <think>
-Okay, the user is greeting and asking if I'm available. I need to respond and confirm that I can answer.
-
-First, I should acknowledge their greeting. Then, reply with a simple 'Yes' as requested.
-
-The user may expect
+Okay, the user just sent me a message, so I need to respond first. Let me look at the message they sent. The message says "Hello, are you working? Reply with 'Yes' if you can respond." Hmm,

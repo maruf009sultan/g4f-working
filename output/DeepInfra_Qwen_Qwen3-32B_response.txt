@@ -1,2 +1,2 @@
 <think>
-Okay, the user asked, "Hello, are you working? Reply with 'Yes' if you can respond." I need to check if I can respond. Since the user wants a reply, and I'm able to communicate, I should
+Okay, the user sent a message saying Hello and is asking if I am working. They want me to say Yes if I can respond. I need to understand their intent. It seems they are testing my basic response capability or just greeting me
