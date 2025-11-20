@@ -1,2 +1,4 @@
 <think>
-Okay, the user just sent me a message, so I need to respond first. Let me look at the message they sent. The message says "Hello, are you working? Reply with 'Yes' if you can respond." Hmm,
+Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me start by understanding the query.
+
+First, they might be checking if the system is online or if there's any
