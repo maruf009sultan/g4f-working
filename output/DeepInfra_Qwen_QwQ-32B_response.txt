@@ -1,4 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants a reply with 'Yes' if I can respond. Let me think about how to handle this.
+Okay, the user is asking if I'm working, and to reply with 'Yes' if I can respond. Let me break this down.
 
-First, I need to confirm they want a simple 'Yes' answer. The
+First, the user might be testing if I'm online or functional. They want a confirmation.
