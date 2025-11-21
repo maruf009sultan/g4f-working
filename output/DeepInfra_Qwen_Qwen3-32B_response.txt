@@ -1,2 +1,2 @@
 <think>
-Okay, the user said, "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out how to respond. They're probably testing if I'm online or functional. Let me check the guidelines
+Okay, the user greeted me with Hello, and asked if I was working. I need to respond with 'Yes' if I can respond. The user's intention might be to check if I'm online or confirm that I can reply.

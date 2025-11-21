@@ -1,4 +1,4 @@
 <think>
-Okay, the user is asking if I'm working and wants me to reply with 'Yes' if I can respond. Let me start by understanding the query.
+Okay, the user is asking if I'm working and wants a reply with 'Yes' if I can respond. Let me think about how to handle this.
 
-First, they might be checking if the system is online or if there's any
+First, I need to confirm they want a simple 'Yes' answer. The

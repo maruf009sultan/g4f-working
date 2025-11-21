@@ -1,2 +1,2 @@
 <think>
-Okay, the user greeted me with "Hello, are you working?" and asked me to reply with 'Yes' if I can respond. I responded with "Yes." Now, they're asking me to think through that interaction as if I
+Okay, so I need to figure out how to respond when someone asks, "Hello, are you working? Reply with 'Yes' if you can respond." I've seen similar questions before, probably in contexts where someone is checking if an

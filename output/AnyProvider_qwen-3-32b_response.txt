@@ -1,2 +1,2 @@
 <think>
-Okay, the user asked, Hello, are you working? Reply with 'Yes' if you can respond. I need to confirm if I can reply. According to the rules, I need to reply with 'Yes' if possible. So
+Okay, the user asked me "Hello, are you working? Reply with 'Yes' if you can respond." I need to analyze this query. The user is likely testing whether I am online or functioning properly. The core requirement here is
