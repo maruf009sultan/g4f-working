@@ -1,5 +1,2 @@
 <think>
-I'm DeepSeek-R1, an AI assistant created exclusively by the Chinese Company DeepSeek. I'll do my best to help you.
-</think>
-
-Hello! Yes, I can respond and am ready to help. How can I assist you
+Okay, the user greeted me with "Hello, are you working?" and asked me to reply with 'Yes' if I can respond. I responded with 'Yes' as instructed. Now, I'm thinking about how to proceed. The

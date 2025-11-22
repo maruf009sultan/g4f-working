@@ -1,2 +1,2 @@
 <think>
-Okay, so the user just asked me to think about the prompt they received. The prompt is "Hello, are you working? Reply with 'Yes' if you can respond." I need to figure out why they're asking this. Maybe
+Okay, so I'm trying to figure out how to create a Thunderbird addon that starts on system startup. I'm not entirely sure where to begin, but I know a little about programming and have used Thunderbird before. Let me think
